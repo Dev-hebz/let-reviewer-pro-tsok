@@ -21,7 +21,7 @@ export default function LETReviewerApp() {
   const [quizStartTime, setQuizStartTime] = useState<Date | null>(null);
   const [quizEndTime, setQuizEndTime] = useState<Date | null>(null);
   const [showResults, setShowResults] = useState<boolean>(false);
-  
+
   const categories = {
     elementary: {
       name: 'Elementary',
@@ -281,9 +281,9 @@ function RoleSelectionView({ onSelectRole }) {
 }
 
 function ExamineeLoginView({ onLogin, categories }) {
-  const [email, setEmail] = useState('');
-  const [name, setName] = useState('');
-  const [category, setCategory] = useState('elementary');
+  const [email, setEmail] = useState<string>('');
+  const [name, setName] = useState<string>('');
+  const [category, setCategory] = useState<string>('elementary');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -336,9 +336,9 @@ function ExamineeLoginView({ onLogin, categories }) {
 }
 
 function AdminLoginView({ onLogin, onBack }) {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [error, setError] = useState('');
+  const [email, setEmail] = useState<string>('');
+  const [password, setPassword] = useState<string>('');
+  const [error, setError] = useState<string>('');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -582,11 +582,11 @@ function ResultsView({ results, questions, userAnswers, onBack }) {
 }
 
 function AdminDashboard({ user }) {
-  const [activeTab, setActiveTab] = useState('examinees');
-  const [examinees, setExaminees] = useState([]);
-  const [showPasswordModal, setShowPasswordModal] = useState(false);
-  const [showDeleteModal, setShowDeleteModal] = useState(false);
-  const [selectedExaminee, setSelectedExaminee] = useState(null);
+  const [activeTab, setActiveTab] = useState<string>('examinees');
+  const [examinees, setExaminees] = useState<any[]>([]);
+  const [showPasswordModal, setShowPasswordModal] = useState<boolean>(false);
+  const [showDeleteModal, setShowDeleteModal] = useState<boolean>(false);
+  const [selectedExaminee, setSelectedExaminee] = useState<any>(null);
 
   useEffect(() => { loadExaminees(); }, []);
 
@@ -762,10 +762,10 @@ function AdminDashboard({ user }) {
 }
 
 function PasswordChangeModal({ onClose }) {
-  const [currentPassword, setCurrentPassword] = useState('');
-  const [newPassword, setNewPassword] = useState('');
-  const [confirmPassword, setConfirmPassword] = useState('');
-  const [error, setError] = useState('');
+  const [currentPassword, setCurrentPassword] = useState<string>('');
+  const [newPassword, setNewPassword] = useState<string>('');
+  const [confirmPassword, setConfirmPassword] = useState<string>('');
+  const [error, setError] = useState<string>('');
 
   const handleSubmit = (e) => {
     e.preventDefault();
