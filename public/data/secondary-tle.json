@@ -1092,7 +1092,6 @@
     "difficulty": "medium",
     "topic": "Topic 1"
   },
-
   {
     "id": "sec-tle-091",
     "question": "What do you call raw materials used in making garments?",
@@ -1182,10 +1181,462 @@
     "explanation": "A saucepan is used for cooking with liquids.",
     "difficulty": "easy",
     "topic": "Topic 1"
+  },
+        {
+    "id": "sec-tle-101",
+    "question": "What is the main purpose of blanching vegetables?",
+    "options": ["To burn the surface", "To preserve color and texture", "To fully cook the vegetable", "To remove all nutrients"],
+    "correctAnswer": 1,
+    "explanation": "Blanching helps retain color, texture, and nutrients.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-102",
+    "question": "Which type of drawing shows the top view of an object?",
+    "options": ["Elevation", "Plan view", "Isometric view", "Perspective view"],
+    "correctAnswer": 1,
+    "explanation": "A plan view shows the object from above.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-103",
+    "question": "Which equipment is best for mixing dough?",
+    "options": ["Wire whisk", "Dough hook", "Spatula", "Paring knife"],
+    "correctAnswer": 1,
+    "explanation": "Dough hooks are used for kneading dough mechanically.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-104",
+    "question": "In sewing, what is the purpose of basting stitches?",
+    "options": ["Permanent stitching", "Temporary holding of fabric", "Decorative stitching", "Strengthening seams"],
+    "correctAnswer": 1,
+    "explanation": "Basting stitches are temporary and easily removed.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-105",
+    "question": "A refrigerant leak in a refrigerator results in:",
+    "options": ["Overheating of compressor", "Rapid cooling", "Stronger airflow", "Lower electricity consumption"],
+    "correctAnswer": 0,
+    "explanation": "Refrigerant leaks cause the compressor to overwork and overheat.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+
+  {
+    "id": "sec-tle-106",
+    "question": "Which of the following is a PPE used in food preparation?",
+    "options": ["Welding mask", "Hairnet", "Safety harness", "Hard hat"],
+    "correctAnswer": 1,
+    "explanation": "Hairnets prevent contamination in food preparation.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-107",
+    "question": "The process of keeping workplace free from dirt is called:",
+    "options": ["Sanitation", "Disinfection", "Sterilization", "Oxidation"],
+    "correctAnswer": 0,
+    "explanation": "Sanitation maintains cleanliness in the workplace.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-108",
+    "question": "Which tool is used to test voltage in electrical work?",
+    "options": ["Level bar", "Multimeter", "Pipe wrench", "Claw hammer"],
+    "correctAnswer": 1,
+    "explanation": "A multimeter measures voltage, resistance, and current.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-109",
+    "question": "The best type of poultry for roasting is:",
+    "options": ["Old hen", "Young broiler", "Duckling", "Goose"],
+    "correctAnswer": 1,
+    "explanation": "Young broilers are tender and suitable for roasting.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-110",
+    "question": "Which drawing instrument is used to draw circles?",
+    "options": ["Compass", "T-square", "Protractor", "Triangle"],
+    "correctAnswer": 0,
+    "explanation": "A compass is used for drawing arcs and circles.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-111",
+    "question": "Which sewing machine part holds the needle in place?",
+    "options": ["Bobbin case", "Needle clamp", "Feed dog", "Throat plate"],
+    "correctAnswer": 1,
+    "explanation": "The needle clamp secures the needle in position.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-112",
+    "question": "Which type of kitchen knife is used for peeling fruits?",
+    "options": ["Chef’s knife", "Paring knife", "Bread knife", "Butcher knife"],
+    "correctAnswer": 1,
+    "explanation": "Paring knives are designed for peeling and trimming.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-113",
+    "question": "In entrepreneurship, the person who runs a business is called:",
+    "options": ["Worker", "Entrepreneur", "Investor", "Producer"],
+    "correctAnswer": 1,
+    "explanation": "Entrepreneurs manage and take risks in business.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-114",
+    "question": "Which material is commonly used for insulating electrical wires?",
+    "options": ["Plastic", "Copper", "Steel", "Iron"],
+    "correctAnswer": 0,
+    "explanation": "Plastic prevents conduction of electricity.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-115",
+    "question": "Which type of fabric is known for being stretchable?",
+    "options": ["Cotton", "Linen", "Spandex", "Wool"],
+    "correctAnswer": 2,
+    "explanation": "Spandex is highly elastic and stretchable.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-116",
+    "question": "A recipe requiring 250g of flour uses what measurement unit?",
+    "options": ["Volume", "Weight", "Temperature", "Time"],
+    "correctAnswer": 1,
+    "explanation": "Grams are used to measure weight.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-117",
+    "question": "Which tool is used for stripping electrical wires?",
+    "options": ["Hacksaw", "File", "Wire stripper", "Pliers"],
+    "correctAnswer": 2,
+    "explanation": "A wire stripper removes the insulation from wires.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-118",
+    "question": "Which method involves cooking food using hot dry air?",
+    "options": ["Boiling", "Roasting", "Poaching", "Simmering"],
+    "correctAnswer": 1,
+    "explanation": "Roasting cooks food using dry heat inside an oven.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-119",
+    "question": "Which is a characteristic of an effective entrepreneur?",
+    "options": ["Lazy", "Risk-taking", "Fearful", "Unmotivated"],
+    "correctAnswer": 1,
+    "explanation": "Entrepreneurs take calculated risks.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-120",
+    "question": "Which kitchen equipment is used for steaming?",
+    "options": ["Saucepan", "Steamer", "Frying pan", "Griddle"],
+    "correctAnswer": 1,
+    "explanation": "A steamer cooks food using steam.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-121",
+    "question": "What do you call a business owned by one person?",
+    "options": ["Corporation", "Partnership", "Sole proprietorship", "Cooperative"],
+    "correctAnswer": 2,
+    "explanation": "Sole proprietorship is owned by one individual.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-122",
+    "question": "Which of the following is a nutritious carbohydrate source?",
+    "options": ["White sugar", "Rice", "Cooking oil", "Beef"],
+    "correctAnswer": 1,
+    "explanation": "Rice is a major carbohydrate source.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-123",
+    "question": "Which sewing operation joins two pieces of fabric?",
+    "options": ["Hemming", "Seaming", "Pressing", "Trimming"],
+    "correctAnswer": 1,
+    "explanation": "Seaming joins fabric edges.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-124",
+    "question": "Which material is best for cutting meat?",
+    "options": ["Plastic knife", "Bread knife", "Chef's knife", "Fillet knife"],
+    "correctAnswer": 2,
+    "explanation": "Chef's knife is an all-purpose meat-cutting tool.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-125",
+    "question": "Which tool is used to remove nails?",
+    "options": ["Wrench", "Claw hammer", "Level", "Hand saw"],
+    "correctAnswer": 1,
+    "explanation": "The claw part of the hammer removes nails.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+
+  {
+    "id": "sec-tle-126",
+    "question": "Sautéing uses what amount of oil?",
+    "options": ["Large amount", "Moderate amount", "Very small amount", "No oil"],
+    "correctAnswer": 2,
+    "explanation": "Sautéing uses very little oil at high heat.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-127",
+    "question": "Which of the following is NOT a kitchen hazard?",
+    "options": ["Spills on the floor", "Sharp knives", "Properly stored food", "Hot surfaces"],
+    "correctAnswer": 2,
+    "explanation": "Properly stored food is safe, not hazardous.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-128",
+    "question": "Which is used to convert AC to DC?",
+    "options": ["Battery", "Rectifier", "Fuse", "Breaker"],
+    "correctAnswer": 1,
+    "explanation": "Rectifiers convert AC to DC power.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-129",
+    "question": "What is the proper way to store raw meat?",
+    "options": ["Leave on counter", "Store on refrigerator door", "Place in bottom shelf", "Mix with vegetables"],
+    "correctAnswer": 2,
+    "explanation": "Raw meat should be placed on the bottom shelf to avoid drips.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-130",
+    "question": "Which business document records sales?",
+    "options": ["Invoice", "Resume", "Blueprint", "Memo"],
+    "correctAnswer": 0,
+    "explanation": "Invoices record sales transactions.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-131",
+    "question": "A caliper is used for:",
+    "options": ["Measuring thickness", "Cutting wood", "Mixing ingredients", "Drawing circles"],
+    "correctAnswer": 0,
+    "explanation": "Calipers measure thickness or diameter accurately.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-132",
+    "question": "Which ingredient is used to thicken soup?",
+    "options": ["Salt", "Cornstarch", "Vinegar", "Oil"],
+    "correctAnswer": 1,
+    "explanation": "Cornstarch thickens sauces and soups.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-133",
+    "question": "Which sewing tool is used for cutting thread?",
+    "options": ["Pinking shears", "Embroidery scissors", "Rotary cutter", "Tailor’s chalk"],
+    "correctAnswer": 1,
+    "explanation": "Embroidery scissors are small and precise for cutting thread.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-134",
+    "question": "Which is the safest method of thawing frozen meat?",
+    "options": ["Under sunlight", "At room temperature", "In the refrigerator", "On the table"],
+    "correctAnswer": 2,
+    "explanation": "Refrigerator thawing prevents bacterial growth.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-135",
+    "question": "What do you call the money used to start a business?",
+    "options": ["Salary", "Capital", "Profit", "Loss"],
+    "correctAnswer": 1,
+    "explanation": "Capital refers to the initial funds to start a business.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-136",
+    "question": "Which is an example of wet heat cooking?",
+    "options": ["Baking", "Boiling", "Roasting", "Broiling"],
+    "correctAnswer": 1,
+    "explanation": "Boiling uses water as the cooking medium.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-137",
+    "question": "A blueprint is mainly used in:",
+    "options": ["Cooking", "Drafting", "Sewing", "Investing"],
+    "correctAnswer": 1,
+    "explanation": "Blueprints are technical drawings used in drafting.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-138",
+    "question": "Which fabric is best for hot weather?",
+    "options": ["Wool", "Denim", "Cotton", "Leather"],
+    "correctAnswer": 2,
+    "explanation": "Cotton is breathable and suitable for warm climates.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-139",
+    "question": "Which tool is used for driving screws?",
+    "options": ["Hammer", "Screwdriver", "Pliers", "Wrench"],
+    "correctAnswer": 1,
+    "explanation": "A screwdriver is specifically made for screws.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-140",
+    "question": "Which is an example of a pastry?",
+    "options": ["Bread", "Croissant", "Rice cake", "Steak"],
+    "correctAnswer": 1,
+    "explanation": "Croissants are made from laminated dough and are pastry products.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-141",
+    "question": "Which tool is used to smooth rough wood surfaces?",
+    "options": ["Hammer", "Plane", "Chisel", "Brace"],
+    "correctAnswer": 1,
+    "explanation": "A plane removes rough wood to smoothen the surface.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-142",
+    "question": "What nutrient helps build and repair body tissues?",
+    "options": ["Fats", "Proteins", "Carbohydrates", "Vitamins"],
+    "correctAnswer": 1,
+    "explanation": "Proteins support growth and tissue repair.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-143",
+    "question": "Which sewing task involves pressing fabric edges?",
+    "options": ["Hemming", "Gathering", "Topstitching", "Pleating"],
+    "correctAnswer": 0,
+    "explanation": "Hemming folds and presses fabric edges.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-144",
+    "question": "Which kitchen tool is used for grating cheese?",
+    "options": ["Whisk", "Grater", "Peeler", "Spatula"],
+    "correctAnswer": 1,
+    "explanation": "A grater is used for shredding cheese and vegetables.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-145",
+    "question": "What do you call the profit remaining after expenses?",
+    "options": ["Gross profit", "Net income", "Capital", "Asset"],
+    "correctAnswer": 1,
+    "explanation": "Net income is the profit after deducting expenses.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-146",
+    "question": "Which household appliance uses the most electricity?",
+    "options": ["Electric fan", "Refrigerator", "LED light", "Radio"],
+    "correctAnswer": 1,
+    "explanation": "Refrigerators run 24/7, making them high consumers of electricity.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-147",
+    "question": "The process of removing food impurities by washing is called:",
+    "options": ["Flushing", "Cleaning", "Seasoning", "Blanching"],
+    "correctAnswer": 1,
+    "explanation": "Cleaning removes dirt or impurities from food.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-148",
+    "question": "Which fabric is commonly used for school uniforms?",
+    "options": ["Silk", "Satin", "Polyester", "Velvet"],
+    "correctAnswer": 2,
+    "explanation": "Polyester is durable and easy to wash, ideal for uniforms.",
+    "difficulty": "easy",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-149",
+    "question": "Which electrical symbol represents a lamp?",
+    "options": ["Circle with X", "Zigzag line", "Triangle", "Square"],
+    "correctAnswer": 0,
+    "explanation": "A circle with an X is the standard symbol for a lamp.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
+  },
+  {
+    "id": "sec-tle-150",
+    "question": "Which cooking method quickly sears food at high heat?",
+    "options": ["Stewing", "Searing", "Simmering", "Boiling"],
+    "correctAnswer": 1,
+    "explanation": "Searing uses very high heat to brown the outside of food.",
+    "difficulty": "medium",
+    "topic": "Topic 1"
   }
       ]
     }
   ],
-  "totalQuestions": 50,
-  "note": "50 TLE questions provided. Ready for additional items if needed."
+  "totalQuestions": 150,
+  "note": "150 TLE questions provided. Ready for additional items if needed."
 }
