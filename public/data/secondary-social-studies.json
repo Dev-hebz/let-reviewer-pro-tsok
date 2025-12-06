@@ -4,26 +4,933 @@
   "subcategory": "social-studies",
   "topics": [
     {
-      "id": "topic-1",
-      "name": "Topic 1",
-      "questions": [
+      "id": 1,
+          "question": "When did the Philippines gain independence from Spain?",
+          "options": ["June 12, 1898", "July 4, 1946", "June 12, 1946", "August 13, 1898"],
+          "correctAnswer": 0
+        },
         {
-          "id": "sec-social-studies-001",
-          "question": "Sample question for social studies?",
+          "id": 2,
+          "question": "Who is known as the national hero of the Philippines?",
+          "options": ["Andres Bonifacio", "Jose Rizal", "Apolinario Mabini", "Emilio Aguinaldo"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 3,
+          "question": "Who founded the Katipunan?",
+          "options": ["Emilio Jacinto", "Marcelo H. del Pilar", "Andres Bonifacio", "Jose Rizal"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 4,
+          "question": "What was the main purpose of the Propaganda Movement?",
+          "options": ["Immediate independence", "Reforms and equality under Spain", "Armed revolution", "Establish a new republic"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 5,
+          "question": "Who was the first President of the Philippine Commonwealth?",
+          "options": ["Emilio Aguinaldo", "Sergio Osmeña", "Manuel L. Quezon", "Ramon Magsaysay"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 6,
+          "question": "Which event sparked the Philippine Revolution of 1896?",
+          "options": ["Gomburza Execution", "Cry of Pugad Lawin", "Battle of Manila Bay", "Biak-na-Bato Pact"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 7,
+          "question": "Who led the Filipino naval forces in the Battle of Manila Bay?",
+          "options": ["Emilio Aguinaldo", "Andres Bonifacio", "Gregorio del Pilar", "Admiral George Dewey"],
+          "correctAnswer": 3
+        },
+        {
+          "id": 8,
+          "question": "What document declared Philippine independence in 1898?",
+          "options": ["Malolos Constitution", "Kawit Proclamation", "Biak-na-Bato Constitution", "Jones Law"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 9,
+          "question": "Who wrote Noli Me Tangere?",
+          "options": ["Jose Rizal", "Marcelo H. del Pilar", "Graciano López Jaena", "Apolinario Mabini"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 10,
+          "question": "Who is known as the 'Brains of the Revolution'?",
+          "options": ["Jose Rizal", "Andres Bonifacio", "Apolinario Mabini", "Emilio Jacinto"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 11,
+          "question": "Where was the first Philippine Republic established?",
+          "options": ["Cavite", "Malolos, Bulacan", "Laguna", "Manila"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 12,
+          "question": "Which law granted the Philippines independence in 1946?",
+          "options": ["Tydings–McDuffie Act", "Jones Law", "Treaty of Paris", "Bell Trade Act"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 13,
+          "question": "Who served as the first President of the Third Republic?",
+          "options": ["Elpidio Quirino", "Manuel Roxas", "Ramon Magsaysay", "Carlos P. Garcia"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 14,
+          "question": "Who is known as the 'Father of the Philippine Army'?",
+          "options": ["Miguel Malvar", "Antonio Luna", "Gregorio del Pilar", "Emilio Aguinaldo"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 15,
+          "question": "What was the first Filipino-written constitution?",
+          "options": ["Malolos Constitution", "Biak-na-Bato Constitution", "1935 Constitution", "1973 Constitution"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 16,
+          "question": "What economic policy did Spain use to monopolize trade in the Philippines?",
+          "options": ["Galleon Trade", "Encomienda System", "Tribute System", "Polo y Servicio"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 17,
+          "question": "What was the forced labor system during the Spanish period?",
+          "options": ["Bandala", "Cedula", "Polo y Servicio", "Encomienda"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 18,
+          "question": "Who is the youngest general of the Philippine Revolution?",
+          "options": ["Emilio Aguinaldo", "Miguel Malvar", "Gregorio del Pilar", "Antonio Luna"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 19,
+          "question": "Which Spanish governor-general implemented the Tobacco Monopoly?",
+          "options": ["Narciso Claveria", "Jose Basco y Vargas", "Carlos María de la Torre", "Diego Silang"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 20,
+          "question": "Who was the first female president of the Philippines?",
+          "options": ["Corazon Aquino", "Gloria Macapagal-Arroyo", "Miriam Santiago", "Melchora Aquino"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 21,
+          "question": "What event marked the fall of Bataan during World War II?",
+          "options": ["Leyte Landing", "Death March", "Battle of Manila", "Liberation of Luzon"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 22,
+          "question": "Who founded La Solidaridad?",
+          "options": ["Jose Rizal", "Graciano López Jaena", "Andres Bonifacio", "Marcelo H. del Pilar"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 23,
+          "question": "What was the purpose of the Jones Law of 1916?",
+          "options": ["Grant independence", "Create a bicameral legislature", "Establish martial law", "Start the Commonwealth"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 24,
+          "question": "What treaty ended the Spanish-American War?",
+          "options": ["Treaty of Paris", "Tordesillas Treaty", "Biak-na-Bato Pact", "Pact of Manila"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 25,
+          "question": "Who is the editor of La Solidaridad?",
+          "options": ["Jose Rizal", "Marcelo H. del Pilar", "Graciano López Jaena", "Isabelo de los Reyes"],
+          "correctAnswer": 1
+        },
+    {
+          "id": 26,
+          "question": "Who is known as the 'Father of the Philippine Revolution'?",
+          "options": ["Jose Rizal", "Andres Bonifacio", "Emilio Aguinaldo", "Antonio Luna"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 27,
+          "question": "Where did the Cry of the Revolution take place?",
+          "options": ["Balintawak", "Pugad Lawin", "Malolos", "Intramuros"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 28,
+          "question": "Which law created the Department of Education?",
+          "options": ["Act No. 74", "Act No. 1870", "Jones Law", "Tydings–McDuffie Act"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 29,
+          "question": "What is the oldest university in Asia?",
+          "options": ["Ateneo de Manila", "University of Santo Tomas", "University of San Carlos", "University of the Philippines"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 30,
+          "question": "Which colonial period introduced the encomienda system?",
+          "options": ["American", "Japanese", "Spanish", "British"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 31,
+          "question": "Who executed Gomburza?",
+          "options": ["American government", "Japanese forces", "Spanish authorities", "Katipunan"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 32,
+          "question": "Who is considered the first Filipino?",
+          "options": ["Jose Rizal", "Andres Bonifacio", "Juan Luna", "Jose Rizal (as defined by Scholar Leon Ma. Guerrero)"],
+          "correctAnswer": 3
+        },
+        {
+          "id": 33,
+          "question": "What is the ancient writing system in the Philippines?",
+          "options": ["Sanskrit", "Baybayin", "Tagalog", "Abugida"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 34,
+          "question": "Which Filipino hero is known as the 'Mother of the Philippine Revolution'?",
+          "options": ["Corazon Aquino", "Gabriela Silang", "Melchora Aquino", "Josefa Llanes Escoda"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 35,
+          "question": "Where was Jose Rizal exiled before his execution?",
+          "options": ["Dapitan", "Calamba", "Hong Kong", "Madrid"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 36,
+          "question": "Who is the author of 'Kartilya ng Katipunan'?",
+          "options": ["Emilio Aguinaldo", "Emilio Jacinto", "Andres Bonifacio", "Gregorio del Pilar"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 37,
+          "question": "What was the main purpose of the La Liga Filipina?",
+          "options": ["Start a revolution", "Promote reforms peacefully", "Establish a new constitution", "Create the Katipunan"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 38,
+          "question": "Who was the first Filipino bishop?",
+          "options": ["Bishop Domingo Salazar", "Bishop Pedro Pelaez", "Bishop Jorge Barlin", "Bishop Miguel de Benavides"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 39,
+          "question": "Who discovered the Philippines in 1521?",
+          "options": ["Christopher Columbus", "Ferdinand Magellan", "James Cook", "Amerigo Vespucci"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 40,
+          "question": "What was the capital of the Spanish colonial government?",
+          "options": ["Cebu", "Manila", "Vigan", "Iloilo"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 41,
+          "question": "Which American governor-general implemented the 'Filipinization policy'?",
+          "options": ["Frank Murphy", "William Howard Taft", "Francis Burton Harrison", "Dwight Davis"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 42,
+          "question": "Who led the longest revolt in Ilocos known as the 'Dagohoy Revolt'?",
+          "options": ["Diego Silang", "Francisco Dagohoy", "Gabriela Silang", "Apolinario dela Cruz"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 43,
+          "question": "What is the oldest city in the Philippines?",
+          "options": ["Manila", "Vigan", "Cebu City", "Iloilo City"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 44,
+          "question": "Who introduced Christianity to the Philippines?",
+          "options": ["Americans", "Japanese", "Spanish missionaries", "British sailors"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 45,
+          "question": "Which battle marked the defeat of Spanish forces in the Philippines?",
+          "options": ["Battle of Tirad Pass", "Battle of Bataan", "Battle of Manila Bay", "Battle of Mactan"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 46,
+          "question": "The Ilustrados were mainly composed of:",
+          "options": ["Workers", "Peasants", "Educated elite", "Revolutionary soldiers"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 47,
+          "question": "Which group opposed foreign colonization using armed struggle?",
+          "options": ["Propaganda Movement", "Ilustrados", "Katipunan", "La Liga Filipina"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 48,
+          "question": "What was the first province to revolt against Spain?",
+          "options": ["Cavite", "Pampanga", "Laguna", "Bulacan"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 49,
+          "question": "Who is the 'Great Plebeian'?",
+          "options": ["Andres Bonifacio", "Emilio Jacinto", "Jose Rizal", "Emilio Aguinaldo"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 50,
+          "question": "What was the first mass celebrated in the Philippines?",
+          "options": ["Easter Sunday Mass in Limasawa", "Mass in Cebu", "Mass in Manila", "Mass in Mactan"],
+          "correctAnswer": 0
+        },
+     {
+          "id": 51,
+          "question": "What is the fundamental law of the Philippines?",
+          "options": ["The Civil Code", "The Constitution", "The Revised Penal Code", "The Local Government Code"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 52,
+          "question": "Who has the power to declare martial law in the Philippines?",
+          "options": ["The Senate", "The Supreme Court", "The President", "The House of Representatives"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 53,
+          "question": "How many branches of government are there in the Philippines?",
+          "options": ["Two", "Three", "Four", "Five"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 54,
+          "question": "Which branch of government interprets the laws?",
+          "options": ["Legislative", "Executive", "Judicial", "Local Government"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 55,
+          "question": "What is the term length of a Philippine senator?",
+          "options": ["3 years", "4 years", "6 years", "5 years"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 56,
+          "question": "What is the term length of the Philippine President?",
+          "options": ["4 years", "5 years", "6 years", "7 years"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 57,
+          "question": "Which chamber of Congress represents the people directly?",
+          "options": ["Senate", "House of Representatives", "Supreme Court", "Provincial Board"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 58,
+          "question": "What is the principle of separation of powers?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Division of government functions into legislative, executive, judicial",
+            "Rule by the strongest political party",
+            "Centralization of all powers in one branch",
+            "Division of provinces and municipalities"
           ],
-          "correctAnswer": 0,
-          "explanation": "This is a sample question. Add 150 questions for this subject.",
-          "difficulty": "easy",
-          "topic": "Topic 1"
+          "correctAnswer": 0
+        },
+        {
+          "id": 59,
+          "question": "Which article of the 1987 Constitution defines the Bill of Rights?",
+          "options": ["Article I", "Article III", "Article VI", "Article VII"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 60,
+          "question": "Who can veto a bill passed by Congress?",
+          "options": ["The Senate", "The President", "The Supreme Court", "The House Speaker"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 61,
+          "question": "What is the highest court in the Philippines?",
+          "options": ["Court of Appeals", "Regional Trial Court", "Supreme Court", "Sandiganbayan"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 62,
+          "question": "Who is the head of the judiciary?",
+          "options": ["The Chief Justice", "The Senate President", "The President", "The Vice President"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 63,
+          "question": "Which branch of government has the power to execute laws?",
+          "options": ["Legislative", "Executive", "Judicial", "Local Government"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 64,
+          "question": "Who is the Commander-in-Chief of the Armed Forces of the Philippines?",
+          "options": ["Chief of Staff", "Secretary of National Defense", "President", "Senate President"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 65,
+          "question": "Which law created autonomous regions in Muslim Mindanao and Cordillera?",
+          "options": ["Local Government Code", "Organic Act", "Anti-Terrorism Act", "Electoral Code"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 66,
+          "question": "What is the role of the Commission on Elections (COMELEC)?",
+          "options": [
+            "Implements laws on elections and plebiscites",
+            "Judges the constitutionality of laws",
+            "Enforces criminal laws",
+            "Collects taxes"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": 67,
+          "question": "Who can propose amendments to the Constitution?",
+          "options": ["The President", "The Supreme Court", "The Congress", "The Commission on Elections"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 68,
+          "question": "How many senators does the Philippine Senate have?",
+          "options": ["12", "24", "36", "18"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 69,
+          "question": "Who presides over the House of Representatives?",
+          "options": ["The Senate President", "The Speaker of the House", "The Vice President", "The Chief Justice"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 70,
+          "question": "What is the process of judicial review?",
+          "options": [
+            "Courts checking if laws are constitutional",
+            "President approving laws",
+            "Senate confirming appointments",
+            "Local government issuing ordinances"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": 71,
+          "question": "Who is part of the Executive branch?",
+          "options": ["Supreme Court justices", "Senators", "President and Cabinet", "Barangay captains only"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 72,
+          "question": "Which document is the predecessor to the 1987 Constitution?",
+          "options": ["Malolos Constitution", "1935 Constitution", "1973 Constitution", "Jones Law"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 73,
+          "question": "Who has the power to appoint government officials?",
+          "options": ["Supreme Court", "President", "Senate", "House of Representatives"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 74,
+          "question": "Which principle ensures that no branch exceeds its powers?",
+          "options": ["Checks and balances", "Federalism", "Popular sovereignty", "Separation of church and state"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 75,
+          "question": "Which Philippine President declared Martial Law in 1972?",
+          "options": ["Ferdinand Marcos", "Corazon Aquino", "Diosdado Macapagal", "Gloria Arroyo"],
+          "correctAnswer": 0
+        },
+    {
+          "id": 76,
+          "question": "What is the total land area of the Philippines?",
+          "options": ["300,000 sq km", "300,000 sq mi", "298,170 sq km", "250,000 sq km"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 77,
+          "question": "How many islands make up the Philippines?",
+          "options": ["7,107", "5,107", "8,107", "6,107"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 78,
+          "question": "Which is the longest river in the Philippines?",
+          "options": ["Cagayan River", "Agusan River", "Pasig River", "Marikina River"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 79,
+          "question": "Which is the highest peak in the Philippines?",
+          "options": ["Mount Pulag", "Mount Apo", "Mount Banahaw", "Mount Makiling"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 80,
+          "question": "Which region is known as the 'Rice Granary of the Philippines'?",
+          "options": ["Central Luzon", "Ilocos Region", "Cebu", "Davao Region"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 81,
+          "question": "What body of water separates the Philippines from Taiwan?",
+          "options": ["Sulu Sea", "Celebes Sea", "Luzon Strait", "Philippine Sea"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 82,
+          "question": "Which Philippine city is the country’s main financial hub?",
+          "options": ["Cebu City", "Quezon City", "Manila", "Makati City"],
+          "correctAnswer": 3
+        },
+        {
+          "id": 83,
+          "question": "What type of climate does the Philippines have?",
+          "options": ["Temperate", "Tropical", "Subarctic", "Desert"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 84,
+          "question": "Which is the busiest port in the Philippines?",
+          "options": ["Port of Manila", "Port of Cebu", "Port of Davao", "Port of Batangas"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 85,
+          "question": "Which is the largest island in the Philippines?",
+          "options": ["Mindanao", "Luzon", "Visayas", "Palawan"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 86,
+          "question": "Which region is the leading producer of coconut in the Philippines?",
+          "options": ["Bicol Region", "Western Visayas", "Caraga", "Central Luzon"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 87,
+          "question": "Which mineral is the Philippines the top producer of globally?",
+          "options": ["Copper", "Nickel", "Gold", "Coal"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 88,
+          "question": "Which sea lies to the west of the Philippines?",
+          "options": ["Philippine Sea", "Sulu Sea", "South China Sea", "Celebes Sea"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 89,
+          "question": "Which economic sector employs the majority of Filipinos?",
+          "options": ["Agriculture", "Industry", "Services", "Manufacturing"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 90,
+          "question": "Which Philippine region is famous for sugarcane production?",
+          "options": ["Western Visayas", "Ilocos Region", "Bicol Region", "Davao Region"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 91,
+          "question": "What is the capital of the Philippines?",
+          "options": ["Quezon City", "Makati", "Manila", "Cebu City"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 92,
+          "question": "Which Philippine island group is located in the south?",
+          "options": ["Luzon", "Visayas", "Mindanao", "Palawan"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 93,
+          "question": "Which volcano erupted in 1991 causing massive damage in Luzon?",
+          "options": ["Mayon Volcano", "Taal Volcano", "Pinatubo Volcano", "Bulusan Volcano"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 94,
+          "question": "Which is the largest lake in the Philippines?",
+          "options": ["Laguna de Bay", "Lake Lanao", "Lake Taal", "Lake Sebu"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 95,
+          "question": "Which region is known as the 'Fruit Basket of the Philippines'?",
+          "options": ["Davao Region", "Bicol Region", "Central Luzon", "Cordillera Administrative Region"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 96,
+          "question": "Which body of water lies to the east of the Philippines?",
+          "options": ["South China Sea", "Philippine Sea", "Sulu Sea", "Celebes Sea"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 97,
+          "question": "What is the main crop in Central Luzon?",
+          "options": ["Corn", "Rice", "Coconut", "Sugarcane"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 98,
+          "question": "Which region is a major producer of abaca in the Philippines?",
+          "options": ["Bicol Region", "Ilocos Region", "Cagayan Valley", "Davao Region"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 99,
+          "question": "Which Philippine city is the gateway to the Visayas?",
+          "options": ["Cebu City", "Iloilo City", "Bacolod City", "Tacloban City"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 100,
+          "question": "Which river flows through Mindanao and is the second longest in the country?",
+          "options": ["Agusan River", "Cagayan River", "Pulangi River", "Pasig River"],
+          "correctAnswer": 0
+        },
+      {
+          "id": 101,
+          "question": "Who introduced Christianity to the Philippines?",
+          "options": ["Spanish missionaries", "American colonists", "Japanese traders", "Portuguese explorers"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 102,
+          "question": "What is the predominant religion in the Philippines?",
+          "options": ["Islam", "Christianity", "Buddhism", "Hinduism"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 103,
+          "question": "Which Filipino festival is celebrated in Cebu in honor of the Santo Niño?",
+          "options": ["Sinulog", "Ati-Atihan", "Pahiyas", "Panagbenga"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 104,
+          "question": "What is the traditional Filipino family structure called?",
+          "options": ["Extended family", "Nuclear family", "Tribal family", "Clan system"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 105,
+          "question": "Which region is known for the Ifugao Rice Terraces?",
+          "options": ["Cordillera Administrative Region", "Ilocos Region", "Cagayan Valley", "Bicol Region"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 106,
+          "question": "Which Filipino martial art emphasizes stick fighting?",
+          "options": ["Kali/Arnis/Eskrima", "Judo", "Karate", "Taekwondo"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 107,
+          "question": "Which Philippine ethnic group is known for their weaving and handcrafts in Mindanao?",
+          "options": ["T’boli", "Tagalog", "Ilocano", "Kapampangan"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 108,
+          "question": "Which Filipino epic tells the story of Lam-ang?",
+          "options": ["Biag ni Lam-ang", "Hudhud", "Darangen", "Hinilawod"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 109,
+          "question": "Who are considered the indigenous people of Palawan?",
+          "options": ["Tagbanua", "T’boli", "Ifugao", "Ibanag"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 110,
+          "question": "Which is the traditional Filipino house made of bamboo and nipa palm?",
+          "options": ["Bahay Kubo", "Bahay na Bato", "Bahay Pawid", "Torogan"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 111,
+          "question": "Which Filipino dance represents courtship?",
+          "options": ["Tinikling", "Cariñosa", "Singkil", "Pandanggo sa Ilaw"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 112,
+          "question": "Which Filipino Muslim group is known for the sultanates in Mindanao?",
+          "options": ["Moro", "Lumad", "Igorot", "Ifugao"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 113,
+          "question": "What is the traditional Filipino belief in spirits called?",
+          "options": ["Anito", "Kami", "Shinto", "Bodhisattva"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 114,
+          "question": "Which festival in Aklan features colorful headdresses and body paint?",
+          "options": ["Ati-Atihan", "Sinulog", "Panagbenga", "Kadayawan"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 115,
+          "question": "Which Filipino poet wrote 'Florante at Laura'?",
+          "options": ["Francisco Balagtas", "Jose Rizal", "Marcelo H. del Pilar", "Graciano López Jaena"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 116,
+          "question": "What is the Filipino tradition of communal work called?",
+          "options": ["Bayanihan", "Pamamanhikan", "Pagtitipon", "Pangangaluluwa"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 117,
+          "question": "Which Filipino cuisine is made of fermented rice and fish called 'burong'?",
+          "options": ["Burong isda", "Adobo", "Sinigang", "Lechon"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 118,
+          "question": "Which indigenous group in Mindoro is known for their body tattoos?",
+          "options": ["Mangyan", "T’boli", "Tagbanua", "Kalinga"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 119,
+          "question": "What is the Filipino ritual to honor ancestors?",
+          "options": ["Pagmamano", "All Souls’ Day", "Ati-Atihan", "Bayanihan"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 120,
+          "question": "Which Filipino region is famous for weaving the 'Inabel' fabric?",
+          "options": ["Ilocos Region", "Bicol Region", "Cordillera", "Visayas"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 121,
+          "question": "What is the traditional Filipino martial arts weapon?",
+          "options": ["Rattan stick", "Sword", "Bow and arrow", "Spear"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 122,
+          "question": "Which Filipino instrument is made of bamboo and played by striking?",
+          "options": ["Kulintang", "Bamboo xylophone", "Gangsa", "Guitar"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 123,
+          "question": "Which Filipino festival features a floral parade in Baguio City?",
+          "options": ["Panagbenga", "Sinulog", "Ati-Atihan", "Kadayawan"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 124,
+          "question": "Which indigenous group in Mindanao is known for colorful brass jewelry?",
+          "options": ["T’boli", "Lumad", "Moro", "Mangyan"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 125,
+          "question": "What is the traditional Filipino value of respect to elders called?",
+          "options": ["Pakikisama", "Hiya", "Pagmamano", "Bayanihan"],
+          "correctAnswer": 2
+        },
+    {
+          "id": 126,
+          "question": "Which government agency is responsible for regulating online misinformation in the Philippines?",
+          "options": ["Department of Information and Communications Technology (DICT)", "National Telecommunications Commission (NTC)", "Philippine News Agency", "Presidential Communications Operations Office (PCOO)"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 127,
+          "question": "What is the main objective of the Philippine Green Jobs Act?",
+          "options": ["Promote environmentally sustainable employment", "Regulate labor unions", "Increase minimum wage", "Implement digital literacy programs"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 128,
+          "question": "Which Philippine policy focuses on climate-resilient infrastructure development?",
+          "options": ["Build, Build, Build Program", "Climate Change Act of 2009", "Disaster Risk Reduction Act", "National Land Use Act"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 129,
+          "question": "What is the significance of the Rice Tariffication Law of 2019?",
+          "options": [
+            "Imposes tariffs on imported rice to stabilize prices",
+            "Removes quantitative restrictions and imposes tariffs on rice imports",
+            "Provides subsidies only to farmers in Luzon",
+            "Mandates rice export to ASEAN countries"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "id": 130,
+          "question": "Which agency monitors corruption and graft in the Philippines?",
+          "options": ["Civil Service Commission (CSC)", "Commission on Audit (COA)", "Sandiganbayan", "Commission on Human Rights (CHR)"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 131,
+          "question": "Which international organization assisted the Philippines in disaster risk reduction after Typhoon Haiyan?",
+          "options": ["ASEAN", "United Nations", "World Bank", "ADB"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 132,
+          "question": "Which Philippine law strengthens local disaster preparedness and response?",
+          "options": ["Local Government Code", "Disaster Risk Reduction and Management Act (RA 10121)", "Clean Air Act", "Anti-Terrorism Act"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 133,
+          "question": "What is the key issue in the West Philippine Sea dispute?",
+          "options": ["Sovereignty over islands and exclusive economic zone rights", "Fishing rights in the Pacific Ocean", "Airspace violations", "Environmental conservation treaties"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 134,
+          "question": "Which Philippine program focuses on financial inclusion for unbanked communities?",
+          "options": ["Pantawid Pamilyang Pilipino Program", "National ID System", "Philippine Digital Payments Program", "Financial Literacy Program"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 135,
+          "question": "What is the primary purpose of the Bayanihan to Recover as One Act (Bayanihan 2)?",
+          "options": [
+            "Combat COVID-19 and support economic recovery",
+            "Provide scholarships to students",
+            "Strengthen local governance",
+            "Promote digital infrastructure"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": 136,
+          "question": "Which Philippine region is most vulnerable to typhoons?",
+          "options": ["Mindoro", "Eastern Visayas", "Western Mindanao", "Metro Manila"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 137,
+          "question": "Which Philippine policy addresses the digital divide in education?",
+          "options": ["K-12 Program", "DepEd Learning Continuity Plan", "Build, Build, Build", "Philippine Green Jobs Act"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 138,
+          "question": "Which recent issue involves the Philippine government’s debt exposure?",
+          "options": ["Foreign loans for infrastructure", "Rice import tariffs", "Human rights advocacy", "Digital literacy programs"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 139,
+          "question": "Which sector is most affected by the TRAIN Law?",
+          "options": ["Agriculture", "Transportation", "Taxpayers and consumers", "Education"],
+          "correctAnswer": 2
+        },
+        {
+          "id": 140,
+          "question": "Which environmental issue affects Palawan and Mindoro the most?",
+          "options": ["Illegal logging and mining", "Typhoons", "Overfishing", "Urbanization"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 141,
+          "question": "Which Philippine agency regulates mining operations?",
+          "options": ["Department of Environment and Natural Resources (DENR)", "Philippine Mining Corporation", "Department of Trade and Industry", "Commission on Audit"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 142,
+          "question": "Which law protects whistleblowers in the Philippines?",
+          "options": ["Whistleblower Protection Act (RA 6713)", "Anti-Graft and Corrupt Practices Act", "Clean Air Act", "Data Privacy Act"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 143,
+          "question": "Which Philippine policy promotes renewable energy?",
+          "options": ["Renewable Energy Act of 2008", "Energy Reform Act", "Philippine Green Jobs Act", "Build, Build, Build Program"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 144,
+          "question": "Which recent Philippine law regulates e-commerce and online transactions?",
+          "options": ["Cybercrime Prevention Act", "Consumer Act", "Data Privacy Act", "E-Commerce Act (RA 8792)"],
+          "correctAnswer": 3
+        },
+        {
+          "id": 145,
+          "question": "Which issue involves the controversial Philippine government’s contract with Chinese firms in infrastructure projects?",
+          "options": ["Bilateral trade", "Build, Build, Build transparency and debt exposure", "Environmental violations", "Education modernization"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 146,
+          "question": "Which Philippine agency monitors human trafficking?",
+          "options": ["Department of Social Welfare and Development (DSWD)", "Philippine National Police Anti-Trafficking Division", "Commission on Human Rights", "Department of Labor and Employment"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 147,
+          "question": "Which Philippine program aims to provide free internet to public schools?",
+          "options": ["DepEd Computerization Program", "Free Wi-Fi for All", "Philippine Digital Payments Program", "Learning Continuity Plan"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 148,
+          "question": "Which law strengthens the anti-corruption framework in the Philippines?",
+          "options": ["Anti-Graft and Corrupt Practices Act (RA 3019)", "Civil Service Reform Act", "Data Privacy Act", "Clean Air Act"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 149,
+          "question": "Which current issue involves the West Philippine Sea arbitration ruling?",
+          "options": [
+            "Maritime sovereignty and fishing rights",
+            "Tourism development",
+            "Renewable energy",
+            "Land reform"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "id": 150,
+          "question": "Which Philippine law ensures financial aid and protection for micro, small, and medium enterprises (MSMEs)?",
+          "options": ["MSME Development Act (RA 9501)", "Philippine Green Jobs Act", "Build, Build, Build Program", "Entrepreneurship Act"],
+          "correctAnswer": 0
         }
-      ]
-    }
-  ],
-  "totalQuestions": 1,
-  "note": "Sample questions - Add 150 total for full implementation"
-}
+    
