@@ -1,10 +1,10 @@
 {
-  "subject": "Secondary - Social Studies",
-  "category": "secondary",
-  "subcategory": "social-studies",
   "topics": [
     {
-      "id": 1,
+      "name": "Philippine History",
+      "questions": [
+        {
+          "id": 1,
           "question": "When did the Philippines gain independence from Spain?",
           "options": ["June 12, 1898", "July 4, 1946", "June 12, 1946", "August 13, 1898"],
           "correctAnswer": 0
@@ -153,7 +153,12 @@
           "options": ["Jose Rizal", "Marcelo H. del Pilar", "Graciano López Jaena", "Isabelo de los Reyes"],
           "correctAnswer": 1
         },
+        {
+  "topics": [
     {
+      "name": "Philippine History",
+      "questions": [
+        {
           "id": 26,
           "question": "Who is known as the 'Father of the Philippine Revolution'?",
           "options": ["Jose Rizal", "Andres Bonifacio", "Emilio Aguinaldo", "Antonio Luna"],
@@ -303,7 +308,12 @@
           "options": ["Easter Sunday Mass in Limasawa", "Mass in Cebu", "Mass in Manila", "Mass in Mactan"],
           "correctAnswer": 0
         },
-     {
+        {
+  "topics": [
+    {
+      "name": "Philippine Government & Constitution",
+      "questions": [
+        {
           "id": 51,
           "question": "What is the fundamental law of the Philippines?",
           "options": ["The Civil Code", "The Constitution", "The Revised Penal Code", "The Local Government Code"],
@@ -468,7 +478,12 @@
           "options": ["Ferdinand Marcos", "Corazon Aquino", "Diosdado Macapagal", "Gloria Arroyo"],
           "correctAnswer": 0
         },
+        {
+  "topics": [
     {
+      "name": "Philippine Geography & Economy",
+      "questions": [
+        {
           "id": 76,
           "question": "What is the total land area of the Philippines?",
           "options": ["300,000 sq km", "300,000 sq mi", "298,170 sq km", "250,000 sq km"],
@@ -618,7 +633,12 @@
           "options": ["Agusan River", "Cagayan River", "Pulangi River", "Pasig River"],
           "correctAnswer": 0
         },
-      {
+        {
+  "topics": [
+    {
+      "name": "Philippine Culture, Society & Religion",
+      "questions": [
+        {
           "id": 101,
           "question": "Who introduced Christianity to the Philippines?",
           "options": ["Spanish missionaries", "American colonists", "Japanese traders", "Portuguese explorers"],
@@ -768,7 +788,12 @@
           "options": ["Pakikisama", "Hiya", "Pagmamano", "Bayanihan"],
           "correctAnswer": 2
         },
+        {
+  "topics": [
     {
+      "name": "Philippine Current Events & Issues",
+      "questions": [
+        {
           "id": 126,
           "question": "Which government agency is responsible for regulating online misinformation in the Philippines?",
           "options": ["Department of Information and Communications Technology (DICT)", "National Telecommunications Commission (NTC)", "Philippine News Agency", "Presidential Communications Operations Office (PCOO)"],
@@ -932,10 +957,8 @@
           "question": "Which Philippine law ensures financial aid and protection for micro, small, and medium enterprises (MSMEs)?",
           "options": ["MSME Development Act (RA 9501)", "Philippine Green Jobs Act", "Build, Build, Build Program", "Entrepreneurship Act"],
           "correctAnswer": 0
-  }
+        }
       ]
     }
-   ],
-  "totalQuestions": 150,
-  "note": "150 Social Studies questions provided. Ready for additional items if needed."
+  ]
 }
