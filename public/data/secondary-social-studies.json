@@ -933,5 +933,9 @@
           "options": ["MSME Development Act (RA 9501)", "Philippine Green Jobs Act", "Build, Build, Build Program", "Entrepreneurship Act"],
           "correctAnswer": 0
         }
-    ]
+   ]
     }
+  ],
+  "totalQuestions": 150,
+  "note": "150 Social Sutdies questions provided. Ready for additional items if needed."
+}
