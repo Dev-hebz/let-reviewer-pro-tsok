@@ -59,13 +59,13 @@ export default function LETReviewerApp() {
     return DEFAULT_ADMIN;
   };
 
-  const loadQuestions = async (filename) => {
+  const loadQuestions = async (filename: string) => {
     try {
       const response = await fetch(`/data/${filename}`);
       const data = await response.json();
-      const allQuestions = [];
-      data.topics.forEach(topic => {
-        topic.questions.forEach(q => allQuestions.push({ ...q, topic: topic.name }));
+      const allQuestions: any[] = [];
+      data.topics.forEach((topic: any) => {
+        topic.questions.forEach((q: any) => allQuestions.push({ ...q, topic: topic.name }));
       });
       const shuffled = allQuestions.sort(() => Math.random() - 0.5).slice(0, 150);
       setQuestions(shuffled);
@@ -80,7 +80,7 @@ export default function LETReviewerApp() {
     }
   };
 
-  const handleAnswer = (answerIndex) => {
+  const handleAnswer = (answerIndex: number) => {
     const newAnswers = [...userAnswers];
     newAnswers[currentQuestionIndex] = answerIndex;
     setUserAnswers(newAnswers);
@@ -124,7 +124,7 @@ export default function LETReviewerApp() {
     localStorage.setItem('userProgress', JSON.stringify(userProgress));
   };
 
-  const handleExamineeLogin = (email, name, category) => {
+  const handleExamineeLogin = (email: string, name: string, category: string) => {
     const userData = { email, name, role: 'examinee', category };
     setUser(userData);
     
@@ -141,7 +141,7 @@ export default function LETReviewerApp() {
     setView('subject-selection');
   };
 
-  const handleAdminLogin = (email, password) => {
+  const handleAdminLogin = (email: string, password: string) => {
     const adminData = getAdminData();
     if (email === adminData.email && password === adminData.password) {
       setUser({ email: adminData.email, name: adminData.name, role: 'admin' });
@@ -163,7 +163,7 @@ export default function LETReviewerApp() {
     setShowResults(false);
   };
 
-  const startQuiz = (category, subject) => {
+  const startQuiz = (category: string, subject: any) => {
     setSelectedCategory(category);
     setSelectedSubject(subject);
     loadQuestions(subject.file);
@@ -285,7 +285,7 @@ function ExamineeLoginView({ onLogin, categories }) {
   const [name, setName] = useState('');
   const [category, setCategory] = useState('elementary');
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (!email || !name) {
       alert('Please fill in all required fields');
@@ -340,7 +340,7 @@ function AdminLoginView({ onLogin, onBack }) {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setError('');
     const success = onLogin(email, password);
@@ -596,7 +596,7 @@ function AdminDashboard({ user }) {
     setExaminees(examineeList);
   };
 
-  const deleteExaminee = (examineeEmail) => {
+  const deleteExaminee = (examineeEmail: string) => {
     if (confirm(`Delete ${selectedExaminee?.name}?`)) {
       const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
       delete userProgress[examineeEmail];
@@ -607,22 +607,22 @@ function AdminDashboard({ user }) {
     }
   };
 
-  const getExamineeStatus = (examinee) => {
+  const getExamineeStatus = (examinee: any) => {
     if (!examinee.lastActive) return { status: 'Not Studying', color: 'red' };
-    const daysSinceActive = Math.floor((new Date() - new Date(examinee.lastActive)) / (1000 * 60 * 60 * 24));
+    const daysSinceActive = Math.floor((new Date().getTime() - new Date(examinee.lastActive).getTime()) / (1000 * 60 * 60 * 24));
     if (daysSinceActive === 0) return { status: 'Active', color: 'green' };
     if (daysSinceActive <= 3) return { status: 'Occasionally Active', color: 'yellow' };
     return { status: 'Not Studying', color: 'red' };
   };
 
-  const getAverageAccuracy = (examinee) => {
+  const getAverageAccuracy = (examinee: any) => {
     if (!examinee.sessions || examinee.sessions.length === 0) return 0;
-    const total = examinee.sessions.reduce((sum, s) => sum + parseFloat(s.accuracy), 0);
+    const total = examinee.sessions.reduce((sum: number, s: any) => sum + parseFloat(s.accuracy || s.percentage || 0), 0);
     return (total / examinee.sessions.length).toFixed(2);
   };
 
-  const topExaminees = [...examinees].sort((a, b) => getAverageAccuracy(b) - getAverageAccuracy(a)).slice(0, 10);
-  const inactiveExaminees = examinees.filter(s => getExamineeStatus(s).status === 'Not Studying');
+  const topExaminees = [...examinees].sort((a: any, b: any) => Number(getAverageAccuracy(b)) - Number(getAverageAccuracy(a))).slice(0, 10);
+  const inactiveExaminees = examinees.filter((s: any) => getExamineeStatus(s).status === 'Not Studying');
 
   return (
     <div className="max-w-7xl mx-auto">
