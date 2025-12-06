@@ -716,4 +716,24 @@
           "explanation": "Pricing considers cost, competition, and market demand.",
           "difficulty": "medium",
           "topic": "Entrepreneurship"
+        },
+        {
+          "id": "sec-tle-050",
+          "question": "What is the term for the process of promoting and selling products?",
+          "options": [
+            "Financing",
+            "Marketing",
+            "Procurement",
+            "Inventory"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Marketing involves promotion and sales strategies.",
+          "difficulty": "easy",
+          "topic": "Entrepreneurship"
         }
+      ]
+    }
+  ],
+  "totalQuestions": 50,
+  "note": "50 TLE questions provided. Ready for additional items if needed."
+}
