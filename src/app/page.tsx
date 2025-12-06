@@ -152,14 +152,15 @@ export default function LETReviewerApp() {
   };
 
   const handleLogout = () => {
-    setUser(null);
+   setUser(null);
     setView('select-role');
     setSelectedCategory(null);
     setSelectedSubject(null);
-    setSelectedSpecialization(null);
     setQuestions([]);
     setCurrentQuestionIndex(0);
     setUserAnswers([]);
+    setQuizStartTime(null);
+    setQuizEndTime(null);
     setShowResults(false);
   };
 
