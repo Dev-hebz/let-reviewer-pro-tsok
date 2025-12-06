@@ -185,7 +185,7 @@ export default function LETReviewerApp() {
     questions.forEach((q, index) => {
       if (userAnswers[index] === q.correctAnswer) correct++;
     });
-    const timeSpent = Math.floor((quizEndTime - quizStartTime) / 1000 / 60);
+    const timeSpent = (quizEndTime && quizStartTime) ? Math.floor((quizEndTime.getTime() - quizStartTime.getTime()) / 1000 / 60) : 0;
     const accuracy = (correct / questions.length * 100).toFixed(2);
     return { correct, total: questions.length, accuracy, timeSpent };
   };
