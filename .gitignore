@@ -1,14 +1,74 @@
-# Firebase Configuration
-# Get these values from Firebase Console > Project Settings > Your apps > Web app
+# Create/overwrite .gitignore with complete content
+cat > .gitignore << 'EOF'
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyBE_35wPISOQfMAFb_qm5qmbh_DI9xP10I
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=let-reviewer-tsok.firebaseapp.com
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=let-reviewer-tsok
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=let-reviewer-tsok.firebasestorage.app
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=172244786856
-NEXT_PUBLIC_FIREBASE_APP_ID=1:172244786856:web:f7713e00c9d1ab65ac6c9d
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-# Instructions:
-# 1. Copy this file to .env.local
-# 2. Replace all "your_xxx_here" with actual values from Firebase Console
-# 3. DO NOT commit .env.local to Git (it's in .gitignore)
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env
+.env*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
+
+# Now commit and push
+git add .gitignore
+git commit -m "Update .gitignore for security"
+git push
+```
+
+---
+
+## 🔥 **MOST IMPORTANT LINES:**
+
+These lines protect your secrets:
+```
+# local env files
+.env
+.env*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
