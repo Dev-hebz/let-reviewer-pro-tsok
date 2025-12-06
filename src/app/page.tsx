@@ -53,11 +53,10 @@ export default function LETReviewerApp() {
   };
 
   const getAdminData = () => {
-  if (typeof window === "undefined") return DEFAULT_ADMIN;
-  const stored = localStorage.getItem('adminData');
-  if (stored) return JSON.parse(stored);
-  localStorage.setItem('adminData', JSON.stringify(DEFAULT_ADMIN));
-  return DEFAULT_ADMIN;
+    const stored = localStorage.getItem('adminData');
+    if (stored) return JSON.parse(stored);
+    localStorage.setItem('adminData', JSON.stringify(DEFAULT_ADMIN));
+    return DEFAULT_ADMIN;
   };
 
   const loadQuestions = async (filename: string) => {
@@ -104,7 +103,7 @@ export default function LETReviewerApp() {
       if (userAnswers[index] === q.correctAnswer) correct++;
     });
 
-    const timeSpent = Math.floor((new Date().getTime() - (quizStartTime?.getTime() || 0)) / 1000 / 60);
+    const timeSpent = Math.floor((new Date() - quizStartTime) / 1000 / 60);
     const accuracy = (correct / questions.length * 100).toFixed(2);
     
     const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
@@ -153,15 +152,14 @@ export default function LETReviewerApp() {
   };
 
   const handleLogout = () => {
-   setUser(null);
+    setUser(null);
     setView('select-role');
     setSelectedCategory(null);
     setSelectedSubject(null);
+    setSelectedSpecialization(null);
     setQuestions([]);
     setCurrentQuestionIndex(0);
     setUserAnswers([]);
-    setQuizStartTime(null);
-    setQuizEndTime(null);
     setShowResults(false);
   };
 
@@ -186,7 +184,7 @@ export default function LETReviewerApp() {
     questions.forEach((q, index) => {
       if (userAnswers[index] === q.correctAnswer) correct++;
     });
-    const timeSpent = (quizEndTime && quizStartTime) ? Math.floor((quizEndTime.getTime() - quizStartTime.getTime()) / 1000 / 60) : 0;
+    const timeSpent = Math.floor((quizEndTime - quizStartTime) / 1000 / 60);
     const accuracy = (correct / questions.length * 100).toFixed(2);
     return { correct, total: questions.length, accuracy, timeSpent };
   };
@@ -250,7 +248,7 @@ export default function LETReviewerApp() {
   );
 }
 
-function RoleSelectionView({ onSelectRole }: { onSelectRole: (role: string) => void }) {
+function RoleSelectionView({ onSelectRole }) {
   return (
     <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} className="max-w-4xl mx-auto">
       <div className="bg-white rounded-3xl shadow-2xl p-8 border-4 border-green-200">
@@ -282,7 +280,7 @@ function RoleSelectionView({ onSelectRole }: { onSelectRole: (role: string) => v
   );
 }
 
-function ExamineeLoginView({ onLogin, categories }: { onLogin: (email: string, name: string, category: string) => void, categories: any }) {
+function ExamineeLoginView({ onLogin, categories }) {
   const [email, setEmail] = useState<string>('');
   const [name, setName] = useState<string>('');
   const [category, setCategory] = useState<string>('elementary');
