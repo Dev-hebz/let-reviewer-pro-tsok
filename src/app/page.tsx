@@ -758,7 +758,11 @@ function AdminDashboard({ user }: { user: any }) {
               </div>
             ) : (
               inactiveExaminees.map((examinee, index) => {
-                const daysSinceActive = Math.floor((new Date() - new Date(examinee.lastActive)) / (1000 * 60 * 60 * 24));
+                const daysSinceActive =
+  Math.floor(
+    (new Date().getTime() - new Date(examinee.lastActive).getTime()) /
+      (1000 * 60 * 60 * 24)
+  );
                 return (
                   <div key={index} className="flex items-center justify-between p-6 bg-red-50 rounded-2xl border-2 border-red-300">
                     <div>
