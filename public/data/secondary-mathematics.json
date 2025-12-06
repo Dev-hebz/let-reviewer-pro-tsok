@@ -1,0 +1,29 @@
+{
+  "subject": "Secondary - Mathematics",
+  "category": "secondary",
+  "subcategory": "mathematics",
+  "topics": [
+    {
+      "id": "algebra",
+      "name": "Algebra",
+      "questions": [
+        {
+          "id": "sec-math-alg-001",
+          "question": "Solve for x: 2x + 5 = 15",
+          "options": [
+            "x = 3",
+            "x = 5",
+            "x = 7",
+            "x = 10"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Subtract 5 from both sides: 2x = 10, then divide by 2: x = 5",
+          "difficulty": "easy",
+          "topic": "Algebra"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 1,
+  "note": "Template file - Add 150 questions for full implementation"
+}

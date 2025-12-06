@@ -1,0 +1,465 @@
+{
+  "subject": "Elementary - General Education",
+  "category": "elementary",
+  "subcategory": "general-education",
+  "topics": [
+    {
+      "id": "english",
+      "name": "English",
+      "questions": [
+        {
+          "id": "ele-gen-eng-001",
+          "question": "Which of the following is a complex sentence?",
+          "options": [
+            "Maria went to school.",
+            "Although it was raining, we went to the park.",
+            "John and Mary are siblings.",
+            "The dog barked loudly."
+          ],
+          "correctAnswer": 1,
+          "explanation": "A complex sentence contains an independent clause and at least one dependent clause. 'Although it was raining' is a dependent clause.",
+          "difficulty": "medium",
+          "topic": "English"
+        },
+        {
+          "id": "ele-gen-eng-002",
+          "question": "What is the past participle of 'swim'?",
+          "options": [
+            "swam",
+            "swum",
+            "swimming",
+            "swimmed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The past participle of 'swim' is 'swum' (swim, swam, swum).",
+          "difficulty": "easy",
+          "topic": "English"
+        },
+        {
+          "id": "ele-gen-eng-003",
+          "question": "Which word is a synonym for 'difficult'?",
+          "options": [
+            "easy",
+            "challenging",
+            "simple",
+            "straightforward"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Challenging means difficult or requiring effort and skill.",
+          "difficulty": "easy",
+          "topic": "English"
+        },
+        {
+          "id": "ele-gen-eng-004",
+          "question": "Identify the subject in this sentence: 'The beautiful flowers bloom in spring.'",
+          "options": [
+            "beautiful",
+            "flowers",
+            "bloom",
+            "spring"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The subject is 'flowers' - the noun that performs the action of blooming.",
+          "difficulty": "easy",
+          "topic": "English"
+        },
+        {
+          "id": "ele-gen-eng-005",
+          "question": "What type of noun is 'happiness'?",
+          "options": [
+            "Concrete noun",
+            "Proper noun",
+            "Abstract noun",
+            "Collective noun"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Happiness is an abstract noun as it represents an idea or quality that cannot be physically touched.",
+          "difficulty": "medium",
+          "topic": "English"
+        }
+      ]
+    },
+    {
+      "id": "filipino",
+      "name": "Filipino",
+      "questions": [
+        {
+          "id": "ele-gen-fil-001",
+          "question": "Ano ang kahulugan ng salitang 'maagap'?",
+          "options": [
+            "Mabagal",
+            "Mabilis at handa",
+            "Tamad",
+            "Pagod"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Maagap ay nangangahulugang mabilis, handa, at aktibo sa pagkilos.",
+          "difficulty": "easy",
+          "topic": "Filipino"
+        },
+        {
+          "id": "ele-gen-fil-002",
+          "question": "Alin ang wastong gamit ng 'nang' sa pangungusap?",
+          "options": [
+            "Kumain siya nang marami.",
+            "Umuwi siya ng maaga.",
+            "Ang bahay nang kaibigan ko.",
+            "Binili ko nang libro."
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Nang' ay ginagamit bilang pang-abay o kapag sumasagot sa tanong na 'paano'.",
+          "difficulty": "medium",
+          "topic": "Filipino"
+        },
+        {
+          "id": "ele-gen-fil-003",
+          "question": "Ano ang uri ng pangngalan ng salitang 'kagandahan'?",
+          "options": [
+            "Pantangi",
+            "Pambalana",
+            "Basal",
+            "Lansakan"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ang 'kagandahan' ay basal na pangngalan dahil ito ay nagsasaad ng kalidad o katangian.",
+          "difficulty": "medium",
+          "topic": "Filipino"
+        },
+        {
+          "id": "ele-gen-fil-004",
+          "question": "Alin ang tamang bantas sa pangungusap: 'Kumusta ka na'",
+          "options": [
+            "Kumusta ka na.",
+            "Kumusta ka na?",
+            "Kumusta ka na!",
+            "Kumusta ka na,"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gumagamit ng tandang pananong (?) sa mga pangungusap na nagtatanog.",
+          "difficulty": "easy",
+          "topic": "Filipino"
+        },
+        {
+          "id": "ele-gen-fil-005",
+          "question": "Ano ang pokus ng pandiwang 'binili' sa pangungusap na 'Binili ni Maria ang damit'?",
+          "options": [
+            "Pokus sa Aktor",
+            "Pokus sa Layon",
+            "Pokus sa Sanhi",
+            "Pokus sa Direksyon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pokus sa Layon dahil ang 'damit' (layon ng kilos) ay paksa ng pangungusap.",
+          "difficulty": "hard",
+          "topic": "Filipino"
+        }
+      ]
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "questions": [
+        {
+          "id": "ele-gen-math-001",
+          "question": "What is 15% of 200?",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "correctAnswer": 2,
+          "explanation": "15% of 200 = 0.15 × 200 = 30",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ele-gen-math-002",
+          "question": "If the perimeter of a square is 48 cm, what is its area?",
+          "options": [
+            "144 sq cm",
+            "192 sq cm",
+            "96 sq cm",
+            "576 sq cm"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Each side = 48÷4 = 12 cm. Area = 12² = 144 sq cm",
+          "difficulty": "medium",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ele-gen-math-003",
+          "question": "What is the value of x in the equation: 3x + 5 = 20?",
+          "options": [
+            "3",
+            "5",
+            "7",
+            "15"
+          ],
+          "correctAnswer": 1,
+          "explanation": "3x = 20 - 5 = 15, therefore x = 15 ÷ 3 = 5",
+          "difficulty": "medium",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ele-gen-math-004",
+          "question": "Which of the following is a prime number?",
+          "options": [
+            "12",
+            "15",
+            "17",
+            "21"
+          ],
+          "correctAnswer": 2,
+          "explanation": "17 is a prime number because it has only two factors: 1 and 17.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ele-gen-math-005",
+          "question": "What is the average of 15, 20, 25, and 40?",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Average = (15 + 20 + 25 + 40) ÷ 4 = 100 ÷ 4 = 25",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "questions": [
+        {
+          "id": "ele-gen-sci-001",
+          "question": "What is the main function of chlorophyll in plants?",
+          "options": [
+            "Transport water",
+            "Absorb sunlight for photosynthesis",
+            "Store nutrients",
+            "Protect from insects"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Chlorophyll is the green pigment in plants that absorbs sunlight to produce food through photosynthesis.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "ele-gen-sci-002",
+          "question": "What are the three states of matter?",
+          "options": [
+            "Hot, cold, warm",
+            "Solid, liquid, gas",
+            "Hard, soft, flexible",
+            "Heavy, light, medium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The three basic states of matter are solid, liquid, and gas.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "ele-gen-sci-003",
+          "question": "Which planet is known as the 'Red Planet'?",
+          "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mars is called the Red Planet because of its reddish appearance caused by iron oxide on its surface.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "ele-gen-sci-004",
+          "question": "What is the process by which water changes from liquid to gas?",
+          "options": [
+            "Condensation",
+            "Evaporation",
+            "Precipitation",
+            "Freezing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Evaporation is the process where liquid water changes into water vapor (gas).",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "ele-gen-sci-005",
+          "question": "Which organ pumps blood throughout the human body?",
+          "options": [
+            "Lungs",
+            "Liver",
+            "Heart",
+            "Kidneys"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The heart is the organ responsible for pumping blood throughout the body.",
+          "difficulty": "easy",
+          "topic": "Science"
+        }
+      ]
+    },
+    {
+      "id": "social-studies",
+      "name": "Social Studies",
+      "questions": [
+        {
+          "id": "ele-gen-ss-001",
+          "question": "Who is known as the 'Father of Philippine Independence'?",
+          "options": [
+            "Jose Rizal",
+            "Andres Bonifacio",
+            "Emilio Aguinaldo",
+            "Apolinario Mabini"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Emilio Aguinaldo declared Philippine Independence on June 12, 1898.",
+          "difficulty": "easy",
+          "topic": "Social Studies"
+        },
+        {
+          "id": "ele-gen-ss-002",
+          "question": "What is the longest river in the Philippines?",
+          "options": [
+            "Pasig River",
+            "Cagayan River",
+            "Agusan River",
+            "Pampanga River"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Cagayan River is the longest river in the Philippines at approximately 505 km.",
+          "difficulty": "medium",
+          "topic": "Social Studies"
+        },
+        {
+          "id": "ele-gen-ss-003",
+          "question": "What are the three branches of the Philippine government?",
+          "options": [
+            "Federal, State, Local",
+            "Executive, Legislative, Judicial",
+            "President, Senate, Courts",
+            "National, Regional, Municipal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The three branches are Executive (President), Legislative (Congress), and Judicial (Courts).",
+          "difficulty": "easy",
+          "topic": "Social Studies"
+        },
+        {
+          "id": "ele-gen-ss-004",
+          "question": "In what year was the EDSA People Power Revolution?",
+          "options": [
+            "1983",
+            "1986",
+            "1987",
+            "1990"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The EDSA People Power Revolution happened in February 1986.",
+          "difficulty": "easy",
+          "topic": "Social Studies"
+        },
+        {
+          "id": "ele-gen-ss-005",
+          "question": "What is the capital city of the Philippines?",
+          "options": [
+            "Quezon City",
+            "Makati",
+            "Manila",
+            "Cebu"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Manila is the capital city of the Philippines.",
+          "difficulty": "easy",
+          "topic": "Social Studies"
+        }
+      ]
+    },
+    {
+      "id": "literature",
+      "name": "Literature",
+      "questions": [
+        {
+          "id": "ele-gen-lit-001",
+          "question": "Who wrote 'Noli Me Tangere'?",
+          "options": [
+            "Andres Bonifacio",
+            "Jose Rizal",
+            "Marcelo H. del Pilar",
+            "Graciano Lopez Jaena"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jose Rizal wrote 'Noli Me Tangere' in 1887.",
+          "difficulty": "easy",
+          "topic": "Literature"
+        },
+        {
+          "id": "ele-gen-lit-002",
+          "question": "What is a haiku?",
+          "options": [
+            "A long narrative poem",
+            "A three-line poem with 5-7-5 syllable pattern",
+            "A rhyming couplet",
+            "A four-stanza poem"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A haiku is a Japanese poem with three lines following a 5-7-5 syllable pattern.",
+          "difficulty": "easy",
+          "topic": "Literature"
+        },
+        {
+          "id": "ele-gen-lit-003",
+          "question": "What literary device is used: 'The sun smiled down on us'?",
+          "options": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Hyperbole"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Personification gives human characteristics to non-human things. The sun cannot actually smile.",
+          "difficulty": "medium",
+          "topic": "Literature"
+        },
+        {
+          "id": "ele-gen-lit-004",
+          "question": "What is the climax of a story?",
+          "options": [
+            "The beginning",
+            "The turning point or most intense moment",
+            "The ending",
+            "The introduction of characters"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The climax is the turning point or most intense moment in a story.",
+          "difficulty": "easy",
+          "topic": "Literature"
+        },
+        {
+          "id": "ele-gen-lit-005",
+          "question": "Who is the protagonist in a story?",
+          "options": [
+            "The villain",
+            "The narrator",
+            "The main character",
+            "The supporting character"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The protagonist is the main character in a story.",
+          "difficulty": "easy",
+          "topic": "Literature"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30,
+  "note": "This is a sample with 5 questions per topic. Full version should have 150 questions total."
+}

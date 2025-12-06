@@ -1,0 +1,465 @@
+{
+  "subject": "Elementary - Special Education (SPED)",
+  "category": "elementary",
+  "subcategory": "sped",
+  "topics": [
+    {
+      "id": "special-needs",
+      "name": "Understanding Special Needs",
+      "questions": [
+        {
+          "id": "ele-sped-sn-001",
+          "question": "What does IEP stand for in special education?",
+          "options": [
+            "Integrated Education Plan",
+            "Individualized Education Program",
+            "Inclusive Education Practice",
+            "Independent Education Policy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "IEP stands for Individualized Education Program, a customized learning plan for examinees with special needs.",
+          "difficulty": "medium",
+          "topic": "Understanding Special Needs"
+        },
+        {
+          "id": "ele-sped-sn-002",
+          "question": "What is the main purpose of an IEP?",
+          "options": [
+            "To exclude examinees from regular classes",
+            "To provide individualized goals and services for examinees with disabilities",
+            "To label examinees",
+            "To reduce school funding"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An IEP provides tailored educational goals, accommodations, and services to meet the unique needs of examinees with disabilities.",
+          "difficulty": "easy",
+          "topic": "Understanding Special Needs"
+        },
+        {
+          "id": "ele-sped-sn-003",
+          "question": "What is 'LRE' in special education?",
+          "options": [
+            "Limited Resource Environment",
+            "Least Restrictive Environment",
+            "Local Resource Evaluation",
+            "Learning Readiness Examination"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Least Restrictive Environment means examinees with disabilities should be educated with non-disabled peers to the maximum extent appropriate.",
+          "difficulty": "medium",
+          "topic": "Understanding Special Needs"
+        },
+        {
+          "id": "ele-sped-sn-004",
+          "question": "What is 'mainstreaming' in special education?",
+          "options": [
+            "Separating special education examinees",
+            "Including examinees with disabilities in regular classrooms",
+            "Teaching only basic skills",
+            "Reducing curriculum standards"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mainstreaming is the practice of placing examinees with special needs in regular education classrooms for all or part of the day.",
+          "difficulty": "easy",
+          "topic": "Understanding Special Needs"
+        },
+        {
+          "id": "ele-sped-sn-005",
+          "question": "What is a '504 Plan'?",
+          "options": [
+            "A type of IEP",
+            "A plan providing accommodations for examinees with disabilities who don't qualify for special education",
+            "A classroom management plan",
+            "A grading system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A 504 Plan provides accommodations for examinees with disabilities under Section 504 of the Rehabilitation Act who don't need special education services.",
+          "difficulty": "medium",
+          "topic": "Understanding Special Needs"
+        }
+      ]
+    },
+    {
+      "id": "learning-disabilities",
+      "name": "Learning Disabilities",
+      "questions": [
+        {
+          "id": "ele-sped-ld-001",
+          "question": "What is dyslexia?",
+          "options": [
+            "A vision problem",
+            "A learning disorder affecting reading and language processing",
+            "An attention problem",
+            "A physical disability"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Dyslexia is a specific learning disability that affects reading, spelling, and language processing despite normal intelligence.",
+          "difficulty": "easy",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "ele-sped-ld-002",
+          "question": "What is dyscalculia?",
+          "options": [
+            "Difficulty with reading",
+            "Difficulty with mathematics and number concepts",
+            "Difficulty with writing",
+            "Difficulty with attention"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Dyscalculia is a specific learning disability affecting the ability to understand and work with numbers and mathematical concepts.",
+          "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "ele-sped-ld-003",
+          "question": "What is dysgraphia?",
+          "options": [
+            "Difficulty with reading",
+            "Difficulty with speaking",
+            "Difficulty with writing and fine motor skills",
+            "Difficulty with listening"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Dysgraphia is a learning disability that affects writing abilities, including handwriting, spelling, and organizing thoughts on paper.",
+          "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "ele-sped-ld-004",
+          "question": "What is ADHD?",
+          "options": [
+            "A learning disability only",
+            "Attention-Deficit/Hyperactivity Disorder affecting focus and behavior",
+            "A physical disability",
+            "A speech disorder"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ADHD is a neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity affecting learning and behavior.",
+          "difficulty": "easy",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "ele-sped-ld-005",
+          "question": "What is an 'auditory processing disorder'?",
+          "options": [
+            "Hearing loss",
+            "Difficulty processing and interpreting auditory information",
+            "A speech disorder",
+            "A vision problem"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Auditory processing disorder affects how the brain processes sounds, not hearing itself, making it difficult to distinguish similar sounds.",
+          "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        }
+      ]
+    },
+    {
+      "id": "behavioral-support",
+      "name": "Behavioral Support Strategies",
+      "questions": [
+        {
+          "id": "ele-sped-bs-001",
+          "question": "What is 'positive behavior support' (PBS)?",
+          "options": [
+            "Punishment-based approach",
+            "Proactive approach focusing on teaching appropriate behaviors",
+            "Ignoring all behaviors",
+            "Isolating examinees"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PBS is a proactive, evidence-based approach that teaches and reinforces positive behaviors rather than simply punishing negative ones.",
+          "difficulty": "easy",
+          "topic": "Behavioral Support Strategies"
+        },
+        {
+          "id": "ele-sped-bs-002",
+          "question": "What is a 'behavior intervention plan' (BIP)?",
+          "options": [
+            "A punishment schedule",
+            "A plan outlining strategies to address challenging behaviors",
+            "A seating chart",
+            "A grading rubric"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A BIP is a detailed plan with strategies, supports, and interventions to address specific challenging behaviors.",
+          "difficulty": "medium",
+          "topic": "Behavioral Support Strategies"
+        },
+        {
+          "id": "ele-sped-bs-003",
+          "question": "What is 'functional behavior assessment' (FBA)?",
+          "options": [
+            "A standardized test",
+            "A process to understand the purpose and triggers of behaviors",
+            "A fitness assessment",
+            "A classroom observation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "FBA is a systematic process to identify the function, antecedents, and consequences of challenging behaviors.",
+          "difficulty": "medium",
+          "topic": "Behavioral Support Strategies"
+        },
+        {
+          "id": "ele-sped-bs-004",
+          "question": "What are 'visual supports' in special education?",
+          "options": [
+            "Eyeglasses",
+            "Pictures, symbols, or schedules to aid understanding and communication",
+            "Classroom decorations",
+            "Videos"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Visual supports use pictures, symbols, schedules, and other visual aids to help examinees understand expectations and routines.",
+          "difficulty": "easy",
+          "topic": "Behavioral Support Strategies"
+        },
+        {
+          "id": "ele-sped-bs-005",
+          "question": "What is 'token economy' in behavior management?",
+          "options": [
+            "Teaching money skills",
+            "A system where examinees earn tokens for positive behaviors to exchange for rewards",
+            "A banking system",
+            "A punishment method"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Token economy is a reinforcement system where examinees earn tokens for appropriate behaviors that can be exchanged for preferred items or activities.",
+          "difficulty": "medium",
+          "topic": "Behavioral Support Strategies"
+        }
+      ]
+    },
+    {
+      "id": "instructional-strategies",
+      "name": "Instructional Strategies for SPED",
+      "questions": [
+        {
+          "id": "ele-sped-is-001",
+          "question": "What is 'differentiated instruction' in special education?",
+          "options": [
+            "Teaching only one way",
+            "Adapting instruction to meet diverse learning needs",
+            "Lowering expectations",
+            "Separating examinees by ability"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Differentiated instruction involves modifying content, process, product, or environment to meet individual examinee needs.",
+          "difficulty": "easy",
+          "topic": "Instructional Strategies for SPED"
+        },
+        {
+          "id": "ele-sped-is-002",
+          "question": "What are 'accommodations' in special education?",
+          "options": [
+            "Changing what is taught",
+            "Changes in how examinees access learning without altering content",
+            "Extra homework",
+            "Separate classrooms"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Accommodations are changes in how examinees access and demonstrate learning (e.g., extended time, audio books) without changing content.",
+          "difficulty": "medium",
+          "topic": "Instructional Strategies for SPED"
+        },
+        {
+          "id": "ele-sped-is-003",
+          "question": "What are 'modifications' in special education?",
+          "options": [
+            "Same as accommodations",
+            "Changes in what is taught or expected",
+            "Classroom decorations",
+            "Seating arrangements"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Modifications change the content, curriculum, or performance expectations to match the examinee's ability level.",
+          "difficulty": "medium",
+          "topic": "Instructional Strategies for SPED"
+        },
+        {
+          "id": "ele-sped-is-004",
+          "question": "What is 'task analysis' in special education?",
+          "options": [
+            "Analyzing test scores",
+            "Breaking complex tasks into smaller, sequential steps",
+            "Assigning tasks",
+            "Grading assignments"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Task analysis involves breaking down complex skills or activities into smaller, teachable steps for easier learning.",
+          "difficulty": "easy",
+          "topic": "Instructional Strategies for SPED"
+        },
+        {
+          "id": "ele-sped-is-005",
+          "question": "What is 'scaffolding' in special education instruction?",
+          "options": [
+            "Building structures",
+            "Providing temporary support that is gradually removed",
+            "Permanent assistance",
+            "Physical support"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding provides temporary instructional support that is gradually faded as the examinee gains independence.",
+          "difficulty": "medium",
+          "topic": "Instructional Strategies for SPED"
+        }
+      ]
+    },
+    {
+      "id": "communication-disorders",
+      "name": "Communication Disorders",
+      "questions": [
+        {
+          "id": "ele-sped-cd-001",
+          "question": "What is a 'speech disorder'?",
+          "options": [
+            "Difficulty understanding language",
+            "Difficulty producing speech sounds correctly",
+            "Difficulty reading",
+            "Difficulty writing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A speech disorder involves difficulty producing speech sounds correctly or fluently, or problems with voice.",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "ele-sped-cd-002",
+          "question": "What is a 'language disorder'?",
+          "options": [
+            "Only pronunciation problems",
+            "Difficulty understanding or using spoken, written, or other language forms",
+            "Only reading problems",
+            "Only writing problems"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A language disorder affects the ability to understand others (receptive) or express thoughts (expressive) through language.",
+          "difficulty": "medium",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "ele-sped-cd-003",
+          "question": "What is 'articulation disorder'?",
+          "options": [
+            "Difficulty with grammar",
+            "Difficulty producing specific speech sounds correctly",
+            "Difficulty with fluency",
+            "Difficulty with voice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Articulation disorder involves difficulty making specific speech sounds, like substituting, omitting, or distorting sounds.",
+          "difficulty": "medium",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "ele-sped-cd-004",
+          "question": "What is 'augmentative and alternative communication' (AAC)?",
+          "options": [
+            "Speech therapy only",
+            "Tools and strategies to supplement or replace speech",
+            "Computer classes",
+            "Foreign language instruction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "AAC includes all forms of communication other than oral speech, such as sign language, picture boards, or speech-generating devices.",
+          "difficulty": "medium",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "ele-sped-cd-005",
+          "question": "What is 'stuttering'?",
+          "options": [
+            "A language disorder",
+            "A fluency disorder with disruptions in speech flow",
+            "An articulation problem",
+            "A voice disorder"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Stuttering is a fluency disorder characterized by repetitions, prolongations, or blocks that disrupt the flow of speech.",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        }
+      ]
+    },
+    {
+      "id": "collaboration",
+      "name": "Collaboration and Teamwork",
+      "questions": [
+        {
+          "id": "ele-sped-col-001",
+          "question": "Why is collaboration important in special education?",
+          "options": [
+            "It's not important",
+            "Multiple professionals provide comprehensive support",
+            "To reduce teacher responsibility",
+            "Only for administrative purposes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Collaboration among teachers, specialists, families, and examinees ensures comprehensive, coordinated support for examinees with special needs.",
+          "difficulty": "easy",
+          "topic": "Collaboration and Teamwork"
+        },
+        {
+          "id": "ele-sped-col-002",
+          "question": "What is 'co-teaching' in special education?",
+          "options": [
+            "One teacher working alone",
+            "General and special education teachers working together",
+            "Examinees teaching each other",
+            "Parent volunteers teaching"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Co-teaching involves general and special education teachers jointly planning and teaching in the same classroom.",
+          "difficulty": "easy",
+          "topic": "Collaboration and Teamwork"
+        },
+        {
+          "id": "ele-sped-col-003",
+          "question": "What is a 'multidisciplinary team' in special education?",
+          "options": [
+            "Only teachers",
+            "Professionals from various fields working together",
+            "Only administrators",
+            "Only parents"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A multidisciplinary team includes professionals from various fields (teachers, therapists, psychologists, etc.) who work together.",
+          "difficulty": "medium",
+          "topic": "Collaboration and Teamwork"
+        },
+        {
+          "id": "ele-sped-col-004",
+          "question": "Why is family involvement crucial in special education?",
+          "options": [
+            "It's not important",
+            "Families provide essential information and support continuity",
+            "Only for legal requirements",
+            "To reduce school responsibility"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Family involvement is critical as they know their child best and ensure consistency between home and school.",
+          "difficulty": "easy",
+          "topic": "Collaboration and Teamwork"
+        },
+        {
+          "id": "ele-sped-col-005",
+          "question": "What is 'transition planning' in special education?",
+          "options": [
+            "Moving classrooms",
+            "Planning for changes between programs or life stages",
+            "Daily schedule",
+            "Lunch planning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Transition planning involves preparing for major changes like moving between grade levels, schools, or to post-school life.",
+          "difficulty": "medium",
+          "topic": "Collaboration and Teamwork"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30,
+  "note": "Comprehensive questions for Special Education (SPED) - Add 120 more for full 150 implementation"
+}

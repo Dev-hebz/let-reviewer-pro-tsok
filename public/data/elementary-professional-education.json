@@ -1,0 +1,617 @@
+{
+  "subject": "Elementary - Professional Education",
+  "category": "elementary",
+  "subcategory": "professional-education",
+  "topics": [
+    {
+      "id": "teaching-profession",
+      "name": "The Teaching Profession",
+      "questions": [
+        {
+          "id": "ele-prof-tp-001",
+          "question": "What is the primary purpose of the Code of Ethics for Professional Teachers?",
+          "options": [
+            "To increase teacher salaries",
+            "To guide teachers' professional conduct and responsibilities",
+            "To evaluate student performance",
+            "To create lesson plans"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Code of Ethics guides teachers in maintaining professional standards and ethical behavior in their practice.",
+          "difficulty": "medium",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "ele-prof-tp-002",
+          "question": "According to RA 7836, what is required to practice teaching in the Philippines?",
+          "options": [
+            "Bachelor's degree only",
+            "Valid Professional License",
+            "Master's degree",
+            "5 years experience"
+          ],
+          "correctAnswer": 1,
+          "explanation": "RA 7836 (Philippine Teachers Professionalization Act) requires a valid license to practice teaching.",
+          "difficulty": "easy",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "ele-prof-tp-003",
+          "question": "What does professional development for teachers aim to achieve?",
+          "options": [
+            "Higher salary",
+            "Continuous improvement of teaching skills and knowledge",
+            "More vacation time",
+            "Less work hours"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Professional development focuses on continuously improving teaching effectiveness and staying current with educational practices.",
+          "difficulty": "easy",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "ele-prof-tp-004",
+          "question": "Which of the following is NOT a characteristic of a professional teacher?",
+          "options": [
+            "Commitment to lifelong learning",
+            "Ethical conduct",
+            "Self-centered approach",
+            "Dedication to students"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Professional teachers are student-centered, not self-centered, in their approach to teaching.",
+          "difficulty": "easy",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "ele-prof-tp-005",
+          "question": "What is academic freedom in teaching?",
+          "options": [
+            "Freedom to skip classes",
+            "Freedom to teach according to professional judgment within curriculum guidelines",
+            "Freedom from evaluations",
+            "Freedom to ignore school policies"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Academic freedom allows teachers to use professional judgment in teaching methods while adhering to curriculum standards.",
+          "difficulty": "medium",
+          "topic": "The Teaching Profession"
+        }
+      ]
+    },
+    {
+      "id": "facilitating-learning",
+      "name": "Facilitating Learning",
+      "questions": [
+        {
+          "id": "ele-prof-fl-001",
+          "question": "What is the main role of a teacher as a facilitator?",
+          "options": [
+            "To lecture all the time",
+            "To guide and support student learning",
+            "To give grades only",
+            "To discipline students"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A facilitator guides students in constructing their own knowledge rather than just transmitting information.",
+          "difficulty": "easy",
+          "topic": "Facilitating Learning"
+        },
+        {
+          "id": "ele-prof-fl-002",
+          "question": "Which learning theory emphasizes that students construct knowledge through experience?",
+          "options": [
+            "Behaviorism",
+            "Constructivism",
+            "Traditionalism",
+            "Absolutism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Constructivism holds that learners actively construct knowledge through their experiences and interactions.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning"
+        },
+        {
+          "id": "ele-prof-fl-003",
+          "question": "What is scaffolding in education?",
+          "options": [
+            "Building school facilities",
+            "Temporary support to help students reach higher levels of understanding",
+            "Punishment system",
+            "Grading system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding is temporary, adjustable support that helps students achieve tasks they couldn't do independently.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning"
+        },
+        {
+          "id": "ele-prof-fl-004",
+          "question": "What does differentiated instruction mean?",
+          "options": [
+            "Teaching only gifted students",
+            "Adapting instruction to meet diverse student needs",
+            "Using one teaching method for all",
+            "Separating students by ability permanently"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Differentiated instruction involves modifying content, process, and products to accommodate different learning needs.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning"
+        },
+        {
+          "id": "ele-prof-fl-005",
+          "question": "What is cooperative learning?",
+          "options": [
+            "Students working individually",
+            "Students working in groups toward common goals",
+            "Teacher-centered instruction",
+            "Competitive learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cooperative learning involves students working together in small groups to maximize their own and each other's learning.",
+          "difficulty": "easy",
+          "topic": "Facilitating Learning"
+        }
+      ]
+    },
+    {
+      "id": "child-development",
+      "name": "Child and Adolescent Development",
+      "questions": [
+        {
+          "id": "ele-prof-cd-001",
+          "question": "According to Piaget, at what stage do children develop abstract thinking?",
+          "options": [
+            "Sensorimotor",
+            "Preoperational",
+            "Concrete Operational",
+            "Formal Operational"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The Formal Operational stage (11+ years) is when abstract, hypothetical thinking develops.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "ele-prof-cd-002",
+          "question": "What is the Zone of Proximal Development (ZPD)?",
+          "options": [
+            "Tasks a child can do alone",
+            "Tasks beyond a child's capability",
+            "The gap between what a child can do alone and with help",
+            "The physical space for learning"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Vygotsky's ZPD is the range between what learners can do independently and what they can achieve with guidance.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "ele-prof-cd-003",
+          "question": "What is a key characteristic of Erik Erikson's psychosocial development theory?",
+          "options": [
+            "Focuses only on childhood",
+            "Emphasizes crisis resolution at each stage",
+            "Ignores social factors",
+            "Only applies to adolescents"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Erikson's theory proposes eight psychosocial stages, each with a crisis that must be resolved for healthy development.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "ele-prof-cd-004",
+          "question": "At what age do children typically develop object permanence?",
+          "options": [
+            "Birth",
+            "6-8 months",
+            "2-3 years",
+            "5-6 years"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Object permanence, understanding that objects continue to exist when out of sight, develops around 6-8 months.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "ele-prof-cd-005",
+          "question": "What is parallel play?",
+          "options": [
+            "Children playing together cooperatively",
+            "Children playing alone without awareness of others",
+            "Children playing alongside each other without interaction",
+            "Children competing in games"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Parallel play occurs when children play side-by-side with similar toys but don't interact, typical of toddlers.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        }
+      ]
+    },
+    {
+      "id": "curriculum-development",
+      "name": "Curriculum Development",
+      "questions": [
+        {
+          "id": "ele-prof-curr-001",
+          "question": "What does K-12 curriculum stand for?",
+          "options": [
+            "Knowledge to 12th grade",
+            "Kindergarten to Grade 12",
+            "Kids 12 years old",
+            "Korean 12 system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "K-12 refers to the educational system from Kindergarten through Grade 12.",
+          "difficulty": "easy",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "ele-prof-curr-002",
+          "question": "What is the spiral progression approach in curriculum?",
+          "options": [
+            "Teaching topics once only",
+            "Revisiting topics at increasing levels of complexity",
+            "Teaching in circles",
+            "Random topic selection"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Spiral progression involves teaching concepts repeatedly at increasing depth and complexity as students advance.",
+          "difficulty": "medium",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "ele-prof-curr-003",
+          "question": "What does 'hidden curriculum' refer to?",
+          "options": [
+            "Secret lessons",
+            "Unofficial lessons and values learned in school",
+            "Lost lesson plans",
+            "Advanced topics"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Hidden curriculum refers to unintended lessons, values, and perspectives learned through school culture and interactions.",
+          "difficulty": "medium",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "ele-prof-curr-004",
+          "question": "What is the purpose of learning competencies in curriculum?",
+          "options": [
+            "To increase difficulty",
+            "To specify what students should know and be able to do",
+            "To reduce teaching time",
+            "To eliminate assessments"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Learning competencies define the knowledge, skills, and attitudes students should demonstrate after instruction.",
+          "difficulty": "easy",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "ele-prof-curr-005",
+          "question": "What is curriculum integration?",
+          "options": [
+            "Teaching subjects separately",
+            "Connecting learning across different subjects",
+            "Adding more subjects",
+            "Reducing subject content"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Curriculum integration involves organizing teaching to make connections between different subject areas for more meaningful learning.",
+          "difficulty": "medium",
+          "topic": "Curriculum Development"
+        }
+      ]
+    },
+    {
+      "id": "assessment-learning",
+      "name": "Assessment of Learning",
+      "questions": [
+        {
+          "id": "ele-prof-assess-001",
+          "question": "What is formative assessment?",
+          "options": [
+            "Final exam only",
+            "Ongoing assessment during learning to guide instruction",
+            "Assessment for grades only",
+            "Year-end testing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Formative assessment is ongoing evaluation used to monitor student learning and adjust teaching strategies.",
+          "difficulty": "easy",
+          "topic": "Assessment of Learning"
+        },
+        {
+          "id": "ele-prof-assess-002",
+          "question": "What is the difference between assessment OF learning and assessment FOR learning?",
+          "options": [
+            "No difference",
+            "OF is summative/final, FOR is formative/ongoing",
+            "OF is easy, FOR is hard",
+            "OF is for students, FOR is for teachers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Assessment OF learning is summative (evaluating achievement), while assessment FOR learning is formative (guiding instruction).",
+          "difficulty": "medium",
+          "topic": "Assessment of Learning"
+        },
+        {
+          "id": "ele-prof-assess-003",
+          "question": "What does validity in assessment mean?",
+          "options": [
+            "The test is difficult",
+            "The test measures what it intends to measure",
+            "The test is long",
+            "The test is expensive"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Validity refers to whether an assessment accurately measures the intended learning outcomes.",
+          "difficulty": "medium",
+          "topic": "Assessment of Learning"
+        },
+        {
+          "id": "ele-prof-assess-004",
+          "question": "What is a rubric?",
+          "options": [
+            "A type of test",
+            "A scoring guide with criteria and performance levels",
+            "A textbook",
+            "A classroom rule"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A rubric is a scoring tool that lists criteria and describes levels of quality for student work.",
+          "difficulty": "easy",
+          "topic": "Assessment of Learning"
+        },
+        {
+          "id": "ele-prof-assess-005",
+          "question": "What is authentic assessment?",
+          "options": [
+            "Multiple choice tests",
+            "Assessment of real-world application of knowledge and skills",
+            "True or false tests",
+            "Memorization tests"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Authentic assessment evaluates students' ability to apply knowledge and skills to real-world situations.",
+          "difficulty": "medium",
+          "topic": "Assessment of Learning"
+        }
+      ]
+    },
+    {
+      "id": "educational-technology",
+      "name": "Educational Technology",
+      "questions": [
+        {
+          "id": "ele-prof-edtech-001",
+          "question": "What does ICT stand for in education?",
+          "options": [
+            "International Computer Training",
+            "Information and Communication Technology",
+            "Internet Classroom Teaching",
+            "Integrated Computer Tools"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ICT stands for Information and Communication Technology, tools used to handle information and aid communication.",
+          "difficulty": "easy",
+          "topic": "Educational Technology"
+        },
+        {
+          "id": "ele-prof-edtech-002",
+          "question": "What is blended learning?",
+          "options": [
+            "Only online learning",
+            "Only face-to-face learning",
+            "Combination of online and face-to-face instruction",
+            "Learning without technology"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Blended learning integrates online educational materials and interaction with traditional classroom methods.",
+          "difficulty": "easy",
+          "topic": "Educational Technology"
+        },
+        {
+          "id": "ele-prof-edtech-003",
+          "question": "What is the SAMR model in educational technology?",
+          "options": [
+            "A grading system",
+            "A framework for integrating technology (Substitution, Augmentation, Modification, Redefinition)",
+            "A type of software",
+            "A teaching strategy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "SAMR is a framework describing four levels of technology integration in learning, from basic substitution to transformation.",
+          "difficulty": "hard",
+          "topic": "Educational Technology"
+        },
+        {
+          "id": "ele-prof-edtech-004",
+          "question": "What is digital literacy?",
+          "options": [
+            "Reading books on tablets",
+            "The ability to effectively use, understand, and create digital content",
+            "Typing speed",
+            "Computer programming"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Digital literacy encompasses the skills needed to find, evaluate, create, and communicate information using digital technologies.",
+          "difficulty": "medium",
+          "topic": "Educational Technology"
+        },
+        {
+          "id": "ele-prof-edtech-005",
+          "question": "What is an LMS (Learning Management System)?",
+          "options": [
+            "A hardware device",
+            "Software platform for delivering and managing educational content",
+            "A teaching method",
+            "A type of classroom"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An LMS is software that administers, documents, tracks, and delivers educational courses or training programs.",
+          "difficulty": "easy",
+          "topic": "Educational Technology"
+        }
+      ]
+    },
+    {
+      "id": "social-dimensions",
+      "name": "Social Dimensions of Education",
+      "questions": [
+        {
+          "id": "ele-prof-social-001",
+          "question": "What is inclusive education?",
+          "options": [
+            "Education only for gifted students",
+            "Education that accommodates all students regardless of abilities or differences",
+            "Private school education",
+            "Online education only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inclusive education ensures all students, regardless of physical, intellectual, social, or linguistic differences, learn together.",
+          "difficulty": "easy",
+          "topic": "Social Dimensions of Education"
+        },
+        {
+          "id": "ele-prof-social-002",
+          "question": "What does multicultural education promote?",
+          "options": [
+            "Single culture dominance",
+            "Recognition and appreciation of cultural diversity",
+            "Segregation",
+            "Uniformity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Multicultural education values and integrates diverse cultural perspectives in teaching and learning.",
+          "difficulty": "easy",
+          "topic": "Social Dimensions of Education"
+        },
+        {
+          "id": "ele-prof-social-003",
+          "question": "What is the purpose of gender-fair education?",
+          "options": [
+            "To favor one gender",
+            "To eliminate gender stereotypes and promote equality",
+            "To separate boys and girls",
+            "To focus only on girls"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gender-fair education works to eliminate gender bias and stereotypes, ensuring equal opportunities for all students.",
+          "difficulty": "medium",
+          "topic": "Social Dimensions of Education"
+        },
+        {
+          "id": "ele-prof-social-004",
+          "question": "What is social justice in education?",
+          "options": [
+            "Equal punishment for all",
+            "Fair distribution of resources and opportunities for all students",
+            "Competitive grading",
+            "Merit-based exclusion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Social justice in education means ensuring equitable access to quality education and resources for all students.",
+          "difficulty": "medium",
+          "topic": "Social Dimensions of Education"
+        },
+        {
+          "id": "ele-prof-social-005",
+          "question": "What is the role of education in poverty alleviation?",
+          "options": [
+            "No connection",
+            "Provides knowledge and skills for economic opportunities",
+            "Only provides certificates",
+            "Creates more poverty"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Education equips individuals with knowledge and skills needed to access better economic opportunities and break the poverty cycle.",
+          "difficulty": "easy",
+          "topic": "Social Dimensions of Education"
+        }
+      ]
+    },
+    {
+      "id": "field-study",
+      "name": "Field Study and Practice Teaching",
+      "questions": [
+        {
+          "id": "ele-prof-field-001",
+          "question": "What is the main purpose of field study in teacher education?",
+          "options": [
+            "To observe and analyze actual classroom practices",
+            "To substitute regular classes",
+            "To avoid theory classes",
+            "To grade teachers"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Field study allows pre-service teachers to observe, analyze, and reflect on real classroom situations.",
+          "difficulty": "easy",
+          "topic": "Field Study and Practice Teaching"
+        },
+        {
+          "id": "ele-prof-field-002",
+          "question": "What is action research in education?",
+          "options": [
+            "Physical activities",
+            "Systematic inquiry to improve teaching practice",
+            "Acting lessons",
+            "Sports research"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Action research is a reflective process where teachers investigate their own practice to improve student learning.",
+          "difficulty": "medium",
+          "topic": "Field Study and Practice Teaching"
+        },
+        {
+          "id": "ele-prof-field-003",
+          "question": "What is reflective teaching?",
+          "options": [
+            "Teaching in front of mirrors",
+            "Critically analyzing one's teaching to improve practice",
+            "Copying other teachers",
+            "Following scripts exactly"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reflective teaching involves examining teaching methods and their effectiveness to continuously improve practice.",
+          "difficulty": "medium",
+          "topic": "Field Study and Practice Teaching"
+        },
+        {
+          "id": "ele-prof-field-004",
+          "question": "What is the purpose of a teaching demonstration?",
+          "options": [
+            "To show off",
+            "To showcase teaching skills and receive feedback",
+            "To compete with others",
+            "To fill time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teaching demonstrations allow pre-service teachers to apply pedagogical knowledge and receive constructive feedback.",
+          "difficulty": "easy",
+          "topic": "Field Study and Practice Teaching"
+        },
+        {
+          "id": "ele-prof-field-005",
+          "question": "What is a lesson plan?",
+          "options": [
+            "A daily schedule",
+            "A detailed guide for implementing instruction",
+            "A list of assignments",
+            "A classroom seating chart"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A lesson plan is a teacher's detailed description of the course of instruction for a lesson.",
+          "difficulty": "easy",
+          "topic": "Field Study and Practice Teaching"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 40,
+  "note": "This is a sample with 5 questions per topic. Full version should have 150 questions total."
+}

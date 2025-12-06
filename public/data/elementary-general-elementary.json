@@ -1,0 +1,465 @@
+{
+  "subject": "Elementary - General Elementary",
+  "category": "elementary",
+  "subcategory": "general-elementary",
+  "topics": [
+    {
+      "id": "child-psychology",
+      "name": "Child Psychology",
+      "questions": [
+        {
+          "id": "ele-gen-cp-001",
+          "question": "According to Piaget, at what stage do children begin to think logically about concrete events?",
+          "options": [
+            "Sensorimotor Stage",
+            "Preoperational Stage",
+            "Concrete Operational Stage",
+            "Formal Operational Stage"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Concrete Operational Stage (ages 7-11) is when children develop logical thinking about concrete events and can perform operations on tangible objects.",
+          "difficulty": "medium",
+          "topic": "Child Psychology"
+        },
+        {
+          "id": "ele-gen-cp-002",
+          "question": "What is the primary focus of Erik Erikson's psychosocial development theory for elementary-aged children?",
+          "options": [
+            "Trust vs. Mistrust",
+            "Autonomy vs. Shame",
+            "Industry vs. Inferiority",
+            "Identity vs. Role Confusion"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Industry vs. Inferiority (ages 6-12) is the stage where children develop competence and learn to work with others, which is crucial for elementary education.",
+          "difficulty": "medium",
+          "topic": "Child Psychology"
+        },
+        {
+          "id": "ele-gen-cp-003",
+          "question": "What does 'scaffolding' mean in Vygotsky's theory of learning?",
+          "options": [
+            "Building physical structures for learning",
+            "Providing temporary support that is gradually removed",
+            "Creating permanent support systems",
+            "Testing children's abilities"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding refers to the temporary support provided by teachers or peers that is gradually withdrawn as the learner becomes more competent.",
+          "difficulty": "easy",
+          "topic": "Child Psychology"
+        },
+        {
+          "id": "ele-gen-cp-004",
+          "question": "What is the Zone of Proximal Development (ZPD)?",
+          "options": [
+            "The area where children cannot learn anything",
+            "The difference between what a child can do alone and with help",
+            "The physical space needed for learning",
+            "The time period for optimal learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ZPD is the gap between what a learner can do independently and what they can achieve with guidance from a more knowledgeable person.",
+          "difficulty": "medium",
+          "topic": "Child Psychology"
+        },
+        {
+          "id": "ele-gen-cp-005",
+          "question": "Which learning style involves learning through physical movement and hands-on activities?",
+          "options": [
+            "Visual learners",
+            "Auditory learners",
+            "Kinesthetic learners",
+            "Reading/Writing learners"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Kinesthetic learners learn best through physical activities, movement, and hands-on experiences.",
+          "difficulty": "easy",
+          "topic": "Child Psychology"
+        }
+      ]
+    },
+    {
+      "id": "classroom-management",
+      "name": "Classroom Management",
+      "questions": [
+        {
+          "id": "ele-gen-cm-001",
+          "question": "What is the most effective approach to managing elementary classroom behavior?",
+          "options": [
+            "Strict punishment for all misbehavior",
+            "Ignoring all negative behaviors",
+            "Positive reinforcement and clear expectations",
+            "Allowing complete freedom"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Positive reinforcement combined with clear, consistent expectations creates the most effective learning environment for elementary examinees.",
+          "difficulty": "easy",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "ele-gen-cm-002",
+          "question": "What does 'proximity control' mean in classroom management?",
+          "options": [
+            "Keeping examinees far from the teacher",
+            "Using the teacher's physical presence to influence behavior",
+            "Controlling the temperature in the classroom",
+            "Managing seating arrangements"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Proximity control involves strategically positioning yourself near examinees to prevent or address behavioral issues without verbal intervention.",
+          "difficulty": "medium",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "ele-gen-cm-003",
+          "question": "What is the purpose of establishing routines in an elementary classroom?",
+          "options": [
+            "To make teaching easier for the teacher only",
+            "To waste time",
+            "To provide structure, predictability, and reduce behavioral issues",
+            "To make examinees work harder"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Routines provide structure and predictability, which helps children feel secure and reduces time spent on transitions and behavioral management.",
+          "difficulty": "easy",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "ele-gen-cm-004",
+          "question": "Which strategy is most effective for dealing with disruptive behavior?",
+          "options": [
+            "Public humiliation",
+            "Private conversation with the examinee",
+            "Immediate expulsion",
+            "Ignoring it completely"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Private conversations maintain the examinee's dignity while addressing the behavior directly and allow for understanding the root cause.",
+          "difficulty": "medium",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "ele-gen-cm-005",
+          "question": "What is 'time-on-task' in classroom management?",
+          "options": [
+            "The time examinees spend on homework",
+            "The amount of time examinees are actively engaged in learning",
+            "Break time between classes",
+            "Teacher preparation time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Time-on-task refers to the amount of time examinees are actively and productively engaged in learning activities.",
+          "difficulty": "easy",
+          "topic": "Classroom Management"
+        }
+      ]
+    },
+    {
+      "id": "teaching-methods",
+      "name": "Teaching Methods",
+      "questions": [
+        {
+          "id": "ele-gen-tm-001",
+          "question": "What is the main advantage of cooperative learning?",
+          "options": [
+            "It reduces teacher workload",
+            "Examinees learn from each other and develop social skills",
+            "It requires no planning",
+            "It eliminates the need for assessment"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cooperative learning promotes peer interaction, social skill development, and deeper understanding through discussion and collaboration.",
+          "difficulty": "easy",
+          "topic": "Teaching Methods"
+        },
+        {
+          "id": "ele-gen-tm-002",
+          "question": "What is 'differentiated instruction'?",
+          "options": [
+            "Teaching only advanced examinees",
+            "Using different textbooks",
+            "Tailoring instruction to meet individual examinee needs",
+            "Separating examinees by ability"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Differentiated instruction involves adapting teaching methods, materials, and assessments to accommodate diverse learner needs and abilities.",
+          "difficulty": "medium",
+          "topic": "Teaching Methods"
+        },
+        {
+          "id": "ele-gen-tm-003",
+          "question": "What is the 'K-W-L' strategy used for?",
+          "options": [
+            "Behavior management",
+            "Activating prior knowledge and setting learning goals",
+            "Grading examinees",
+            "Parent communication"
+          ],
+          "correctAnswer": 1,
+          "explanation": "K-W-L stands for 'What I Know, What I Want to know, What I Learned' - a strategy for activating prior knowledge and guiding inquiry.",
+          "difficulty": "medium",
+          "topic": "Teaching Methods"
+        },
+        {
+          "id": "ele-gen-tm-004",
+          "question": "What is 'inquiry-based learning'?",
+          "options": [
+            "Teacher lectures only",
+            "Examinees asking questions and investigating to find answers",
+            "Memorizing facts",
+            "Silent reading"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inquiry-based learning engages examinees in formulating questions, investigating, and constructing their own understanding.",
+          "difficulty": "easy",
+          "topic": "Teaching Methods"
+        },
+        {
+          "id": "ele-gen-tm-005",
+          "question": "Why is 'wait time' important after asking a question?",
+          "options": [
+            "To give the teacher a break",
+            "To allow examinees time to think and formulate responses",
+            "To waste time",
+            "To confuse examinees"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Wait time (3-5 seconds) allows examinees to process the question, think critically, and formulate thoughtful responses.",
+          "difficulty": "easy",
+          "topic": "Teaching Methods"
+        }
+      ]
+    },
+    {
+      "id": "assessment",
+      "name": "Assessment and Evaluation",
+      "questions": [
+        {
+          "id": "ele-gen-as-001",
+          "question": "What is the difference between formative and summative assessment?",
+          "options": [
+            "No difference",
+            "Formative is ongoing feedback; summative evaluates final learning",
+            "Formative is harder than summative",
+            "Summative comes before formative"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Formative assessment provides ongoing feedback during learning, while summative assessment evaluates learning at the end of instruction.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "ele-gen-as-002",
+          "question": "What is 'authentic assessment'?",
+          "options": [
+            "Multiple choice tests only",
+            "Real-world tasks that demonstrate meaningful application",
+            "Standardized tests",
+            "Pop quizzes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Authentic assessment requires examinees to apply knowledge and skills to real-world, meaningful tasks rather than artificial test situations.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "ele-gen-as-003",
+          "question": "What is a 'rubric'?",
+          "options": [
+            "A type of pencil",
+            "A scoring guide with criteria for evaluating examinee work",
+            "A classroom rule",
+            "A type of test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A rubric is a scoring tool that lists criteria and describes levels of performance quality for assessing examinee work.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "ele-gen-as-004",
+          "question": "What is 'portfolio assessment'?",
+          "options": [
+            "A single test score",
+            "A collection of examinee work showing growth over time",
+            "A folder for storing papers",
+            "A type of standardized test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Portfolio assessment involves collecting and evaluating a purposeful selection of examinee work to demonstrate progress and achievement.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "ele-gen-as-005",
+          "question": "What does 'validity' mean in assessment?",
+          "options": [
+            "The test is easy to grade",
+            "The test measures what it intends to measure",
+            "The test is difficult",
+            "The test takes a long time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Validity refers to whether an assessment accurately measures the intended learning outcomes or skills.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        }
+      ]
+    },
+    {
+      "id": "literacy-development",
+      "name": "Literacy Development",
+      "questions": [
+        {
+          "id": "ele-gen-ld-001",
+          "question": "What are the five essential components of reading instruction?",
+          "options": [
+            "Reading, writing, speaking, listening, viewing",
+            "Phonemic awareness, phonics, fluency, vocabulary, comprehension",
+            "Books, pencils, paper, desks, teachers",
+            "Nouns, verbs, adjectives, adverbs, pronouns"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The five pillars of reading are phonemic awareness, phonics, fluency, vocabulary, and comprehension as identified by the National Reading Panel.",
+          "difficulty": "medium",
+          "topic": "Literacy Development"
+        },
+        {
+          "id": "ele-gen-ld-002",
+          "question": "What is 'phonemic awareness'?",
+          "options": [
+            "Knowing letter names",
+            "The ability to hear, identify, and manipulate individual sounds",
+            "Reading fluently",
+            "Understanding word meanings"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Phonemic awareness is the ability to recognize and manipulate individual sounds (phonemes) in spoken words.",
+          "difficulty": "easy",
+          "topic": "Literacy Development"
+        },
+        {
+          "id": "ele-gen-ld-003",
+          "question": "What is the 'gradual release of responsibility' model?",
+          "options": [
+            "Examinees teach themselves from day one",
+            "Teacher never helps examinees",
+            "I do, We do, You do - moving from teacher-led to independent",
+            "Only homework, no classroom teaching"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The gradual release model moves from teacher modeling (I do), to guided practice (We do), to independent practice (You do).",
+          "difficulty": "medium",
+          "topic": "Literacy Development"
+        },
+        {
+          "id": "ele-gen-ld-004",
+          "question": "What is 'emergent literacy'?",
+          "options": [
+            "Advanced reading skills",
+            "The early reading and writing behaviors that precede conventional literacy",
+            "Computer literacy",
+            "Only for gifted examinees"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Emergent literacy refers to the knowledge, skills, and attitudes that are developmental precursors to conventional reading and writing.",
+          "difficulty": "medium",
+          "topic": "Literacy Development"
+        },
+        {
+          "id": "ele-gen-ld-005",
+          "question": "Why is reading aloud to children important?",
+          "options": [
+            "It's just entertainment",
+            "It develops listening skills, vocabulary, comprehension, and love of reading",
+            "It wastes instructional time",
+            "Only parents should do it"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reading aloud exposes children to rich vocabulary, story structure, comprehension strategies, and fosters a love of reading.",
+          "difficulty": "easy",
+          "topic": "Literacy Development"
+        }
+      ]
+    },
+    {
+      "id": "mathematics-education",
+      "name": "Mathematics Education",
+      "questions": [
+        {
+          "id": "ele-gen-me-001",
+          "question": "What is 'number sense'?",
+          "options": [
+            "Memorizing math facts",
+            "Understanding numbers, their relationships, and operations",
+            "Counting to 100",
+            "Knowing addition only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Number sense is an intuitive understanding of numbers, their magnitude, relationships, and how they are affected by operations.",
+          "difficulty": "easy",
+          "topic": "Mathematics Education"
+        },
+        {
+          "id": "ele-gen-me-002",
+          "question": "What are 'manipulatives' in mathematics teaching?",
+          "options": [
+            "Worksheets",
+            "Physical objects examinees can handle to learn math concepts",
+            "Pencils and paper",
+            "Textbooks"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Manipulatives are concrete objects that help examinees explore and understand mathematical concepts through hands-on experience.",
+          "difficulty": "easy",
+          "topic": "Mathematics Education"
+        },
+        {
+          "id": "ele-gen-me-003",
+          "question": "What is the 'Concrete-Representational-Abstract' (CRA) approach?",
+          "options": [
+            "Teaching only abstract concepts",
+            "Moving from physical objects, to pictures, to symbols",
+            "Teaching abstract concepts first",
+            "Using only worksheets"
+          ],
+          "correctAnswer": 1,
+          "explanation": "CRA is a sequential instructional approach moving from concrete manipulatives, to pictorial representations, to abstract symbols.",
+          "difficulty": "medium",
+          "topic": "Mathematics Education"
+        },
+        {
+          "id": "ele-gen-me-004",
+          "question": "Why is problem-solving important in elementary mathematics?",
+          "options": [
+            "It's not important",
+            "It develops critical thinking and applies math to real situations",
+            "It's only for advanced examinees",
+            "It wastes time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Problem-solving develops critical thinking, reasoning, and the ability to apply mathematical concepts to real-world situations.",
+          "difficulty": "easy",
+          "topic": "Mathematics Education"
+        },
+        {
+          "id": "ele-gen-me-005",
+          "question": "What is 'mathematical discourse'?",
+          "options": [
+            "Silent work only",
+            "Examinees explaining their thinking and discussing strategies",
+            "Teacher lectures",
+            "Memorizing formulas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mathematical discourse involves examinees communicating their mathematical thinking, reasoning, and problem-solving strategies with others.",
+          "difficulty": "medium",
+          "topic": "Mathematics Education"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30,
+  "note": "Comprehensive questions for General Elementary specialization - Add 120 more for full 150 implementation"
+}

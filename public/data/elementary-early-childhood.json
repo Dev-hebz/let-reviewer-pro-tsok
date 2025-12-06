@@ -1,0 +1,465 @@
+{
+  "subject": "Elementary - Early Childhood Education",
+  "category": "elementary",
+  "subcategory": "early-childhood",
+  "topics": [
+    {
+      "id": "child-development",
+      "name": "Child Development (Ages 0-8)",
+      "questions": [
+        {
+          "id": "ele-ece-cd-001",
+          "question": "At what age do children typically begin to walk independently?",
+          "options": [
+            "6-9 months",
+            "9-12 months",
+            "12-18 months",
+            "18-24 months"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Most children begin walking independently between 12-18 months of age, though there is normal variation.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ele-ece-cd-002",
+          "question": "What is the typical age range for the 'preoperational stage' according to Piaget?",
+          "options": [
+            "0-2 years",
+            "2-7 years",
+            "7-11 years",
+            "11+ years"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The preoperational stage occurs from ages 2-7, characterized by symbolic thinking but not yet logical operations.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ele-ece-cd-003",
+          "question": "What is 'parallel play' in early childhood?",
+          "options": [
+            "Children playing together cooperatively",
+            "Children playing near each other but not together",
+            "Children playing alone",
+            "Children playing with adults"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Parallel play is when children play alongside each other without direct interaction, typical in toddlers (18-24 months).",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ele-ece-cd-004",
+          "question": "At what age do most children develop 'theory of mind'?",
+          "options": [
+            "1-2 years",
+            "2-3 years",
+            "3-4 years",
+            "5-6 years"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Theory of mind (understanding that others have different thoughts and perspectives) typically develops around ages 3-4.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ele-ece-cd-005",
+          "question": "What are 'developmental milestones'?",
+          "options": [
+            "Academic achievements only",
+            "Key skills children should achieve by certain ages",
+            "Birthday celebrations",
+            "Test scores"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Developmental milestones are specific skills or behaviors that most children can do by a certain age, used to track development.",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        }
+      ]
+    },
+    {
+      "id": "play-based-learning",
+      "name": "Play-Based Learning",
+      "questions": [
+        {
+          "id": "ele-ece-pbl-001",
+          "question": "Why is play considered important in early childhood education?",
+          "options": [
+            "It's just for fun",
+            "It develops cognitive, social, emotional, and physical skills",
+            "It wastes learning time",
+            "It's only for recess"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Play is the primary vehicle for learning in early childhood, supporting development across all domains.",
+          "difficulty": "easy",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ele-ece-pbl-002",
+          "question": "What is 'scaffolding' in play-based learning?",
+          "options": [
+            "Building structures",
+            "Supporting and extending children's play with questions and materials",
+            "Leaving children completely alone",
+            "Directing all play activities"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding in play involves teacher support that extends children's learning while following their interests.",
+          "difficulty": "medium",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ele-ece-pbl-003",
+          "question": "What are 'learning centers' in early childhood classrooms?",
+          "options": [
+            "Places for punishment",
+            "Designated areas for specific types of play and learning",
+            "Only for storage",
+            "Computer labs"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Learning centers are purposefully designed areas (blocks, dramatic play, art, etc.) that promote specific skills through play.",
+          "difficulty": "easy",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ele-ece-pbl-004",
+          "question": "What is 'symbolic play'?",
+          "options": [
+            "Playing with symbols only",
+            "Pretend play where objects represent other things",
+            "Mathematical play",
+            "Silent play"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Symbolic play involves using objects, actions, or ideas to represent other things, crucial for cognitive development.",
+          "difficulty": "medium",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ele-ece-pbl-005",
+          "question": "What is the teacher's role in play-based learning?",
+          "options": [
+            "Just supervise from a distance",
+            "Control all play activities",
+            "Observe, facilitate, and extend learning through play",
+            "Do paperwork while children play"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Teachers actively observe, facilitate, and extend children's learning by enriching play experiences with materials and interactions.",
+          "difficulty": "medium",
+          "topic": "Play-Based Learning"
+        }
+      ]
+    },
+    {
+      "id": "early-literacy",
+      "name": "Early Literacy",
+      "questions": [
+        {
+          "id": "ele-ece-el-001",
+          "question": "What is 'print awareness'?",
+          "options": [
+            "Knowing how to use a printer",
+            "Understanding that print carries meaning",
+            "Advanced reading skills",
+            "Writing in cursive"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Print awareness is understanding that written words carry meaning and recognizing environmental print.",
+          "difficulty": "easy",
+          "topic": "Early Literacy"
+        },
+        {
+          "id": "ele-ece-el-002",
+          "question": "What are 'pre-writing skills'?",
+          "options": [
+            "Writing complete sentences",
+            "Skills like holding crayons, making marks, and drawing shapes",
+            "Typing on computers",
+            "Spelling words correctly"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pre-writing skills include fine motor control, making marks, drawing shapes, and scribbling that precede formal writing.",
+          "difficulty": "easy",
+          "topic": "Early Literacy"
+        },
+        {
+          "id": "ele-ece-el-003",
+          "question": "Why is rhyming important for early literacy?",
+          "options": [
+            "It's not important",
+            "It develops phonological awareness and sound recognition",
+            "It's just for fun",
+            "It teaches grammar"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Rhyming helps children recognize and manipulate sounds in words, a crucial foundation for reading.",
+          "difficulty": "medium",
+          "topic": "Early Literacy"
+        },
+        {
+          "id": "ele-ece-el-004",
+          "question": "What is 'shared reading'?",
+          "options": [
+            "Children reading alone",
+            "Adults and children reading together interactively",
+            "Silent reading time",
+            "Reading tests"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Shared reading involves adults and children reading together, with discussion and interaction about the text.",
+          "difficulty": "easy",
+          "topic": "Early Literacy"
+        },
+        {
+          "id": "ele-ece-el-005",
+          "question": "At what age do most children begin to recognize letters?",
+          "options": [
+            "1-2 years",
+            "2-3 years",
+            "3-4 years",
+            "5-6 years"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Most children begin recognizing some letters around ages 3-4, with full alphabet knowledge typically by kindergarten.",
+          "difficulty": "medium",
+          "topic": "Early Literacy"
+        }
+      ]
+    },
+    {
+      "id": "social-emotional",
+      "name": "Social-Emotional Development",
+      "questions": [
+        {
+          "id": "ele-ece-se-001",
+          "question": "What is 'emotional regulation'?",
+          "options": [
+            "Never showing emotions",
+            "The ability to manage and express emotions appropriately",
+            "Always being happy",
+            "Suppressing all feelings"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Emotional regulation is the ability to manage emotional experiences and expressions in socially appropriate ways.",
+          "difficulty": "easy",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ele-ece-se-002",
+          "question": "What are 'prosocial behaviors'?",
+          "options": [
+            "Aggressive behaviors",
+            "Positive actions that benefit others like sharing and helping",
+            "Selfish behaviors",
+            "Isolating behaviors"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Prosocial behaviors are voluntary actions intended to benefit others, such as sharing, helping, and comforting.",
+          "difficulty": "easy",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ele-ece-se-003",
+          "question": "What is 'attachment' in early childhood?",
+          "options": [
+            "Physical objects children like",
+            "The emotional bond between child and caregiver",
+            "Classroom rules",
+            "Daily routines"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Attachment is the deep emotional connection between a child and primary caregiver, crucial for healthy development.",
+          "difficulty": "medium",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ele-ece-se-004",
+          "question": "How should teachers handle temper tantrums in young children?",
+          "options": [
+            "Punish immediately",
+            "Ignore the child completely",
+            "Stay calm, ensure safety, and help the child regulate emotions",
+            "Give in to demands"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Teachers should remain calm, ensure the child's safety, and help them learn to manage emotions through supportive guidance.",
+          "difficulty": "medium",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ele-ece-se-005",
+          "question": "What is 'self-concept' in early childhood?",
+          "options": [
+            "Being selfish",
+            "A child's perception and understanding of themselves",
+            "Following rules",
+            "Academic achievement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-concept is how children view and understand themselves, including their abilities, characteristics, and self-worth.",
+          "difficulty": "easy",
+          "topic": "Social-Emotional Development"
+        }
+      ]
+    },
+    {
+      "id": "health-safety",
+      "name": "Health, Safety, and Nutrition",
+      "questions": [
+        {
+          "id": "ele-ece-hs-001",
+          "question": "What is the recommended teacher-to-child ratio for 3-year-olds?",
+          "options": [
+            "1:20",
+            "1:15",
+            "1:10",
+            "1:5"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The recommended ratio for 3-year-olds is typically 1:10 to ensure adequate supervision and individualized attention.",
+          "difficulty": "medium",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ele-ece-hs-002",
+          "question": "Why is handwashing important in early childhood settings?",
+          "options": [
+            "It's not important",
+            "It prevents the spread of illness and teaches hygiene habits",
+            "It wastes water",
+            "Only for adults"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Regular handwashing is the most effective way to prevent illness transmission and establishes lifelong hygiene habits.",
+          "difficulty": "easy",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ele-ece-hs-003",
+          "question": "What should be the first response to a child choking?",
+          "options": [
+            "Call parents first",
+            "Perform appropriate first aid (back blows/abdominal thrusts)",
+            "Give water",
+            "Wait and see"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Immediate first aid response (appropriate for the child's age) is critical in choking emergencies, followed by emergency services.",
+          "difficulty": "medium",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ele-ece-hs-004",
+          "question": "What are 'developmental screening tools'?",
+          "options": [
+            "Punishment methods",
+            "Brief assessments to identify children who may need further evaluation",
+            "Entrance exams",
+            "Behavior charts"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Developmental screening tools help identify children who may have developmental delays and need additional assessment.",
+          "difficulty": "medium",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ele-ece-hs-005",
+          "question": "What is the purpose of 'rest time' in early childhood programs?",
+          "options": [
+            "To give teachers a break only",
+            "Children don't need rest",
+            "To support physical and cognitive development through rest",
+            "To punish misbehavior"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Rest time supports children's physical growth, emotional regulation, and cognitive processing of new learning.",
+          "difficulty": "easy",
+          "topic": "Health, Safety, and Nutrition"
+        }
+      ]
+    },
+    {
+      "id": "family-partnerships",
+      "name": "Family and Community Partnerships",
+      "questions": [
+        {
+          "id": "ele-ece-fp-001",
+          "question": "Why are family partnerships important in early childhood education?",
+          "options": [
+            "They are not important",
+            "Families are children's first teachers and support learning at home",
+            "Only teachers should educate children",
+            "To reduce teacher workload"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Family partnerships are crucial as families are children's first and most influential teachers and provide continuity of learning.",
+          "difficulty": "easy",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ele-ece-fp-002",
+          "question": "What is 'culturally responsive teaching' in ECE?",
+          "options": [
+            "Teaching only one culture",
+            "Ignoring cultural differences",
+            "Recognizing and valuing diverse cultural backgrounds in teaching",
+            "Treating all children exactly the same"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Culturally responsive teaching acknowledges, respects, and incorporates children's diverse cultural backgrounds into learning.",
+          "difficulty": "medium",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ele-ece-fp-003",
+          "question": "How should teachers communicate with families who speak different languages?",
+          "options": [
+            "Don't communicate",
+            "Use interpreters and translated materials when possible",
+            "Expect families to learn English immediately",
+            "Only speak to English-speaking families"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Effective communication requires using interpreters, translated materials, and culturally appropriate methods to include all families.",
+          "difficulty": "easy",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ele-ece-fp-004",
+          "question": "What is a 'family conference'?",
+          "options": [
+            "A punishment meeting",
+            "A collaborative discussion about the child's development and learning",
+            "Only for problem children",
+            "Optional for teachers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Family conferences are collaborative meetings to discuss the child's progress, strengths, and areas for growth.",
+          "difficulty": "easy",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ele-ece-fp-005",
+          "question": "Why should teachers document children's learning?",
+          "options": [
+            "Just for display",
+            "To track progress and share with families",
+            "To create extra work",
+            "It's not important"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Documentation tracks children's development, informs instruction, and provides concrete examples to share with families.",
+          "difficulty": "easy",
+          "topic": "Family and Community Partnerships"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 30,
+  "note": "Comprehensive questions for Early Childhood Education - Add 120 more for full 150 implementation"
+}

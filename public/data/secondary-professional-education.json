@@ -1,0 +1,29 @@
+{
+  "subject": "Secondary - Professional Education",
+  "category": "secondary",
+  "subcategory": "professional-education",
+  "topics": [
+    {
+      "id": "teaching-profession",
+      "name": "The Teaching Profession",
+      "questions": [
+        {
+          "id": "sec-prof-tp-001",
+          "question": "What does RA 7836 stand for?",
+          "options": [
+            "Basic Education Act",
+            "Philippine Teachers Professionalization Act",
+            "Enhanced Basic Education Act",
+            "Teacher Education Act"
+          ],
+          "correctAnswer": 1,
+          "explanation": "RA 7836 is the Philippine Teachers Professionalization Act of 1994.",
+          "difficulty": "easy",
+          "topic": "The Teaching Profession"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 1,
+  "note": "Sample questions - Add 150 total for full implementation"
+}

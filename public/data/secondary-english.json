@@ -1,0 +1,29 @@
+{
+  "subject": "Secondary - English",
+  "category": "secondary",
+  "subcategory": "english",
+  "topics": [
+    {
+      "id": "topic-1",
+      "name": "Topic 1",
+      "questions": [
+        {
+          "id": "sec-english-001",
+          "question": "Sample question for english?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This is a sample question. Add 150 questions for this subject.",
+          "difficulty": "easy",
+          "topic": "Topic 1"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 1,
+  "note": "Sample questions - Add 150 total for full implementation"
+}

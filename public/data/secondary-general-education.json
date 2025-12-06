@@ -1,0 +1,63 @@
+{
+  "subject": "Secondary - General Education",
+  "category": "secondary",
+  "subcategory": "general-education",
+  "topics": [
+    {
+      "id": "english",
+      "name": "English",
+      "questions": [
+        {
+          "id": "sec-gen-eng-001",
+          "question": "What is the main theme of Jose Rizal's 'Noli Me Tangere'?",
+          "options": [
+            "Love and romance",
+            "Social injustice and colonial abuse",
+            "Adventure and exploration",
+            "Family relationships"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Noli Me Tangere primarily addresses social injustice and abuses during Spanish colonial rule in the Philippines.",
+          "difficulty": "medium",
+          "topic": "English"
+        },
+        {
+          "id": "sec-gen-eng-002",
+          "question": "Which literary device uses extreme exaggeration?",
+          "options": [
+            "Simile",
+            "Metaphor",
+            "Hyperbole",
+            "Personification"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Hyperbole is a literary device that uses extreme exaggeration to emphasize a point or create a humorous effect.",
+          "difficulty": "easy",
+          "topic": "English"
+        }
+      ]
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "questions": [
+        {
+          "id": "sec-gen-math-001",
+          "question": "What is the value of π (pi) approximately?",
+          "options": [
+            "3.14",
+            "2.71",
+            "1.41",
+            "4.13"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pi (π) is approximately 3.14159, commonly rounded to 3.14.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 3,
+  "note": "Sample questions - Add 150 total for full implementation"
+}

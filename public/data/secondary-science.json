@@ -1,0 +1,29 @@
+{
+  "subject": "Secondary - Science",
+  "category": "secondary",
+  "subcategory": "science",
+  "topics": [
+    {
+      "id": "topic-1",
+      "name": "Topic 1",
+      "questions": [
+        {
+          "id": "sec-science-001",
+          "question": "Sample question for science?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctAnswer": 0,
+          "explanation": "This is a sample question. Add 150 questions for this subject.",
+          "difficulty": "easy",
+          "topic": "Topic 1"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 1,
+  "note": "Sample questions - Add 150 total for full implementation"
+}
