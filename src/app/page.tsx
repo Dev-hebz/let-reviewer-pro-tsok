@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
-import { 
+import {
   Award, TrendingUp, Clock, Target, Brain, CheckCircle2, XCircle,
   PlayCircle, User, LogOut, Trophy, Flame, Trash2, Key, Shield
 } from 'lucide-react';
@@ -15,6 +15,7 @@ export default function LETReviewerApp() {
   const [view, setView] = useState<string>('select-role');
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [selectedSubject, setSelectedSubject] = useState<any>(null);
+  const [selectedSpecialization, setSelectedSpecialization] = useState<any>(null); // <-- ADDED (fix)
   const [questions, setQuestions] = useState<any[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(0);
   const [userAnswers, setUserAnswers] = useState<number[]>([]);
@@ -52,11 +53,17 @@ export default function LETReviewerApp() {
     }
   };
 
+  // getAdminData: called only from client-side actions (e.g., handleAdminLogin)
   const getAdminData = () => {
-    const stored = localStorage.getItem('adminData');
-    if (stored) return JSON.parse(stored);
-    localStorage.setItem('adminData', JSON.stringify(DEFAULT_ADMIN));
-    return DEFAULT_ADMIN;
+    try {
+      const stored = typeof window !== 'undefined' ? localStorage.getItem('adminData') : null;
+      if (stored) return JSON.parse(stored);
+      if (typeof window !== 'undefined') localStorage.setItem('adminData', JSON.stringify(DEFAULT_ADMIN));
+      return DEFAULT_ADMIN;
+    } catch (err) {
+      console.error('Error reading admin data:', err);
+      return DEFAULT_ADMIN;
+    }
   };
 
   const loadQuestions = async (filename: string) => {
@@ -97,47 +104,60 @@ export default function LETReviewerApp() {
   const handleSubmit = () => {
     setQuizEndTime(new Date());
     setShowResults(true);
-    
+
     let correct = 0;
     questions.forEach((q, index) => {
       if (userAnswers[index] === q.correctAnswer) correct++;
     });
 
-    const timeSpent = Math.floor((new Date() - quizStartTime) / 1000 / 60);
-    const accuracy = (correct / questions.length * 100).toFixed(2);
-    
-    const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
-    if (!userProgress[user.email]) {
-      userProgress[user.email] = { sessions: [], streak: 0, totalTimeSpent: 0 };
+    const timeSpent = quizStartTime ? Math.floor((new Date().getTime() - quizStartTime.getTime()) / 1000 / 60) : 0;
+    const accuracy = questions.length ? (correct / questions.length * 100).toFixed(2) : '0.00';
+
+    try {
+      const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
+      if (!user || !user.email) {
+        // no user logged in — optionally handle anonymous progress
+      } else {
+        if (!userProgress[user.email]) {
+          userProgress[user.email] = { sessions: [], streak: 0, totalTimeSpent: 0 };
+        }
+
+        userProgress[user.email].sessions.push({
+          date: new Date().toISOString(),
+          subject: selectedSubject?.name || 'Unknown',
+          correctAnswers: correct,
+          accuracy: accuracy,
+          timeSpent: timeSpent
+        });
+
+        userProgress[user.email].lastActive = new Date().toISOString();
+        userProgress[user.email].totalTimeSpent = (userProgress[user.email].totalTimeSpent || 0) + timeSpent;
+        localStorage.setItem('userProgress', JSON.stringify(userProgress));
+      }
+    } catch (err) {
+      console.error('Error saving progress:', err);
     }
-
-    userProgress[user.email].sessions.push({
-      date: new Date().toISOString(),
-      subject: selectedSubject.name,
-      correctAnswers: correct,
-      accuracy: accuracy,
-      timeSpent: timeSpent
-    });
-
-    userProgress[user.email].lastActive = new Date().toISOString();
-    userProgress[user.email].totalTimeSpent = (userProgress[user.email].totalTimeSpent || 0) + timeSpent;
-    localStorage.setItem('userProgress', JSON.stringify(userProgress));
   };
 
   const handleExamineeLogin = (email: string, name: string, category: string) => {
     const userData = { email, name, role: 'examinee', category };
     setUser(userData);
-    
-    const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
-    if (!userProgress[email]) {
-      userProgress[email] = {
-        name, email, role: 'examinee', category,
-        sessions: [], streak: 0, totalTimeSpent: 0,
-        lastActive: new Date().toISOString(),
-        registeredDate: new Date().toISOString()
-      };
-      localStorage.setItem('userProgress', JSON.stringify(userProgress));
+
+    try {
+      const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
+      if (!userProgress[email]) {
+        userProgress[email] = {
+          name, email, role: 'examinee', category,
+          sessions: [], streak: 0, totalTimeSpent: 0,
+          lastActive: new Date().toISOString(),
+          registeredDate: new Date().toISOString()
+        };
+        localStorage.setItem('userProgress', JSON.stringify(userProgress));
+      }
+    } catch (err) {
+      console.error('Error initializing user progress:', err);
     }
+
     setView('subject-selection');
   };
 
@@ -184,8 +204,8 @@ export default function LETReviewerApp() {
     questions.forEach((q, index) => {
       if (userAnswers[index] === q.correctAnswer) correct++;
     });
-    const timeSpent = Math.floor((quizEndTime - quizStartTime) / 1000 / 60);
-    const accuracy = (correct / questions.length * 100).toFixed(2);
+    const timeSpent = quizStartTime && quizEndTime ? Math.floor((quizEndTime.getTime() - quizStartTime.getTime()) / 1000 / 60) : 0;
+    const accuracy = questions.length ? (correct / questions.length * 100).toFixed(2) : '0.00';
     return { correct, total: questions.length, accuracy, timeSpent };
   };
 
@@ -248,7 +268,7 @@ export default function LETReviewerApp() {
   );
 }
 
-function RoleSelectionView({ onSelectRole }) {
+function RoleSelectionView({ onSelectRole }: { onSelectRole: (view: string) => void }) {
   return (
     <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} className="max-w-4xl mx-auto">
       <div className="bg-white rounded-3xl shadow-2xl p-8 border-4 border-green-200">
@@ -280,10 +300,10 @@ function RoleSelectionView({ onSelectRole }) {
   );
 }
 
-function ExamineeLoginView({ onLogin, categories }) {
-  const [email, setEmail] = useState<string>('');
-  const [name, setName] = useState<string>('');
-  const [category, setCategory] = useState<string>('elementary');
+function ExamineeLoginView({ onLogin, categories }: { onLogin: (email: string, name: string, category: string) => void, categories: any }) {
+  const [email, setEmail] = useState('');
+  const [name, setName] = useState('');
+  const [category, setCategory] = useState('elementary');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -335,10 +355,10 @@ function ExamineeLoginView({ onLogin, categories }) {
   );
 }
 
-function AdminLoginView({ onLogin, onBack }) {
-  const [email, setEmail] = useState<string>('');
-  const [password, setPassword] = useState<string>('');
-  const [error, setError] = useState<string>('');
+function AdminLoginView({ onLogin, onBack }: { onLogin: (email: string, password: string) => boolean, onBack: () => void }) {
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -388,10 +408,10 @@ function AdminLoginView({ onLogin, onBack }) {
   );
 }
 
-function SubjectSelectionView({ categories, onStartQuiz, user }) {
-  const userCategory = user.category;
+function SubjectSelectionView({ categories, onStartQuiz, user }: { categories: any, onStartQuiz: (cat: string, sub: any) => void, user: any }) {
+  const userCategory = user?.category || 'elementary';
   const categoryData = categories[userCategory];
-  const allSubjects = [...categoryData.subjects];
+  const allSubjects = [...(categoryData?.subjects || [])];
 
   return (
     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="max-w-6xl mx-auto">
@@ -399,14 +419,20 @@ function SubjectSelectionView({ categories, onStartQuiz, user }) {
         <div className="flex items-center justify-between mb-6">
           <div>
             <h2 className="text-3xl font-black text-gray-800">Choose Your Subject</h2>
-            <p className="text-gray-600 mt-2">{categoryData.name}</p>
+            <p className="text-gray-600 mt-2">{categoryData?.name}</p>
           </div>
           <div className="flex items-center space-x-4">
             <div className="text-center">
               <div className="flex items-center space-x-2 text-green-900">
                 <Flame className="w-6 h-6" />
                 <span className="text-2xl font-black">
-                  {JSON.parse(localStorage.getItem('userProgress') || '{}')[user.email]?.streak || 0}
+                  {(() => {
+                    try {
+                      return JSON.parse(localStorage.getItem('userProgress') || '{}')[user?.email]?.streak || 0;
+                    } catch {
+                      return 0;
+                    }
+                  })()}
                 </span>
               </div>
               <p className="text-xs text-gray-600">Day Streak</p>
@@ -414,7 +440,7 @@ function SubjectSelectionView({ categories, onStartQuiz, user }) {
           </div>
         </div>
         <div className="grid md:grid-cols-2 gap-6">
-          {allSubjects.map((subject) => (
+          {allSubjects.map((subject: any) => (
             <motion.div key={subject.id} whileHover={{ scale: 1.02, y: -5 }} whileTap={{ scale: 0.98 }}
               onClick={() => onStartQuiz(userCategory, subject)}
               className="bg-gradient-to-br from-green-100 to-emerald-100 rounded-2xl p-6 cursor-pointer border-3 border-green-300 hover:border-green-500 transition-all shadow-lg hover:shadow-xl">
@@ -435,7 +461,8 @@ function SubjectSelectionView({ categories, onStartQuiz, user }) {
   );
 }
 
-function QuizView({ question, questionIndex, totalQuestions, userAnswer, onAnswer, onNext, onPrevious, onSubmit, onBack }) {
+function QuizView({ question, questionIndex, totalQuestions, userAnswer, onAnswer, onNext, onPrevious, onSubmit, onBack }:
+  { question: any, questionIndex: number, totalQuestions: number, userAnswer: number | undefined, onAnswer: (i: number) => void, onNext: () => void, onPrevious: () => void, onSubmit: () => void, onBack: () => void }) {
   const progress = ((questionIndex + 1) / totalQuestions * 100).toFixed(1);
 
   return (
@@ -457,12 +484,12 @@ function QuizView({ question, questionIndex, totalQuestions, userAnswer, onAnswe
               <Brain className="w-6 h-6 text-green-900" />
             </div>
             <div className="flex-1">
-              <p className="text-sm font-bold text-green-900 mb-2">{question.topic}</p>
-              <h3 className="text-2xl font-bold text-gray-800">{question.question}</h3>
+              <p className="text-sm font-bold text-green-900 mb-2">{question?.topic}</p>
+              <h3 className="text-2xl font-bold text-gray-800">{question?.question}</h3>
             </div>
           </div>
           <div className="space-y-3">
-            {question.options.map((option, index) => (
+            {question?.options?.map((option: string, index: number) => (
               <motion.button key={index} whileHover={{ scale: 1.01 }} whileTap={{ scale: 0.99 }}
                 onClick={() => onAnswer(index)}
                 className={`w-full text-left p-5 rounded-2xl border-3 transition-all font-medium text-lg ${
@@ -510,13 +537,13 @@ function QuizView({ question, questionIndex, totalQuestions, userAnswer, onAnswe
   );
 }
 
-function ResultsView({ results, questions, userAnswers, onBack }) {
-  const { correct, total, accuracy, timeSpent } = results;
-  const isPassed = accuracy >= 75;
+function ResultsView({ results, questions, userAnswers, onBack }: { results: any, questions: any[], userAnswers: number[], onBack: () => void }) {
+  const { correct, total, accuracy, timeSpent } = results || { correct: 0, total: 0, accuracy: '0.00', timeSpent: 0 };
+  const isPassed = Number(accuracy) >= 75;
 
   return (
     <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.9 }} className="max-w-4xl mx-auto">
-      <div className={`rounded-3xl shadow-2xl p-8 border-4 mb-8 ${isPassed 
+      <div className={`rounded-3xl shadow-2xl p-8 border-4 mb-8 ${isPassed
         ? 'bg-gradient-to-br from-green-100 to-emerald-100 border-green-400'
         : 'bg-gradient-to-br from-red-100 to-pink-100 border-red-400'}`}>
         <div className="text-center mb-8">
@@ -559,15 +586,15 @@ function ResultsView({ results, questions, userAnswers, onBack }) {
           {questions.map((q, index) => {
             const isCorrect = userAnswers[index] === q.correctAnswer;
             return (
-              <div key={q.id} className={`p-6 rounded-2xl border-3 ${isCorrect ? 'bg-green-50 border-green-300' : 'bg-red-50 border-red-300'}`}>
+              <div key={q.id || index} className={`p-6 rounded-2xl border-3 ${isCorrect ? 'bg-green-50 border-green-300' : 'bg-red-50 border-red-300'}`}>
                 <div className="flex items-start space-x-3 mb-4">
                   <div className={`w-8 h-8 rounded-full flex items-center justify-center font-black text-white ${isCorrect ? 'bg-green-600' : 'bg-red-600'}`}>
                     {index + 1}
                   </div>
                   <div className="flex-1">
                     <p className="font-bold text-gray-800 mb-2">{q.question}</p>
-                    <p className="text-sm text-gray-600 mb-2"><span className="font-bold">Your answer:</span> {q.options[userAnswers[index]] || 'Not answered'}</p>
-                    {!isCorrect && <p className="text-sm text-green-700 font-bold">Correct answer: {q.options[q.correctAnswer]}</p>}
+                    <p className="text-sm text-gray-600 mb-2"><span className="font-bold">Your answer:</span> {q.options?.[userAnswers[index]] || 'Not answered'}</p>
+                    {!isCorrect && <p className="text-sm text-green-700 font-bold">Correct answer: {q.options?.[q.correctAnswer]}</p>}
                     <p className="text-sm text-gray-700 mt-2 italic">{q.explanation}</p>
                   </div>
                   {isCorrect ? <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0" /> : <XCircle className="w-6 h-6 text-red-600 flex-shrink-0" />}
@@ -581,34 +608,43 @@ function ResultsView({ results, questions, userAnswers, onBack }) {
   );
 }
 
-function AdminDashboard({ user }) {
-  const [activeTab, setActiveTab] = useState<string>('examinees');
+function AdminDashboard({ user }: { user: any }) {
+  const [activeTab, setActiveTab] = useState('examinees');
   const [examinees, setExaminees] = useState<any[]>([]);
-  const [showPasswordModal, setShowPasswordModal] = useState<boolean>(false);
-  const [showDeleteModal, setShowDeleteModal] = useState<boolean>(false);
+  const [showPasswordModal, setShowPasswordModal] = useState(false);
+  const [showDeleteModal, setShowDeleteModal] = useState(false);
   const [selectedExaminee, setSelectedExaminee] = useState<any>(null);
 
   useEffect(() => { loadExaminees(); }, []);
 
   const loadExaminees = () => {
-    const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
-    const examineeList = Object.values(userProgress).filter(u => u.role !== 'admin');
-    setExaminees(examineeList);
+    try {
+      const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
+      const examineeList = Object.values(userProgress).filter((u: any) => u.role !== 'admin');
+      setExaminees(examineeList);
+    } catch (err) {
+      console.error('Error loading examinees:', err);
+      setExaminees([]);
+    }
   };
 
   const deleteExaminee = (examineeEmail: string) => {
     if (confirm(`Delete ${selectedExaminee?.name}?`)) {
-      const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
-      delete userProgress[examineeEmail];
-      localStorage.setItem('userProgress', JSON.stringify(userProgress));
-      loadExaminees();
-      setShowDeleteModal(false);
-      setSelectedExaminee(null);
+      try {
+        const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
+        delete userProgress[examineeEmail];
+        localStorage.setItem('userProgress', JSON.stringify(userProgress));
+        loadExaminees();
+        setShowDeleteModal(false);
+        setSelectedExaminee(null);
+      } catch (err) {
+        console.error('Error deleting examinee:', err);
+      }
     }
   };
 
   const getExamineeStatus = (examinee: any) => {
-    if (!examinee.lastActive) return { status: 'Not Studying', color: 'red' };
+    if (!examinee?.lastActive) return { status: 'Not Studying', color: 'red' };
     const daysSinceActive = Math.floor((new Date().getTime() - new Date(examinee.lastActive).getTime()) / (1000 * 60 * 60 * 24));
     if (daysSinceActive === 0) return { status: 'Active', color: 'green' };
     if (daysSinceActive <= 3) return { status: 'Occasionally Active', color: 'yellow' };
@@ -616,7 +652,7 @@ function AdminDashboard({ user }) {
   };
 
   const getAverageAccuracy = (examinee: any) => {
-    if (!examinee.sessions || examinee.sessions.length === 0) return 0;
+    if (!examinee.sessions || examinee.sessions.length === 0) return '0.00';
     const total = examinee.sessions.reduce((sum: number, s: any) => sum + parseFloat(s.accuracy || s.percentage || 0), 0);
     return (total / examinee.sessions.length).toFixed(2);
   };
@@ -722,7 +758,11 @@ function AdminDashboard({ user }) {
               </div>
             ) : (
               inactiveExaminees.map((examinee, index) => {
-                const daysSinceActive = Math.floor((new Date() - new Date(examinee.lastActive)) / (1000 * 60 * 60 * 24));
+                const daysSinceActive =
+  Math.floor(
+    (new Date().getTime() - new Date(examinee.lastActive).getTime()) /
+      (1000 * 60 * 60 * 24)
+  );
                 return (
                   <div key={index} className="flex items-center justify-between p-6 bg-red-50 rounded-2xl border-2 border-red-300">
                     <div>
@@ -761,23 +801,28 @@ function AdminDashboard({ user }) {
   );
 }
 
-function PasswordChangeModal({ onClose }) {
-  const [currentPassword, setCurrentPassword] = useState<string>('');
-  const [newPassword, setNewPassword] = useState<string>('');
-  const [confirmPassword, setConfirmPassword] = useState<string>('');
-  const [error, setError] = useState<string>('');
+function PasswordChangeModal({ onClose }: { onClose: () => void }) {
+  const [currentPassword, setCurrentPassword] = useState('');
+  const [newPassword, setNewPassword] = useState('');
+  const [confirmPassword, setConfirmPassword] = useState('');
+  const [error, setError] = useState('');
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setError('');
-    const adminData = JSON.parse(localStorage.getItem('adminData') || '{}');
-    if (currentPassword !== adminData.password) { setError('Current password is incorrect'); return; }
-    if (newPassword.length < 6) { setError('New password must be at least 6 characters'); return; }
-    if (newPassword !== confirmPassword) { setError('Passwords do not match'); return; }
-    adminData.password = newPassword;
-    localStorage.setItem('adminData', JSON.stringify(adminData));
-    alert('Password changed successfully!');
-    onClose();
+    try {
+      const adminData = JSON.parse(localStorage.getItem('adminData') || '{}');
+      if (currentPassword !== adminData.password) { setError('Current password is incorrect'); return; }
+      if (newPassword.length < 6) { setError('New password must be at least 6 characters'); return; }
+      if (newPassword !== confirmPassword) { setError('Passwords do not match'); return; }
+      adminData.password = newPassword;
+      localStorage.setItem('adminData', JSON.stringify(adminData));
+      alert('Password changed successfully!');
+      onClose();
+    } catch (err) {
+      console.error('Error changing password:', err);
+      setError('Failed to change password.');
+    }
   };
 
   return (
