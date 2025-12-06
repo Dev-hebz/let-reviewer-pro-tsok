@@ -53,10 +53,11 @@ export default function LETReviewerApp() {
   };
 
   const getAdminData = () => {
-    const stored = localStorage.getItem('adminData');
-    if (stored) return JSON.parse(stored);
-    localStorage.setItem('adminData', JSON.stringify(DEFAULT_ADMIN));
-    return DEFAULT_ADMIN;
+  if (typeof window === "undefined") return DEFAULT_ADMIN;
+  const stored = localStorage.getItem('adminData');
+  if (stored) return JSON.parse(stored);
+  localStorage.setItem('adminData', JSON.stringify(DEFAULT_ADMIN));
+  return DEFAULT_ADMIN;
   };
 
   const loadQuestions = async (filename: string) => {
