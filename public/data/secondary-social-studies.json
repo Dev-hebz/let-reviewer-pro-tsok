@@ -932,10 +932,10 @@
           "question": "Which Philippine law ensures financial aid and protection for micro, small, and medium enterprises (MSMEs)?",
           "options": ["MSME Development Act (RA 9501)", "Philippine Green Jobs Act", "Build, Build, Build Program", "Entrepreneurship Act"],
           "correctAnswer": 0
-        }
-   ]
+  }
+      ]
     }
   ],
   "totalQuestions": 150,
-  "note": "150 Social Sutdies questions provided. Ready for additional items if needed."
+  "note": "150 Social Studies questions provided. Ready for additional items if needed."
 }
