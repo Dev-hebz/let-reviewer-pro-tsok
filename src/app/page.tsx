@@ -249,7 +249,7 @@ export default function LETReviewerApp() {
   );
 }
 
-function RoleSelectionView({ onSelectRole }) {
+function RoleSelectionView({ onSelectRole }: { onSelectRole: (role: string) => void }) {
   return (
     <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} className="max-w-4xl mx-auto">
       <div className="bg-white rounded-3xl shadow-2xl p-8 border-4 border-green-200">
