@@ -10,7 +10,7 @@ import {
 
 const DEFAULT_ADMIN = { email: 'admin@tsok.com', password: 'admin123', name: 'TSOK Admin' };
 
-eexport default function LETReviewerApp() {
+export default function LETReviewerApp() {
   const [user, setUser] = useState<any>(null);
   const [view, setView] = useState<string>('select-role');
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
