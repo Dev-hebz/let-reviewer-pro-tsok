@@ -103,7 +103,7 @@ export default function LETReviewerApp() {
       if (userAnswers[index] === q.correctAnswer) correct++;
     });
 
-    const timeSpent = Math.floor((new Date().getTime() - quizStartTime.getTime()) / 1000 / 60);
+    const timeSpent = Math.floor((new Date() - quizStartTime) / 1000 / 60);
     const accuracy = (correct / questions.length * 100).toFixed(2);
     
     const userProgress = JSON.parse(localStorage.getItem('userProgress') || '{}');
