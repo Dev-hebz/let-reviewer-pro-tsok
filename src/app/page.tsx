@@ -10,17 +10,17 @@ import {
 
 const DEFAULT_ADMIN = { email: 'admin@tsok.com', password: 'admin123', name: 'TSOK Admin' };
 
-export default function LETReviewerApp() {
-  const [user, setUser] = useState(null);
-  const [view, setView] = useState('select-role');
-  const [selectedCategory, setSelectedCategory] = useState(null);
-  const [selectedSubject, setSelectedSubject] = useState(null);
-  const [questions, setQuestions] = useState([]);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [userAnswers, setUserAnswers] = useState([]);
-  const [quizStartTime, setQuizStartTime] = useState(null);
-  const [quizEndTime, setQuizEndTime] = useState(null);
-  const [showResults, setShowResults] = useState(false);
+eexport default function LETReviewerApp() {
+  const [user, setUser] = useState<any>(null);
+  const [view, setView] = useState<string>('select-role');
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [selectedSubject, setSelectedSubject] = useState<any>(null);
+  const [questions, setQuestions] = useState<any[]>([]);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(0);
+  const [userAnswers, setUserAnswers] = useState<number[]>([]);
+  const [quizStartTime, setQuizStartTime] = useState<Date | null>(null);
+  const [quizEndTime, setQuizEndTime] = useState<Date | null>(null);
+  const [showResults, setShowResults] = useState<boolean>(false);
 
   const categories = {
     elementary: {
