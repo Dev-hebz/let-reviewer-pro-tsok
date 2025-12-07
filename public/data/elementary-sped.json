@@ -1,81 +1,291 @@
 {
-  "subject": "Elementary - Special Education (SPED)",
+  "subject": "Special Education (SPED) - LET Reviewer",
   "category": "elementary",
-  "subcategory": "sped",
+  "subcategory": "special-education",
   "topics": [
     {
-      "id": "special-needs",
-      "name": "Understanding Special Needs",
+      "id": "foundations-sped",
+      "name": "Foundations of Special Education",
       "questions": [
         {
-          "id": "ele-sped-sn-001",
-          "question": "What does IEP stand for in special education?",
+          "id": "sped-fs-001",
+          "question": "What is Special Education?",
           "options": [
-            "Integrated Education Plan",
-            "Individualized Education Program",
-            "Inclusive Education Practice",
-            "Independent Education Policy"
+            "Education for gifted students only",
+            "Specially designed instruction to meet unique needs of learners with exceptionalities",
+            "Regular education with modifications",
+            "Separate school system"
           ],
           "correctAnswer": 1,
-          "explanation": "IEP stands for Individualized Education Program, a customized learning plan for examinees with special needs.",
-          "difficulty": "medium",
-          "topic": "Understanding Special Needs"
-        },
-        {
-          "id": "ele-sped-sn-002",
-          "question": "What is the main purpose of an IEP?",
-          "options": [
-            "To exclude examinees from regular classes",
-            "To provide individualized goals and services for examinees with disabilities",
-            "To label examinees",
-            "To reduce school funding"
-          ],
-          "correctAnswer": 1,
-          "explanation": "An IEP provides tailored educational goals, accommodations, and services to meet the unique needs of examinees with disabilities.",
+          "explanation": "Special Education is specially designed instruction that addresses the unique needs of learners with exceptionalities, ensuring they receive appropriate education.",
           "difficulty": "easy",
-          "topic": "Understanding Special Needs"
+          "topic": "Foundations of Special Education"
         },
         {
-          "id": "ele-sped-sn-003",
-          "question": "What is 'LRE' in special education?",
+          "id": "sped-fs-002",
+          "question": "What is the principle of 'Least Restrictive Environment' (LRE)?",
           "options": [
-            "Limited Resource Environment",
-            "Least Restrictive Environment",
-            "Local Resource Evaluation",
-            "Learning Readiness Examination"
+            "Students with disabilities in separate schools",
+            "No restrictions on students",
+            "Students educated with non-disabled peers to maximum extent appropriate",
+            "Minimal classroom rules"
           ],
-          "correctAnswer": 1,
-          "explanation": "Least Restrictive Environment means examinees with disabilities should be educated with non-disabled peers to the maximum extent appropriate.",
+          "correctAnswer": 2,
+          "explanation": "LRE mandates that students with disabilities be educated with non-disabled peers to the maximum extent appropriate with necessary supports.",
           "difficulty": "medium",
-          "topic": "Understanding Special Needs"
+          "topic": "Foundations of Special Education"
         },
         {
-          "id": "ele-sped-sn-004",
-          "question": "What is 'mainstreaming' in special education?",
+          "id": "sped-fs-003",
+          "question": "What is 'inclusion' in special education?",
           "options": [
-            "Separating special education examinees",
-            "Including examinees with disabilities in regular classrooms",
-            "Teaching only basic skills",
-            "Reducing curriculum standards"
+            "Separate special education classes",
+            "Including all subjects in curriculum",
+            "Educating students with disabilities in general education classrooms with supports",
+            "Social activities only"
           ],
-          "correctAnswer": 1,
-          "explanation": "Mainstreaming is the practice of placing examinees with special needs in regular education classrooms for all or part of the day.",
+          "correctAnswer": 2,
+          "explanation": "Inclusion means educating students with disabilities in general education classrooms alongside their peers with appropriate supports and services.",
           "difficulty": "easy",
-          "topic": "Understanding Special Needs"
+          "topic": "Foundations of Special Education"
         },
         {
-          "id": "ele-sped-sn-005",
-          "question": "What is a '504 Plan'?",
+          "id": "sped-fs-004",
+          "question": "What is 'mainstreaming'?",
           "options": [
-            "A type of IEP",
-            "A plan providing accommodations for examinees with disabilities who don't qualify for special education",
-            "A classroom management plan",
-            "A grading system"
+            "Teaching main subjects only",
+            "Placing students with disabilities in general education for specific subjects or activities",
+            "All students together always",
+            "Special education focus"
           ],
           "correctAnswer": 1,
-          "explanation": "A 504 Plan provides accommodations for examinees with disabilities under Section 504 of the Rehabilitation Act who don't need special education services.",
+          "explanation": "Mainstreaming involves placing students with disabilities in general education classes for specific subjects where they can succeed with support.",
           "difficulty": "medium",
-          "topic": "Understanding Special Needs"
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-005",
+          "question": "What is 'Free Appropriate Public Education' (FAPE)?",
+          "options": [
+            "Free books for students",
+            "Education without special services",
+            "Special education and related services at no cost to families",
+            "Public school attendance only"
+          ],
+          "correctAnswer": 2,
+          "explanation": "FAPE guarantees special education and related services at public expense, meeting standards, and provided at no cost to families.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-006",
+          "question": "What is an IEP (Individualized Education Program)?",
+          "options": [
+            "Individual exercise plan",
+            "Written plan outlining special education services and goals for student",
+            "Internet education program",
+            "Instructional equipment plan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An IEP is a legally binding written document that outlines special education services, accommodations, and annual goals for each student with disabilities.",
+          "difficulty": "easy",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-007",
+          "question": "What are the required components of an IEP?",
+          "options": [
+            "Student name only",
+            "Present levels, goals, services, accommodations, progress monitoring",
+            "Test scores",
+            "Teacher assignments"
+          ],
+          "correctAnswer": 1,
+          "explanation": "IEP must include present levels of performance, annual goals, special education services, accommodations/modifications, and progress monitoring methods.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-008",
+          "question": "Who should be part of the IEP team?",
+          "options": [
+            "Teachers only",
+            "Special education teacher only",
+            "Parents, teachers, special education teacher, administrator, related service providers, student when appropriate",
+            "Administrators only"
+          ],
+          "correctAnswer": 2,
+          "explanation": "IEP team includes parents, general and special education teachers, administrator, related service providers, and the student when appropriate.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-009",
+          "question": "What is the difference between 'accommodations' and 'modifications'?",
+          "options": [
+            "No difference",
+            "Accommodations change how students learn; modifications change what they learn",
+            "Same meaning",
+            "Both change curriculum content"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Accommodations change how students access learning without changing content; modifications change what students are expected to learn.",
+          "difficulty": "difficult",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-010",
+          "question": "What is 'Universal Design for Learning' (UDL)?",
+          "options": [
+            "One approach for all",
+            "Framework providing multiple means of engagement, representation, and expression",
+            "Universal curriculum",
+            "Standardized instruction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "UDL is a framework that provides multiple means of engagement, representation, and action/expression to make learning accessible to all students.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-011",
+          "question": "What is 'Child Find'?",
+          "options": [
+            "Lost child program",
+            "Process of identifying, locating, and evaluating children who may need special education",
+            "Finding parents",
+            "Student registration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Child Find is the legal obligation to identify, locate, and evaluate all children with disabilities who need special education services.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-012",
+          "question": "What is 'Response to Intervention' (RTI)?",
+          "options": [
+            "Emergency response",
+            "Multi-tiered approach providing interventions before special education referral",
+            "Reaction to behavior",
+            "Intervention after failure"
+          ],
+          "correctAnswer": 1,
+          "explanation": "RTI is a multi-tiered approach providing increasingly intensive interventions and monitoring student response before special education referral.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-013",
+          "question": "What are the three tiers of RTI?",
+          "options": [
+            "Beginning, middle, end",
+            "Tier 1: Universal instruction; Tier 2: Targeted intervention; Tier 3: Intensive intervention",
+            "Easy, medium, difficult",
+            "Low, medium, high"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tier 1 is quality universal instruction; Tier 2 provides targeted group interventions; Tier 3 offers intensive individualized interventions.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-014",
+          "question": "What is 'transition planning' in special education?",
+          "options": [
+            "Changing classrooms",
+            "Moving schools",
+            "Coordinated set of activities preparing students for life after school",
+            "Daily transitions"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Transition planning is a coordinated set of activities designed to facilitate movement from school to post-school activities including employment, education, and independent living.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-015",
+          "question": "What is 'self-determination' in special education?",
+          "options": [
+            "Being stubborn",
+            "Making own decisions and directing own life",
+            "Independence only",
+            "Self-control"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-determination is the ability to make choices, solve problems, set goals, and advocate for oneself to direct one's own life.",
+          "difficulty": "easy",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-016",
+          "question": "What is 'Person-First Language'?",
+          "options": [
+            "Formal language",
+            "Language emphasizing the person before the disability (e.g., 'student with autism')",
+            "First person narrative",
+            "Polite speech"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Person-first language emphasizes the person before their disability (e.g., 'student with a disability' rather than 'disabled student').",
+          "difficulty": "easy",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-017",
+          "question": "What is 'positive behavior support' (PBS)?",
+          "options": [
+            "Punishment system",
+            "Proactive approach to prevent problem behaviors and teach appropriate skills",
+            "Reward system only",
+            "Discipline code"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PBS is a proactive, research-based approach that prevents problem behaviors by teaching appropriate replacement behaviors and modifying environments.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-018",
+          "question": "What is a 'Functional Behavioral Assessment' (FBA)?",
+          "options": [
+            "Behavior grade",
+            "Systematic process to identify function/purpose of problem behavior",
+            "Behavioral test",
+            "Punishment plan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "FBA is a systematic process to identify the function or purpose of problem behavior to develop effective intervention strategies.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-019",
+          "question": "What is a 'Behavior Intervention Plan' (BIP)?",
+          "options": [
+            "Punishment schedule",
+            "Plan based on FBA outlining strategies to address problem behaviors",
+            "Behavior contract",
+            "Discipline policy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A BIP is a plan based on FBA that outlines strategies to prevent problem behaviors and teach appropriate replacement behaviors.",
+          "difficulty": "medium",
+          "topic": "Foundations of Special Education"
+        },
+        {
+          "id": "sped-fs-020",
+          "question": "What is 'co-teaching' in inclusive classrooms?",
+          "options": [
+            "Two teachers teaching separately",
+            "General and special education teachers collaboratively instructing all students",
+            "Assistant teacher",
+            "Team teaching different subjects"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Co-teaching involves general and special education teachers working collaboratively to plan and deliver instruction to all students in inclusive settings.",
+          "difficulty": "easy",
+          "topic": "Foundations of Special Education"
         }
       ]
     },
@@ -84,226 +294,862 @@
       "name": "Learning Disabilities",
       "questions": [
         {
-          "id": "ele-sped-ld-001",
-          "question": "What is dyslexia?",
+          "id": "sped-ld-021",
+          "question": "What is a Learning Disability?",
           "options": [
-            "A vision problem",
-            "A learning disorder affecting reading and language processing",
-            "An attention problem",
-            "A physical disability"
+            "Low intelligence",
+            "Neurological disorder affecting ability to receive, process, store, or respond to information",
+            "Lack of motivation",
+            "Poor teaching"
           ],
           "correctAnswer": 1,
-          "explanation": "Dyslexia is a specific learning disability that affects reading, spelling, and language processing despite normal intelligence.",
+          "explanation": "Learning disability is a neurological disorder that affects how the brain processes information, not related to intelligence or motivation.",
           "difficulty": "easy",
           "topic": "Learning Disabilities"
         },
         {
-          "id": "ele-sped-ld-002",
-          "question": "What is dyscalculia?",
+          "id": "sped-ld-022",
+          "question": "What is 'dyslexia'?",
           "options": [
-            "Difficulty with reading",
-            "Difficulty with mathematics and number concepts",
-            "Difficulty with writing",
-            "Difficulty with attention"
+            "Vision problem",
+            "Learning disability affecting reading, decoding, and spelling",
+            "Writing disorder",
+            "Math difficulty"
           ],
           "correctAnswer": 1,
-          "explanation": "Dyscalculia is a specific learning disability affecting the ability to understand and work with numbers and mathematical concepts.",
-          "difficulty": "medium",
-          "topic": "Learning Disabilities"
-        },
-        {
-          "id": "ele-sped-ld-003",
-          "question": "What is dysgraphia?",
-          "options": [
-            "Difficulty with reading",
-            "Difficulty with speaking",
-            "Difficulty with writing and fine motor skills",
-            "Difficulty with listening"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Dysgraphia is a learning disability that affects writing abilities, including handwriting, spelling, and organizing thoughts on paper.",
-          "difficulty": "medium",
-          "topic": "Learning Disabilities"
-        },
-        {
-          "id": "ele-sped-ld-004",
-          "question": "What is ADHD?",
-          "options": [
-            "A learning disability only",
-            "Attention-Deficit/Hyperactivity Disorder affecting focus and behavior",
-            "A physical disability",
-            "A speech disorder"
-          ],
-          "correctAnswer": 1,
-          "explanation": "ADHD is a neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity affecting learning and behavior.",
+          "explanation": "Dyslexia is a specific learning disability that primarily affects reading, word recognition, decoding, and spelling abilities.",
           "difficulty": "easy",
           "topic": "Learning Disabilities"
         },
         {
-          "id": "ele-sped-ld-005",
-          "question": "What is an 'auditory processing disorder'?",
+          "id": "sped-ld-023",
+          "question": "What is 'dyscalculia'?",
+          "options": [
+            "Calculator use",
+            "Learning disability affecting mathematical abilities and number sense",
+            "Counting difficulty only",
+            "Memory problem"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Dyscalculia is a specific learning disability that affects mathematical abilities, number sense, and mathematical reasoning.",
+          "difficulty": "easy",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-024",
+          "question": "What is 'dysgraphia'?",
+          "options": [
+            "Poor handwriting only",
+            "Learning disability affecting writing abilities including handwriting, spelling, and composition",
+            "Drawing problem",
+            "Fine motor issue"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Dysgraphia is a learning disability that affects writing abilities including handwriting, spelling, and organizing thoughts on paper.",
+          "difficulty": "easy",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-025",
+          "question": "What is 'auditory processing disorder'?",
           "options": [
             "Hearing loss",
             "Difficulty processing and interpreting auditory information",
-            "A speech disorder",
-            "A vision problem"
+            "Deafness",
+            "Listening problem"
           ],
           "correctAnswer": 1,
-          "explanation": "Auditory processing disorder affects how the brain processes sounds, not hearing itself, making it difficult to distinguish similar sounds.",
+          "explanation": "Auditory processing disorder affects how the brain processes auditory information, not hearing acuity itself.",
           "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-026",
+          "question": "What is 'visual processing disorder'?",
+          "options": [
+            "Poor eyesight",
+            "Difficulty interpreting visual information despite normal vision",
+            "Blindness",
+            "Eye problem"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Visual processing disorder affects interpretation of visual information despite normal vision, impacting reading and spatial tasks.",
+          "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-027",
+          "question": "What is the 'discrepancy model' for identifying learning disabilities?",
+          "options": [
+            "IQ test only",
+            "Significant gap between intellectual ability and academic achievement",
+            "Grade comparison",
+            "Age difference"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The discrepancy model identifies LD when there's a significant discrepancy between intellectual ability and actual academic achievement.",
+          "difficulty": "difficult",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-028",
+          "question": "What teaching strategy is effective for students with dyslexia?",
+          "options": [
+            "Speed reading",
+            "Multisensory structured literacy approach (Orton-Gillingham)",
+            "Silent reading only",
+            "Memorization"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Multisensory structured literacy approaches like Orton-Gillingham are highly effective, using visual, auditory, and kinesthetic-tactile pathways.",
+          "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-029",
+          "question": "What accommodation helps students with dysgraphia?",
+          "options": [
+            "More writing practice only",
+            "Allowing typing, speech-to-text, extra time, graphic organizers",
+            "No writing required",
+            "Handwriting worksheets"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Students with dysgraphia benefit from typing, speech-to-text software, extra time, reduced writing requirements, and graphic organizers.",
+          "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-030",
+          "question": "What is 'phonological awareness' and why is it important for students with dyslexia?",
+          "options": [
+            "Phone use skills",
+            "Ability to recognize and manipulate sounds; foundational for reading",
+            "Speaking clearly",
+            "Vocabulary knowledge"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Phonological awareness is the ability to recognize and manipulate sounds in language, critical for reading development often impaired in dyslexia.",
+          "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-031",
+          "question": "What is 'working memory' and how does it affect learning?",
+          "options": [
+            "Job memory",
+            "Short-term memory system for holding and manipulating information; affects learning and task completion",
+            "Long-term memory",
+            "Workplace skills"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Working memory is the short-term system for holding and manipulating information; deficits impact following directions, problem-solving, and learning.",
+          "difficulty": "medium",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-032",
+          "question": "What is 'executive function'?",
+          "options": [
+            "Leadership skills",
+            "Mental processes for planning, organizing, focusing, and self-regulation",
+            "Management abilities",
+            "Decision making"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Executive functions are mental processes including planning, organizing, focusing attention, remembering, and managing time and tasks.",
+          "difficulty": "easy",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-033",
+          "question": "What assistive technology helps students with reading disabilities?",
+          "options": [
+            "Calculators",
+            "Text-to-speech software, audiobooks, reading pens",
+            "Keyboards",
+            "Tablets only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Text-to-speech software, audiobooks, and reading pens help students with reading disabilities access text and improve comprehension.",
+          "difficulty": "easy",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-034",
+          "question": "What is 'scaffolding' in special education?",
+          "options": [
+            "Building structures",
+            "Providing temporary supports that are gradually removed as student gains competence",
+            "Physical support",
+            "Permanent assistance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding provides temporary, adjustable supports that help students accomplish tasks, gradually withdrawn as independence increases.",
+          "difficulty": "easy",
+          "topic": "Learning Disabilities"
+        },
+        {
+          "id": "sped-ld-035",
+          "question": "What is a 'learning style'?",
+          "options": [
+            "Study habits",
+            "Preferred way individual processes and retains information (visual, auditory, kinesthetic)",
+            "Teaching method",
+            "Classroom preference"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Learning style refers to preferred ways individuals process information, typically categorized as visual, auditory, or kinesthetic/tactile learners.",
+          "difficulty": "easy",
           "topic": "Learning Disabilities"
         }
       ]
     },
     {
-      "id": "behavioral-support",
-      "name": "Behavioral Support Strategies",
+      "id": "intellectual-disabilities",
+      "name": "Intellectual Disabilities",
       "questions": [
         {
-          "id": "ele-sped-bs-001",
-          "question": "What is 'positive behavior support' (PBS)?",
+          "id": "sped-id-036",
+          "question": "What is an Intellectual Disability?",
           "options": [
-            "Punishment-based approach",
-            "Proactive approach focusing on teaching appropriate behaviors",
-            "Ignoring all behaviors",
-            "Isolating examinees"
+            "Learning disability",
+            "Significant limitations in intellectual functioning and adaptive behavior originating before age 18",
+            "Mental illness",
+            "Low achievement"
           ],
           "correctAnswer": 1,
-          "explanation": "PBS is a proactive, evidence-based approach that teaches and reinforces positive behaviors rather than simply punishing negative ones.",
+          "explanation": "Intellectual Disability involves significant limitations in both intellectual functioning (IQ) and adaptive behavior, originating before age 18.",
           "difficulty": "easy",
-          "topic": "Behavioral Support Strategies"
+          "topic": "Intellectual Disabilities"
         },
         {
-          "id": "ele-sped-bs-002",
-          "question": "What is a 'behavior intervention plan' (BIP)?",
+          "id": "sped-id-037",
+          "question": "What are the levels of Intellectual Disability?",
           "options": [
-            "A punishment schedule",
-            "A plan outlining strategies to address challenging behaviors",
-            "A seating chart",
-            "A grading rubric"
+            "High, medium, low",
+            "Mild, Moderate, Severe, Profound",
+            "Level 1, 2, 3",
+            "Beginning, intermediate, advanced"
           ],
           "correctAnswer": 1,
-          "explanation": "A BIP is a detailed plan with strategies, supports, and interventions to address specific challenging behaviors.",
+          "explanation": "Intellectual disabilities are classified as Mild, Moderate, Severe, or Profound based on level of support needed and adaptive functioning.",
           "difficulty": "medium",
-          "topic": "Behavioral Support Strategies"
+          "topic": "Intellectual Disabilities"
         },
         {
-          "id": "ele-sped-bs-003",
-          "question": "What is 'functional behavior assessment' (FBA)?",
+          "id": "sped-id-038",
+          "question": "What is 'adaptive behavior'?",
           "options": [
-            "A standardized test",
-            "A process to understand the purpose and triggers of behaviors",
-            "A fitness assessment",
-            "A classroom observation"
+            "Behavior adjustment",
+            "Practical, everyday skills for functioning independently (self-care, communication, social skills)",
+            "Flexibility",
+            "Survival skills"
           ],
           "correctAnswer": 1,
-          "explanation": "FBA is a systematic process to identify the function, antecedents, and consequences of challenging behaviors.",
-          "difficulty": "medium",
-          "topic": "Behavioral Support Strategies"
-        },
-        {
-          "id": "ele-sped-bs-004",
-          "question": "What are 'visual supports' in special education?",
-          "options": [
-            "Eyeglasses",
-            "Pictures, symbols, or schedules to aid understanding and communication",
-            "Classroom decorations",
-            "Videos"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Visual supports use pictures, symbols, schedules, and other visual aids to help examinees understand expectations and routines.",
+          "explanation": "Adaptive behavior includes conceptual, social, and practical skills needed for everyday functioning and independence.",
           "difficulty": "easy",
-          "topic": "Behavioral Support Strategies"
+          "topic": "Intellectual Disabilities"
         },
         {
-          "id": "ele-sped-bs-005",
-          "question": "What is 'token economy' in behavior management?",
+          "id": "sped-id-039",
+          "question": "What is Down Syndrome?",
           "options": [
-            "Teaching money skills",
-            "A system where examinees earn tokens for positive behaviors to exchange for rewards",
-            "A banking system",
-            "A punishment method"
+            "Emotional disorder",
+            "Genetic condition caused by extra chromosome 21, causing intellectual disability and distinctive features",
+            "Learning disability",
+            "Behavioral problem"
           ],
           "correctAnswer": 1,
-          "explanation": "Token economy is a reinforcement system where examinees earn tokens for appropriate behaviors that can be exchanged for preferred items or activities.",
+          "explanation": "Down Syndrome is a genetic condition caused by an extra copy of chromosome 21, resulting in intellectual disability and characteristic physical features.",
+          "difficulty": "easy",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-040",
+          "question": "What is Fragile X Syndrome?",
+          "options": [
+            "Bone disorder",
+            "Genetic condition and leading inherited cause of intellectual disability",
+            "Heart condition",
+            "Behavioral disorder"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fragile X Syndrome is an inherited genetic condition and the most common known inherited cause of intellectual disability.",
           "difficulty": "medium",
-          "topic": "Behavioral Support Strategies"
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-041",
+          "question": "What teaching approach is most effective for students with intellectual disabilities?",
+          "options": [
+            "Abstract concepts",
+            "Concrete, hands-on, functional, and repetitive instruction",
+            "Lecture method",
+            "Independent study"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Students with intellectual disabilities learn best through concrete, hands-on, functional, repetitive instruction with immediate application.",
+          "difficulty": "medium",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-042",
+          "question": "What is 'functional curriculum'?",
+          "options": [
+            "Academic subjects only",
+            "Curriculum focusing on practical life skills for independence",
+            "Basic curriculum",
+            "Working curriculum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Functional curriculum emphasizes practical life skills needed for independent living, employment, and community participation.",
+          "difficulty": "easy",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-043",
+          "question": "What is 'task analysis'?",
+          "options": [
+            "Job description",
+            "Breaking complex task into smaller, sequential steps for teaching",
+            "Work analysis",
+            "Task list"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Task analysis breaks down complex skills into smaller, manageable, sequential steps that can be taught systematically.",
+          "difficulty": "medium",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-044",
+          "question": "What is 'errorless learning'?",
+          "options": [
+            "No mistakes allowed",
+            "Teaching method providing prompts to prevent errors during learning",
+            "Perfect performance",
+            "Trial and error"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Errorless learning uses prompts and cues to minimize errors during initial learning, gradually fading supports as mastery increases.",
+          "difficulty": "difficult",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-045",
+          "question": "What is 'prompting' in special education?",
+          "options": [
+            "Encouraging only",
+            "Providing cues or assistance to help student perform skill correctly",
+            "Reminding",
+            "Asking questions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Prompting provides cues or assistance (verbal, visual, physical) to help students perform skills correctly, gradually faded as independence increases.",
+          "difficulty": "easy",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-046",
+          "question": "What is 'prompt fading'?",
+          "options": [
+            "Removing all help",
+            "Gradually reducing prompts as student gains independence",
+            "Ignoring student",
+            "Stopping instruction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Prompt fading is the systematic, gradual reduction of prompts as students develop independence and mastery of skills.",
+          "difficulty": "medium",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-047",
+          "question": "What is 'community-based instruction'?",
+          "options": [
+            "Field trips",
+            "Teaching functional skills in actual community settings where they'll be used",
+            "Community service",
+            "Outside activities"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Community-based instruction teaches functional skills in real community settings (stores, banks, transportation) where students will actually use them.",
+          "difficulty": "medium",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-048",
+          "question": "What is 'supported employment'?",
+          "options": [
+            "Any job support",
+            "Competitive work with ongoing support services for individuals with disabilities",
+            "Sheltered workshop",
+            "Volunteer work"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Supported employment provides competitive work in integrated settings with ongoing support services for individuals with significant disabilities.",
+          "difficulty": "medium",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-049",
+          "question": "What is 'social skills training'?",
+          "options": [
+            "Socialization time",
+            "Explicit instruction in social interaction, communication, and relationship skills",
+            "Making friends",
+            "Group activities"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Social skills training provides explicit, systematic instruction in social interaction, communication, and building relationships.",
+          "difficulty": "easy",
+          "topic": "Intellectual Disabilities"
+        },
+        {
+          "id": "sped-id-050",
+          "question": "What is 'partial participation'?",
+          "options": [
+            "Not completing tasks",
+            "Participating in activities to extent possible with adaptations and supports",
+            "Incomplete work",
+            "Part-time attendance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Partial participation allows students to participate in activities to their fullest extent possible with adaptations, rather than being excluded.",
+          "difficulty": "medium",
+          "topic": "Intellectual Disabilities"
         }
       ]
     },
     {
-      "id": "instructional-strategies",
-      "name": "Instructional Strategies for SPED",
+      "id": "autism-spectrum",
+      "name": "Autism Spectrum Disorder",
       "questions": [
         {
-          "id": "ele-sped-is-001",
-          "question": "What is 'differentiated instruction' in special education?",
+          "id": "sped-asd-051",
+          "question": "What is Autism Spectrum Disorder (ASD)?",
           "options": [
-            "Teaching only one way",
-            "Adapting instruction to meet diverse learning needs",
-            "Lowering expectations",
-            "Separating examinees by ability"
+            "Behavior problem",
+            "Neurodevelopmental disorder affecting social communication and behavior with restricted/repetitive patterns",
+            "Learning disability",
+            "Mental illness"
           ],
           "correctAnswer": 1,
-          "explanation": "Differentiated instruction involves modifying content, process, product, or environment to meet individual examinee needs.",
+          "explanation": "ASD is a neurodevelopmental disorder characterized by challenges in social communication/interaction and restricted, repetitive patterns of behavior.",
           "difficulty": "easy",
-          "topic": "Instructional Strategies for SPED"
+          "topic": "Autism Spectrum Disorder"
         },
         {
-          "id": "ele-sped-is-002",
-          "question": "What are 'accommodations' in special education?",
+          "id": "sped-asd-052",
+          "question": "What are the core deficits in autism?",
           "options": [
-            "Changing what is taught",
-            "Changes in how examinees access learning without altering content",
-            "Extra homework",
-            "Separate classrooms"
+            "Academic skills",
+            "Social communication/interaction and restricted/repetitive behaviors",
+            "Physical abilities",
+            "Memory"
           ],
           "correctAnswer": 1,
-          "explanation": "Accommodations are changes in how examinees access and demonstrate learning (e.g., extended time, audio books) without changing content.",
-          "difficulty": "medium",
-          "topic": "Instructional Strategies for SPED"
-        },
-        {
-          "id": "ele-sped-is-003",
-          "question": "What are 'modifications' in special education?",
-          "options": [
-            "Same as accommodations",
-            "Changes in what is taught or expected",
-            "Classroom decorations",
-            "Seating arrangements"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Modifications change the content, curriculum, or performance expectations to match the examinee's ability level.",
-          "difficulty": "medium",
-          "topic": "Instructional Strategies for SPED"
-        },
-        {
-          "id": "ele-sped-is-004",
-          "question": "What is 'task analysis' in special education?",
-          "options": [
-            "Analyzing test scores",
-            "Breaking complex tasks into smaller, sequential steps",
-            "Assigning tasks",
-            "Grading assignments"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Task analysis involves breaking down complex skills or activities into smaller, teachable steps for easier learning.",
+          "explanation": "Core deficits in ASD are in social communication/interaction and restricted, repetitive patterns of behavior, interests, or activities.",
           "difficulty": "easy",
-          "topic": "Instructional Strategies for SPED"
+          "topic": "Autism Spectrum Disorder"
         },
         {
-          "id": "ele-sped-is-005",
-          "question": "What is 'scaffolding' in special education instruction?",
+          "id": "sped-asd-053",
+          "question": "What is 'echolalia'?",
           "options": [
-            "Building structures",
-            "Providing temporary support that is gradually removed",
-            "Permanent assistance",
-            "Physical support"
+            "Echo sounds",
+            "Repetition of words or phrases spoken by others",
+            "Loud talking",
+            "Sound sensitivity"
           ],
           "correctAnswer": 1,
-          "explanation": "Scaffolding provides temporary instructional support that is gradually faded as the examinee gains independence.",
+          "explanation": "Echolalia is the repetition of words or phrases spoken by others, common in individuals with autism, can be immediate or delayed.",
+          "difficulty": "easy",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-054",
+          "question": "What are 'stimming' behaviors?",
+          "options": [
+            "Stimulation activities",
+            "Self-stimulatory repetitive behaviors (hand-flapping, rocking, spinning)",
+            "Exercise",
+            "Hyperactivity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Stimming refers to self-stimulatory repetitive behaviors like hand-flapping, rocking, or spinning, often for self-regulation or sensory input.",
+          "difficulty": "easy",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-055",
+          "question": "What is Applied Behavior Analysis (ABA)?",
+          "options": [
+            "Behavior punishment",
+            "Evidence-based intervention using behavioral principles to teach skills and reduce problem behaviors",
+            "Behavior chart",
+            "Discipline method"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ABA is an evidence-based intervention applying behavioral principles to systematically teach skills and reduce problematic behaviors in autism.",
           "difficulty": "medium",
-          "topic": "Instructional Strategies for SPED"
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-056",
+          "question": "What is Discrete Trial Training (DTT)?",
+          "options": [
+            "Court trials",
+            "Structured ABA teaching method breaking skills into small steps with repeated practice",
+            "Testing method",
+            "Trial period"
+          ],
+          "correctAnswer": 1,
+          "explanation": "DTT is a structured ABA teaching method that breaks skills into small, discrete components taught through repeated, massed trials with reinforcement.",
+          "difficulty": "medium",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-057",
+          "question": "What is 'social stories' strategy?",
+          "options": [
+            "Story time",
+            "Short descriptions of situations teaching appropriate social responses and expectations",
+            "Fiction books",
+            "Group stories"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Social stories are short descriptions of situations written from student's perspective, teaching appropriate social responses and what to expect.",
+          "difficulty": "easy",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-058",
+          "question": "What is PECS (Picture Exchange Communication System)?",
+          "options": [
+            "Art program",
+            "Alternative communication system using pictures to communicate wants and needs",
+            "Photo album",
+            "Picture book"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PECS is an alternative/augmentative communication system where individuals use pictures to communicate wants, needs, and ideas.",
+          "difficulty": "medium",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-059",
+          "question": "What is a 'visual schedule'?",
+          "options": [
+            "Wall calendar",
+            "Picture-based schedule showing sequence of activities to increase predictability",
+            "Timetable",
+            "Class schedule"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Visual schedules use pictures/words to show sequence of activities, providing predictability and reducing anxiety for students with autism.",
+          "difficulty": "easy",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-060",
+          "question": "What is 'sensory processing disorder' often associated with autism?",
+          "options": [
+            "Processing speed",
+            "Difficulty processing and responding to sensory information (over/under-sensitivity)",
+            "Thinking disorder",
+            "Perception problem"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sensory processing disorder involves difficulty processing sensory information, resulting in over-sensitivity or under-sensitivity to stimuli.",
+          "difficulty": "medium",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-061",
+          "question": "What is a 'sensory diet'?",
+          "options": [
+            "Food restrictions",
+            "Planned sensory activities throughout day to help regulate arousal and attention",
+            "Eating plan",
+            "Nutrition program"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A sensory diet is a planned set of sensory activities throughout the day designed to help individuals regulate arousal, attention, and behavior.",
+          "difficulty": "medium",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-062",
+          "question": "What is 'joint attention'?",
+          "options": [
+            "Paying attention together",
+            "Shared focus between two people on object or event",
+            "Joint activities",
+            "Group work"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Joint attention is the shared focus of two individuals on an object or event, often impaired in autism, foundational for social learning.",
+          "difficulty": "medium",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-063",
+          "question": "What is 'theory of mind'?",
+          "options": [
+            "Psychology theory",
+            "Ability to understand that others have thoughts, beliefs, and perspectives different from one's own",
+            "Mind reading",
+            "Thinking skills"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Theory of mind is the ability to understand others have different thoughts, beliefs, and perspectives, often impaired in autism.",
+          "difficulty": "difficult",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-064",
+          "question": "What is 'structured teaching' (TEACCH)?",
+          "options": [
+            "Strict rules",
+            "Approach using visual structure, schedules, and work systems to support independence",
+            "Building design",
+            "Organized classroom"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Structured teaching (TEACCH) uses physical structure, visual schedules, work systems, and visual structure to support independence in autism.",
+          "difficulty": "medium",
+          "topic": "Autism Spectrum Disorder"
+        },
+        {
+          "id": "sped-asd-065",
+          "question": "What is important about transitions for students with autism?",
+          "options": [
+            "Not important",
+            "Need advance warning, visual supports, and predictability due to difficulty with changes",
+            "Avoid transitions",
+            "Quick changes better"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Students with autism need advance warning, visual supports, and predictability during transitions due to difficulty managing unexpected changes.",
+          "difficulty": "easy",
+          "topic": "Autism Spectrum Disorder"
+        }
+      ]
+    },
+    {
+      "id": "emotional-behavioral",
+      "name": "Emotional and Behavioral Disorders",
+      "questions": [
+        {
+          "id": "sped-ebd-066",
+          "question": "What is an Emotional/Behavioral Disorder (EBD)?",
+          "options": [
+            "Bad behavior",
+            "Condition with emotional or behavioral responses significantly different from age/cultural norms affecting educational performance",
+            "Discipline problem",
+            "Attitude issue"
+          ],
+          "correctAnswer": 1,
+          "explanation": "EBD involves emotional or behavioral responses that significantly differ from age and cultural norms, adversely affecting educational performance.",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-067",
+          "question": "What is ADHD (Attention-Deficit/Hyperactivity Disorder)?",
+          "options": [
+            "Laziness",
+            "Neurodevelopmental disorder with persistent inattention and/or hyperactivity-impulsivity",
+            "Bad behavior",
+            "Energy problem"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ADHD is a neurodevelopmental disorder characterized by persistent patterns of inattention and/or hyperactivity-impulsivity interfering with functioning.",
+          "difficulty": "easy",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-068",
+          "question": "What are the three types of ADHD?",
+          "options": [
+            "Mild, moderate, severe",
+            "Predominantly Inattentive, Predominantly Hyperactive-Impulsive, Combined Type",
+            "Type 1, 2, 3",
+            "Early, middle, late onset"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ADHD has three types: Predominantly Inattentive, Predominantly Hyperactive-Impulsive, and Combined Type (both inattention and hyperactivity).",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-069",
+          "question": "What classroom strategies help students with ADHD?",
+          "options": [
+            "Punishment",
+            "Structured routine, clear expectations, frequent breaks, preferential seating, reduced distractions",
+            "More homework",
+            "Strict discipline"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Students with ADHD benefit from structured routines, clear expectations, movement breaks, preferential seating, and minimized distractions.",
+          "difficulty": "easy",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-070",
+          "question": "What is Oppositional Defiant Disorder (ODD)?",
+          "options": [
+            "Defiance only",
+            "Pattern of angry, defiant, vindictive behavior toward authority figures",
+            "Rebellion",
+            "Stubbornness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ODD is a pattern of angry/irritable mood, argumentative/defiant behavior, and vindictiveness toward authority figures.",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-071",
+          "question": "What is Conduct Disorder?",
+          "options": [
+            "Behavior rules",
+            "Repetitive pattern of behavior violating rights of others and societal norms",
+            "Bad manners",
+            "Discipline problems"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conduct Disorder involves repetitive, persistent pattern of behavior violating others' rights and major age-appropriate societal norms.",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-072",
+          "question": "What is anxiety disorder in children?",
+          "options": [
+            "Nervousness",
+            "Excessive fear or worry interfering with daily functioning",
+            "Shyness",
+            "Stress"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Anxiety disorders involve excessive fear, worry, or anxiety that interferes with daily functioning and is disproportionate to actual threat.",
+          "difficulty": "easy",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-073",
+          "question": "What is depression in children?",
+          "options": [
+            "Sadness",
+            "Persistent feelings of sadness, hopelessness, and loss of interest affecting functioning",
+            "Bad mood",
+            "Tiredness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Childhood depression involves persistent sadness, hopelessness, irritability, and loss of interest in activities affecting functioning.",
+          "difficulty": "easy",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-074",
+          "question": "What is a 'token economy' system?",
+          "options": [
+            "Money system",
+            "Behavior management using tokens earned for positive behaviors exchanged for rewards",
+            "Economic lesson",
+            "Currency exchange"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Token economy is a behavior management system where students earn tokens for positive behaviors that can be exchanged for rewards or privileges.",
+          "difficulty": "easy",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-075",
+          "question": "What is 'time-out' as a behavior intervention?",
+          "options": [
+            "Punishment",
+            "Brief removal from reinforcing environment to decrease problem behavior",
+            "Break time",
+            "Isolation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Time-out is brief removal from reinforcing environment/activities to decrease problem behavior, should be used appropriately and briefly.",
+          "difficulty": "easy",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-076",
+          "question": "What is 'self-monitoring'?",
+          "options": [
+            "Self-watch",
+            "Students observing and recording their own behavior to increase awareness and control",
+            "Self-care",
+            "Monitoring others"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-monitoring involves students observing, recording, and evaluating their own behavior to increase awareness and self-control.",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-077",
+          "question": "What is 'de-escalation'?",
+          "options": [
+            "Going downstairs",
+            "Strategies to reduce intensity of emotional or behavioral crisis",
+            "Calm voice only",
+            "Ignoring behavior"
+          ],
+          "correctAnswer": 1,
+          "explanation": "De-escalation uses specific strategies (calm voice, space, choices) to reduce the intensity of an emotional or behavioral crisis.",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-078",
+          "question": "What is 'replacement behavior'?",
+          "options": [
+            "New behavior",
+            "Appropriate behavior taught to replace problem behavior serving same function",
+            "Substitute activity",
+            "Alternative action"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Replacement behavior is an appropriate behavior taught to replace a problem behavior while serving the same function for the student.",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-079",
+          "question": "What is 'crisis intervention'?",
+          "options": [
+            "Emergency only",
+            "Immediate, short-term assistance during behavioral or emotional crisis",
+            "Calling police",
+            "Restraint"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Crisis intervention provides immediate, short-term assistance to help individuals in behavioral or emotional crisis regain control and safety.",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
+        },
+        {
+          "id": "sped-ebd-080",
+          "question": "What is trauma-informed practice?",
+          "options": [
+            "Emergency medicine",
+            "Approach recognizing impact of trauma and creating safe, supportive environment",
+            "Injury treatment",
+            "Crisis response"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Trauma-informed practice recognizes widespread impact of trauma and creates physically/emotionally safe, supportive environments for healing.",
+          "difficulty": "medium",
+          "topic": "Emotional and Behavioral Disorders"
         }
       ]
     },
@@ -312,154 +1158,1010 @@
       "name": "Communication Disorders",
       "questions": [
         {
-          "id": "ele-sped-cd-001",
-          "question": "What is a 'speech disorder'?",
+          "id": "sped-cd-081",
+          "question": "What is a communication disorder?",
           "options": [
-            "Difficulty understanding language",
-            "Difficulty producing speech sounds correctly",
-            "Difficulty reading",
-            "Difficulty writing"
+            "Shy personality",
+            "Impairment in ability to receive, send, process, and comprehend verbal/nonverbal communication",
+            "Language barrier",
+            "Accent"
           ],
           "correctAnswer": 1,
-          "explanation": "A speech disorder involves difficulty producing speech sounds correctly or fluently, or problems with voice.",
+          "explanation": "Communication disorders impair the ability to receive, send, process, and comprehend verbal, nonverbal, and graphic symbol systems.",
           "difficulty": "easy",
           "topic": "Communication Disorders"
         },
         {
-          "id": "ele-sped-cd-002",
-          "question": "What is a 'language disorder'?",
+          "id": "sped-cd-082",
+          "question": "What is a speech disorder?",
           "options": [
-            "Only pronunciation problems",
-            "Difficulty understanding or using spoken, written, or other language forms",
-            "Only reading problems",
-            "Only writing problems"
+            "Talking too much",
+            "Impairment in articulation, fluency, or voice affecting spoken communication",
+            "Accent",
+            "Loud voice"
           ],
           "correctAnswer": 1,
-          "explanation": "A language disorder affects the ability to understand others (receptive) or express thoughts (expressive) through language.",
-          "difficulty": "medium",
+          "explanation": "Speech disorders involve impairments in articulation (sound production), fluency (stuttering), or voice (pitch, volume, quality).",
+          "difficulty": "easy",
           "topic": "Communication Disorders"
         },
         {
-          "id": "ele-sped-cd-003",
+          "id": "sped-cd-083",
+          "question": "What is a language disorder?",
+          "options": [
+            "Foreign language",
+            "Impaired comprehension and/or use of spoken, written, and/or symbol systems",
+            "Grammar mistakes",
+            "Vocabulary size"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Language disorders involve impaired comprehension and/or use of language across form (phonology, morphology, syntax), content (semantics), and function (pragmatics).",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-084",
           "question": "What is 'articulation disorder'?",
           "options": [
-            "Difficulty with grammar",
-            "Difficulty producing specific speech sounds correctly",
-            "Difficulty with fluency",
-            "Difficulty with voice"
+            "Joint problem",
+            "Difficulty producing speech sounds correctly",
+            "Speaking clearly",
+            "Pronunciation"
           ],
           "correctAnswer": 1,
-          "explanation": "Articulation disorder involves difficulty making specific speech sounds, like substituting, omitting, or distorting sounds.",
-          "difficulty": "medium",
+          "explanation": "Articulation disorders involve difficulty producing specific speech sounds correctly (substitutions, omissions, distortions).",
+          "difficulty": "easy",
           "topic": "Communication Disorders"
         },
         {
-          "id": "ele-sped-cd-004",
+          "id": "sped-cd-085",
+          "question": "What is 'fluency disorder' (stuttering)?",
+          "options": [
+            "Fast talking",
+            "Disruption in flow of speech with repetitions, prolongations, or blocks",
+            "Smooth speech",
+            "Speaking ability"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fluency disorders (stuttering) involve disruptions in the flow of speech including repetitions, prolongations, or blocks.",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-086",
+          "question": "What is a 'voice disorder'?",
+          "options": [
+            "Singing ability",
+            "Abnormality in pitch, loudness, or quality of voice",
+            "Loud voice",
+            "Voice preference"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Voice disorders involve abnormalities in pitch, loudness, quality (hoarseness), or resonance of the voice.",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-087",
+          "question": "What is 'receptive language'?",
+          "options": [
+            "Receiving messages",
+            "Ability to understand and comprehend language",
+            "Listening skills",
+            "Hearing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Receptive language is the ability to understand and comprehend spoken, written, or gestural language.",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-088",
+          "question": "What is 'expressive language'?",
+          "options": [
+            "Emotional expression",
+            "Ability to use language to communicate thoughts, ideas, and feelings",
+            "Speaking loudly",
+            "Facial expressions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Expressive language is the ability to use words, sentences, gestures, and writing to convey meaning and messages to others.",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-089",
           "question": "What is 'augmentative and alternative communication' (AAC)?",
           "options": [
-            "Speech therapy only",
-            "Tools and strategies to supplement or replace speech",
-            "Computer classes",
-            "Foreign language instruction"
+            "Extra communication",
+            "Methods supplementing or replacing speech for those with communication impairments",
+            "Alternative subjects",
+            "Additional language"
           ],
           "correctAnswer": 1,
-          "explanation": "AAC includes all forms of communication other than oral speech, such as sign language, picture boards, or speech-generating devices.",
+          "explanation": "AAC includes methods (sign language, picture boards, speech devices) that supplement or replace speech for individuals with communication impairments.",
           "difficulty": "medium",
           "topic": "Communication Disorders"
         },
         {
-          "id": "ele-sped-cd-005",
-          "question": "What is 'stuttering'?",
+          "id": "sped-cd-090",
+          "question": "What is a 'communication board'?",
           "options": [
-            "A language disorder",
-            "A fluency disorder with disruptions in speech flow",
-            "An articulation problem",
-            "A voice disorder"
+            "Bulletin board",
+            "Board with pictures, symbols, or words for non-verbal communication",
+            "White board",
+            "Notice board"
           ],
           "correctAnswer": 1,
-          "explanation": "Stuttering is a fluency disorder characterized by repetitions, prolongations, or blocks that disrupt the flow of speech.",
+          "explanation": "A communication board displays pictures, symbols, or words that individuals can point to for expressing wants, needs, and ideas.",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-091",
+          "question": "What is a 'speech-generating device'?",
+          "options": [
+            "Microphone",
+            "Electronic device producing spoken words when user selects symbols or types",
+            "Speaker",
+            "Recording device"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Speech-generating devices are electronic tools that produce spoken words when the user selects symbols, pictures, or types messages.",
+          "difficulty": "easy",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-092",
+          "question": "What is 'pragmatics' in language?",
+          "options": [
+            "Practical language",
+            "Social use of language in context (turn-taking, topic maintenance, appropriate responses)",
+            "Grammar rules",
+            "Language structure"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pragmatics is the social use of language, including rules for conversation like turn-taking, maintaining topics, and contextually appropriate responses.",
+          "difficulty": "medium",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-093",
+          "question": "What is 'semantics' in language?",
+          "options": [
+            "Word meaning and relationships",
+            "Sentence structure",
+            "Sound system",
+            "Grammar"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Semantics refers to the meaning of words and word relationships, including vocabulary development and concept understanding.",
+          "difficulty": "medium",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-094",
+          "question": "What is 'syntax'?",
+          "options": [
+            "Word order and sentence structure rules",
+            "Word meaning",
+            "Sound production",
+            "Conversation skills"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Syntax involves the rules for word order and sentence structure in language.",
+          "difficulty": "medium",
+          "topic": "Communication Disorders"
+        },
+        {
+          "id": "sped-cd-095",
+          "question": "What is the role of a 'speech-language pathologist' (SLP)?",
+          "options": [
+            "Language teacher only",
+            "Specialist assessing, diagnosing, and treating communication and swallowing disorders",
+            "Translator",
+            "English teacher"
+          ],
+          "correctAnswer": 1,
+          "explanation": "SLPs are specialists who assess, diagnose, and treat speech, language, voice, fluency, and swallowing disorders.",
           "difficulty": "easy",
           "topic": "Communication Disorders"
         }
       ]
     },
     {
-      "id": "collaboration",
-      "name": "Collaboration and Teamwork",
+      "id": "physical-health",
+      "name": "Physical and Health Impairments",
       "questions": [
         {
-          "id": "ele-sped-col-001",
-          "question": "Why is collaboration important in special education?",
+          "id": "sped-phi-096",
+          "question": "What is a physical disability?",
           "options": [
-            "It's not important",
-            "Multiple professionals provide comprehensive support",
-            "To reduce teacher responsibility",
-            "Only for administrative purposes"
+            "Injury",
+            "Impairment limiting physical functioning, mobility, or motor abilities",
+            "Exercise limitation",
+            "Weakness"
           ],
           "correctAnswer": 1,
-          "explanation": "Collaboration among teachers, specialists, families, and examinees ensures comprehensive, coordinated support for examinees with special needs.",
+          "explanation": "Physical disabilities are impairments that limit physical functioning, mobility, dexterity, or stamina, affecting educational performance.",
           "difficulty": "easy",
-          "topic": "Collaboration and Teamwork"
+          "topic": "Physical and Health Impairments"
         },
         {
-          "id": "ele-sped-col-002",
-          "question": "What is 'co-teaching' in special education?",
+          "id": "sped-phi-097",
+          "question": "What is Cerebral Palsy?",
           "options": [
-            "One teacher working alone",
-            "General and special education teachers working together",
-            "Examinees teaching each other",
-            "Parent volunteers teaching"
+            "Brain tumor",
+            "Group of disorders affecting movement, muscle tone, and posture due to brain damage",
+            "Mental disability",
+            "Learning disorder"
           ],
           "correctAnswer": 1,
-          "explanation": "Co-teaching involves general and special education teachers jointly planning and teaching in the same classroom.",
+          "explanation": "Cerebral Palsy is a group of disorders affecting movement, muscle tone, and posture caused by damage to the developing brain.",
           "difficulty": "easy",
-          "topic": "Collaboration and Teamwork"
+          "topic": "Physical and Health Impairments"
         },
         {
-          "id": "ele-sped-col-003",
-          "question": "What is a 'multidisciplinary team' in special education?",
+          "id": "sped-phi-098",
+          "question": "What is Spina Bifida?",
           "options": [
-            "Only teachers",
-            "Professionals from various fields working together",
-            "Only administrators",
-            "Only parents"
+            "Back pain",
+            "Birth defect where spine doesn't form properly, potentially affecting mobility and sensation",
+            "Spinal injury",
+            "Bone disorder"
           ],
           "correctAnswer": 1,
-          "explanation": "A multidisciplinary team includes professionals from various fields (teachers, therapists, psychologists, etc.) who work together.",
+          "explanation": "Spina Bifida is a birth defect where the spine and spinal cord don't form properly, potentially affecting mobility and bodily functions.",
           "difficulty": "medium",
-          "topic": "Collaboration and Teamwork"
+          "topic": "Physical and Health Impairments"
         },
         {
-          "id": "ele-sped-col-004",
-          "question": "Why is family involvement crucial in special education?",
+          "id": "sped-phi-099",
+          "question": "What is Muscular Dystrophy?",
           "options": [
-            "It's not important",
-            "Families provide essential information and support continuity",
-            "Only for legal requirements",
-            "To reduce school responsibility"
+            "Muscle pain",
+            "Group of genetic diseases causing progressive muscle weakness and loss",
+            "Exercise injury",
+            "Muscle strain"
           ],
           "correctAnswer": 1,
-          "explanation": "Family involvement is critical as they know their child best and ensure consistency between home and school.",
-          "difficulty": "easy",
-          "topic": "Collaboration and Teamwork"
-        },
-        {
-          "id": "ele-sped-col-005",
-          "question": "What is 'transition planning' in special education?",
-          "options": [
-            "Moving classrooms",
-            "Planning for changes between programs or life stages",
-            "Daily schedule",
-            "Lunch planning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Transition planning involves preparing for major changes like moving between grade levels, schools, or to post-school life.",
+          "explanation": "Muscular Dystrophy is a group of genetic diseases characterized by progressive muscle weakness and deterioration.",
           "difficulty": "medium",
-          "topic": "Collaboration and Teamwork"
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-100",
+          "question": "What is epilepsy/seizure disorder?",
+          "options": [
+            "Fainting",
+            "Neurological condition causing recurrent seizures due to abnormal brain activity",
+            "Dizziness",
+            "Headaches"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Epilepsy is a neurological condition characterized by recurrent seizures caused by abnormal electrical activity in the brain.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-101",
+          "question": "What should teachers do if a student has a seizure?",
+          "options": [
+            "Restrain student",
+            "Keep calm, protect from injury, turn on side, time seizure, call for help if needed",
+            "Leave room",
+            "Put something in mouth"
+          ],
+          "correctAnswer": 1,
+          "explanation": "During seizures: stay calm, protect from injury, turn on side, time the seizure, don't restrain or put anything in mouth, call for help if prolonged.",
+          "difficulty": "medium",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-102",
+          "question": "What is diabetes in children?",
+          "options": [
+            "Sugar addiction",
+            "Condition where body cannot properly regulate blood sugar levels",
+            "Diet problem",
+            "Eating disorder"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Diabetes is a condition where the body cannot properly regulate blood sugar levels, requiring monitoring and management.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-103",
+          "question": "What is asthma?",
+          "options": [
+            "Breathing problem",
+            "Chronic condition causing inflammation and narrowing of airways",
+            "Lung infection",
+            "Coughing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Asthma is a chronic condition causing inflammation and narrowing of airways, leading to breathing difficulties, wheezing, and coughing.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-104",
+          "question": "What is 'assistive technology'?",
+          "options": [
+            "Computer only",
+            "Devices, equipment, or systems helping individuals with disabilities perform functions",
+            "Teaching aid",
+            "Technology class"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Assistive technology includes any device, equipment, or system that helps individuals with disabilities perform functions that might otherwise be difficult or impossible.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-105",
+          "question": "What is a 'wheelchair' classified as?",
+          "options": [
+            "Mobility assistive technology device",
+            "Medical equipment",
+            "Exercise equipment",
+            "Transportation"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Wheelchairs are mobility assistive technology devices that enable movement and independence for individuals with physical disabilities.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-106",
+          "question": "What is 'occupational therapy' (OT)?",
+          "options": [
+            "Job training",
+            "Therapy improving fine motor skills, daily living skills, and sensory processing",
+            "Career counseling",
+            "Work placement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Occupational therapy helps develop fine motor skills, daily living skills, sensory processing, and functional abilities needed for school and life.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-107",
+          "question": "What is 'physical therapy' (PT)?",
+          "options": [
+            "Exercise class",
+            "Therapy improving gross motor skills, strength, mobility, and physical functioning",
+            "Sports training",
+            "Physical education"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Physical therapy helps improve gross motor skills, strength, balance, coordination, mobility, and overall physical functioning.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-108",
+          "question": "What is 'environmental accessibility'?",
+          "options": [
+            "Outdoor access",
+            "Ensuring physical environment is accessible to individuals with disabilities (ramps, elevators, wide doors)",
+            "Nature programs",
+            "Environmental education"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Environmental accessibility ensures physical environments are usable by all, including ramps, elevators, wide doorways, and accessible restrooms.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-109",
+          "question": "What is 'adapted physical education'?",
+          "options": [
+            "Easy PE",
+            "Modified physical education program meeting needs of students with disabilities",
+            "Special sports",
+            "Indoor PE"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Adapted physical education is specially designed PE instruction modified to meet the unique needs of students with disabilities.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        },
+        {
+          "id": "sped-phi-110",
+          "question": "What is a 'health plan' or 'medical plan' for students?",
+          "options": [
+            "Insurance plan",
+            "Written plan outlining health needs, medications, and emergency procedures",
+            "Wellness program",
+            "Health class curriculum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A health/medical plan documents student's health needs, medications, treatments, and emergency procedures for school staff.",
+          "difficulty": "easy",
+          "topic": "Physical and Health Impairments"
+        }
+      ]
+    },
+    {
+      "id": "visual-hearing",
+      "name": "Visual and Hearing Impairments",
+      "questions": [
+        {
+          "id": "sped-vh-111",
+          "question": "What is a visual impairment?",
+          "options": [
+            "Eyeglasses needed",
+            "Vision loss affecting educational performance even with correction",
+            "Poor eyesight",
+            "Blindness only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Visual impairment is vision loss that, even with correction, adversely affects educational performance, ranging from low vision to blindness.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-112",
+          "question": "What is the difference between 'low vision' and 'blindness'?",
+          "options": [
+            "No difference",
+            "Low vision: some usable sight; Blindness: little to no functional vision",
+            "Low vision is better",
+            "Blindness is temporary"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Low vision means some usable vision remains; blindness means little to no functional vision, relying primarily on other senses.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-113",
+          "question": "What is 'Braille'?",
+          "options": [
+            "French language",
+            "Tactile reading and writing system using raised dots",
+            "Sign language",
+            "Audio system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Braille is a tactile reading and writing system using patterns of raised dots that people read by touch.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-114",
+          "question": "What assistive technology helps students with visual impairments?",
+          "options": [
+            "Hearing aids",
+            "Screen readers, magnification software, Braille displays, audio books",
+            "Wheelchairs",
+            "Communication boards"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Students with visual impairments use screen readers, magnification software, Braille displays, audio books, and talking calculators.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-115",
+          "question": "What is 'Orientation and Mobility' (O&M) training?",
+          "options": [
+            "Map reading",
+            "Instruction in traveling safely and independently using cane, spatial awareness",
+            "Direction skills",
+            "Exercise program"
+          ],
+          "correctAnswer": 1,
+          "explanation": "O&M training teaches students with visual impairments to travel safely and independently using white canes, spatial awareness, and environmental cues.",
+          "difficulty": "medium",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-116",
+          "question": "What is a hearing impairment?",
+          "options": [
+            "Not listening",
+            "Permanent or fluctuating hearing loss affecting educational performance",
+            "Temporary hearing loss",
+            "Earache"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Hearing impairment is permanent or fluctuating hearing loss that adversely affects educational performance, ranging from mild to profound.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-117",
+          "question": "What is the difference between 'deaf' and 'hard of hearing'?",
+          "options": [
+            "No difference",
+            "Deaf: severe/profound loss, limited speech understanding; Hard of hearing: some functional hearing remains",
+            "Same condition",
+            "Age difference"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Deaf indicates severe to profound hearing loss where spoken language is not primary communication; hard of hearing means some functional hearing remains.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-118",
+          "question": "What is 'sign language'?",
+          "options": [
+            "Hand signals",
+            "Visual language using hand gestures, facial expressions, and body movements",
+            "Written language",
+            "Gestures only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sign language is a complete visual language using hand shapes, gestures, facial expressions, and body movements with its own grammar.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-119",
+          "question": "What is 'Filipino Sign Language' (FSL)?",
+          "options": [
+            "International sign",
+            "Official sign language of the Deaf community in the Philippines",
+            "American Sign Language",
+            "Signed Filipino"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipino Sign Language (FSL) is the official sign language of the Filipino Deaf community, with its own unique grammar and vocabulary.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-120",
+          "question": "What is a 'hearing aid'?",
+          "options": [
+            "Earphones",
+            "Electronic device amplifying sound for individuals with hearing loss",
+            "Music player",
+            "Headphones"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A hearing aid is an electronic device worn in or behind the ear that amplifies sound for individuals with hearing loss.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-121",
+          "question": "What is a 'cochlear implant'?",
+          "options": [
+            "Hearing aid",
+            "Electronic device surgically implanted to provide sound sensation for profound deafness",
+            "Ear surgery",
+            "Earpiece"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A cochlear implant is a surgically implanted electronic device that provides a sense of sound to individuals with severe to profound hearing loss.",
+          "difficulty": "medium",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-122",
+          "question": "What classroom accommodations help students with hearing impairments?",
+          "options": [
+            "Louder teaching",
+            "Preferential seating, visual aids, captions, FM systems, sign language interpreter",
+            "Headphones only",
+            "Quiet room"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Accommodations include preferential seating, visual aids, captioning, FM systems, interpreters, and written instructions.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-123",
+          "question": "What is 'captioning' or 'subtitles'?",
+          "options": [
+            "Photo labels",
+            "Text display of spoken words and sounds in videos",
+            "Titles only",
+            "Video descriptions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Captioning provides text display of spoken dialogue and relevant sounds in videos, essential for students with hearing impairments.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-124",
+          "question": "What is an 'interpreter' for deaf students?",
+          "options": [
+            "Translator",
+            "Professional converting spoken language to sign language and vice versa",
+            "Teacher aide",
+            "Tutor"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An interpreter is a professional who facilitates communication by converting spoken language to sign language and vice versa.",
+          "difficulty": "easy",
+          "topic": "Visual and Hearing Impairments"
+        },
+        {
+          "id": "sped-vh-125",
+          "question": "What is 'Deaf culture'?",
+          "options": [
+            "Hearing loss only",
+            "Social beliefs, behaviors, values, and norms of Deaf community",
+            "Support group",
+            "Medical condition"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Deaf culture encompasses the social beliefs, behaviors, traditions, values, and norms shared by the Deaf community.",
+          "difficulty": "medium",
+          "topic": "Visual and Hearing Impairments"
+        }
+      ]
+    },
+    {
+      "id": "gifted-talented",
+      "name": "Gifted and Talented Education",
+      "questions": [
+        {
+          "id": "sped-gt-126",
+          "question": "Who are gifted and talented students?",
+          "options": [
+            "High grades only",
+            "Students with exceptional abilities in intellectual, creative, artistic, or leadership areas",
+            "Smart students",
+            "Fast learners"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gifted and talented students demonstrate exceptional abilities or potential in intellectual, creative, artistic, leadership, or specific academic areas.",
+          "difficulty": "easy",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-127",
+          "question": "What is 'differentiation' for gifted students?",
+          "options": [
+            "Separate classes",
+            "Modifying curriculum depth, complexity, and pace to match advanced abilities",
+            "More homework",
+            "Different subjects"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Differentiation for gifted students involves modifying content depth, process complexity, products, and learning pace to match their advanced abilities.",
+          "difficulty": "medium",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-128",
+          "question": "What is 'acceleration' in gifted education?",
+          "options": [
+            "Fast learning",
+            "Moving through curriculum at faster pace or advancing grade level",
+            "Quick reading",
+            "Speed work"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Acceleration involves moving through curriculum at a faster pace, advancing to higher grade levels, or compacting curriculum for mastered content.",
+          "difficulty": "easy",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-129",
+          "question": "What is 'enrichment' in gifted education?",
+          "options": [
+            "Extra work",
+            "Providing deeper, broader learning experiences beyond standard curriculum",
+            "More homework",
+            "Advanced books"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Enrichment provides deeper, broader learning experiences that extend beyond the standard curriculum, adding complexity and creativity.",
+          "difficulty": "easy",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-130",
+          "question": "What is 'Bloom's Taxonomy' and its use with gifted students?",
+          "options": [
+            "Flower classification",
+            "Framework of thinking levels used to create higher-order thinking challenges",
+            "Learning styles",
+            "Grade levels"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bloom's Taxonomy is a framework of thinking levels (Remember, Understand, Apply, Analyze, Evaluate, Create) used to develop higher-order thinking activities.",
+          "difficulty": "medium",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-131",
+          "question": "What is 'twice-exceptional' (2e)?",
+          "options": [
+            "Double gifted",
+            "Students who are both gifted and have learning disability or other exceptionality",
+            "Very smart",
+            "Two talents"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Twice-exceptional students are both gifted and have a learning disability, ADHD, autism, or other exceptionality requiring dual support.",
+          "difficulty": "medium",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-132",
+          "question": "What is 'perfectionism' in gifted students?",
+          "options": [
+            "Being perfect",
+            "Setting extremely high standards leading to stress, anxiety, or fear of failure",
+            "Good work",
+            "Excellence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Perfectionism in gifted students involves setting unrealistically high standards, leading to stress, anxiety, procrastination, or fear of failure.",
+          "difficulty": "easy",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-133",
+          "question": "What is 'underachievement' in gifted students?",
+          "options": [
+            "Laziness",
+            "Gap between potential and actual performance due to various factors",
+            "Low grades",
+            "Not trying"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Underachievement is the discrepancy between a gifted student's potential and actual performance, caused by various emotional, social, or environmental factors.",
+          "difficulty": "medium",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-134",
+          "question": "What is 'asynchronous development' in gifted children?",
+          "options": [
+            "Delayed development",
+            "Uneven development where intellectual abilities exceed social/emotional/physical development",
+            "Behind peers",
+            "Different timing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Asynchronous development occurs when gifted children's intellectual abilities significantly exceed their social, emotional, or physical development.",
+          "difficulty": "difficult",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-135",
+          "question": "What is 'curriculum compacting'?",
+          "options": [
+            "Shorter lessons",
+            "Eliminating mastered material to make time for enrichment or acceleration",
+            "Condensed books",
+            "Less content"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Curriculum compacting streamlines curriculum by eliminating material students have already mastered, creating time for enrichment or acceleration.",
+          "difficulty": "medium",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-136",
+          "question": "What is 'cluster grouping'?",
+          "options": [
+            "Group work",
+            "Placing group of gifted students together in regular classroom for differentiated instruction",
+            "Seating arrangement",
+            "Study groups"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cluster grouping places a small group of gifted students in a regular classroom where the teacher can provide differentiated instruction.",
+          "difficulty": "medium",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-137",
+          "question": "What is 'creative thinking'?",
+          "options": [
+            "Art class",
+            "Generating novel, original ideas and solutions through divergent thinking",
+            "Imagination",
+            "Making things"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Creative thinking involves generating novel, original ideas and unique solutions through divergent thinking, often emphasized in gifted education.",
+          "difficulty": "easy",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-138",
+          "question": "What is 'critical thinking'?",
+          "options": [
+            "Analyzing, evaluating, and making reasoned judgments",
+            "Criticism",
+            "Being critical",
+            "Thinking hard"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Critical thinking involves analyzing information, evaluating evidence, and making reasoned judgments based on logical reasoning.",
+          "difficulty": "easy",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-139",
+          "question": "What is 'problem-based learning' (PBL) for gifted students?",
+          "options": [
+            "Solving math problems",
+            "Learning approach using complex, real-world problems as context for investigation",
+            "Problem practice",
+            "Worksheet completion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PBL uses complex, real-world problems as the context for students to learn through investigation, collaboration, and critical thinking.",
+          "difficulty": "medium",
+          "topic": "Gifted and Talented Education"
+        },
+        {
+          "id": "sped-gt-140",
+          "question": "What is 'independent study' for gifted learners?",
+          "options": [
+            "Studying alone",
+            "Self-directed project exploring topic of interest in depth with teacher guidance",
+            "Homework",
+            "Library time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Independent study allows gifted students to pursue self-directed, in-depth exploration of topics of interest with teacher guidance and mentorship.",
+          "difficulty": "easy",
+          "topic": "Gifted and Talented Education"
+        }
+      ]
+    },
+    {
+      "id": "assessment-evaluation",
+      "name": "Assessment and Evaluation in SPED",
+      "questions": [
+        {
+          "id": "sped-ae-141",
+          "question": "What is the purpose of special education assessment?",
+          "options": [
+            "Grading only",
+            "Identifying disabilities, determining eligibility, planning appropriate services and interventions",
+            "Testing intelligence",
+            "Labeling students"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Special education assessment identifies disabilities, determines eligibility for services, and guides development of appropriate interventions and IEPs.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-142",
+          "question": "What is a 'multidisciplinary evaluation'?",
+          "options": [
+            "Multiple tests",
+            "Comprehensive assessment by team of professionals from different disciplines",
+            "Many subjects",
+            "Several evaluators"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Multidisciplinary evaluation involves comprehensive assessment by a team of professionals from various disciplines (psychology, education, therapy, medicine).",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-143",
+          "question": "What is 'norm-referenced assessment'?",
+          "options": [
+            "Normal test",
+            "Assessment comparing student performance to peers/normative sample",
+            "Standard test",
+            "Reference book test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Norm-referenced assessment compares a student's performance to a normative sample or peer group, showing relative standing.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-144",
+          "question": "What is 'criterion-referenced assessment'?",
+          "options": [
+            "Criteria list",
+            "Assessment measuring performance against specific standards or criteria",
+            "Reference test",
+            "Standards test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Criterion-referenced assessment measures student performance against specific learning standards or criteria, showing skill mastery.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-145",
+          "question": "What is 'curriculum-based measurement' (CBM)?",
+          "options": [
+            "Curriculum test",
+            "Frequent, brief assessments using curriculum material to monitor progress",
+            "Textbook tests",
+            "Course measurement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "CBM uses frequent, brief assessments directly from the curriculum to monitor student progress and inform instruction.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-146",
+          "question": "What is 'progress monitoring'?",
+          "options": [
+            "Grade tracking",
+            "Frequent assessment to track student progress toward IEP goals and adjust instruction",
+            "Report cards",
+            "Achievement tests"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Progress monitoring involves frequent, ongoing assessment to track student progress toward IEP goals and make instructional adjustments.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-147",
+          "question": "What is 'baseline data'?",
+          "options": [
+            "First test",
+            "Initial performance level before intervention begins",
+            "Basic information",
+            "Starting line"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Baseline data is the initial level of student performance before intervention begins, used to measure progress.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-148",
+          "question": "What is 'alternative assessment'?",
+          "options": [
+            "Different test",
+            "Non-traditional assessment for students unable to participate in standard testing",
+            "Second choice",
+            "Optional test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Alternative assessment provides non-traditional methods for students with significant disabilities who cannot participate in standard assessments.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-149",
+          "question": "What is 'portfolio assessment' in special education?",
+          "options": [
+            "Art folder",
+            "Collection of student work samples demonstrating progress over time",
+            "Photo album",
+            "Work folder"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Portfolio assessment is a purposeful collection of student work samples that demonstrates progress, effort, and achievement over time.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in SPED"
+        },
+        {
+          "id": "sped-ae-150",
+          "question": "What is 'informed consent' in special education evaluation?",
+          "options": [
+            "Permission slip",
+            "Parents' voluntary, written agreement after receiving full information about evaluation",
+            "Signature required",
+            "Consent form"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Informed consent means parents voluntarily agree to evaluation after receiving complete information about procedures, purposes, and rights in their native language.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in SPED"
         }
       ]
     }
-  ],
-  "totalQuestions": 30,
-  "note": "Comprehensive questions for Special Education (SPED) - Add 120 more for full 150 implementation"
+  ]
 }
