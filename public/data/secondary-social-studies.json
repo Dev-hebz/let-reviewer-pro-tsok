@@ -1,946 +1,2149 @@
 {
+  "subject": "Social Studies (Araling Panlipunan) - LET Reviewer",
+  "category": "major",
+  "subcategory": "social-studies",
   "topics": [
     {
+      "id": "philippine-history",
       "name": "Philippine History",
       "questions": [
         {
-          "id": 1,
-          "question": "When did the Philippines gain independence from Spain?",
-          "options": ["June 12, 1898", "July 4, 1946", "June 12, 1946", "August 13, 1898"],
-          "correctAnswer": 0
+          "id": "ss-ph-001",
+          "question": "Who is considered the 'Father of the Katipunan'?",
+          "options": [
+            "Emilio Aguinaldo",
+            "Andres Bonifacio",
+            "Jose Rizal",
+            "Apolinario Mabini"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Andres Bonifacio founded the Katipunan (KKK) on July 7, 1892, a revolutionary society that aimed to gain independence from Spain through armed revolt.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         },
         {
-          "id": 2,
-          "question": "Who is known as the national hero of the Philippines?",
-          "options": ["Andres Bonifacio", "Jose Rizal", "Apolinario Mabini", "Emilio Aguinaldo"],
-          "correctAnswer": 1
+          "id": "ss-ph-002",
+          "question": "What was the first book printed in the Philippines?",
+          "options": [
+            "Noli Me Tangere",
+            "Doctrina Christiana",
+            "Florante at Laura",
+            "Pasyon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Doctrina Christiana (1593) was the first book printed in the Philippines, a Catholic catechism written in Spanish and Tagalog.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 3,
-          "question": "Who founded the Katipunan?",
-          "options": ["Emilio Jacinto", "Marcelo H. del Pilar", "Andres Bonifacio", "Jose Rizal"],
-          "correctAnswer": 2
+          "id": "ss-ph-003",
+          "question": "The Cry of Pugad Lawin marked the beginning of what?",
+          "options": [
+            "Spanish colonization",
+            "The Philippine Revolution against Spain",
+            "American occupation",
+            "Japanese invasion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Cry of Pugad Lawin (August 23, 1896) marked the beginning of the Philippine Revolution when Katipuneros tore their cedulas as a sign of revolt against Spain.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         },
         {
-          "id": 4,
-          "question": "What was the main purpose of the Propaganda Movement?",
-          "options": ["Immediate independence", "Reforms and equality under Spain", "Armed revolution", "Establish a new republic"],
-          "correctAnswer": 1
+          "id": "ss-ph-004",
+          "question": "Who wrote the lyrics of 'Lupang Hinirang'?",
+          "options": [
+            "Julian Felipe",
+            "Jose Palma",
+            "Francisco Balagtas",
+            "Marcelo H. del Pilar"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jose Palma wrote the Spanish lyrics 'Filipinas' in 1899, later translated to Tagalog as 'Lupang Hinirang'. Julian Felipe composed the music.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 5,
-          "question": "Who was the first President of the Philippine Commonwealth?",
-          "options": ["Emilio Aguinaldo", "Sergio Osmeña", "Manuel L. Quezon", "Ramon Magsaysay"],
-          "correctAnswer": 2
+          "id": "ss-ph-005",
+          "question": "What treaty ended the Spanish-American War and ceded the Philippines to the United States?",
+          "options": [
+            "Treaty of Paris (1898)",
+            "Treaty of Versailles",
+            "Treaty of Biak-na-Bato",
+            "Pact of Biak-na-Bato"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Treaty of Paris (December 10, 1898) ended the Spanish-American War, with Spain ceding the Philippines to the U.S. for $20 million.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         },
         {
-          "id": 6,
-          "question": "Which event sparked the Philippine Revolution of 1896?",
-          "options": ["Gomburza Execution", "Cry of Pugad Lawin", "Battle of Manila Bay", "Biak-na-Bato Pact"],
-          "correctAnswer": 1
+          "id": "ss-ph-006",
+          "question": "Who was the first President of the Malolos Congress?",
+          "options": [
+            "Apolinario Mabini",
+            "Pedro Paterno",
+            "Emilio Aguinaldo",
+            "Felipe Calderon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pedro Paterno was elected the first President of the Malolos Congress which drafted the Malolos Constitution in 1898-1899.",
+          "difficulty": "difficult",
+          "topic": "Philippine History"
         },
         {
-          "id": 7,
-          "question": "Who led the Filipino naval forces in the Battle of Manila Bay?",
-          "options": ["Emilio Aguinaldo", "Andres Bonifacio", "Gregorio del Pilar", "Admiral George Dewey"],
-          "correctAnswer": 3
+          "id": "ss-ph-007",
+          "question": "What was the pen name of Dr. Jose Rizal?",
+          "options": [
+            "Plaridel",
+            "Laong Laan",
+            "Dimasalang",
+            "Tikbalang"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jose Rizal used the pen name 'Laong Laan' (meaning 'Ever Ready') in his writings. He also used 'Dimasalang' on some occasions.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 8,
-          "question": "What document declared Philippine independence in 1898?",
-          "options": ["Malolos Constitution", "Kawit Proclamation", "Biak-na-Bato Constitution", "Jones Law"],
-          "correctAnswer": 1
+          "id": "ss-ph-008",
+          "question": "The Galleon Trade between Manila and Acapulco lasted for how many years?",
+          "options": [
+            "150 years",
+            "250 years",
+            "200 years",
+            "300 years"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Manila-Acapulco Galleon Trade lasted 250 years (1565-1815), connecting Asia and the Americas through the Philippines.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 9,
-          "question": "Who wrote Noli Me Tangere?",
-          "options": ["Jose Rizal", "Marcelo H. del Pilar", "Graciano López Jaena", "Apolinario Mabini"],
-          "correctAnswer": 0
+          "id": "ss-ph-009",
+          "question": "Who is known as the 'Brains of the Katipunan'?",
+          "options": [
+            "Andres Bonifacio",
+            "Emilio Jacinto",
+            "Apolinario Mabini",
+            "Antonio Luna"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Emilio Jacinto, who joined the Katipunan at 18, was called the 'Brains of the Katipunan' for his intellect and writings including 'Kartilya ng Katipunan'.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         },
         {
-          "id": 10,
-          "question": "Who is known as the 'Brains of the Revolution'?",
-          "options": ["Jose Rizal", "Andres Bonifacio", "Apolinario Mabini", "Emilio Jacinto"],
-          "correctAnswer": 2
+          "id": "ss-ph-010",
+          "question": "What was the first Filipino novel published?",
+          "options": [
+            "Noli Me Tangere",
+            "Ninay by Pedro Paterno",
+            "El Filibusterismo",
+            "Florante at Laura"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Ninay' by Pedro Paterno, published in 1885, is considered the first Filipino novel, written in Spanish.",
+          "difficulty": "difficult",
+          "topic": "Philippine History"
         },
         {
-          "id": 11,
-          "question": "Where was the first Philippine Republic established?",
-          "options": ["Cavite", "Malolos, Bulacan", "Laguna", "Manila"],
-          "correctAnswer": 1
+          "id": "ss-ph-011",
+          "question": "The Tejeros Convention resulted in what significant event?",
+          "options": [
+            "Declaration of Philippine Independence",
+            "Election of revolutionary government officers leading to Bonifacio-Aguinaldo conflict",
+            "End of Spanish rule",
+            "Formation of Katipunan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Tejeros Convention (March 22, 1897) elected Aguinaldo as President and led to conflict with Bonifacio, who disputed the election results.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 12,
-          "question": "Which law granted the Philippines independence in 1946?",
-          "options": ["Tydings–McDuffie Act", "Jones Law", "Treaty of Paris", "Bell Trade Act"],
-          "correctAnswer": 0
+          "id": "ss-ph-012",
+          "question": "Who was the last Spanish Governor-General of the Philippines?",
+          "options": [
+            "Diego Silang",
+            "Diego de los Rios",
+            "Ramon Blanco",
+            "Basilio Agustin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Diego de los Rios was the last Spanish Governor-General, serving from April to August 1898, before the Philippines was ceded to the United States.",
+          "difficulty": "difficult",
+          "topic": "Philippine History"
         },
         {
-          "id": 13,
-          "question": "Who served as the first President of the Third Republic?",
-          "options": ["Elpidio Quirino", "Manuel Roxas", "Ramon Magsaysay", "Carlos P. Garcia"],
-          "correctAnswer": 1
+          "id": "ss-ph-013",
+          "question": "What Filipino general was known as the 'Boy General'?",
+          "options": [
+            "Antonio Luna",
+            "Gregorio del Pilar",
+            "Miguel Malvar",
+            "Vicente Lukban"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gregorio del Pilar, who died at age 23 in the Battle of Tirad Pass (1899), was called the 'Boy General' due to his youth and military achievements.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         },
         {
-          "id": 14,
-          "question": "Who is known as the 'Father of the Philippine Army'?",
-          "options": ["Miguel Malvar", "Antonio Luna", "Gregorio del Pilar", "Emilio Aguinaldo"],
-          "correctAnswer": 1
+          "id": "ss-ph-014",
+          "question": "The Malolos Constitution was primarily patterned after which country's constitution?",
+          "options": [
+            "United States",
+            "Spain",
+            "France",
+            "Belgium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Malolos Constitution (1899) was primarily patterned after the Spanish Constitution, with influences from France, Belgium, and other nations.",
+          "difficulty": "difficult",
+          "topic": "Philippine History"
         },
         {
-          "id": 15,
-          "question": "What was the first Filipino-written constitution?",
-          "options": ["Malolos Constitution", "Biak-na-Bato Constitution", "1935 Constitution", "1973 Constitution"],
-          "correctAnswer": 0
+          "id": "ss-ph-015",
+          "question": "Who led the longest revolt against Spain, lasting 85 years?",
+          "options": [
+            "Diego Silang",
+            "The Muslims of Mindanao and Sulu",
+            "Francisco Dagohoy",
+            "Andres Bonifacio"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Francisco Dagohoy led the Bohol Revolt (1744-1829), the longest revolt against Spain, lasting 85 years.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 16,
-          "question": "What economic policy did Spain use to monopolize trade in the Philippines?",
-          "options": ["Galleon Trade", "Encomienda System", "Tribute System", "Polo y Servicio"],
-          "correctAnswer": 0
+          "id": "ss-ph-016",
+          "question": "What was the first American civil government established in the Philippines called?",
+          "options": [
+            "Taft Commission",
+            "Schurman Commission",
+            "Wood-Forbes Mission",
+            "Philippine Commission"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Taft Commission (Second Philippine Commission), headed by William Howard Taft, established the first American civil government in 1901.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 17,
-          "question": "What was the forced labor system during the Spanish period?",
-          "options": ["Bandala", "Cedula", "Polo y Servicio", "Encomienda"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 18,
-          "question": "Who is the youngest general of the Philippine Revolution?",
-          "options": ["Emilio Aguinaldo", "Miguel Malvar", "Gregorio del Pilar", "Antonio Luna"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 19,
-          "question": "Which Spanish governor-general implemented the Tobacco Monopoly?",
-          "options": ["Narciso Claveria", "Jose Basco y Vargas", "Carlos María de la Torre", "Diego Silang"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 20,
-          "question": "Who was the first female president of the Philippines?",
-          "options": ["Corazon Aquino", "Gloria Macapagal-Arroyo", "Miriam Santiago", "Melchora Aquino"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 21,
-          "question": "What event marked the fall of Bataan during World War II?",
-          "options": ["Leyte Landing", "Death March", "Battle of Manila", "Liberation of Luzon"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 22,
-          "question": "Who founded La Solidaridad?",
-          "options": ["Jose Rizal", "Graciano López Jaena", "Andres Bonifacio", "Marcelo H. del Pilar"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 23,
-          "question": "What was the purpose of the Jones Law of 1916?",
-          "options": ["Grant independence", "Create a bicameral legislature", "Establish martial law", "Start the Commonwealth"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 24,
-          "question": "What treaty ended the Spanish-American War?",
-          "options": ["Treaty of Paris", "Tordesillas Treaty", "Biak-na-Bato Pact", "Pact of Manila"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 25,
-          "question": "Who is the editor of La Solidaridad?",
-          "options": ["Jose Rizal", "Marcelo H. del Pilar", "Graciano López Jaena", "Isabelo de los Reyes"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 26,
-          "question": "Who is known as the 'Father of the Philippine Revolution'?",
-          "options": ["Jose Rizal", "Andres Bonifacio", "Emilio Aguinaldo", "Antonio Luna"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 27,
-          "question": "Where did the Cry of the Revolution take place?",
-          "options": ["Balintawak", "Pugad Lawin", "Malolos", "Intramuros"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 28,
-          "question": "Which law created the Department of Education?",
-          "options": ["Act No. 74", "Act No. 1870", "Jones Law", "Tydings–McDuffie Act"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 29,
-          "question": "What is the oldest university in Asia?",
-          "options": ["Ateneo de Manila", "University of Santo Tomas", "University of San Carlos", "University of the Philippines"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 30,
-          "question": "Which colonial period introduced the encomienda system?",
-          "options": ["American", "Japanese", "Spanish", "British"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 31,
-          "question": "Who executed Gomburza?",
-          "options": ["American government", "Japanese forces", "Spanish authorities", "Katipunan"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 32,
+          "id": "ss-ph-017",
           "question": "Who is considered the first Filipino?",
-          "options": ["Jose Rizal", "Andres Bonifacio", "Juan Luna", "Jose Rizal (as defined by Scholar Leon Ma. Guerrero)"],
-          "correctAnswer": 3
-        },
-        {
-          "id": 33,
-          "question": "What is the ancient writing system in the Philippines?",
-          "options": ["Sanskrit", "Baybayin", "Tagalog", "Abugida"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 34,
-          "question": "Which Filipino hero is known as the 'Mother of the Philippine Revolution'?",
-          "options": ["Corazon Aquino", "Gabriela Silang", "Melchora Aquino", "Josefa Llanes Escoda"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 35,
-          "question": "Where was Jose Rizal exiled before his execution?",
-          "options": ["Dapitan", "Calamba", "Hong Kong", "Madrid"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 36,
-          "question": "Who is the author of 'Kartilya ng Katipunan'?",
-          "options": ["Emilio Aguinaldo", "Emilio Jacinto", "Andres Bonifacio", "Gregorio del Pilar"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 37,
-          "question": "What was the main purpose of the La Liga Filipina?",
-          "options": ["Start a revolution", "Promote reforms peacefully", "Establish a new constitution", "Create the Katipunan"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 38,
-          "question": "Who was the first Filipino bishop?",
-          "options": ["Bishop Domingo Salazar", "Bishop Pedro Pelaez", "Bishop Jorge Barlin", "Bishop Miguel de Benavides"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 39,
-          "question": "Who discovered the Philippines in 1521?",
-          "options": ["Christopher Columbus", "Ferdinand Magellan", "James Cook", "Amerigo Vespucci"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 40,
-          "question": "What was the capital of the Spanish colonial government?",
-          "options": ["Cebu", "Manila", "Vigan", "Iloilo"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 41,
-          "question": "Which American governor-general implemented the 'Filipinization policy'?",
-          "options": ["Frank Murphy", "William Howard Taft", "Francis Burton Harrison", "Dwight Davis"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 42,
-          "question": "Who led the longest revolt in Ilocos known as the 'Dagohoy Revolt'?",
-          "options": ["Diego Silang", "Francisco Dagohoy", "Gabriela Silang", "Apolinario dela Cruz"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 43,
-          "question": "What is the oldest city in the Philippines?",
-          "options": ["Manila", "Vigan", "Cebu City", "Iloilo City"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 44,
-          "question": "Who introduced Christianity to the Philippines?",
-          "options": ["Americans", "Japanese", "Spanish missionaries", "British sailors"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 45,
-          "question": "Which battle marked the defeat of Spanish forces in the Philippines?",
-          "options": ["Battle of Tirad Pass", "Battle of Bataan", "Battle of Manila Bay", "Battle of Mactan"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 46,
-          "question": "The Ilustrados were mainly composed of:",
-          "options": ["Workers", "Peasants", "Educated elite", "Revolutionary soldiers"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 47,
-          "question": "Which group opposed foreign colonization using armed struggle?",
-          "options": ["Propaganda Movement", "Ilustrados", "Katipunan", "La Liga Filipina"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 48,
-          "question": "What was the first province to revolt against Spain?",
-          "options": ["Cavite", "Pampanga", "Laguna", "Bulacan"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 49,
-          "question": "Who is the 'Great Plebeian'?",
-          "options": ["Andres Bonifacio", "Emilio Jacinto", "Jose Rizal", "Emilio Aguinaldo"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 50,
-          "question": "What was the first mass celebrated in the Philippines?",
-          "options": ["Easter Sunday Mass in Limasawa", "Mass in Cebu", "Mass in Manila", "Mass in Mactan"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 51,
-          "question": "What is the fundamental law of the Philippines?",
-          "options": ["The Civil Code", "The Constitution", "The Revised Penal Code", "The Local Government Code"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 52,
-          "question": "Who has the power to declare martial law in the Philippines?",
-          "options": ["The Senate", "The Supreme Court", "The President", "The House of Representatives"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 53,
-          "question": "How many branches of government are there in the Philippines?",
-          "options": ["Two", "Three", "Four", "Five"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 54,
-          "question": "Which branch of government interprets the laws?",
-          "options": ["Legislative", "Executive", "Judicial", "Local Government"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 55,
-          "question": "What is the term length of a Philippine senator?",
-          "options": ["3 years", "4 years", "6 years", "5 years"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 56,
-          "question": "What is the term length of the Philippine President?",
-          "options": ["4 years", "5 years", "6 years", "7 years"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 57,
-          "question": "Which chamber of Congress represents the people directly?",
-          "options": ["Senate", "House of Representatives", "Supreme Court", "Provincial Board"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 58,
-          "question": "What is the principle of separation of powers?",
           "options": [
-            "Division of government functions into legislative, executive, judicial",
-            "Rule by the strongest political party",
-            "Centralization of all powers in one branch",
-            "Division of provinces and municipalities"
+            "Jose Rizal",
+            "Lapu-Lapu",
+            "Emilio Aguinaldo",
+            "Andres Bonifacio"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1,
+          "explanation": "Lapu-Lapu is often considered the first Filipino for being the first to resist foreign (Spanish) colonization, defeating Magellan in 1521.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         },
         {
-          "id": 59,
-          "question": "Which article of the 1987 Constitution defines the Bill of Rights?",
-          "options": ["Article I", "Article III", "Article VI", "Article VII"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 60,
-          "question": "Who can veto a bill passed by Congress?",
-          "options": ["The Senate", "The President", "The Supreme Court", "The House Speaker"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 61,
-          "question": "What is the highest court in the Philippines?",
-          "options": ["Court of Appeals", "Regional Trial Court", "Supreme Court", "Sandiganbayan"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 62,
-          "question": "Who is the head of the judiciary?",
-          "options": ["The Chief Justice", "The Senate President", "The President", "The Vice President"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 63,
-          "question": "Which branch of government has the power to execute laws?",
-          "options": ["Legislative", "Executive", "Judicial", "Local Government"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 64,
-          "question": "Who is the Commander-in-Chief of the Armed Forces of the Philippines?",
-          "options": ["Chief of Staff", "Secretary of National Defense", "President", "Senate President"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 65,
-          "question": "Which law created autonomous regions in Muslim Mindanao and Cordillera?",
-          "options": ["Local Government Code", "Organic Act", "Anti-Terrorism Act", "Electoral Code"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 66,
-          "question": "What is the role of the Commission on Elections (COMELEC)?",
+          "id": "ss-ph-018",
+          "question": "What does GOMBURZA stand for?",
           "options": [
-            "Implements laws on elections and plebiscites",
-            "Judges the constitutionality of laws",
-            "Enforces criminal laws",
-            "Collects taxes"
+            "Three Filipino martyred priests: Gomez, Burgos, Zamora",
+            "Spanish government officials",
+            "Revolutionary generals",
+            "Propaganda Movement leaders"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 0,
+          "explanation": "GOMBURZA refers to three Filipino priests (Mariano Gomez, Jose Burgos, Jacinto Zamora) executed in 1872 for alleged complicity in the Cavite Mutiny.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         },
         {
-          "id": 67,
-          "question": "Who can propose amendments to the Constitution?",
-          "options": ["The President", "The Supreme Court", "The Congress", "The Commission on Elections"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 68,
-          "question": "How many senators does the Philippine Senate have?",
-          "options": ["12", "24", "36", "18"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 69,
-          "question": "Who presides over the House of Representatives?",
-          "options": ["The Senate President", "The Speaker of the House", "The Vice President", "The Chief Justice"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 70,
-          "question": "What is the process of judicial review?",
+          "id": "ss-ph-019",
+          "question": "The Philippine-American War officially ended with what treaty?",
           "options": [
-            "Courts checking if laws are constitutional",
-            "President approving laws",
-            "Senate confirming appointments",
-            "Local government issuing ordinances"
+            "Treaty of Paris",
+            "No formal treaty; resistance continued",
+            "Treaty of Manila",
+            "Bates Treaty"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1,
+          "explanation": "While the war officially ended in 1902, there was no formal peace treaty. Resistance continued in various regions for years, with Moros fighting until 1913.",
+          "difficulty": "difficult",
+          "topic": "Philippine History"
         },
         {
-          "id": 71,
-          "question": "Who is part of the Executive branch?",
-          "options": ["Supreme Court justices", "Senators", "President and Cabinet", "Barangay captains only"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 72,
-          "question": "Which document is the predecessor to the 1987 Constitution?",
-          "options": ["Malolos Constitution", "1935 Constitution", "1973 Constitution", "Jones Law"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 73,
-          "question": "Who has the power to appoint government officials?",
-          "options": ["Supreme Court", "President", "Senate", "House of Representatives"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 74,
-          "question": "Which principle ensures that no branch exceeds its powers?",
-          "options": ["Checks and balances", "Federalism", "Popular sovereignty", "Separation of church and state"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 75,
-          "question": "Which Philippine President declared Martial Law in 1972?",
-          "options": ["Ferdinand Marcos", "Corazon Aquino", "Diosdado Macapagal", "Gloria Arroyo"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 76,
-          "question": "What is the total land area of the Philippines?",
-          "options": ["300,000 sq km", "300,000 sq mi", "298,170 sq km", "250,000 sq km"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 77,
-          "question": "How many islands make up the Philippines?",
-          "options": ["7,107", "5,107", "8,107", "6,107"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 78,
-          "question": "Which is the longest river in the Philippines?",
-          "options": ["Cagayan River", "Agusan River", "Pasig River", "Marikina River"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 79,
-          "question": "Which is the highest peak in the Philippines?",
-          "options": ["Mount Pulag", "Mount Apo", "Mount Banahaw", "Mount Makiling"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 80,
-          "question": "Which region is known as the 'Rice Granary of the Philippines'?",
-          "options": ["Central Luzon", "Ilocos Region", "Cebu", "Davao Region"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 81,
-          "question": "What body of water separates the Philippines from Taiwan?",
-          "options": ["Sulu Sea", "Celebes Sea", "Luzon Strait", "Philippine Sea"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 82,
-          "question": "Which Philippine city is the country’s main financial hub?",
-          "options": ["Cebu City", "Quezon City", "Manila", "Makati City"],
-          "correctAnswer": 3
-        },
-        {
-          "id": 83,
-          "question": "What type of climate does the Philippines have?",
-          "options": ["Temperate", "Tropical", "Subarctic", "Desert"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 84,
-          "question": "Which is the busiest port in the Philippines?",
-          "options": ["Port of Manila", "Port of Cebu", "Port of Davao", "Port of Batangas"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 85,
-          "question": "Which is the largest island in the Philippines?",
-          "options": ["Mindanao", "Luzon", "Visayas", "Palawan"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 86,
-          "question": "Which region is the leading producer of coconut in the Philippines?",
-          "options": ["Bicol Region", "Western Visayas", "Caraga", "Central Luzon"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 87,
-          "question": "Which mineral is the Philippines the top producer of globally?",
-          "options": ["Copper", "Nickel", "Gold", "Coal"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 88,
-          "question": "Which sea lies to the west of the Philippines?",
-          "options": ["Philippine Sea", "Sulu Sea", "South China Sea", "Celebes Sea"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 89,
-          "question": "Which economic sector employs the majority of Filipinos?",
-          "options": ["Agriculture", "Industry", "Services", "Manufacturing"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 90,
-          "question": "Which Philippine region is famous for sugarcane production?",
-          "options": ["Western Visayas", "Ilocos Region", "Bicol Region", "Davao Region"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 91,
-          "question": "What is the capital of the Philippines?",
-          "options": ["Quezon City", "Makati", "Manila", "Cebu City"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 92,
-          "question": "Which Philippine island group is located in the south?",
-          "options": ["Luzon", "Visayas", "Mindanao", "Palawan"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 93,
-          "question": "Which volcano erupted in 1991 causing massive damage in Luzon?",
-          "options": ["Mayon Volcano", "Taal Volcano", "Pinatubo Volcano", "Bulusan Volcano"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 94,
-          "question": "Which is the largest lake in the Philippines?",
-          "options": ["Laguna de Bay", "Lake Lanao", "Lake Taal", "Lake Sebu"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 95,
-          "question": "Which region is known as the 'Fruit Basket of the Philippines'?",
-          "options": ["Davao Region", "Bicol Region", "Central Luzon", "Cordillera Administrative Region"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 96,
-          "question": "Which body of water lies to the east of the Philippines?",
-          "options": ["South China Sea", "Philippine Sea", "Sulu Sea", "Celebes Sea"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 97,
-          "question": "What is the main crop in Central Luzon?",
-          "options": ["Corn", "Rice", "Coconut", "Sugarcane"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 98,
-          "question": "Which region is a major producer of abaca in the Philippines?",
-          "options": ["Bicol Region", "Ilocos Region", "Cagayan Valley", "Davao Region"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 99,
-          "question": "Which Philippine city is the gateway to the Visayas?",
-          "options": ["Cebu City", "Iloilo City", "Bacolod City", "Tacloban City"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 100,
-          "question": "Which river flows through Mindanao and is the second longest in the country?",
-          "options": ["Agusan River", "Cagayan River", "Pulangi River", "Pasig River"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 101,
-          "question": "Who introduced Christianity to the Philippines?",
-          "options": ["Spanish missionaries", "American colonists", "Japanese traders", "Portuguese explorers"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 102,
-          "question": "What is the predominant religion in the Philippines?",
-          "options": ["Islam", "Christianity", "Buddhism", "Hinduism"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 103,
-          "question": "Which Filipino festival is celebrated in Cebu in honor of the Santo Niño?",
-          "options": ["Sinulog", "Ati-Atihan", "Pahiyas", "Panagbenga"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 104,
-          "question": "What is the traditional Filipino family structure called?",
-          "options": ["Extended family", "Nuclear family", "Tribal family", "Clan system"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 105,
-          "question": "Which region is known for the Ifugao Rice Terraces?",
-          "options": ["Cordillera Administrative Region", "Ilocos Region", "Cagayan Valley", "Bicol Region"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 106,
-          "question": "Which Filipino martial art emphasizes stick fighting?",
-          "options": ["Kali/Arnis/Eskrima", "Judo", "Karate", "Taekwondo"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 107,
-          "question": "Which Philippine ethnic group is known for their weaving and handcrafts in Mindanao?",
-          "options": ["T’boli", "Tagalog", "Ilocano", "Kapampangan"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 108,
-          "question": "Which Filipino epic tells the story of Lam-ang?",
-          "options": ["Biag ni Lam-ang", "Hudhud", "Darangen", "Hinilawod"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 109,
-          "question": "Who are considered the indigenous people of Palawan?",
-          "options": ["Tagbanua", "T’boli", "Ifugao", "Ibanag"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 110,
-          "question": "Which is the traditional Filipino house made of bamboo and nipa palm?",
-          "options": ["Bahay Kubo", "Bahay na Bato", "Bahay Pawid", "Torogan"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 111,
-          "question": "Which Filipino dance represents courtship?",
-          "options": ["Tinikling", "Cariñosa", "Singkil", "Pandanggo sa Ilaw"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 112,
-          "question": "Which Filipino Muslim group is known for the sultanates in Mindanao?",
-          "options": ["Moro", "Lumad", "Igorot", "Ifugao"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 113,
-          "question": "What is the traditional Filipino belief in spirits called?",
-          "options": ["Anito", "Kami", "Shinto", "Bodhisattva"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 114,
-          "question": "Which festival in Aklan features colorful headdresses and body paint?",
-          "options": ["Ati-Atihan", "Sinulog", "Panagbenga", "Kadayawan"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 115,
-          "question": "Which Filipino poet wrote 'Florante at Laura'?",
-          "options": ["Francisco Balagtas", "Jose Rizal", "Marcelo H. del Pilar", "Graciano López Jaena"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 116,
-          "question": "What is the Filipino tradition of communal work called?",
-          "options": ["Bayanihan", "Pamamanhikan", "Pagtitipon", "Pangangaluluwa"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 117,
-          "question": "Which Filipino cuisine is made of fermented rice and fish called 'burong'?",
-          "options": ["Burong isda", "Adobo", "Sinigang", "Lechon"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 118,
-          "question": "Which indigenous group in Mindoro is known for their body tattoos?",
-          "options": ["Mangyan", "T’boli", "Tagbanua", "Kalinga"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 119,
-          "question": "What is the Filipino ritual to honor ancestors?",
-          "options": ["Pagmamano", "All Souls’ Day", "Ati-Atihan", "Bayanihan"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 120,
-          "question": "Which Filipino region is famous for weaving the 'Inabel' fabric?",
-          "options": ["Ilocos Region", "Bicol Region", "Cordillera", "Visayas"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 121,
-          "question": "What is the traditional Filipino martial arts weapon?",
-          "options": ["Rattan stick", "Sword", "Bow and arrow", "Spear"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 122,
-          "question": "Which Filipino instrument is made of bamboo and played by striking?",
-          "options": ["Kulintang", "Bamboo xylophone", "Gangsa", "Guitar"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 123,
-          "question": "Which Filipino festival features a floral parade in Baguio City?",
-          "options": ["Panagbenga", "Sinulog", "Ati-Atihan", "Kadayawan"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 124,
-          "question": "Which indigenous group in Mindanao is known for colorful brass jewelry?",
-          "options": ["T’boli", "Lumad", "Moro", "Mangyan"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 125,
-          "question": "What is the traditional Filipino value of respect to elders called?",
-          "options": ["Pakikisama", "Hiya", "Pagmamano", "Bayanihan"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 126,
-          "question": "Which government agency is responsible for regulating online misinformation in the Philippines?",
-          "options": ["Department of Information and Communications Technology (DICT)", "National Telecommunications Commission (NTC)", "Philippine News Agency", "Presidential Communications Operations Office (PCOO)"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 127,
-          "question": "What is the main objective of the Philippine Green Jobs Act?",
-          "options": ["Promote environmentally sustainable employment", "Regulate labor unions", "Increase minimum wage", "Implement digital literacy programs"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 128,
-          "question": "Which Philippine policy focuses on climate-resilient infrastructure development?",
-          "options": ["Build, Build, Build Program", "Climate Change Act of 2009", "Disaster Risk Reduction Act", "National Land Use Act"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 129,
-          "question": "What is the significance of the Rice Tariffication Law of 2019?",
+          "id": "ss-ph-020",
+          "question": "Who was the first Filipino Chief Justice of the Supreme Court?",
           "options": [
-            "Imposes tariffs on imported rice to stabilize prices",
-            "Removes quantitative restrictions and imposes tariffs on rice imports",
-            "Provides subsidies only to farmers in Luzon",
-            "Mandates rice export to ASEAN countries"
+            "Jose P. Laurel",
+            "Cayetano Arellano",
+            "Manuel L. Quezon",
+            "Claro M. Recto"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 1,
+          "explanation": "Cayetano Arellano was appointed the first Filipino Chief Justice of the Supreme Court under American rule in 1901.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 130,
-          "question": "Which agency monitors corruption and graft in the Philippines?",
-          "options": ["Civil Service Commission (CSC)", "Commission on Audit (COA)", "Sandiganbayan", "Commission on Human Rights (CHR)"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 131,
-          "question": "Which international organization assisted the Philippines in disaster risk reduction after Typhoon Haiyan?",
-          "options": ["ASEAN", "United Nations", "World Bank", "ADB"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 132,
-          "question": "Which Philippine law strengthens local disaster preparedness and response?",
-          "options": ["Local Government Code", "Disaster Risk Reduction and Management Act (RA 10121)", "Clean Air Act", "Anti-Terrorism Act"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 133,
-          "question": "What is the key issue in the West Philippine Sea dispute?",
-          "options": ["Sovereignty over islands and exclusive economic zone rights", "Fishing rights in the Pacific Ocean", "Airspace violations", "Environmental conservation treaties"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 134,
-          "question": "Which Philippine program focuses on financial inclusion for unbanked communities?",
-          "options": ["Pantawid Pamilyang Pilipino Program", "National ID System", "Philippine Digital Payments Program", "Financial Literacy Program"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 135,
-          "question": "What is the primary purpose of the Bayanihan to Recover as One Act (Bayanihan 2)?",
+          "id": "ss-ph-021",
+          "question": "The Propaganda Movement was primarily advocating for what?",
           "options": [
-            "Combat COVID-19 and support economic recovery",
-            "Provide scholarships to students",
-            "Strengthen local governance",
-            "Promote digital infrastructure"
+            "Philippine independence",
+            "Reforms and Filipino representation in Spanish Cortes",
+            "American colonization",
+            "Armed revolution"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1,
+          "explanation": "The Propaganda Movement (1880s-1890s) sought reforms like Filipino representation in Spanish Cortes, secularization of parishes, and equality, not immediate independence.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
         },
         {
-          "id": 136,
-          "question": "Which Philippine region is most vulnerable to typhoons?",
-          "options": ["Mindoro", "Eastern Visayas", "Western Mindanao", "Metro Manila"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 137,
-          "question": "Which Philippine policy addresses the digital divide in education?",
-          "options": ["K-12 Program", "DepEd Learning Continuity Plan", "Build, Build, Build", "Philippine Green Jobs Act"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 138,
-          "question": "Which recent issue involves the Philippine government’s debt exposure?",
-          "options": ["Foreign loans for infrastructure", "Rice import tariffs", "Human rights advocacy", "Digital literacy programs"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 139,
-          "question": "Which sector is most affected by the TRAIN Law?",
-          "options": ["Agriculture", "Transportation", "Taxpayers and consumers", "Education"],
-          "correctAnswer": 2
-        },
-        {
-          "id": 140,
-          "question": "Which environmental issue affects Palawan and Mindoro the most?",
-          "options": ["Illegal logging and mining", "Typhoons", "Overfishing", "Urbanization"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 141,
-          "question": "Which Philippine agency regulates mining operations?",
-          "options": ["Department of Environment and Natural Resources (DENR)", "Philippine Mining Corporation", "Department of Trade and Industry", "Commission on Audit"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 142,
-          "question": "Which law protects whistleblowers in the Philippines?",
-          "options": ["Whistleblower Protection Act (RA 6713)", "Anti-Graft and Corrupt Practices Act", "Clean Air Act", "Data Privacy Act"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 143,
-          "question": "Which Philippine policy promotes renewable energy?",
-          "options": ["Renewable Energy Act of 2008", "Energy Reform Act", "Philippine Green Jobs Act", "Build, Build, Build Program"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 144,
-          "question": "Which recent Philippine law regulates e-commerce and online transactions?",
-          "options": ["Cybercrime Prevention Act", "Consumer Act", "Data Privacy Act", "E-Commerce Act (RA 8792)"],
-          "correctAnswer": 3
-        },
-        {
-          "id": 145,
-          "question": "Which issue involves the controversial Philippine government’s contract with Chinese firms in infrastructure projects?",
-          "options": ["Bilateral trade", "Build, Build, Build transparency and debt exposure", "Environmental violations", "Education modernization"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 146,
-          "question": "Which Philippine agency monitors human trafficking?",
-          "options": ["Department of Social Welfare and Development (DSWD)", "Philippine National Police Anti-Trafficking Division", "Commission on Human Rights", "Department of Labor and Employment"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 147,
-          "question": "Which Philippine program aims to provide free internet to public schools?",
-          "options": ["DepEd Computerization Program", "Free Wi-Fi for All", "Philippine Digital Payments Program", "Learning Continuity Plan"],
-          "correctAnswer": 1
-        },
-        {
-          "id": 148,
-          "question": "Which law strengthens the anti-corruption framework in the Philippines?",
-          "options": ["Anti-Graft and Corrupt Practices Act (RA 3019)", "Civil Service Reform Act", "Data Privacy Act", "Clean Air Act"],
-          "correctAnswer": 0
-        },
-        {
-          "id": 149,
-          "question": "Which current issue involves the West Philippine Sea arbitration ruling?",
+          "id": "ss-ph-022",
+          "question": "What was the significance of the Battle of Mactan (1521)?",
           "options": [
-            "Maritime sovereignty and fishing rights",
-            "Tourism development",
-            "Renewable energy",
-            "Land reform"
+            "Start of Spanish colonization",
+            "First organized resistance to foreign invasion; defeat of Magellan",
+            "End of Muslim rule",
+            "Discovery of the Philippines"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1,
+          "explanation": "The Battle of Mactan was the first organized resistance to Western colonization, where Lapu-Lapu defeated and killed Ferdinand Magellan.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         },
         {
-          "id": 150,
-          "question": "Which Philippine law ensures financial aid and protection for micro, small, and medium enterprises (MSMEs)?",
+          "id": "ss-ph-023",
+          "question": "Who headed the commission that investigated Philippine conditions and recommended independence?",
           "options": [
-            "MSME Development Act (RA 9501)",
-            "Philippine Green Jobs Act",
-            "Build, Build, Build Program",
-            "Entrepreneurship Act"
+            "Taft Commission",
+            "Wood-Forbes Mission",
+            "Schurman Commission",
+            "Cooper Mission"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 1,
+          "explanation": "The Wood-Forbes Mission (1921) investigated Philippine readiness for independence but concluded Filipinos were not yet ready, though they later changed stance.",
+          "difficulty": "difficult",
+          "topic": "Philippine History"
+        },
+        {
+          "id": "ss-ph-024",
+          "question": "What is the significance of the Balangiga Massacre (1901)?",
+          "options": [
+            "Spanish victory",
+            "Filipino attack on American forces in Samar",
+            "Japanese invasion",
+            "EDSA Revolution"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Balangiga Massacre (September 28, 1901) was an attack by Filipino guerrillas on American forces in Samar, one of the worst American defeats in the Philippine-American War.",
+          "difficulty": "medium",
+          "topic": "Philippine History"
+        },
+        {
+          "id": "ss-ph-025",
+          "question": "The Tydings-McDuffie Act (1934) provided for what?",
+          "options": [
+            "Immediate independence",
+            "Philippine independence after 10-year transition period",
+            "Continuation of American rule",
+            "Spanish return"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Tydings-McDuffie Act provided for Philippine independence after a 10-year Commonwealth transition period, granting independence in 1946.",
+          "difficulty": "easy",
+          "topic": "Philippine History"
         }
-         ]
+      ]
+    },
+    {
+      "id": "world-history",
+      "name": "World History and Civilization",
+      "questions": [
+        {
+          "id": "ss-wh-026",
+          "question": "Which ancient civilization is credited with inventing the wheel?",
+          "options": [
+            "Egyptians",
+            "Sumerians",
+            "Chinese",
+            "Greeks"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Sumerians of ancient Mesopotamia are credited with inventing the wheel around 3500 BCE, revolutionizing transportation and pottery-making.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-027",
+          "question": "What was the primary cause of World War I?",
+          "options": [
+            "Assassination of Archduke Franz Ferdinand",
+            "Economic depression",
+            "Religious conflicts",
+            "Colonial disputes only"
+          ],
+          "correctAnswer": 0,
+          "explanation": "While underlying tensions existed, the immediate trigger of WWI was the assassination of Archduke Franz Ferdinand of Austria in Sarajevo on June 28, 1914.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-028",
+          "question": "The Renaissance began in which country?",
+          "options": [
+            "France",
+            "Italy",
+            "England",
+            "Spain"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Renaissance began in Italy during the 14th century, particularly in Florence, before spreading throughout Europe.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-029",
+          "question": "What was the Silk Road?",
+          "options": [
+            "A type of fabric",
+            "Ancient trade route connecting East and West",
+            "Chinese invention",
+            "European highway"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Silk Road was an ancient network of trade routes connecting China with the Mediterranean, facilitating exchange of goods, culture, and ideas.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-030",
+          "question": "The Magna Carta (1215) is significant because it:",
+          "options": [
+            "Ended feudalism",
+            "Limited the power of the monarchy and established rule of law",
+            "Started democracy",
+            "Created Parliament"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Magna Carta limited royal power and established that everyone, including the king, was subject to the law, influencing constitutional development.",
+          "difficulty": "medium",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-031",
+          "question": "What was the primary goal of the Crusades?",
+          "options": [
+            "Trade expansion",
+            "Reclaim the Holy Land from Muslim control",
+            "Spread democracy",
+            "Colonize new territories"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Crusades (1095-1291) were religious military campaigns primarily aimed at reclaiming Jerusalem and the Holy Land from Muslim control.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-032",
+          "question": "The Industrial Revolution began in which country?",
+          "options": [
+            "United States",
+            "Great Britain",
+            "Germany",
+            "France"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Industrial Revolution began in Great Britain in the late 18th century, transforming manufacturing, agriculture, and transportation.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-033",
+          "question": "What was the main purpose of the Berlin Conference (1884-1885)?",
+          "options": [
+            "End World War I",
+            "Divide Africa among European powers",
+            "Create United Nations",
+            "Establish trade agreements"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Berlin Conference regulated European colonization and trade in Africa, dividing the continent among European powers without African input.",
+          "difficulty": "medium",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-034",
+          "question": "The French Revolution began in what year?",
+          "options": [
+            "1776",
+            "1789",
+            "1799",
+            "1804"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The French Revolution began in 1789 with the storming of the Bastille on July 14, leading to radical social and political changes in France.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-035",
+          "question": "What was the Marshall Plan?",
+          "options": [
+            "Military strategy in WWII",
+            "U.S. economic aid to rebuild Western Europe after WWII",
+            "Trade agreement",
+            "Peace treaty"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Marshall Plan (1948) was an American initiative providing economic assistance to Western European countries to rebuild after WWII and counter Soviet influence.",
+          "difficulty": "medium",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-036",
+          "question": "The Meiji Restoration in Japan (1868) resulted in:",
+          "options": [
+            "Isolation from the world",
+            "Rapid modernization and industrialization",
+            "Military defeat",
+            "Colonial rule"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Meiji Restoration ended feudalism in Japan and began rapid modernization, industrialization, and Westernization, transforming Japan into a major power.",
+          "difficulty": "medium",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-037",
+          "question": "What was the Cold War?",
+          "options": [
+            "War fought in cold climates",
+            "Period of geopolitical tension between USA and USSR without direct warfare",
+            "Nuclear war",
+            "Trade war"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Cold War (1947-1991) was a period of geopolitical tension between the capitalist USA and communist USSR, involving ideological conflict without direct military confrontation.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-038",
+          "question": "The Treaty of Versailles (1919) primarily dealt with:",
+          "options": [
+            "Ending World War I and imposing terms on Germany",
+            "Starting World War II",
+            "Ending Cold War",
+            "Creating League of Nations only"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Treaty of Versailles officially ended WWI, imposed harsh terms on Germany, created the League of Nations, and redrew European borders.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-039",
+          "question": "What was the significance of the Battle of Waterloo (1815)?",
+          "options": [
+            "Started Napoleonic Wars",
+            "Final defeat of Napoleon Bonaparte",
+            "British colonization",
+            "French Revolution victory"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Battle of Waterloo marked the final defeat of Napoleon Bonaparte, ending the Napoleonic Wars and his rule as French Emperor.",
+          "difficulty": "medium",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-040",
+          "question": "The Protestant Reformation was initiated by:",
+          "options": [
+            "King Henry VIII",
+            "Martin Luther",
+            "John Calvin",
+            "Pope Leo X"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Martin Luther initiated the Protestant Reformation in 1517 by posting his 95 Theses, challenging Catholic Church practices and authority.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-041",
+          "question": "What was the primary cause of the fall of the Roman Empire?",
+          "options": [
+            "Single catastrophic event",
+            "Multiple factors: invasions, economic troubles, political instability, division",
+            "Natural disasters only",
+            "Religious conflicts only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The fall of Rome (476 CE) resulted from multiple factors including barbarian invasions, economic decline, political instability, and the empire's division.",
+          "difficulty": "medium",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-042",
+          "question": "The Age of Exploration was motivated primarily by:",
+          "options": [
+            "Scientific discovery only",
+            "Search for trade routes, wealth, and spreading Christianity",
+            "Tourism",
+            "Military conquest only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Age of Exploration (15th-17th centuries) was driven by desires for trade routes to Asia, wealth (gold/spices), and spreading Christianity.",
+          "difficulty": "medium",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-043",
+          "question": "What was the Hundred Years' War?",
+          "options": [
+            "War lasting exactly 100 years",
+            "Series of conflicts between England and France (1337-1453)",
+            "Civil war",
+            "Religious war"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Hundred Years' War (1337-1453) was a series of conflicts between England and France over succession to the French throne and territorial disputes.",
+          "difficulty": "medium",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-044",
+          "question": "The United Nations was founded in what year?",
+          "options": [
+            "1918",
+            "1945",
+            "1939",
+            "1950"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The United Nations was founded on October 24, 1945, after World War II to promote international cooperation and prevent future conflicts.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        },
+        {
+          "id": "ss-wh-045",
+          "question": "What was apartheid?",
+          "options": [
+            "Economic system",
+            "System of racial segregation and discrimination in South Africa",
+            "Political party",
+            "Religious practice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Apartheid was a system of institutionalized racial segregation and discrimination in South Africa from 1948 to 1994, separating races legally.",
+          "difficulty": "easy",
+          "topic": "World History and Civilization"
+        }
+      ]
+    },
+    {
+      "id": "philippine-government",
+      "name": "Philippine Government and Citizenship",
+      "questions": [
+        {
+          "id": "ss-pg-046",
+          "question": "How many branches does the Philippine government have?",
+          "options": [
+            "Two",
+            "Three: Executive, Legislative, Judicial",
+            "Four",
+            "Five"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippine government has three co-equal branches: Executive (implements laws), Legislative (makes laws), and Judicial (interprets laws).",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-047",
+          "question": "The Philippine Congress is bicameral, consisting of:",
+          "options": [
+            "Senate and House of Representatives",
+            "Parliament and Assembly",
+            "Upper and Lower Courts",
+            "Cabinet and Council"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Philippine Congress is bicameral with the Senate (24 senators) and House of Representatives (maximum 316 members).",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-048",
+          "question": "What is the term of office for Philippine senators?",
+          "options": [
+            "3 years",
+            "6 years",
+            "4 years",
+            "5 years"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Philippine senators serve a six-year term and can be re-elected for a maximum of two consecutive terms.",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-049",
+          "question": "How many senators can be elected in the Philippines?",
+          "options": [
+            "12",
+            "24",
+            "50",
+            "100"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippine Senate has 24 members elected at-large (nationwide) for six-year terms, with 12 senators elected every three years.",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-050",
+          "question": "What is the highest court in the Philippines?",
+          "options": [
+            "Court of Appeals",
+            "Supreme Court",
+            "Sandiganbayan",
+            "Regional Trial Court"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Supreme Court is the highest judicial body in the Philippines, consisting of a Chief Justice and 14 Associate Justices.",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-051",
+          "question": "The President and Vice President of the Philippines serve for how many years?",
+          "options": [
+            "4 years, no reelection",
+            "6 years, no reelection",
+            "6 years, one reelection",
+            "4 years, one reelection"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The President and Vice President serve a single six-year term without eligibility for reelection under the 1987 Constitution.",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-052",
+          "question": "What is the minimum age requirement to run for President of the Philippines?",
+          "options": [
+            "35 years old",
+            "40 years old",
+            "30 years old",
+            "45 years old"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Constitution requires the President to be at least 40 years old at the time of election, a natural-born Filipino citizen, and a registered voter.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-053",
+          "question": "Who has the power to declare martial law in the Philippines?",
+          "options": [
+            "Congress",
+            "The President, subject to Congressional review",
+            "Supreme Court",
+            "Military"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The President can declare martial law in cases of invasion or rebellion, but Congress can revoke it, and the Supreme Court can review its constitutionality.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-054",
+          "question": "What is the Ombudsman's primary function?",
+          "options": [
+            "Make laws",
+            "Investigate and prosecute government officials for graft and corruption",
+            "Judge cases",
+            "Collect taxes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Ombudsman is an independent office that investigates and prosecutes government officials and employees accused of graft, corruption, and other offenses.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-055",
+          "question": "How many justices compose the Supreme Court of the Philippines?",
+          "options": [
+            "9",
+            "15: 1 Chief Justice and 14 Associate Justices",
+            "12",
+            "20"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Supreme Court consists of 15 members: one Chief Justice and 14 Associate Justices appointed by the President.",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-056",
+          "question": "What is the Commission on Elections (COMELEC)?",
+          "options": [
+            "Political party",
+            "Constitutional body enforcing election laws and conducting elections",
+            "Congressional committee",
+            "Executive department"
+          ],
+          "correctAnswer": 1,
+          "explanation": "COMELEC is an independent constitutional commission that enforces election laws, conducts elections, and decides election contests.",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-057",
+          "question": "What is impeachment?",
+          "options": [
+            "Criminal trial",
+            "Process to remove high officials for culpable violations",
+            "Election",
+            "Appointment"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Impeachment is the process to remove the President, Vice President, Supreme Court justices, and other officials for culpable violation of the Constitution, treason, bribery, or high crimes.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-058",
+          "question": "Who initiates impeachment proceedings?",
+          "options": [
+            "Senate",
+            "House of Representatives",
+            "Supreme Court",
+            "President"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The House of Representatives initiates and files impeachment complaints, while the Senate tries and decides impeachment cases.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-059",
+          "question": "What is the principle of 'separation of powers'?",
+          "options": [
+            "Division of land",
+            "Division of government into three independent branches with distinct powers",
+            "Separation of church and state",
+            "Federal system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Separation of powers divides government into three co-equal branches (Executive, Legislative, Judicial) with distinct powers to prevent abuse and provide checks and balances.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-060",
+          "question": "What is the Bill of Rights?",
+          "options": [
+            "List of government powers",
+            "Article III of the Constitution protecting individual freedoms and rights",
+            "Tax law",
+            "Electoral code"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Bill of Rights (Article III of the 1987 Constitution) protects fundamental individual freedoms and civil rights against government infringement.",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-061",
+          "question": "What is the minimum voting age in the Philippines?",
+          "options": [
+            "21 years old",
+            "18 years old",
+            "16 years old",
+            "25 years old"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipino citizens who are at least 18 years old and registered voters are qualified to vote in elections.",
+          "difficulty": "easy",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-062",
+          "question": "What is 'pardon' as a presidential power?",
+          "options": [
+            "Forgiveness of sins",
+            "Power to forgive crimes and release from punishment",
+            "Excuse from work",
+            "Permission to leave"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The President has the power to grant pardons, reprieves, commutations, and amnesty (with Congressional concurrence), except in cases of impeachment.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-063",
+          "question": "What is the Local Government Code of 1991 (RA 7160)?",
+          "options": [
+            "Criminal code",
+            "Law providing for decentralization and local autonomy",
+            "Education law",
+            "Tax code"
+          ],
+          "correctAnswer": 1,
+          "explanation": "RA 7160 decentralizes power to local government units (LGUs), providing them autonomy and empowering them to deliver basic services.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-064",
+          "question": "Who appoints the Chief Justice of the Supreme Court?",
+          "options": [
+            "Congress",
+            "The President from a list submitted by the Judicial and Bar Council",
+            "Supreme Court justices",
+            "Voters"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The President appoints the Chief Justice and other Supreme Court justices from a shortlist submitted by the Judicial and Bar Council, without need for Commission on Appointments confirmation.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        },
+        {
+          "id": "ss-pg-065",
+          "question": "What is the Commission on Audit (COA)?",
+          "options": [
+            "Tax collection agency",
+            "Constitutional body examining and auditing government funds and transactions",
+            "Accounting school",
+            "Budget office"
+          ],
+          "correctAnswer": 1,
+          "explanation": "COA is an independent constitutional commission that examines, audits, and settles accounts of government funds and properties to ensure proper use.",
+          "difficulty": "medium",
+          "topic": "Philippine Government and Citizenship"
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography and Environment",
+      "questions": [
+        {
+          "id": "ss-geo-066",
+          "question": "How many main islands does the Philippines have?",
+          "options": [
+            "3: Luzon, Visayas, Mindanao",
+            "7,641 islands",
+            "5 major islands",
+            "100 islands"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Philippines is divided into three main island groups: Luzon (north), Visayas (central), and Mindanao (south), comprising 7,641 islands total.",
+          "difficulty": "easy",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-067",
+          "question": "What is the highest mountain in the Philippines?",
+          "options": [
+            "Mt. Mayon",
+            "Mt. Apo",
+            "Mt. Pinatubo",
+            "Mt. Pulag"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mount Apo in Davao, standing at 2,954 meters (9,692 feet), is the highest peak in the Philippines.",
+          "difficulty": "easy",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-068",
+          "question": "What type of climate does the Philippines have?",
+          "options": [
+            "Arctic",
+            "Tropical maritime",
+            "Desert",
+            "Temperate"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippines has a tropical maritime climate with high temperature, high humidity, and abundant rainfall, influenced by monsoons and typhoons.",
+          "difficulty": "easy",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-069",
+          "question": "The Philippines is part of the 'Ring of Fire' which refers to:",
+          "options": [
+            "Desert region",
+            "Area with frequent earthquakes and volcanic activity",
+            "Tropical zone",
+            "Trade route"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Pacific Ring of Fire is a region with frequent earthquakes and volcanic eruptions. The Philippines, located here, has about 24 active volcanoes.",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-070",
+          "question": "What is the longest river in the Philippines?",
+          "options": [
+            "Pasig River",
+            "Cagayan River",
+            "Agusan River",
+            "Pampanga River"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Cagayan River in Northern Luzon is the longest river in the Philippines, stretching approximately 505 kilometers.",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-071",
+          "question": "The Philippine Trench (Mindanao Trench) is significant because:",
+          "options": [
+            "Shallowest point",
+            "One of the deepest parts of the ocean (10,540 meters)",
+            "Widest trench",
+            "Warmest waters"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippine Trench, with a maximum depth of about 10,540 meters (34,580 feet), is one of the deepest oceanic trenches in the world.",
+          "difficulty": "difficult",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-072",
+          "question": "What are the two monsoon seasons in the Philippines?",
+          "options": [
+            "Spring and fall",
+            "Habagat (southwest monsoon) and Amihan (northeast monsoon)",
+            "Summer and winter",
+            "Wet and dry only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippines experiences two monsoons: Habagat (southwest, May-September, wet) and Amihan (northeast, October-April, cool and dry).",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-073",
+          "question": "Which body of water is located east of the Philippines?",
+          "options": [
+            "South China Sea",
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Sulu Sea"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Pacific Ocean is located to the east of the Philippines, while the South China Sea is to the west.",
+          "difficulty": "easy",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-074",
+          "question": "What is biodiversity?",
+          "options": [
+            "Study of life",
+            "Variety of plant and animal life in a habitat or ecosystem",
+            "Biography",
+            "Evolution"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Biodiversity refers to the variety of plant and animal species in an environment. The Philippines is a biodiversity hotspot with many endemic species.",
+          "difficulty": "easy",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-075",
+          "question": "What is deforestation?",
+          "options": [
+            "Planting trees",
+            "Clearing of forests for other land uses",
+            "Forest fire",
+            "Natural forest growth"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Deforestation is the permanent clearing or thinning of forests for agriculture, logging, or development, causing environmental problems.",
+          "difficulty": "easy",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-076",
+          "question": "The largest lake in the Philippines is:",
+          "options": [
+            "Taal Lake",
+            "Laguna de Bay",
+            "Lake Lanao",
+            "Lake Sebu"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Laguna de Bay, located east of Metro Manila in Luzon, is the largest lake in the Philippines with a surface area of 911-949 km².",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-077",
+          "question": "What is climate change?",
+          "options": [
+            "Daily weather changes",
+            "Long-term changes in temperature and weather patterns",
+            "Seasonal changes",
+            "Weather forecast"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Climate change refers to long-term shifts in global temperatures and weather patterns, primarily caused by human activities increasing greenhouse gases.",
+          "difficulty": "easy",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-078",
+          "question": "What causes typhoons?",
+          "options": [
+            "Earthquakes",
+            "Warm ocean water, moisture, and atmospheric conditions",
+            "Volcanoes",
+            "Pollution"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Typhoons form over warm ocean waters (at least 26.5°C) when moisture, heat, and specific atmospheric conditions combine, creating rotating storm systems.",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-079",
+          "question": "The imaginary line dividing the Earth into Northern and Southern Hemispheres is:",
+          "options": [
+            "Prime Meridian",
+            "Equator",
+            "Tropic of Cancer",
+            "International Date Line"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Equator is the imaginary line at 0° latitude that divides Earth into Northern and Southern Hemispheres.",
+          "difficulty": "easy",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-080",
+          "question": "What are the main natural resources of the Philippines?",
+          "options": [
+            "Oil and gas only",
+            "Forests, minerals (copper, gold, nickel), marine resources, geothermal energy",
+            "Coal only",
+            "Diamonds"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippines is rich in forests, minerals (copper, gold, nickel, chromite), marine resources, and renewable energy sources like geothermal and hydropower.",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-081",
+          "question": "What is El Niño?",
+          "options": [
+            "A child",
+            "Climate pattern causing warmer ocean temperatures and drought",
+            "Cold weather",
+            "Typhoon category"
+          ],
+          "correctAnswer": 1,
+          "explanation": "El Niño is a climate pattern involving warmer-than-normal sea surface temperatures in the Pacific, often causing drought in the Philippines.",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-082",
+          "question": "What is La Niña?",
+          "options": [
+            "A girl",
+            "Climate pattern causing cooler ocean temperatures and increased rainfall",
+            "Hot weather",
+            "Volcano"
+          ],
+          "correctAnswer": 1,
+          "explanation": "La Niña is a climate pattern with cooler-than-normal Pacific sea surface temperatures, often bringing increased rainfall and typhoons to the Philippines.",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-083",
+          "question": "The Tubbataha Reefs Natural Park is significant because it is:",
+          "options": [
+            "Largest island",
+            "UNESCO World Heritage Site with marine biodiversity",
+            "Deepest ocean",
+            "Highest mountain"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tubbataha Reefs in Palawan is a UNESCO World Heritage Site known for exceptional marine biodiversity, including coral reefs, fish, sharks, and turtles.",
+          "difficulty": "difficult",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-084",
+          "question": "What is sustainable development?",
+          "options": [
+            "Rapid growth",
+            "Development meeting present needs without compromising future generations",
+            "Economic growth only",
+            "Construction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sustainable development meets current needs without depleting resources or harming the environment for future generations, balancing economy, society, and environment.",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        },
+        {
+          "id": "ss-geo-085",
+          "question": "Which region is known as the 'Rice Granary of the Philippines'?",
+          "options": [
+            "Mindanao",
+            "Central Luzon",
+            "Visayas",
+            "Bicol"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Central Luzon, particularly Nueva Ecija and surrounding provinces, is known as the 'Rice Granary' due to its extensive rice production.",
+          "difficulty": "medium",
+          "topic": "Geography and Environment"
+        }
+      ]
+    },
+    {
+      "id": "economics",
+      "name": "Economics and Development",
+      "questions": [
+        {
+          "id": "ss-econ-086",
+          "question": "What is economics?",
+          "options": [
+            "Study of money only",
+            "Study of production, distribution, and consumption of goods and services",
+            "Business management",
+            "Banking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Economics is the social science that studies how societies allocate scarce resources to produce, distribute, and consume goods and services.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-087",
+          "question": "What is supply and demand?",
+          "options": [
+            "Government control",
+            "Economic principle: price determined by availability and consumer desire",
+            "Business strategy",
+            "Trade agreement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Supply and demand is a fundamental economic principle where price is determined by the relationship between product availability (supply) and consumer desire (demand).",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-088",
+          "question": "What is GDP (Gross Domestic Product)?",
+          "options": [
+            "Government debt",
+            "Total value of goods and services produced in a country",
+            "Population count",
+            "Trade balance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "GDP is the total monetary value of all finished goods and services produced within a country's borders in a specific time period, measuring economic performance.",
+          "difficulty": "medium",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-089",
+          "question": "What is inflation?",
+          "options": [
+            "Economic growth",
+            "General increase in prices and fall in purchasing power of money",
+            "Savings increase",
+            "Currency exchange"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inflation is the rate at which the general level of prices rises, causing the purchasing power of currency to fall over time.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-090",
+          "question": "What is unemployment?",
+          "options": [
+            "Retirement",
+            "Condition where people actively seeking work cannot find jobs",
+            "Job dissatisfaction",
+            "Part-time work"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Unemployment occurs when people who are willing and able to work cannot find jobs, measured as a percentage of the labor force.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-091",
+          "question": "What is the difference between needs and wants?",
+          "options": [
+            "No difference",
+            "Needs are essential for survival; wants are desires",
+            "Wants are more important",
+            "Needs are luxuries"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Needs are necessities essential for survival (food, water, shelter); wants are desires that enhance quality of life but aren't essential.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-092",
+          "question": "What is poverty?",
+          "options": [
+            "Lack of luxury",
+            "State of lacking sufficient resources to meet basic needs",
+            "Unemployment only",
+            "No savings"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Poverty is the state where individuals or groups lack financial resources and essentials for a minimum standard of living.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-093",
+          "question": "What is taxation?",
+          "options": [
+            "Voluntary donation",
+            "Compulsory financial charge imposed by government on income, property, or goods",
+            "Savings plan",
+            "Business investment"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Taxation is the system by which governments impose compulsory levies on individuals and businesses to fund public services and infrastructure.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-094",
+          "question": "What is international trade?",
+          "options": [
+            "Domestic commerce",
+            "Exchange of goods and services between countries",
+            "Local market",
+            "Online shopping"
+          ],
+          "correctAnswer": 1,
+          "explanation": "International trade is the exchange of capital, goods, and services across international borders, driven by comparative advantage and demand.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-095",
+          "question": "What is the minimum wage?",
+          "options": [
+            "Maximum salary",
+            "Lowest hourly/daily pay legally allowed for workers",
+            "Average salary",
+            "Starting salary"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Minimum wage is the lowest remuneration employers can legally pay workers, set by government to ensure basic standard of living.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-096",
+          "question": "What is a budget?",
+          "options": [
+            "Savings account",
+            "Financial plan allocating income for expenses and savings",
+            "Shopping list",
+            "Debt record"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A budget is a financial plan that estimates income and expenditures over a specific period, helping manage resources effectively.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-097",
+          "question": "What is entrepreneurship?",
+          "options": [
+            "Employment",
+            "Process of starting and running a business venture with risk for profit",
+            "Investment only",
+            "Management"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Entrepreneurship involves creating and operating a business venture, taking on financial risks in pursuit of profit and innovation.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-098",
+          "question": "What is the national budget?",
+          "options": [
+            "Personal finances",
+            "Government's plan for revenue and expenditures for fiscal year",
+            "Business plan",
+            "Savings program"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The national budget is the government's financial plan outlining projected revenues and planned expenditures for the fiscal year.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-099",
+          "question": "What is the Bangko Sentral ng Pilipinas (BSP)?",
+          "options": [
+            "Commercial bank",
+            "Central bank of the Philippines regulating monetary policy",
+            "Investment firm",
+            "Savings bank"
+          ],
+          "correctAnswer": 1,
+          "explanation": "BSP is the Philippines' central bank, responsible for monetary policy, banking regulation, currency issuance, and maintaining price stability.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-100",
+          "question": "What is globalization?",
+          "options": [
+            "Local development",
+            "Increasing interconnectedness of economies, cultures, and populations worldwide",
+            "Government expansion",
+            "Urbanization"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Globalization is the process of increasing interconnectedness and interdependence of world economies, cultures, and populations through trade, technology, and communication.",
+          "difficulty": "medium",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-101",
+          "question": "What are OFWs (Overseas Filipino Workers)?",
+          "options": [
+            "Local employees",
+            "Filipinos working abroad sending remittances home",
+            "Tourists",
+            "Immigrants"
+          ],
+          "correctAnswer": 1,
+          "explanation": "OFWs are Filipinos employed abroad who send remittances home, significantly contributing to the Philippine economy (about 10% of GDP).",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-102",
+          "question": "What is the main economic sector in the Philippines?",
+          "options": [
+            "Agriculture only",
+            "Services sector (over 60% of GDP)",
+            "Manufacturing only",
+            "Mining"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The services sector (BPO, tourism, retail, finance) accounts for over 60% of Philippine GDP, followed by industry and agriculture.",
+          "difficulty": "medium",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-103",
+          "question": "What is BPO (Business Process Outsourcing)?",
+          "options": [
+            "Banking service",
+            "Contracting operations to third-party providers (call centers, IT services)",
+            "Manufacturing",
+            "Agriculture"
+          ],
+          "correctAnswer": 1,
+          "explanation": "BPO involves contracting business functions (customer service, IT, accounting) to third-party providers. The Philippines is a major BPO hub.",
+          "difficulty": "medium",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-104",
+          "question": "What is ASEAN (Association of Southeast Asian Nations)?",
+          "options": [
+            "Trade agreement",
+            "Regional organization promoting economic, political, and security cooperation",
+            "Currency union",
+            "Military alliance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ASEAN is a regional organization of 10 Southeast Asian countries promoting economic growth, peace, and cultural development. The Philippines is a founding member (1967).",
+          "difficulty": "medium",
+          "topic": "Economics and Development"
+        },
+        {
+          "id": "ss-econ-105",
+          "question": "What is the purpose of the Department of Trade and Industry (DTI)?",
+          "options": [
+            "Collect taxes",
+            "Promote trade, industry, and consumer protection",
+            "Print money",
+            "Build infrastructure"
+          ],
+          "correctAnswer": 1,
+          "explanation": "DTI promotes competitiveness and growth of Philippine trade and industry, protects consumers, and facilitates business development.",
+          "difficulty": "easy",
+          "topic": "Economics and Development"
+        }
+      ]
+    },
+    {
+      "id": "culture-society",
+      "name": "Philippine Culture and Society",
+      "questions": [
+        {
+          "id": "ss-cs-106",
+          "question": "What is the national language of the Philippines?",
+          "options": [
+            "English",
+            "Filipino (based on Tagalog)",
+            "Spanish",
+            "Cebuano"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipino, based primarily on Tagalog with influences from other Philippine languages and Spanish/English, is the national language alongside English as official language.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-107",
+          "question": "What is 'bayanihan'?",
+          "options": [
+            "National dance",
+            "Filipino spirit of communal unity and cooperation",
+            "Festival",
+            "Traditional house"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bayanihan refers to the Filipino spirit of communal unity, cooperation, and helping one another, traditionally shown by neighbors helping move a house.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-108",
+          "question": "What is 'pakikisama'?",
+          "options": [
+            "Dance",
+            "Filipino value of going along with the group; maintaining smooth interpersonal relations",
+            "Food",
+            "Clothing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pakikisama is the Filipino value of maintaining harmony, getting along with others, and avoiding conflict in social relationships.",
+          "difficulty": "medium",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-109",
+          "question": "What is the predominant religion in the Philippines?",
+          "options": [
+            "Buddhism",
+            "Roman Catholicism (about 80%)",
+            "Islam",
+            "Protestantism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippines is predominantly Roman Catholic (about 80%), a legacy of Spanish colonization, making it the largest Christian nation in Asia.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-110",
+          "question": "What is 'utang na loob'?",
+          "options": [
+            "Financial debt",
+            "Debt of gratitude; reciprocal obligation",
+            "Bank loan",
+            "Tax payment"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Utang na loob' is a Filipino value of reciprocal obligation or debt of gratitude, where favors received should be returned.",
+          "difficulty": "medium",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-111",
+          "question": "What is the national flower of the Philippines?",
+          "options": [
+            "Rose",
+            "Sampaguita (Arabian Jasmine)",
+            "Orchid",
+            "Sunflower"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sampaguita (Jasminum sambac), a small white fragrant flower, is the national flower symbolizing purity, simplicity, and humility.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-112",
+          "question": "What is the national bird of the Philippines?",
+          "options": [
+            "Eagle",
+            "Philippine Eagle (Haring Ibon)",
+            "Maya",
+            "Parrot"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippine Eagle (Pithecophaga jefferyi), one of the world's largest and most powerful eagles, is the national bird and a critically endangered species.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-113",
+          "question": "What is 'mano po'?",
+          "options": [
+            "Greeting",
+            "Gesture of respect: pressing elder's hand to one's forehead",
+            "Goodbye",
+            "Thank you"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Mano po' is a Filipino gesture of respect where younger people take an elder's hand and press it to their forehead while saying 'mano po'.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-114",
+          "question": "What is 'fiesta'?",
+          "options": [
+            "Party only",
+            "Community festival honoring patron saint with food, music, and celebration",
+            "Church service",
+            "National holiday"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fiesta is a community festival celebrating a patron saint's feast day, featuring food sharing, parades, music, and various activities.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-115",
+          "question": "What is 'hiya'?",
+          "options": [
+            "Happiness",
+            "Sense of shame or embarrassment; concern for social acceptance",
+            "Anger",
+            "Sadness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Hiya' is the Filipino sense of shame, embarrassment, or propriety that regulates social behavior and maintains face in relationships.",
+          "difficulty": "medium",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-116",
+          "question": "How many major ethnolinguistic groups are in the Philippines?",
+          "options": [
+            "5",
+            "Over 175 ethnolinguistic groups",
+            "20",
+            "50"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippines has over 175 ethnolinguistic groups speaking more than 180 languages and dialects, reflecting rich cultural diversity.",
+          "difficulty": "difficult",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-117",
+          "question": "What is the 'barong tagalog'?",
+          "options": [
+            "Dance",
+            "Traditional formal embroidered shirt for men",
+            "Food",
+            "House type"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The barong tagalog is the traditional formal embroidered shirt for Filipino men, typically made of pineapple or banana fiber, worn untucked.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-118",
+          "question": "What is the 'terno'?",
+          "options": [
+            "Traditional women's formal dress with butterfly sleeves",
+            "Dance",
+            "Musical instrument",
+            "Food"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The terno (or Maria Clara gown) is the traditional formal dress for Filipino women, characterized by distinctive butterfly sleeves.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-119",
+          "question": "What is 'po' and 'opo' in Filipino communication?",
+          "options": [
+            "Questions",
+            "Words showing respect when speaking to elders",
+            "Greetings",
+            "Names"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Po' and 'opo' are particles added to sentences to show respect when speaking to elders or people of higher status.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-120",
+          "question": "What is the importance of family in Filipino culture?",
+          "options": [
+            "Not important",
+            "Central to society; extended family provides support and identity",
+            "Same as other cultures",
+            "Business only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Family is the foundation of Filipino society, with strong ties to extended family providing emotional, social, and economic support throughout life.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-121",
+          "question": "What are 'indigenous peoples' in the Philippines?",
+          "options": [
+            "Foreigners",
+            "Native ethnic groups with distinct cultures predating colonization",
+            "Immigrants",
+            "Recent settlers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Indigenous peoples (Lumad, Igorot, Mangyan, etc.) are native ethnic groups with distinct cultures, traditions, and territories predating Spanish colonization.",
+          "difficulty": "medium",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-122",
+          "question": "What is 'Filipino time'?",
+          "options": [
+            "Standard time",
+            "Cultural tendency toward flexible, relaxed approach to punctuality",
+            "Clock brand",
+            "Time zone"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Filipino time' refers to the cultural tendency toward a more relaxed, flexible approach to schedules and punctuality, often arriving late.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-123",
+          "question": "What is 'Simbang Gabi'?",
+          "options": [
+            "Evening party",
+            "Nine-day dawn masses before Christmas",
+            "Night market",
+            "Dance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Simbang Gabi is a Filipino Christmas tradition of attending nine consecutive dawn masses (December 16-24), often followed by traditional breakfast.",
+          "difficulty": "medium",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-124",
+          "question": "What is the significance of 'compadre/comadre' system?",
+          "options": [
+            "Business partners",
+            "Godparent system extending family through ritual kinship",
+            "Friendship only",
+            "Neighbors"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The compadre/comadre (godparent) system creates ritual kinship ties through baptism, extending family networks and social obligations.",
+          "difficulty": "medium",
+          "topic": "Philippine Culture and Society"
+        },
+        {
+          "id": "ss-cs-125",
+          "question": "What is 'Filipino hospitality'?",
+          "options": [
+            "Hotel industry",
+            "Cultural trait of warmth, friendliness, and generous treatment of guests",
+            "Tourism",
+            "Restaurant service"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipino hospitality is the cultural trait of warmly welcoming guests, sharing food and resources generously, and making visitors feel at home.",
+          "difficulty": "easy",
+          "topic": "Philippine Culture and Society"
+        }
+      ]
+    },
+    {
+      "id": "teaching-methods",
+      "name": "Teaching Social Studies/Araling Panlipunan",
+      "questions": [
+        {
+          "id": "ss-tm-126",
+          "question": "What is inquiry-based learning in social studies?",
+          "options": [
+            "Asking questions only",
+            "Students investigate questions and develop understanding through research",
+            "Teacher questioning",
+            "Reading textbooks"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inquiry-based learning has students investigate historical/social questions, gather evidence, and construct understanding through active research and analysis.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-127",
+          "question": "What are primary sources in history teaching?",
+          "options": [
+            "Textbooks",
+            "Original documents, artifacts, or evidence from the time period",
+            "Teacher lectures",
+            "Secondary sources"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Primary sources are firsthand evidence from the historical period (documents, letters, photos, artifacts) providing direct insight into the past.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-128",
+          "question": "What are secondary sources?",
+          "options": [
+            "Original documents",
+            "Interpretations and analyses of primary sources created later",
+            "Eyewitness accounts",
+            "Artifacts"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Secondary sources are interpretations, analyses, or discussions of primary sources created after the historical period (textbooks, articles, documentaries).",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-129",
+          "question": "What is the purpose of using maps in social studies?",
+          "options": [
+            "Decoration",
+            "Develop spatial thinking and understand location, place, and relationships",
+            "Fill time",
+            "Art activity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Maps develop spatial thinking, help students understand location, place, human-environment interaction, and geographic patterns and relationships.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-130",
+          "question": "What is historical thinking?",
+          "options": [
+            "Memorizing dates",
+            "Analyzing evidence, understanding context, and interpreting past",
+            "Reading history books",
+            "Watching documentaries"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Historical thinking involves analyzing evidence, understanding chronology and causation, considering multiple perspectives, and interpreting the past.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-131",
+          "question": "What is civic education?",
+          "options": [
+            "City planning",
+            "Teaching about citizenship, rights, responsibilities, and democratic participation",
+            "Urban studies",
+            "Government rules"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Civic education teaches students about citizenship, democratic values, rights and responsibilities, government, and active participation in society.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-132",
+          "question": "What is the purpose of field trips in social studies?",
+          "options": [
+            "Entertainment",
+            "Provide authentic learning experiences connecting classroom to real world",
+            "Break from class",
+            "Reward"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Field trips provide authentic, experiential learning connecting classroom concepts to real-world sites, museums, and communities.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-133",
+          "question": "What is differentiated instruction in social studies?",
+          "options": [
+            "Different subjects",
+            "Adapting content, process, and products to meet diverse learner needs",
+            "Separate classes",
+            "Different teachers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Differentiated instruction adapts content, learning processes, and assessment products to accommodate diverse student readiness, interests, and learning profiles.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-134",
+          "question": "What is the Spiral Progression Approach in K-12 curriculum?",
+          "options": [
+            "Teaching in circles",
+            "Revisiting topics at increasing levels of complexity across grades",
+            "Spiral notebooks",
+            "Circular thinking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Spiral Progression revisits topics across grade levels with increasing depth and complexity, building on prior knowledge progressively.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-135",
+          "question": "What is the purpose of using timelines in history teaching?",
+          "options": [
+            "Decoration",
+            "Visualize chronology and sequence of events",
+            "Art project",
+            "Calendar"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Timelines help students visualize chronological sequence, understand temporal relationships, and see patterns in historical events.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-136",
+          "question": "What is project-based learning in social studies?",
+          "options": [
+            "Building projects",
+            "Extended investigation of complex question or problem",
+            "Worksheets",
+            "Reading only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Project-based learning engages students in extended investigation of complex, authentic questions, developing deeper understanding and skills.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-137",
+          "question": "What is multiple perspectives in history teaching?",
+          "options": [
+            "Different opinions",
+            "Examining events from various viewpoints and groups",
+            "Confusion",
+            "Arguments"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Multiple perspectives involves examining historical events from different viewpoints (various groups, nations, social classes) for comprehensive understanding.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-138",
+          "question": "What is the purpose of role-playing in social studies?",
+          "options": [
+            "Drama class",
+            "Help students understand perspectives and decision-making in historical contexts",
+            "Entertainment",
+            "Acting practice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Role-playing helps students understand different perspectives, empathize with historical figures, and explore decision-making in context.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-139",
+          "question": "What is critical thinking in social studies?",
+          "options": [
+            "Criticism",
+            "Analyzing, evaluating evidence, and forming reasoned judgments",
+            "Negative thinking",
+            "Complaining"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Critical thinking involves analyzing information, evaluating evidence and sources, identifying bias, and forming reasoned, evidence-based judgments.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-140",
+          "question": "What is the purpose of current events in social studies?",
+          "options": [
+            "News only",
+            "Connect classroom learning to contemporary world and develop informed citizenship",
+            "Entertainment",
+            "Time filler"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Current events connect classroom concepts to the contemporary world, develop media literacy, and prepare students for informed citizenship.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-141",
+          "question": "What is graphic organizers' purpose in social studies?",
+          "options": [
+            "Art activity",
+            "Visually organize information and show relationships",
+            "Decoration",
+            "Handwriting practice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Graphic organizers (Venn diagrams, concept maps, timelines) help students visually organize information and understand relationships between concepts.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-142",
+          "question": "What is values education in social studies?",
+          "options": [
+            "Price education",
+            "Teaching moral principles, character development, and ethical decision-making",
+            "Economics only",
+            "Religious instruction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Values education teaches moral principles, character development, ethical decision-making, and civic values integrated into social studies content.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-143",
+          "question": "What is contextualizing in history teaching?",
+          "options": [
+            "Reading context clues",
+            "Understanding events within their historical, social, and cultural setting",
+            "Writing skills",
+            "Grammar"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Contextualizing places historical events within their specific time, place, social, cultural, and political circumstances for deeper understanding.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-144",
+          "question": "What is the KWL strategy in social studies?",
+          "options": [
+            "Reading strategy only",
+            "Activating prior knowledge (K), setting purposes (W), reflecting on learning (L)",
+            "Assessment tool",
+            "Grading system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "KWL helps students activate prior knowledge (Know), set learning purposes (Want to know), and reflect on what they Learned.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-145",
+          "question": "What is the purpose of debates in social studies?",
+          "options": [
+            "Arguments",
+            "Develop critical thinking, research skills, and understanding of multiple viewpoints",
+            "Competition only",
+            "Speaking practice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Debates develop critical thinking, research skills, argumentation, and understanding of multiple perspectives on social/historical issues.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-146",
+          "question": "What is authentic assessment in social studies?",
+          "options": [
+            "Real tests",
+            "Evaluating through real-world, meaningful tasks demonstrating application",
+            "Multiple choice only",
+            "Memorization tests"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Authentic assessment evaluates learning through real-world, meaningful tasks (projects, presentations, portfolios) showing application of knowledge and skills.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-147",
+          "question": "What is the purpose of simulations in social studies?",
+          "options": [
+            "Games only",
+            "Experience decision-making and processes in realistic scenarios",
+            "Entertainment",
+            "Time filler"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Simulations allow students to experience decision-making, processes, and consequences in realistic historical or contemporary scenarios.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-148",
+          "question": "What is cultural sensitivity in social studies teaching?",
+          "options": [
+            "Emotional response",
+            "Respecting and valuing diverse cultures and perspectives",
+            "Being sensitive",
+            "Political correctness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cultural sensitivity involves respecting, valuing, and accurately representing diverse cultures, avoiding stereotypes, and recognizing multiple perspectives.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-149",
+          "question": "What is the purpose of using artifacts in history teaching?",
+          "options": [
+            "Decoration",
+            "Provide tangible connections to past and develop historical inquiry skills",
+            "Antique collection",
+            "Museum visit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Artifacts provide tangible connections to the past, engage students concretely, and develop historical inquiry and analysis skills.",
+          "difficulty": "easy",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        },
+        {
+          "id": "ss-tm-150",
+          "question": "What is interdisciplinary teaching in social studies?",
+          "options": [
+            "Teaching multiple subjects separately",
+            "Integrating social studies with other subjects for comprehensive understanding",
+            "Discipline problems",
+            "Mixed grade teaching"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Interdisciplinary teaching integrates social studies with language arts, science, math, and arts, providing comprehensive, connected understanding of topics.",
+          "difficulty": "medium",
+          "topic": "Teaching Social Studies/Araling Panlipunan"
+        }
+      ]
     }
-  ],
-  "totalQuestions": 150,
-  "note": "150 Social Studies questions provided. Ready for additional items if needed."
+  ]
 }
