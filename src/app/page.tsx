@@ -400,7 +400,7 @@ function AdminLoginView({ onLogin, onBack }: { onLogin: (email: string, password
         </form>
         <div className="mt-6 p-4 bg-green-100 rounded-xl">
           <p className="text-xs text-gray-600 text-center">
-            Default: <span className="font-bold">admin@tsok.com</span> / <span className="font-bold">admin123</span>
+            Default: <span className="font-bold">admin@tsok.com</span> / <span className="font-bold"></span>
           </p>
         </div>
       </div>
