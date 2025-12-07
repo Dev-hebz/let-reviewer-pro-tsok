@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'LET Reviewer Pro - TSOK',
+  title: 'LET Reviewer - TSOK',
   description: 'Professional LET Reviewer Application for Filipino Teachers',
   keywords: 'LET, Licensure Examination for Teachers, Philippines, Review, Education, TSOK',
   manifest: '/manifest.json',
