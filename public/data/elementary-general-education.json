@@ -30,7 +30,7 @@
             "Agosto 13",
             "Nobyembre 30"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Hunyo 12, 1898 ang Araw ng Kalayaan kung kailan idineklarang malaya ang Pilipinas mula sa Espanya.",
           "difficulty": "easy",
           "topic": "Social Sciences (Philippine History & Culture)"
@@ -44,7 +44,7 @@
             "Codigo de Kalantiaw",
             "Maragtas"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang Laguna Copperplate Inscription (900 AD) ang pinakamatandang kasulatan na natagpuan sa Pilipinas.",
           "difficulty": "medium",
           "topic": "Social Sciences (Philippine History & Culture)"
@@ -58,7 +58,7 @@
             "Santa Rosa de Lima",
             "San Ezekiel Moreno"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Si San Lorenzo Ruiz ang unang Pilipinong santo na ginawang santo noong 1987 ni Pope John Paul II.",
           "difficulty": "easy",
           "topic": "Social Sciences (Philippine History & Culture)"
@@ -114,7 +114,7 @@
             "Jose Rizal",
             "Francisco Balagtas"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Si Manuel L. Quezon ang tinaguriang 'Ama ng Wikang Pambansa' dahil sa kanyang pagtataguyod ng Filipino bilang pambansang wika.",
           "difficulty": "medium",
           "topic": "Social Sciences (Philippine History & Culture)"
@@ -212,7 +212,7 @@
             "Apolinario Mabini",
             "Jose Rizal"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Si Emilio Jacinto ang tinatawag na 'Utak ng Katipunan' dahil sa kanyang katalinuhan at kontribusyon sa organisasyon.",
           "difficulty": "medium",
           "topic": "Social Sciences (Philippine History & Culture)"
@@ -254,7 +254,7 @@
             "Relihiyon",
             "Edukasyon"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang pangunahing dahilan ay ang pang-aabuso ng mga Espanyol at kawalan ng kalayaan ng mga Pilipino.",
           "difficulty": "easy",
           "topic": "Social Sciences (Philippine History & Culture)"
@@ -554,7 +554,7 @@
             "Studying",
             "Hard"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Students is the subject - the noun performing the action of studying.",
           "difficulty": "easy",
           "topic": "English and Communication"
@@ -1216,7 +1216,7 @@
             "Balitaw",
             "Kumintang"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang Kundiman ay tradisyonal na awit ng pag-ibig sa kultura ng Pilipinas.",
           "difficulty": "medium",
           "topic": "Filipino Language and Culture"
@@ -1244,7 +1244,7 @@
             "Mantika",
             "Alat"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang adobo ay lutong Pilipino na gumagamit ng suka at toyo bilang pangunahing sangkap.",
           "difficulty": "easy",
           "topic": "Filipino Language and Culture"
@@ -1314,7 +1314,7 @@
             "Pinya",
             "Papaya"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang mangga (Carabao Mango) ay pambansang prutas ng Pilipinas.",
           "difficulty": "easy",
           "topic": "Filipino Language and Culture"
@@ -1342,7 +1342,7 @@
             "Levi Celerio",
             "Ryan Cayabyab"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Si Jose Corazon de Jesus ang sumulat ng liriko ng 'Bayan Ko', at si Constancio de Guzman ang kompositor.",
           "difficulty": "medium",
           "topic": "Filipino Language and Culture"
@@ -1370,7 +1370,7 @@
             "Hudhud",
             "Alim"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang Biag ni Lam-ang ay sikat na epiko ng mga Ilokano tungkol sa bayaning si Lam-ang.",
           "difficulty": "medium",
           "topic": "Filipino Language and Culture"
@@ -1446,7 +1446,7 @@
             "Yellow, Green, Purple",
             "Orange, Purple, Green"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The three primary colors in traditional color theory are red, yellow, and blue. These cannot be created by mixing other colors.",
           "difficulty": "easy",
           "topic": "Arts and Humanities"
@@ -1544,7 +1544,7 @@
             "Ben Jonson",
             "John Milton"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "William Shakespeare wrote the tragedy 'Romeo and Juliet' around 1594-1596.",
           "difficulty": "easy",
           "topic": "Arts and Humanities"
@@ -1732,7 +1732,7 @@
             "Central Program Utility",
             "Computer Processing Utility"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "CPU stands for Central Processing Unit, the 'brain' of the computer that executes instructions.",
           "difficulty": "easy",
           "topic": "Technology and Innovation"
@@ -1746,7 +1746,7 @@
             "Web World Wide",
             "Wide World Web"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "WWW stands for World Wide Web, an information system where documents are connected via hyperlinks.",
           "difficulty": "easy",
           "topic": "Technology and Innovation"
@@ -1816,7 +1816,7 @@
             "A and B",
             "X and Y"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The binary system uses only two digits: 0 and 1, forming the basis of all digital computing.",
           "difficulty": "easy",
           "topic": "Technology and Innovation"
@@ -1886,7 +1886,7 @@
             "Printed Document Format",
             "Public Data Format"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "PDF stands for Portable Document Format, developed by Adobe for document sharing.",
           "difficulty": "easy",
           "topic": "Technology and Innovation"
@@ -1928,7 +1928,7 @@
             "Home Tool Markup Language",
             "Hyperlinks and Text Markup Language"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "HTML stands for Hyper Text Markup Language, the standard language for creating web pages.",
           "difficulty": "easy",
           "topic": "Technology and Innovation"
@@ -1956,7 +1956,7 @@
             "Universal System Board",
             "United Serial Board"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "USB stands for Universal Serial Bus, a standard for connecting devices to computers.",
           "difficulty": "easy",
           "topic": "Technology and Innovation"
@@ -1998,7 +1998,7 @@
             "Interface of Tools",
             "Internet of Transfers"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "IoT stands for Internet of Things, connecting everyday devices to the internet for data exchange.",
           "difficulty": "medium",
           "topic": "Technology and Innovation"
@@ -2088,7 +2088,7 @@
             "Global Development Program",
             "Gross Development Product"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "GDP stands for Gross Domestic Product, the total value of goods and services produced in a country.",
           "difficulty": "medium",
           "topic": "Current Events and Global Awareness"
