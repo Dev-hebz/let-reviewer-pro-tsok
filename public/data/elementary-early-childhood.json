@@ -1,14 +1,14 @@
 {
-  "subject": "Elementary - Early Childhood Education",
+  "subject": "Early Childhood Education - LET Reviewer",
   "category": "elementary",
-  "subcategory": "early-childhood",
+  "subcategory": "early-childhood-education",
   "topics": [
     {
-      "id": "child-development",
+      "id": "child-development-0-8",
       "name": "Child Development (Ages 0-8)",
       "questions": [
         {
-          "id": "ele-ece-cd-001",
+          "id": "ece-cd-001",
           "question": "At what age do children typically begin to walk independently?",
           "options": [
             "6-9 months",
@@ -17,65 +17,491 @@
             "18-24 months"
           ],
           "correctAnswer": 2,
-          "explanation": "Most children begin walking independently between 12-18 months of age, though there is normal variation.",
+          "explanation": "Most children begin walking independently between 12-18 months of age, though there is normal variation in motor development milestones.",
           "difficulty": "medium",
           "topic": "Child Development (Ages 0-8)"
         },
         {
-          "id": "ele-ece-cd-002",
-          "question": "What is the typical age range for the 'preoperational stage' according to Piaget?",
+          "id": "ece-cd-002",
+          "question": "What is the term for a child's first word, typically spoken around 12 months?",
           "options": [
-            "0-2 years",
-            "2-7 years",
-            "7-11 years",
-            "11+ years"
+            "Babbling",
+            "Holophrastic speech",
+            "Telegraphic speech",
+            "Cooing"
           ],
           "correctAnswer": 1,
-          "explanation": "The preoperational stage occurs from ages 2-7, characterized by symbolic thinking but not yet logical operations.",
+          "explanation": "Holophrastic speech refers to one-word utterances that convey complete thoughts, typically emerging around 12 months of age.",
           "difficulty": "medium",
           "topic": "Child Development (Ages 0-8)"
         },
         {
-          "id": "ele-ece-cd-003",
-          "question": "What is 'parallel play' in early childhood?",
+          "id": "ece-cd-003",
+          "question": "According to Piaget, what stage are children ages 2-7 in?",
           "options": [
-            "Children playing together cooperatively",
-            "Children playing near each other but not together",
-            "Children playing alone",
-            "Children playing with adults"
+            "Sensorimotor",
+            "Preoperational",
+            "Concrete Operational",
+            "Formal Operational"
           ],
           "correctAnswer": 1,
-          "explanation": "Parallel play is when children play alongside each other without direct interaction, typical in toddlers (18-24 months).",
+          "explanation": "The Preoperational Stage (2-7 years) is characterized by symbolic thinking, egocentrism, and developing language skills.",
           "difficulty": "easy",
           "topic": "Child Development (Ages 0-8)"
         },
         {
-          "id": "ele-ece-cd-004",
-          "question": "At what age do most children develop 'theory of mind'?",
+          "id": "ece-cd-004",
+          "question": "What is 'parallel play' in early childhood?",
+          "options": [
+            "Children playing together cooperatively",
+            "Children playing side by side independently",
+            "Children playing alone",
+            "Children watching others play"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Parallel play occurs when children play side by side with similar toys but do not interact or share, typical of toddlers aged 2-3.",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-005",
+          "question": "What are the three main domains of child development?",
+          "options": [
+            "Physical, Cognitive, Socio-emotional",
+            "Reading, Writing, Math",
+            "Thinking, Feeling, Acting",
+            "Body, Mind, Soul"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The three main domains are Physical (motor skills), Cognitive (thinking/learning), and Socio-emotional (social and emotional development).",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-006",
+          "question": "What is 'gross motor development'?",
+          "options": [
+            "Development of small muscle movements",
+            "Development of large muscle movements",
+            "Brain development",
+            "Language development"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gross motor development involves large muscle movements such as walking, running, jumping, and climbing.",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-007",
+          "question": "What is 'fine motor development'?",
+          "options": [
+            "Development of large muscles",
+            "Development of small muscle movements and hand-eye coordination",
+            "Emotional development",
+            "Social skills"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fine motor development involves small muscle movements, particularly in hands and fingers, such as grasping, writing, and buttoning.",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-008",
+          "question": "At what age do children typically develop a sense of gender identity?",
           "options": [
             "1-2 years",
             "2-3 years",
             "3-4 years",
             "5-6 years"
           ],
-          "correctAnswer": 2,
-          "explanation": "Theory of mind (understanding that others have different thoughts and perspectives) typically develops around ages 3-4.",
+          "correctAnswer": 1,
+          "explanation": "Children typically begin to develop gender identity and awareness between ages 2-3, recognizing themselves as boys or girls.",
           "difficulty": "medium",
           "topic": "Child Development (Ages 0-8)"
         },
         {
-          "id": "ele-ece-cd-005",
-          "question": "What are 'developmental milestones'?",
+          "id": "ece-cd-009",
+          "question": "What is 'separation anxiety'?",
           "options": [
-            "Academic achievements only",
-            "Key skills children should achieve by certain ages",
-            "Birthday celebrations",
-            "Test scores"
+            "Fear of strangers",
+            "Distress when separated from primary caregiver",
+            "Fear of new places",
+            "Social anxiety"
           ],
           "correctAnswer": 1,
-          "explanation": "Developmental milestones are specific skills or behaviors that most children can do by a certain age, used to track development.",
+          "explanation": "Separation anxiety is distress experienced by young children when separated from their primary attachment figure, typically peaking around 10-18 months.",
           "difficulty": "easy",
           "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-010",
+          "question": "What is 'telegraphic speech'?",
+          "options": [
+            "Single word utterances",
+            "Two-word phrases omitting less important words",
+            "Complete sentences",
+            "Baby babbling"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Telegraphic speech consists of two-word phrases that omit less critical words, like 'Mommy go' or 'Want cookie', typical around 18-24 months.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-011",
+          "question": "What is 'stranger anxiety'?",
+          "options": [
+            "Fear of new places",
+            "Wariness of unfamiliar people",
+            "Separation from parents",
+            "Social phobia"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Stranger anxiety is wariness or fear of unfamiliar people, typically emerging around 6-12 months as part of normal development.",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-012",
+          "question": "What is the 'terrible twos'?",
+          "options": [
+            "A medical condition",
+            "Period of asserting independence and frequent tantrums",
+            "Learning disability",
+            "Behavioral disorder"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The 'terrible twos' refers to a normal developmental phase around age 2 when children assert independence and may have frequent tantrums.",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-013",
+          "question": "What is 'symbolic play' or 'pretend play'?",
+          "options": [
+            "Playing with symbols",
+            "Using objects to represent other things in imagination",
+            "Playing games with rules",
+            "Competitive play"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Symbolic or pretend play involves using objects or actions to represent other things, emerging around age 2 and indicating cognitive development.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-014",
+          "question": "What is 'associative play'?",
+          "options": [
+            "Playing alone",
+            "Children playing together with some interaction but no organization",
+            "Organized group play",
+            "Watching others play"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Associative play involves children playing together with some interaction and sharing but without organized goals, typical of ages 3-4.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-015",
+          "question": "What is 'cooperative play'?",
+          "options": [
+            "Playing side by side",
+            "Organized play with shared goals and roles",
+            "Playing alone",
+            "Competing with others"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cooperative play involves organized play activities with shared goals, assigned roles, and collaboration, typically emerging around ages 4-5.",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-016",
+          "question": "What is 'egocentric thinking' in young children?",
+          "options": [
+            "Being selfish",
+            "Inability to take another person's perspective",
+            "Self-centered behavior",
+            "Pride"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Egocentric thinking is the inability to differentiate between one's own perspective and another's, characteristic of preoperational children.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-017",
+          "question": "What is 'animism' in child development?",
+          "options": [
+            "Love for animals",
+            "Belief that inanimate objects have feelings and intentions",
+            "Drawing animals",
+            "Fear of animals"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Animism is the belief that inanimate objects have life-like qualities, feelings, and intentions, typical of preoperational thinking.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-018",
+          "question": "What is 'centration' according to Piaget?",
+          "options": [
+            "Being centered",
+            "Focusing on one aspect while ignoring others",
+            "Central nervous system",
+            "Finding the center"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Centration is the tendency to focus on one salient aspect of a situation while ignoring other relevant aspects, typical of preoperational children.",
+          "difficulty": "difficult",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-019",
+          "question": "When do children typically develop 'theory of mind'?",
+          "options": [
+            "1-2 years",
+            "2-3 years",
+            "4-5 years",
+            "6-7 years"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Theory of mind, the understanding that others have different thoughts and beliefs, typically develops around ages 4-5.",
+          "difficulty": "medium",
+          "topic": "Child Development (Ages 0-8)"
+        },
+        {
+          "id": "ece-cd-020",
+          "question": "What is 'attachment' in early childhood development?",
+          "options": [
+            "Physical connection",
+            "Strong emotional bond between child and caregiver",
+            "Dependency",
+            "Love"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Attachment is the strong emotional bond that develops between a child and caregiver, crucial for social and emotional development.",
+          "difficulty": "easy",
+          "topic": "Child Development (Ages 0-8)"
+        }
+      ]
+    },
+    {
+      "id": "developmentally-appropriate-practice",
+      "name": "Developmentally Appropriate Practice (DAP)",
+      "questions": [
+        {
+          "id": "ece-dap-021",
+          "question": "What is Developmentally Appropriate Practice (DAP)?",
+          "options": [
+            "Teaching based on age only",
+            "Framework for best practices based on child development research",
+            "Random teaching methods",
+            "Strict curriculum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "DAP is a framework for best practices in early childhood education based on research about how children develop and learn.",
+          "difficulty": "easy",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-022",
+          "question": "What are the three core considerations of DAP?",
+          "options": [
+            "Age, Grade, Ability",
+            "Age appropriateness, Individual appropriateness, Cultural appropriateness",
+            "Reading, Writing, Math",
+            "Physical, Mental, Emotional"
+          ],
+          "correctAnswer": 1,
+          "explanation": "DAP considers what is age appropriate, individually appropriate for each child, and culturally/socially appropriate.",
+          "difficulty": "medium",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-023",
+          "question": "What is the primary learning mode for young children according to DAP?",
+          "options": [
+            "Worksheets",
+            "Play and active exploration",
+            "Lectures",
+            "Rote memorization"
+          ],
+          "correctAnswer": 1,
+          "explanation": "DAP emphasizes that young children learn best through play, active exploration, and hands-on experiences.",
+          "difficulty": "easy",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-024",
+          "question": "What is an example of developmentally INappropriate practice for preschoolers?",
+          "options": [
+            "Learning through play",
+            "Extended periods of teacher-directed instruction and worksheets",
+            "Hands-on activities",
+            "Outdoor play"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Extended teacher-directed instruction and worksheets are not appropriate for preschoolers who need active, hands-on learning.",
+          "difficulty": "easy",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-025",
+          "question": "What role should the teacher have in a DAP classroom?",
+          "options": [
+            "Lecturer only",
+            "Facilitator and guide of learning",
+            "Observer only",
+            "Disciplinarian only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In DAP, teachers act as facilitators and guides, supporting children's exploration and learning through scaffolding.",
+          "difficulty": "easy",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-026",
+          "question": "What is 'scaffolding' in early childhood education?",
+          "options": [
+            "Building structures",
+            "Providing temporary support to help children achieve tasks",
+            "Physical support",
+            "Punishment system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding is temporary, adjustable support provided by teachers to help children accomplish tasks just beyond their independent capability.",
+          "difficulty": "medium",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-027",
+          "question": "How should the environment be arranged in a DAP classroom?",
+          "options": [
+            "Rows of desks",
+            "Learning centers with accessible materials",
+            "Empty room",
+            "Teacher's desk centered"
+          ],
+          "correctAnswer": 1,
+          "explanation": "DAP classrooms should have well-organized learning centers with accessible, age-appropriate materials that encourage exploration.",
+          "difficulty": "easy",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-028",
+          "question": "What is the appropriate way to assess young children according to DAP?",
+          "options": [
+            "Standardized tests only",
+            "Ongoing observation and documentation of learning",
+            "Multiple choice tests",
+            "Final exams"
+          ],
+          "correctAnswer": 1,
+          "explanation": "DAP assessment involves ongoing observation, documentation, and portfolio assessment rather than standardized testing.",
+          "difficulty": "medium",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-029",
+          "question": "What is the recommended adult-child ratio for 3-year-olds?",
+          "options": [
+            "1:5 to 1:10",
+            "1:10 to 1:15",
+            "1:15 to 1:20",
+            "1:20 to 1:25"
+          ],
+          "correctAnswer": 0,
+          "explanation": "For 3-year-olds, NAEYC recommends an adult-child ratio of 1:7 to 1:10, with group sizes of 14-20 children maximum.",
+          "difficulty": "difficult",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-030",
+          "question": "What is 'emergent curriculum'?",
+          "options": [
+            "Pre-planned rigid curriculum",
+            "Curriculum that emerges from children's interests and experiences",
+            "Emergency curriculum",
+            "Standardized curriculum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Emergent curriculum develops from children's interests, questions, and experiences, following their natural curiosity and motivation.",
+          "difficulty": "medium",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-031",
+          "question": "How long should whole-group instruction be for preschoolers?",
+          "options": [
+            "5-10 minutes",
+            "10-15 minutes",
+            "20-30 minutes",
+            "45-60 minutes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "For preschoolers, whole-group instruction should be brief (10-15 minutes) as young children have limited attention spans.",
+          "difficulty": "medium",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-032",
+          "question": "What is the purpose of 'learning centers' or 'interest areas'?",
+          "options": [
+            "Decoration",
+            "Provide choices and support different types of learning",
+            "Storage",
+            "Punishment areas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Learning centers provide children with choices, support different learning styles, and encourage exploration in various domains.",
+          "difficulty": "easy",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-033",
+          "question": "What is 'child-initiated learning'?",
+          "options": [
+            "Children teaching themselves",
+            "Learning activities chosen and directed by children",
+            "Children teaching other children",
+            "No teacher involvement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Child-initiated learning occurs when children choose activities and direct their own exploration, with teacher guidance as needed.",
+          "difficulty": "easy",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-034",
+          "question": "What is the role of play in DAP?",
+          "options": [
+            "Waste of time",
+            "Primary vehicle for learning and development",
+            "Reward only",
+            "Break from learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In DAP, play is the primary vehicle for learning, allowing children to explore, experiment, and develop skills across all domains.",
+          "difficulty": "easy",
+          "topic": "Developmentally Appropriate Practice (DAP)"
+        },
+        {
+          "id": "ece-dap-035",
+          "question": "How should transitions be handled in a DAP classroom?",
+          "options": [
+            "Sudden and unexpected",
+            "Smooth, predictable, and minimal wait time",
+            "Long waiting periods",
+            "Chaotic and rushed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Transitions should be smooth, predictable, well-planned, and minimize wait time to maintain engagement and reduce behavioral issues.",
+          "difficulty": "medium",
+          "topic": "Developmentally Appropriate Practice (DAP)"
         }
       ]
     },
@@ -84,382 +510,1664 @@
       "name": "Play-Based Learning",
       "questions": [
         {
-          "id": "ele-ece-pbl-001",
-          "question": "Why is play considered important in early childhood education?",
+          "id": "ece-pbl-036",
+          "question": "What is play-based learning?",
           "options": [
-            "It's just for fun",
-            "It develops cognitive, social, emotional, and physical skills",
-            "It wastes learning time",
-            "It's only for recess"
+            "Children playing without learning",
+            "Learning through purposeful, teacher-supported play",
+            "Playing games only",
+            "Recess time"
           ],
           "correctAnswer": 1,
-          "explanation": "Play is the primary vehicle for learning in early childhood, supporting development across all domains.",
+          "explanation": "Play-based learning uses play as the primary method of learning, where teachers intentionally support and extend children's play experiences.",
           "difficulty": "easy",
           "topic": "Play-Based Learning"
         },
         {
-          "id": "ele-ece-pbl-002",
-          "question": "What is 'scaffolding' in play-based learning?",
+          "id": "ece-pbl-037",
+          "question": "What are the cognitive benefits of play?",
           "options": [
-            "Building structures",
-            "Supporting and extending children's play with questions and materials",
-            "Leaving children completely alone",
-            "Directing all play activities"
+            "None",
+            "Problem-solving, creativity, symbolic thinking, and memory",
+            "Physical strength only",
+            "Entertainment"
           ],
           "correctAnswer": 1,
-          "explanation": "Scaffolding in play involves teacher support that extends children's learning while following their interests.",
-          "difficulty": "medium",
-          "topic": "Play-Based Learning"
-        },
-        {
-          "id": "ele-ece-pbl-003",
-          "question": "What are 'learning centers' in early childhood classrooms?",
-          "options": [
-            "Places for punishment",
-            "Designated areas for specific types of play and learning",
-            "Only for storage",
-            "Computer labs"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Learning centers are purposefully designed areas (blocks, dramatic play, art, etc.) that promote specific skills through play.",
+          "explanation": "Play develops problem-solving skills, creativity, symbolic thinking, memory, language, and other cognitive abilities.",
           "difficulty": "easy",
           "topic": "Play-Based Learning"
         },
         {
-          "id": "ele-ece-pbl-004",
-          "question": "What is 'symbolic play'?",
+          "id": "ece-pbl-038",
+          "question": "What is 'dramatic play' or 'pretend play'?",
           "options": [
-            "Playing with symbols only",
-            "Pretend play where objects represent other things",
-            "Mathematical play",
-            "Silent play"
+            "Playing theater",
+            "Role-playing and using imagination to act out scenarios",
+            "Drama class",
+            "Fighting"
           ],
           "correctAnswer": 1,
-          "explanation": "Symbolic play involves using objects, actions, or ideas to represent other things, crucial for cognitive development.",
+          "explanation": "Dramatic play involves children taking on roles and acting out scenarios using imagination, developing social and cognitive skills.",
+          "difficulty": "easy",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-039",
+          "question": "What is 'constructive play'?",
+          "options": [
+            "Criticizing others",
+            "Building and creating with materials",
+            "Construction work",
+            "Following instructions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Constructive play involves building and creating with materials like blocks, sand, or art supplies, developing spatial and problem-solving skills.",
+          "difficulty": "easy",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-040",
+          "question": "What is 'sensory play'?",
+          "options": [
+            "Playing with senses only",
+            "Play that stimulates the senses (touch, smell, sight, sound, taste)",
+            "Meditation",
+            "Sleeping"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sensory play stimulates children's senses through materials like water, sand, playdough, and helps develop neural pathways and cognitive growth.",
+          "difficulty": "easy",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-041",
+          "question": "What is 'loose parts play'?",
+          "options": [
+            "Broken toys",
+            "Open-ended materials that can be moved and combined in various ways",
+            "Missing pieces",
+            "Damaged items"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Loose parts are open-ended materials (blocks, shells, fabric) that can be moved, combined, and used in multiple ways, encouraging creativity.",
           "difficulty": "medium",
           "topic": "Play-Based Learning"
         },
         {
-          "id": "ele-ece-pbl-005",
-          "question": "What is the teacher's role in play-based learning?",
+          "id": "ece-pbl-042",
+          "question": "What is 'risky play' in early childhood?",
           "options": [
-            "Just supervise from a distance",
-            "Control all play activities",
-            "Observe, facilitate, and extend learning through play",
-            "Do paperwork while children play"
+            "Dangerous activities",
+            "Challenging play that involves some risk but builds competence",
+            "Reckless behavior",
+            "Unsafe practices"
           ],
-          "correctAnswer": 2,
-          "explanation": "Teachers actively observe, facilitate, and extend children's learning by enriching play experiences with materials and interactions.",
+          "correctAnswer": 1,
+          "explanation": "Risky play involves challenging activities (climbing, balancing) that help children assess risk, build confidence, and develop physical skills safely.",
           "difficulty": "medium",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-043",
+          "question": "What is the difference between free play and guided play?",
+          "options": [
+            "No difference",
+            "Free play is child-directed; guided play has teacher support toward goals",
+            "Free play is better",
+            "Guided play is forced"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Free play is entirely child-directed, while guided play involves teacher support and scaffolding toward learning goals while maintaining playfulness.",
+          "difficulty": "medium",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-044",
+          "question": "What is 'outdoor play' important for?",
+          "options": [
+            "Tiring children out only",
+            "Gross motor development, nature exploration, and overall health",
+            "Recess",
+            "Getting dirty"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Outdoor play is crucial for gross motor development, connection with nature, physical health, and learning about the natural world.",
+          "difficulty": "easy",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-045",
+          "question": "What is the teacher's role during play-based learning?",
+          "options": [
+            "Stay away completely",
+            "Observe, interact, extend learning, and scaffold",
+            "Control everything",
+            "Do nothing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teachers should observe children's play, interact purposefully, ask questions to extend learning, and provide scaffolding when needed.",
+          "difficulty": "medium",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-046",
+          "question": "What is 'sustained shared thinking' in play?",
+          "options": [
+            "Thinking alone",
+            "Adult and child working together to solve problems or develop ideas",
+            "Memorization",
+            "Following directions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sustained shared thinking occurs when adults and children work together intellectually to solve problems, clarify concepts, or evaluate activities.",
+          "difficulty": "difficult",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-047",
+          "question": "What are 'provocations' in play-based learning?",
+          "options": [
+            "Provoking anger",
+            "Intentional setups that invite curiosity and exploration",
+            "Arguments",
+            "Conflicts"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Provocations are intentional arrangements of materials or questions that invite curiosity, investigation, and extended play.",
+          "difficulty": "medium",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-048",
+          "question": "What is 'schema play'?",
+          "options": [
+            "Planning schemes",
+            "Repeated patterns of behavior children use to explore the world",
+            "Scheming behavior",
+            "Organized play"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Schema play involves repeated patterns of behavior (transporting, rotating, enclosing) that children use to explore and understand the world.",
+          "difficulty": "difficult",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-049",
+          "question": "What is 'small world play'?",
+          "options": [
+            "Playing in small spaces",
+            "Miniature scenes that allow imaginative storytelling",
+            "Playing with small toys only",
+            "Limited play"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Small world play involves creating miniature scenes (farms, cities) with small figures that children use for imaginative storytelling.",
+          "difficulty": "medium",
+          "topic": "Play-Based Learning"
+        },
+        {
+          "id": "ece-pbl-050",
+          "question": "Why is unstructured play time important?",
+          "options": [
+            "To waste time",
+            "Develops creativity, self-regulation, and decision-making",
+            "To rest teachers",
+            "No importance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Unstructured play develops creativity, self-regulation, decision-making skills, and allows children to pursue their own interests.",
+          "difficulty": "easy",
           "topic": "Play-Based Learning"
         }
       ]
     },
     {
       "id": "early-literacy",
-      "name": "Early Literacy",
+      "name": "Early Literacy and Language Development",
       "questions": [
         {
-          "id": "ele-ece-el-001",
+          "id": "ece-el-051",
+          "question": "What is 'emergent literacy'?",
+          "options": [
+            "Emergency reading",
+            "Early reading and writing behaviors before conventional literacy",
+            "Advanced reading",
+            "Literacy crisis"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Emergent literacy includes the skills, knowledge, and attitudes that are developmental precursors to conventional reading and writing.",
+          "difficulty": "easy",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-052",
+          "question": "What is 'phonological awareness'?",
+          "options": [
+            "Awareness of phones",
+            "Ability to recognize and manipulate sounds in spoken language",
+            "Hearing ability",
+            "Speaking clearly"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Phonological awareness is the ability to recognize and work with sounds in spoken language, including rhyming, syllables, and phonemes.",
+          "difficulty": "medium",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-053",
+          "question": "What is 'phonemic awareness'?",
+          "options": [
+            "Knowing the alphabet",
+            "Ability to hear, identify, and manipulate individual sounds (phonemes)",
+            "Speaking ability",
+            "Vocabulary knowledge"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Phonemic awareness is the specific ability to hear, identify, and manipulate individual phonemes (smallest units of sound) in words.",
+          "difficulty": "medium",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-054",
           "question": "What is 'print awareness'?",
           "options": [
-            "Knowing how to use a printer",
-            "Understanding that print carries meaning",
-            "Advanced reading skills",
-            "Writing in cursive"
+            "Printer knowledge",
+            "Understanding that print carries meaning and has specific characteristics",
+            "Printing skills",
+            "Computer literacy"
           ],
           "correctAnswer": 1,
-          "explanation": "Print awareness is understanding that written words carry meaning and recognizing environmental print.",
+          "explanation": "Print awareness is understanding that print carries meaning, books have parts (covers, pages), and text is read in specific directions.",
           "difficulty": "easy",
-          "topic": "Early Literacy"
+          "topic": "Early Literacy and Language Development"
         },
         {
-          "id": "ele-ece-el-002",
-          "question": "What are 'pre-writing skills'?",
+          "id": "ece-el-055",
+          "question": "What is 'dialogic reading'?",
           "options": [
-            "Writing complete sentences",
-            "Skills like holding crayons, making marks, and drawing shapes",
-            "Typing on computers",
-            "Spelling words correctly"
+            "Reading dialogues only",
+            "Interactive reading strategy with adult-child conversation",
+            "Reading plays",
+            "Silent reading"
           ],
           "correctAnswer": 1,
-          "explanation": "Pre-writing skills include fine motor control, making marks, drawing shapes, and scribbling that precede formal writing.",
-          "difficulty": "easy",
-          "topic": "Early Literacy"
-        },
-        {
-          "id": "ele-ece-el-003",
-          "question": "Why is rhyming important for early literacy?",
-          "options": [
-            "It's not important",
-            "It develops phonological awareness and sound recognition",
-            "It's just for fun",
-            "It teaches grammar"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Rhyming helps children recognize and manipulate sounds in words, a crucial foundation for reading.",
+          "explanation": "Dialogic reading is an interactive book-reading strategy where adults engage children in conversation about the book to enhance comprehension.",
           "difficulty": "medium",
-          "topic": "Early Literacy"
+          "topic": "Early Literacy and Language Development"
         },
         {
-          "id": "ele-ece-el-004",
+          "id": "ece-el-056",
+          "question": "What are the five components of early literacy?",
+          "options": [
+            "Reading, Writing, Speaking, Listening, Viewing",
+            "Phonemic Awareness, Phonics, Fluency, Vocabulary, Comprehension",
+            "Letters, Words, Sentences, Paragraphs, Stories",
+            "Books, Paper, Pencils, Crayons, Markers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The five essential components are Phonemic Awareness, Phonics, Fluency, Vocabulary, and Text Comprehension.",
+          "difficulty": "medium",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-057",
+          "question": "What is 'invented spelling' or 'developmental spelling'?",
+          "options": [
+            "Wrong spelling",
+            "Children's early attempts at writing based on sound-letter knowledge",
+            "Making up words",
+            "Spelling mistakes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Invented spelling is children's early attempts at writing words based on their developing understanding of sound-letter relationships.",
+          "difficulty": "easy",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-058",
+          "question": "What is the importance of read-alouds in early childhood?",
+          "options": [
+            "Entertainment only",
+            "Builds vocabulary, comprehension, and love of reading",
+            "Quiet time",
+            "Naptime preparation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Read-alouds build vocabulary, listening comprehension, book concepts, and foster a love of reading and learning.",
+          "difficulty": "easy",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-059",
+          "question": "What is 'environmental print'?",
+          "options": [
+            "Printing on recycled paper",
+            "Print found in everyday environment (signs, labels, logos)",
+            "Nature books",
+            "Outdoor signs only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Environmental print is print found in children's everyday environment, such as signs, labels, and logos, often their first reading experiences.",
+          "difficulty": "easy",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-060",
           "question": "What is 'shared reading'?",
           "options": [
-            "Children reading alone",
-            "Adults and children reading together interactively",
-            "Silent reading time",
-            "Reading tests"
+            "Reading alone",
+            "Adult and child reading together with interaction",
+            "Library books",
+            "Silent reading"
           ],
           "correctAnswer": 1,
-          "explanation": "Shared reading involves adults and children reading together, with discussion and interaction about the text.",
+          "explanation": "Shared reading is when adults and children read together, often with big books, discussing and exploring text features collaboratively.",
           "difficulty": "easy",
-          "topic": "Early Literacy"
+          "topic": "Early Literacy and Language Development"
         },
         {
-          "id": "ele-ece-el-005",
-          "question": "At what age do most children begin to recognize letters?",
+          "id": "ece-el-061",
+          "question": "When should children be introduced to alphabet letters?",
           "options": [
-            "1-2 years",
-            "2-3 years",
-            "3-4 years",
-            "5-6 years"
+            "Birth",
+            "In preschool through meaningful, playful experiences",
+            "First grade only",
+            "Never in early childhood"
           ],
-          "correctAnswer": 2,
-          "explanation": "Most children begin recognizing some letters around ages 3-4, with full alphabet knowledge typically by kindergarten.",
+          "correctAnswer": 1,
+          "explanation": "Letters should be introduced in preschool through meaningful, playful contexts like names, environmental print, and child-initiated interest.",
           "difficulty": "medium",
-          "topic": "Early Literacy"
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-062",
+          "question": "What is 'oral language development'?",
+          "options": [
+            "Dental health",
+            "Development of listening and speaking skills",
+            "Mouth exercises",
+            "Eating habits"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Oral language development involves developing listening comprehension and speaking abilities, foundational for reading and writing.",
+          "difficulty": "easy",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-063",
+          "question": "What is 'vocabulary development' in early childhood?",
+          "options": [
+            "Learning big words",
+            "Acquiring understanding and use of words",
+            "Dictionary use",
+            "Spelling words"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Vocabulary development is the process of learning and understanding new words, crucial for reading comprehension and communication.",
+          "difficulty": "easy",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-064",
+          "question": "What is the 'Matthew Effect' in reading?",
+          "options": [
+            "Gospel teaching",
+            "Rich get richer: early readers advance faster than struggling readers",
+            "Bible reading",
+            "Religious education"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Matthew Effect describes how children who start reading early tend to read more and improve faster, while struggling readers fall further behind.",
+          "difficulty": "difficult",
+          "topic": "Early Literacy and Language Development"
+        },
+        {
+          "id": "ece-el-065",
+          "question": "What is 'narrative skills' in language development?",
+          "options": [
+            "Reading stories",
+            "Ability to tell and understand stories with sequence",
+            "Writing ability",
+            "Listening only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Narrative skills involve the ability to tell and comprehend stories with beginning, middle, end, and sequence of events.",
+          "difficulty": "medium",
+          "topic": "Early Literacy and Language Development"
         }
       ]
     },
     {
-      "id": "social-emotional",
+      "id": "early-numeracy",
+      "name": "Early Numeracy and Mathematics",
+      "questions": [
+        {
+          "id": "ece-en-066",
+          "question": "What is 'number sense'?",
+          "options": [
+            "Counting ability",
+            "Intuitive understanding of numbers, quantities, and relationships",
+            "Math skills",
+            "Addition and subtraction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Number sense is an intuitive understanding of numbers, their magnitude, relationships, and how they can be manipulated.",
+          "difficulty": "medium",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-067",
+          "question": "What is 'one-to-one correspondence'?",
+          "options": [
+            "One teacher per child",
+            "Matching one object to one number when counting",
+            "Individual attention",
+            "Personal learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "One-to-one correspondence is the understanding that when counting, each object gets one and only one number name.",
+          "difficulty": "easy",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-068",
+          "question": "What is 'cardinality'?",
+          "options": [
+            "Cardinal direction",
+            "Understanding that the last number counted represents total quantity",
+            "Counting order",
+            "Number recognition"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cardinality is understanding that the last number counted represents the total number of objects in a set.",
+          "difficulty": "medium",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-069",
+          "question": "What is 'subitizing'?",
+          "options": [
+            "Substituting numbers",
+            "Instantly recognizing quantity without counting",
+            "Subtraction",
+            "Counting backwards"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Subitizing is the ability to instantly recognize the number of objects in a small set without counting (typically 1-5 objects).",
+          "difficulty": "difficult",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-070",
+          "question": "What are 'mathematical manipulatives'?",
+          "options": [
+            "Math tricks",
+            "Physical objects used to explore mathematical concepts",
+            "Calculators",
+            "Worksheets"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Manipulatives are physical objects (blocks, counters, shapes) that children use to explore and understand mathematical concepts concretely.",
+          "difficulty": "easy",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-071",
+          "question": "What is 'spatial reasoning'?",
+          "options": [
+            "Understanding space travel",
+            "Understanding shapes, space, and position relationships",
+            "Room arrangement",
+            "Physical space"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Spatial reasoning involves understanding shapes, their properties, positions, relationships, and transformations in space.",
+          "difficulty": "medium",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-072",
+          "question": "What is 'patterning' in early math?",
+          "options": [
+            "Making designs",
+            "Recognizing and creating repeating sequences",
+            "Art activities",
+            "Decorating"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Patterning involves recognizing, creating, and extending repeating sequences, foundational for algebraic thinking.",
+          "difficulty": "easy",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-073",
+          "question": "What is 'classification' in early math?",
+          "options": [
+            "Class assignment",
+            "Sorting objects by common attributes",
+            "Classroom organization",
+            "Student grouping"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Classification is the ability to sort and group objects based on common attributes like color, size, or shape.",
+          "difficulty": "easy",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-074",
+          "question": "What is 'seriation'?",
+          "options": [
+            "Serial numbers",
+            "Ordering objects by size or other attributes",
+            "Making series",
+            "Sequencing stories"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Seriation is the ability to arrange objects in a logical order based on a particular attribute like size, length, or weight.",
+          "difficulty": "medium",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-075",
+          "question": "What is 'measurement' in early childhood?",
+          "options": [
+            "Using rulers only",
+            "Comparing and quantifying attributes like length, weight, capacity",
+            "Exact calculations",
+            "Standard units only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Early measurement involves comparing and quantifying attributes using both non-standard (hands, blocks) and standard units.",
+          "difficulty": "easy",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-076",
+          "question": "What is 'estimation' in early math?",
+          "options": [
+            "Guessing randomly",
+            "Making reasonable approximations about quantity",
+            "Exact counting",
+            "Wrong answers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Estimation involves making reasonable approximations about quantities, sizes, or amounts, developing number sense.",
+          "difficulty": "easy",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-077",
+          "question": "What is the best way to teach early math concepts?",
+          "options": [
+            "Worksheets only",
+            "Through hands-on, play-based experiences with real objects",
+            "Memorization",
+            "Flashcards"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Early math is best taught through hands-on, play-based experiences with concrete materials and real-world contexts.",
+          "difficulty": "easy",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-078",
+          "question": "What is 'geometry' in early childhood?",
+          "options": [
+            "Advanced math only",
+            "Exploring shapes, their properties, and spatial relationships",
+            "Using protractors",
+            "Measuring angles"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Early geometry involves exploring 2D and 3D shapes, their properties, positions, and spatial relationships through play.",
+          "difficulty": "easy",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-079",
+          "question": "What is 'data analysis' in early childhood?",
+          "options": [
+            "Computer work",
+            "Collecting, organizing, and representing information",
+            "Statistics",
+            "Surveys only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Early data analysis involves collecting, organizing, and representing information through graphs, charts, and simple analysis.",
+          "difficulty": "medium",
+          "topic": "Early Numeracy and Mathematics"
+        },
+        {
+          "id": "ece-en-080",
+          "question": "What is the importance of 'math talk' in early childhood?",
+          "options": [
+            "Teaching formulas",
+            "Using mathematical language to describe experiences and thinking",
+            "Lecturing about math",
+            "Memorizing terms"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Math talk involves using mathematical language (more, less, bigger, pattern) to describe experiences, building mathematical vocabulary and thinking.",
+          "difficulty": "medium",
+          "topic": "Early Numeracy and Mathematics"
+        }
+      ]
+    },
+    {
+      "id": "social-emotional-development",
       "name": "Social-Emotional Development",
       "questions": [
         {
-          "id": "ele-ece-se-001",
-          "question": "What is 'emotional regulation'?",
+          "id": "ece-sed-081",
+          "question": "What is 'social-emotional development'?",
           "options": [
-            "Never showing emotions",
-            "The ability to manage and express emotions appropriately",
-            "Always being happy",
-            "Suppressing all feelings"
+            "Learning to socialize",
+            "Developing ability to understand emotions and form relationships",
+            "Social media skills",
+            "Emotional outbursts"
           ],
           "correctAnswer": 1,
-          "explanation": "Emotional regulation is the ability to manage emotional experiences and expressions in socially appropriate ways.",
+          "explanation": "Social-emotional development involves learning to understand and manage emotions, form relationships, and develop empathy and self-regulation.",
           "difficulty": "easy",
           "topic": "Social-Emotional Development"
         },
         {
-          "id": "ele-ece-se-002",
-          "question": "What are 'prosocial behaviors'?",
+          "id": "ece-sed-082",
+          "question": "What is 'self-regulation'?",
           "options": [
-            "Aggressive behaviors",
-            "Positive actions that benefit others like sharing and helping",
-            "Selfish behaviors",
-            "Isolating behaviors"
+            "Following rules",
+            "Managing emotions, behavior, and attention",
+            "Self-discipline only",
+            "Controlling others"
           ],
           "correctAnswer": 1,
-          "explanation": "Prosocial behaviors are voluntary actions intended to benefit others, such as sharing, helping, and comforting.",
+          "explanation": "Self-regulation is the ability to manage emotions, control impulses, focus attention, and regulate behavior appropriately.",
+          "difficulty": "medium",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-083",
+          "question": "What is 'emotional literacy'?",
+          "options": [
+            "Reading emotions books",
+            "Ability to recognize, understand, and express emotions",
+            "Emotional intelligence",
+            "Crying appropriately"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Emotional literacy is the ability to recognize, understand, label, and appropriately express emotions in oneself and others.",
+          "difficulty": "medium",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-084",
+          "question": "What is 'empathy' in early childhood?",
+          "options": [
+            "Feeling sorry",
+            "Understanding and sharing the feelings of others",
+            "Sympathy",
+            "Pity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Empathy is the ability to understand and share the feelings of another person, beginning to develop in early childhood.",
           "difficulty": "easy",
           "topic": "Social-Emotional Development"
         },
         {
-          "id": "ele-ece-se-003",
-          "question": "What is 'attachment' in early childhood?",
+          "id": "ece-sed-085",
+          "question": "What is 'prosocial behavior'?",
           "options": [
-            "Physical objects children like",
-            "The emotional bond between child and caregiver",
-            "Classroom rules",
-            "Daily routines"
+            "Professional behavior",
+            "Positive behaviors that benefit others (sharing, helping, cooperating)",
+            "Social media behavior",
+            "Following social norms"
           ],
           "correctAnswer": 1,
-          "explanation": "Attachment is the deep emotional connection between a child and primary caregiver, crucial for healthy development.",
-          "difficulty": "medium",
+          "explanation": "Prosocial behavior includes positive actions that benefit others, such as sharing, helping, cooperating, and showing kindness.",
+          "difficulty": "easy",
           "topic": "Social-Emotional Development"
         },
         {
-          "id": "ele-ece-se-004",
-          "question": "How should teachers handle temper tantrums in young children?",
-          "options": [
-            "Punish immediately",
-            "Ignore the child completely",
-            "Stay calm, ensure safety, and help the child regulate emotions",
-            "Give in to demands"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Teachers should remain calm, ensure the child's safety, and help them learn to manage emotions through supportive guidance.",
-          "difficulty": "medium",
-          "topic": "Social-Emotional Development"
-        },
-        {
-          "id": "ele-ece-se-005",
+          "id": "ece-sed-086",
           "question": "What is 'self-concept' in early childhood?",
           "options": [
-            "Being selfish",
-            "A child's perception and understanding of themselves",
-            "Following rules",
-            "Academic achievement"
+            "Selfishness",
+            "Understanding of oneself including abilities and characteristics",
+            "Self-portrait",
+            "Independence"
           ],
           "correctAnswer": 1,
-          "explanation": "Self-concept is how children view and understand themselves, including their abilities, characteristics, and self-worth.",
+          "explanation": "Self-concept is a child's understanding of themselves, including their abilities, characteristics, and how they see themselves.",
+          "difficulty": "medium",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-087",
+          "question": "What is 'self-esteem'?",
+          "options": [
+            "Self-importance",
+            "How children feel about themselves and their worth",
+            "Pride",
+            "Confidence only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-esteem is how children evaluate themselves and their worth, influenced by successes, failures, and feedback from others.",
+          "difficulty": "easy",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-088",
+          "question": "How can teachers support emotional development?",
+          "options": [
+            "Ignore emotions",
+            "Label emotions, validate feelings, teach coping strategies",
+            "Punish emotional expression",
+            "Tell children not to cry"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teachers support emotional development by labeling emotions, validating feelings, modeling, and teaching appropriate coping strategies.",
+          "difficulty": "easy",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-089",
+          "question": "What is 'conflict resolution' in early childhood?",
+          "options": [
+            "Avoiding conflict",
+            "Teaching children to solve disagreements peacefully",
+            "Teacher solving all problems",
+            "Punishment for fighting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conflict resolution involves teaching children strategies to solve disagreements peacefully through communication and problem-solving.",
+          "difficulty": "easy",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-090",
+          "question": "What is 'executive function'?",
+          "options": [
+            "Business skills",
+            "Mental skills for planning, focusing, and self-control",
+            "Leadership",
+            "Decision-making only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Executive function includes mental skills like working memory, flexible thinking, and self-control needed for learning and development.",
+          "difficulty": "medium",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-091",
+          "question": "What is 'resilience' in children?",
+          "options": [
+            "Physical strength",
+            "Ability to bounce back from challenges and adversity",
+            "Never having problems",
+            "Toughness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Resilience is the ability to adapt well and recover from stress, adversity, or challenging situations.",
+          "difficulty": "easy",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-092",
+          "question": "What is a 'secure attachment'?",
+          "options": [
+            "Physical safety",
+            "Strong, trusting emotional bond between child and caregiver",
+            "Locked doors",
+            "Constant supervision"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Secure attachment is a strong, trusting emotional bond where children feel safe, comforted, and confident to explore.",
+          "difficulty": "medium",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-093",
+          "question": "What is 'emotion coaching'?",
+          "options": [
+            "Teaching children not to feel",
+            "Helping children understand and manage emotions",
+            "Emotional control",
+            "Punishment for emotions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Emotion coaching involves helping children recognize, label, understand, and manage their emotions in healthy ways.",
+          "difficulty": "medium",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-094",
+          "question": "What is 'social competence'?",
+          "options": [
+            "Being popular",
+            "Skills to interact positively and build relationships",
+            "Social media skills",
+            "Talking a lot"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Social competence includes skills needed to interact positively with others, make friends, and navigate social situations successfully.",
+          "difficulty": "easy",
+          "topic": "Social-Emotional Development"
+        },
+        {
+          "id": "ece-sed-095",
+          "question": "How can teachers promote positive peer relationships?",
+          "options": [
+            "Keep children separate",
+            "Facilitate cooperative activities and model friendship skills",
+            "Let children figure it out alone",
+            "Choose friends for them"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teachers promote positive relationships by facilitating cooperative activities, modeling friendship skills, and teaching social problem-solving.",
           "difficulty": "easy",
           "topic": "Social-Emotional Development"
         }
       ]
     },
     {
-      "id": "health-safety",
+      "id": "health-safety-nutrition",
       "name": "Health, Safety, and Nutrition",
       "questions": [
         {
-          "id": "ele-ece-hs-001",
-          "question": "What is the recommended teacher-to-child ratio for 3-year-olds?",
+          "id": "ece-hsn-096",
+          "question": "What is the recommended teacher-child ratio for infants (0-12 months)?",
           "options": [
-            "1:20",
-            "1:15",
-            "1:10",
-            "1:5"
+            "1:3 to 1:4",
+            "1:5 to 1:8",
+            "1:10 to 1:12",
+            "1:15 to 1:20"
           ],
-          "correctAnswer": 2,
-          "explanation": "The recommended ratio for 3-year-olds is typically 1:10 to ensure adequate supervision and individualized attention.",
-          "difficulty": "medium",
+          "correctAnswer": 0,
+          "explanation": "For infants, NAEYC recommends a ratio of 1:3 to 1:4 to ensure individualized care and safety.",
+          "difficulty": "difficult",
           "topic": "Health, Safety, and Nutrition"
         },
         {
-          "id": "ele-ece-hs-002",
-          "question": "Why is handwashing important in early childhood settings?",
+          "id": "ece-hsn-097",
+          "question": "What is 'hand washing' important for in early childhood settings?",
           "options": [
-            "It's not important",
-            "It prevents the spread of illness and teaches hygiene habits",
-            "It wastes water",
-            "Only for adults"
+            "Cleanliness only",
+            "Preventing spread of illness and infections",
+            "Routine activity",
+            "Water conservation"
           ],
           "correctAnswer": 1,
-          "explanation": "Regular handwashing is the most effective way to prevent illness transmission and establishes lifelong hygiene habits.",
+          "explanation": "Hand washing is the single most effective way to prevent the spread of illness and infections in early childhood settings.",
           "difficulty": "easy",
           "topic": "Health, Safety, and Nutrition"
         },
         {
-          "id": "ele-ece-hs-003",
-          "question": "What should be the first response to a child choking?",
+          "id": "ece-hsn-098",
+          "question": "What is 'universal precautions'?",
           "options": [
-            "Call parents first",
-            "Perform appropriate first aid (back blows/abdominal thrusts)",
-            "Give water",
+            "General safety rules",
+            "Treating all bodily fluids as potentially infectious",
+            "Emergency procedures",
+            "Common sense"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Universal precautions involve treating all bodily fluids as potentially infectious to prevent disease transmission.",
+          "difficulty": "medium",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-099",
+          "question": "What should be included in a safe classroom environment?",
+          "options": [
+            "Locked doors only",
+            "Age-appropriate materials, clear pathways, supervision, safety equipment",
+            "Cameras everywhere",
+            "High fences"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A safe environment includes age-appropriate materials, clear pathways, adequate supervision, safety equipment, and hazard-free spaces.",
+          "difficulty": "easy",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-100",
+          "question": "What is the proper procedure for diapering to prevent contamination?",
+          "options": [
+            "Any surface is fine",
+            "Use designated area, disposable covers, proper hand washing",
+            "Change anywhere",
+            "Reuse covers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Proper diapering requires a designated area, disposable covers, specific steps, and thorough hand washing to prevent contamination.",
+          "difficulty": "medium",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-101",
+          "question": "What are the basic food groups children need daily?",
+          "options": [
+            "Fruits, Vegetables, Grains, Protein, Dairy",
+            "Candy, Chips, Soda",
+            "Meat only",
+            "Bread and water"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Children need daily servings from all food groups: Fruits, Vegetables, Grains, Protein, and Dairy for balanced nutrition.",
+          "difficulty": "easy",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-102",
+          "question": "What is 'family-style dining' in early childhood?",
+          "options": [
+            "Eating at home",
+            "Children serving themselves from shared dishes at table",
+            "Formal dining",
+            "Restaurant style"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Family-style dining involves children serving themselves from shared dishes, promoting independence, social skills, and self-regulation.",
+          "difficulty": "medium",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-103",
+          "question": "What should teachers do if they suspect child abuse or neglect?",
+          "options": [
+            "Ignore it",
+            "Report to proper authorities immediately as mandated reporters",
+            "Call parents only",
             "Wait and see"
           ],
           "correctAnswer": 1,
-          "explanation": "Immediate first aid response (appropriate for the child's age) is critical in choking emergencies, followed by emergency services.",
+          "explanation": "Teachers are mandated reporters and must report suspected abuse or neglect to proper authorities immediately.",
+          "difficulty": "easy",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-104",
+          "question": "What is the recommended amount of physical activity for preschoolers daily?",
+          "options": [
+            "15 minutes",
+            "30 minutes",
+            "60 minutes",
+            "120 minutes"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Preschoolers should have at least 120 minutes (2 hours) of physical activity throughout the day, including active play.",
           "difficulty": "medium",
           "topic": "Health, Safety, and Nutrition"
         },
         {
-          "id": "ele-ece-hs-004",
-          "question": "What are 'developmental screening tools'?",
+          "id": "ece-hsn-105",
+          "question": "What is 'SIDS' and how can it be prevented?",
           "options": [
-            "Punishment methods",
-            "Brief assessments to identify children who may need further evaluation",
-            "Entrance exams",
-            "Behavior charts"
+            "Sudden Infant Death Syndrome; back sleeping position",
+            "Serious Illness Detection System",
+            "Safe Indoor Development Space",
+            "Special Infant Diet Supplement"
+          ],
+          "correctAnswer": 0,
+          "explanation": "SIDS is Sudden Infant Death Syndrome; risk is reduced by placing infants on their backs to sleep and maintaining safe sleep environment.",
+          "difficulty": "medium",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-106",
+          "question": "What are choking hazards for young children?",
+          "options": [
+            "Large soft toys",
+            "Small objects, hard candies, whole grapes, hot dogs, popcorn",
+            "Books",
+            "Crayons"
           ],
           "correctAnswer": 1,
-          "explanation": "Developmental screening tools help identify children who may have developmental delays and need additional assessment.",
+          "explanation": "Choking hazards include small objects, hard candies, whole grapes, hot dogs, nuts, and popcorn that can block airways.",
+          "difficulty": "easy",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-107",
+          "question": "What is an 'emergency evacuation plan'?",
+          "options": [
+            "Travel plans",
+            "Procedures for safely exiting building during emergencies",
+            "Vacation schedule",
+            "Dismissal routine"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An emergency evacuation plan outlines procedures for safely exiting the building during fires, natural disasters, or other emergencies.",
+          "difficulty": "easy",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-108",
+          "question": "What immunizations are typically required for early childhood programs?",
+          "options": [
+            "None",
+            "DTaP, Polio, MMR, Varicella, Hepatitis B, others per state",
+            "Only COVID vaccine",
+            "Flu shot only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Most programs require immunizations including DTaP, Polio, MMR, Varicella, Hepatitis B, and others as specified by state regulations.",
           "difficulty": "medium",
           "topic": "Health, Safety, and Nutrition"
         },
         {
-          "id": "ele-ece-hs-005",
-          "question": "What is the purpose of 'rest time' in early childhood programs?",
+          "id": "ece-hsn-109",
+          "question": "What is 'food allergy management' in early childhood?",
           "options": [
-            "To give teachers a break only",
-            "Children don't need rest",
-            "To support physical and cognitive development through rest",
-            "To punish misbehavior"
+            "Ignoring allergies",
+            "Identifying allergies, avoiding allergens, having emergency plans",
+            "Banning all food",
+            "Medical treatment only"
           ],
-          "correctAnswer": 2,
-          "explanation": "Rest time supports children's physical growth, emotional regulation, and cognitive processing of new learning.",
+          "correctAnswer": 1,
+          "explanation": "Food allergy management involves identifying children's allergies, avoiding allergens, and having emergency action plans and medication.",
+          "difficulty": "easy",
+          "topic": "Health, Safety, and Nutrition"
+        },
+        {
+          "id": "ece-hsn-110",
+          "question": "What is appropriate outdoor play supervision?",
+          "options": [
+            "No supervision needed",
+            "Active supervision with teachers positioned to see all children",
+            "Watching from window",
+            "Children supervise themselves"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Outdoor supervision requires active monitoring with teachers strategically positioned to see all children and potential hazards.",
           "difficulty": "easy",
           "topic": "Health, Safety, and Nutrition"
         }
       ]
     },
     {
-      "id": "family-partnerships",
+      "id": "family-community-partnerships",
       "name": "Family and Community Partnerships",
       "questions": [
         {
-          "id": "ele-ece-fp-001",
+          "id": "ece-fcp-111",
           "question": "Why are family partnerships important in early childhood education?",
           "options": [
-            "They are not important",
-            "Families are children's first teachers and support learning at home",
-            "Only teachers should educate children",
-            "To reduce teacher workload"
+            "Not important",
+            "Families are children's first teachers and essential for development",
+            "Legal requirement only",
+            "Makes teaching easier"
           ],
           "correctAnswer": 1,
-          "explanation": "Family partnerships are crucial as families are children's first and most influential teachers and provide continuity of learning.",
+          "explanation": "Family partnerships are crucial because families are children's first and most important teachers, and collaboration enhances development.",
           "difficulty": "easy",
           "topic": "Family and Community Partnerships"
         },
         {
-          "id": "ele-ece-fp-002",
-          "question": "What is 'culturally responsive teaching' in ECE?",
+          "id": "ece-fcp-112",
+          "question": "What is 'family-centered practice'?",
           "options": [
-            "Teaching only one culture",
-            "Ignoring cultural differences",
-            "Recognizing and valuing diverse cultural backgrounds in teaching",
-            "Treating all children exactly the same"
+            "Only involving mothers",
+            "Recognizing family as constant in child's life and partnering with them",
+            "Family visits only",
+            "Parent-teacher conferences"
           ],
-          "correctAnswer": 2,
-          "explanation": "Culturally responsive teaching acknowledges, respects, and incorporates children's diverse cultural backgrounds into learning.",
+          "correctAnswer": 1,
+          "explanation": "Family-centered practice recognizes families as constants in children's lives and involves them as partners in all aspects of care and education.",
           "difficulty": "medium",
           "topic": "Family and Community Partnerships"
         },
         {
-          "id": "ele-ece-fp-003",
-          "question": "How should teachers communicate with families who speak different languages?",
+          "id": "ece-fcp-113",
+          "question": "What is 'cultural competence' in early childhood education?",
           "options": [
-            "Don't communicate",
-            "Use interpreters and translated materials when possible",
-            "Expect families to learn English immediately",
-            "Only speak to English-speaking families"
+            "Knowing all cultures",
+            "Respecting and effectively working with diverse families and cultures",
+            "Teaching culture",
+            "Speaking multiple languages"
           ],
           "correctAnswer": 1,
-          "explanation": "Effective communication requires using interpreters, translated materials, and culturally appropriate methods to include all families.",
+          "explanation": "Cultural competence involves understanding, respecting, and effectively working with families from diverse cultural backgrounds.",
+          "difficulty": "medium",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ece-fcp-114",
+          "question": "What are effective communication strategies with families?",
+          "options": [
+            "Written notes only",
+            "Regular two-way communication through various methods",
+            "Annual meetings",
+            "No communication"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Effective communication involves regular, two-way dialogue through daily conversations, newsletters, conferences, and digital platforms.",
           "difficulty": "easy",
           "topic": "Family and Community Partnerships"
         },
         {
-          "id": "ele-ece-fp-004",
-          "question": "What is a 'family conference'?",
+          "id": "ece-fcp-115",
+          "question": "What is a 'home visit'?",
           "options": [
-            "A punishment meeting",
-            "A collaborative discussion about the child's development and learning",
-            "Only for problem children",
-            "Optional for teachers"
+            "Checking homes",
+            "Teacher visiting family's home to build relationships and understanding",
+            "Inspection",
+            "Social service"
           ],
           "correctAnswer": 1,
-          "explanation": "Family conferences are collaborative meetings to discuss the child's progress, strengths, and areas for growth.",
+          "explanation": "Home visits involve teachers visiting families at home to build relationships, understand home environment, and strengthen partnerships.",
           "difficulty": "easy",
           "topic": "Family and Community Partnerships"
         },
         {
-          "id": "ele-ece-fp-005",
-          "question": "Why should teachers document children's learning?",
+          "id": "ece-fcp-116",
+          "question": "How can programs support diverse family structures?",
           "options": [
-            "Just for display",
-            "To track progress and share with families",
-            "To create extra work",
-            "It's not important"
+            "Treat all families the same",
+            "Recognize and respect all family configurations",
+            "Only support traditional families",
+            "Ignore differences"
           ],
           "correctAnswer": 1,
-          "explanation": "Documentation tracks children's development, informs instruction, and provides concrete examples to share with families.",
+          "explanation": "Programs should recognize and respect diverse family structures including single-parent, blended, same-sex, extended, and other configurations.",
           "difficulty": "easy",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ece-fcp-117",
+          "question": "What is 'family engagement'?",
+          "options": [
+            "Family events only",
+            "Active participation of families in children's learning and program",
+            "Engagement rings",
+            "Attendance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Family engagement involves active, meaningful participation of families in their children's learning and in program decisions and activities.",
+          "difficulty": "easy",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ece-fcp-118",
+          "question": "What should parent-teacher conferences include?",
+          "options": [
+            "Only problems",
+            "Child's strengths, growth, goals, two-way communication",
+            "Complaints only",
+            "Brief updates"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conferences should include discussion of strengths, development, goals, observations, and two-way sharing between teachers and families.",
+          "difficulty": "easy",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ece-fcp-119",
+          "question": "How can teachers support families experiencing stress or challenges?",
+          "options": [
+            "Avoid involvement",
+            "Provide resources, show empathy, offer flexible support",
+            "Judge them",
+            "Report to authorities immediately"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teachers can support families by providing resources, showing empathy, maintaining confidentiality, and offering flexible, non-judgmental support.",
+          "difficulty": "medium",
+          "topic": "Family and Community Partnerships"
+        },
+        {
+          "id": "ece-fcp-120",
+          "question": "What is 'community collaboration' in early childhood?",
+          "options": [
+            "Community events",
+            "Partnering with community agencies and resources to support families",
+            "Neighborhood parties",
+            "Public relations"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Community collaboration involves partnering with agencies, organizations, and resources to provide comprehensive support for children and families.",
+          "difficulty": "medium",
           "topic": "Family and Community Partnerships"
         }
       ]
+    },
+    {
+      "id": "assessment-documentation",
+      "name": "Assessment and Documentation",
+      "questions": [
+        {
+          "id": "ece-ad-121",
+          "question": "What is 'authentic assessment' in early childhood?",
+          "options": [
+            "Real tests",
+            "Assessment of real learning in natural contexts",
+            "Standardized tests",
+            "Formal testing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Authentic assessment involves observing and documenting children's learning in natural, meaningful contexts through their daily activities.",
+          "difficulty": "medium",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-122",
+          "question": "What is 'observation' as an assessment tool?",
+          "options": [
+            "Watching children play",
+            "Systematic watching and recording of children's behavior and development",
+            "Supervision",
+            "Casual looking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Observation is systematic watching and recording of children's behavior, skills, and development to inform planning and support.",
+          "difficulty": "easy",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-123",
+          "question": "What is a 'portfolio' in early childhood assessment?",
+          "options": [
+            "Art folder",
+            "Collection of work samples showing progress over time",
+            "Photo album",
+            "Report card"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A portfolio is a purposeful collection of children's work samples, photos, and observations that document growth and learning over time.",
+          "difficulty": "easy",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-124",
+          "question": "What is an 'anecdotal record'?",
+          "options": [
+            "Story book",
+            "Brief factual account of specific incident or behavior",
+            "Long report",
+            "Attendance record"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An anecdotal record is a brief, factual, objective written account of a specific incident or behavior observed.",
+          "difficulty": "medium",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-125",
+          "question": "What is a 'running record'?",
+          "options": [
+            "Race record",
+            "Detailed, continuous narrative of everything observed during a period",
+            "Running diary",
+            "Exercise log"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A running record is a detailed, continuous narrative description of behavior and events as they occur during an observation period.",
+          "difficulty": "medium",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-126",
+          "question": "What is 'formative assessment' in early childhood?",
+          "options": [
+            "Final evaluation",
+            "Ongoing assessment to guide teaching and support learning",
+            "Formal testing",
+            "Summative assessment"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Formative assessment is ongoing assessment used to understand children's progress and inform teaching practices and support.",
+          "difficulty": "medium",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-127",
+          "question": "What should NOT be done in early childhood assessment?",
+          "options": [
+            "Observe children",
+            "Use standardized tests as primary assessment for young children",
+            "Document learning",
+            "Use portfolios"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Standardized tests should not be the primary assessment for young children; observation and authentic assessment are more appropriate.",
+          "difficulty": "medium",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-128",
+          "question": "What is 'documentation' in Reggio Emilia approach?",
+          "options": [
+            "Paperwork",
+            "Making learning visible through photos, notes, and children's work",
+            "Filing",
+            "Record keeping"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Documentation makes learning visible through photos, transcriptions, and displays that show the learning process and children's thinking.",
+          "difficulty": "medium",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-129",
+          "question": "What is a 'developmental checklist'?",
+          "options": [
+            "Shopping list",
+            "List of developmental milestones to track progress",
+            "To-do list",
+            "Attendance list"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A developmental checklist is a list of age-appropriate milestones and skills used to track children's development across domains.",
+          "difficulty": "easy",
+          "topic": "Assessment and Documentation"
+        },
+        {
+          "id": "ece-ad-130",
+          "question": "How should assessment information be used?",
+          "options": [
+            "To rank children",
+            "To plan curriculum, inform families, and support individual children",
+            "To punish children",
+            "To compare children"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Assessment should inform curriculum planning, guide individualized support, communicate with families, and improve teaching practices.",
+          "difficulty": "easy",
+          "topic": "Assessment and Documentation"
+        }
+      ]
+    },
+    {
+      "id": "special-needs-inclusion",
+      "name": "Special Needs and Inclusion",
+      "questions": [
+        {
+          "id": "ece-sni-131",
+          "question": "What is 'inclusion' in early childhood education?",
+          "options": [
+            "Separate special education",
+            "Educating children with and without disabilities together",
+            "Special classes only",
+            "Excluding children"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inclusion means educating children with and without disabilities together in the same classroom with appropriate supports.",
+          "difficulty": "easy",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-132",
+          "question": "What is an IEP (Individualized Education Program)?",
+          "options": [
+            "Internet Education Plan",
+            "Written plan outlining special education services for a child",
+            "Individual Exercise Program",
+            "Instructional Equipment Plan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An IEP is a written document that outlines specialized instruction, services, and goals for children with disabilities.",
+          "difficulty": "medium",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-133",
+          "question": "What is an IFSP (Individualized Family Service Plan)?",
+          "options": [
+            "Family support plan",
+            "Plan for early intervention services for infants/toddlers and families",
+            "Individual fitness plan",
+            "Family schedule"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An IFSP outlines early intervention services for infants and toddlers (0-3) with disabilities and their families.",
+          "difficulty": "medium",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-134",
+          "question": "What are 'accommodations' in inclusive classrooms?",
+          "options": [
+            "Extra space",
+            "Changes in how children access learning without changing content",
+            "Special rooms",
+            "Different curriculum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Accommodations are changes in how children access learning (extended time, adaptive equipment) without changing what they learn.",
+          "difficulty": "medium",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-135",
+          "question": "What are 'modifications' in special education?",
+          "options": [
+            "Room changes",
+            "Changes in what is taught or expected from a child",
+            "Schedule changes",
+            "Behavior changes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Modifications change the content, difficulty, or expectations of what children are learning or expected to demonstrate.",
+          "difficulty": "medium",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-136",
+          "question": "What is 'universal design for learning' (UDL)?",
+          "options": [
+            "One-size-fits-all approach",
+            "Flexible approaches that can be customized for individual needs",
+            "Standard curriculum",
+            "Special education only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "UDL provides multiple means of engagement, representation, and expression so all children can access and participate in learning.",
+          "difficulty": "difficult",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-137",
+          "question": "What is 'early intervention'?",
+          "options": [
+            "Starting school early",
+            "Services for infants and toddlers with developmental delays",
+            "Punishment",
+            "Prevention programs"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Early intervention provides specialized services and support for infants and toddlers (0-3) with developmental delays or disabilities.",
+          "difficulty": "easy",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-138",
+          "question": "What is a 'developmental delay'?",
+          "options": [
+            "Being late to school",
+            "When child's development lags behind typical milestones",
+            "Slow growth",
+            "Late birthday"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Developmental delay occurs when a child's development in one or more areas is significantly behind typical developmental milestones.",
+          "difficulty": "easy",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-139",
+          "question": "What is 'peer modeling' in inclusive classrooms?",
+          "options": [
+            "Fashion show",
+            "Children learning by observing and imitating peers",
+            "Peer pressure",
+            "Competition"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Peer modeling occurs when children learn skills and behaviors by observing and imitating their peers in inclusive settings.",
+          "difficulty": "easy",
+          "topic": "Special Needs and Inclusion"
+        },
+        {
+          "id": "ece-sni-140",
+          "question": "What is the role of a 'paraprofessional' or 'aide'?",
+          "options": [
+            "Teacher replacement",
+            "Support staff who assists teacher and children with special needs",
+            "Janitor",
+            "Administrator"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Paraprofessionals provide support to teachers and individual children, helping implement accommodations and modifications.",
+          "difficulty": "easy",
+          "topic": "Special Needs and Inclusion"
+        }
+      ]
+    },
+    {
+      "id": "professional-responsibilities",
+      "name": "Professional Responsibilities and Ethics",
+      "questions": [
+        {
+          "id": "ece-pr-141",
+          "question": "What is NAEYC?",
+          "options": [
+            "National Association for Education of Young Children",
+            "New York Education Center",
+            "National Academy for Early Childhood",
+            "Nursery and Youth Education Council"
+          ],
+          "correctAnswer": 0,
+          "explanation": "NAEYC is the National Association for the Education of Young Children, a professional organization setting standards for early childhood education.",
+          "difficulty": "easy",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-142",
+          "question": "What is the NAEYC Code of Ethical Conduct?",
+          "options": [
+            "Behavior rules",
+            "Professional guidelines for ethical responsibilities in early childhood",
+            "Legal requirements",
+            "Curriculum guide"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The NAEYC Code of Ethical Conduct provides guidelines for professional and ethical responsibilities toward children, families, and colleagues.",
+          "difficulty": "medium",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-143",
+          "question": "What is 'confidentiality' in early childhood education?",
+          "options": [
+            "Keeping secrets",
+            "Protecting private information about children and families",
+            "Not talking to anyone",
+            "Privacy for teachers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Confidentiality means protecting private information about children and families, sharing only with those who have legitimate need to know.",
+          "difficulty": "easy",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-144",
+          "question": "What is 'professional development'?",
+          "options": [
+            "Career advancement only",
+            "Ongoing learning to improve knowledge and skills",
+            "Salary increase",
+            "Promotions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Professional development is ongoing education and training to improve knowledge, skills, and effectiveness as an educator.",
+          "difficulty": "easy",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-145",
+          "question": "What is 'advocacy' in early childhood?",
+          "options": [
+            "Advertising",
+            "Speaking up for children, families, and the profession",
+            "Legal work only",
+            "Fundraising"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Advocacy involves speaking up and taking action to support children, families, early childhood education, and professional issues.",
+          "difficulty": "easy",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-146",
+          "question": "What is 'reflective practice'?",
+          "options": [
+            "Looking in mirror",
+            "Thinking critically about one's teaching to improve practice",
+            "Reflection activities",
+            "Meditation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reflective practice involves critically examining one's teaching practices, decisions, and effectiveness to continuously improve.",
+          "difficulty": "medium",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-147",
+          "question": "What are 'professional boundaries'?",
+          "options": [
+            "Classroom walls",
+            "Appropriate limits in relationships with children and families",
+            "Working hours",
+            "School property"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Professional boundaries are appropriate limits in relationships with children and families that maintain professionalism and protect all parties.",
+          "difficulty": "medium",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-148",
+          "question": "What is a 'mandated reporter'?",
+          "options": [
+            "News reporter",
+            "Professional required by law to report suspected child abuse",
+            "Report card writer",
+            "Data collector"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mandated reporters are professionals required by law to report suspected child abuse or neglect to authorities.",
+          "difficulty": "easy",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-149",
+          "question": "What is 'professional collaboration'?",
+          "options": [
+            "Working alone",
+            "Working cooperatively with colleagues and specialists",
+            "Competition",
+            "Supervision"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Professional collaboration involves working cooperatively with colleagues, specialists, and other professionals to support children's development.",
+          "difficulty": "easy",
+          "topic": "Professional Responsibilities and Ethics"
+        },
+        {
+          "id": "ece-pr-150",
+          "question": "Why is ongoing professional learning important in early childhood?",
+          "options": [
+            "Required only",
+            "Field evolves; new research informs best practices",
+            "Career advancement only",
+            "Not important"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ongoing learning is essential because early childhood education continually evolves with new research, practices, and understanding of child development.",
+          "difficulty": "easy",
+          "topic": "Professional Responsibilities and Ethics"
+        }
+      ]
     }
-  ],
-  "totalQuestions": 30,
-  "note": "Comprehensive questions for Early Childhood Education - Add 120 more for full 150 implementation"
+  ]
 }
