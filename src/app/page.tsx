@@ -219,7 +219,7 @@ export default function LETReviewerApp() {
             </motion.div>
             <div>
               <h1 className="text-3xl font-black tracking-tight">LET Reviewer Pro</h1>
-              <p className="text-sm text-green-100 font-medium">TSOK - Teachers Specialists Organization International Kuwait</p>
+              <p className="text-sm text-green-100 font-medium">TSOK - Teachers Specialists Organization Kuwait</p>
             </div>
           </div>
           {user && (
@@ -260,7 +260,7 @@ export default function LETReviewerApp() {
         <div className="container mx-auto px-4 text-center">
           <Image src="/logo.png" alt="TSOK" width={60} height={60} className="rounded-full mx-auto mb-4" />
           <p className="text-lg font-bold">LET Reviewer Pro</p>
-          <p className="text-green-200 text-sm mt-2">Developed by <span className="font-black">Godmisoft</span> for TSOK</p>
+          <p className="text-green-200 text-sm mt-2">Developed by <span className="font-black">Heber Mayormita, LPT</span> for TSOK</p>
           <p className="text-green-600 text-xs mt-4">© 2024 TSOK. All rights reserved.</p>
         </div>
       </footer>
