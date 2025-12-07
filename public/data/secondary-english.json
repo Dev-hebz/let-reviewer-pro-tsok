@@ -1,29 +1,2155 @@
 {
-  "subject": "Secondary - English",
-  "category": "secondary",
-  "subcategory": "english",
+  "subject": "English - LET Reviewer",
+  "category": "major",
+  "subcategory": "english-language",
   "topics": [
     {
-      "id": "topic-1",
-      "name": "Topic 1",
+      "id": "language-structure",
+      "name": "Language Structure and Grammar",
       "questions": [
         {
-          "id": "sec-english-001",
-          "question": "Sample question for english?",
+          "id": "eng-ls-001",
+          "question": "Which sentence demonstrates correct subject-verb agreement?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither the students nor the teacher were present.",
+            "Either the manager or the employees has to stay late.",
+            "Neither the cats nor the dog are eating.",
+            "Either the books or the pen is on the desk."
+          ],
+          "correctAnswer": 3,
+          "explanation": "When using 'either...or' or 'neither...nor', the verb agrees with the subject closest to it. 'Pen' (singular) requires 'is'.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-002",
+          "question": "Identify the sentence with a misplaced modifier.",
+          "options": [
+            "She served sandwiches to the children on paper plates.",
+            "Walking down the street, I saw a beautiful garden.",
+            "The teacher explained the lesson clearly.",
+            "Having finished dinner, we watched a movie."
           ],
           "correctAnswer": 0,
-          "explanation": "This is a sample question. Add 150 questions for this subject.",
+          "explanation": "The modifier 'on paper plates' is misplaced, suggesting the children were on paper plates rather than the sandwiches.",
+          "difficulty": "difficult",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-003",
+          "question": "What type of clause is underlined: 'The book THAT I BORROWED was fascinating.'",
+          "options": [
+            "Noun clause",
+            "Adverbial clause",
+            "Independent clause",
+            "Adjective clause"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The clause modifies 'book' (a noun), making it an adjective clause, also called a relative clause.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-004",
+          "question": "Which sentence uses the subjunctive mood correctly?",
+          "options": [
+            "If I was rich, I would travel the world.",
+            "I wish he was here with us.",
+            "She suggested that he arrive early.",
+            "If she was taller, she could reach the shelf."
+          ],
+          "correctAnswer": 2,
+          "explanation": "The subjunctive mood uses the base form of the verb after verbs like 'suggest', 'recommend', 'demand'. 'Arrive' (not 'arrives') is correct.",
+          "difficulty": "difficult",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-005",
+          "question": "Identify the function of the infinitive in: 'To succeed requires dedication.'",
+          "options": [
+            "Adverb",
+            "Adjective",
+            "Subject",
+            "Object"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The infinitive phrase 'To succeed' functions as the subject of the sentence.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-006",
+          "question": "Which sentence contains a dangling participle?",
+          "options": [
+            "Waiting for the bus, the rain started to fall.",
+            "The children, laughing loudly, ran through the park.",
+            "Having studied all night, Maria passed the exam.",
+            "The car, damaged in the accident, was towed away."
+          ],
+          "correctAnswer": 0,
+          "explanation": "The participle 'waiting' dangles because the rain cannot wait for the bus. The subject who was waiting is missing.",
+          "difficulty": "difficult",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-007",
+          "question": "What is the grammatical function of 'extremely' in 'She is extremely talented'?",
+          "options": [
+            "Adverb modifying a noun",
+            "Adjective",
+            "Adverb modifying an adjective",
+            "Adverb modifying a verb"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Extremely' is an adverb that modifies the adjective 'talented', intensifying its meaning.",
           "difficulty": "easy",
-          "topic": "Topic 1"
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-008",
+          "question": "Which sentence demonstrates correct use of parallel structure?",
+          "options": [
+            "She enjoys reading, writing, and to paint.",
+            "The teacher is kind, patient, and has intelligence.",
+            "He likes swimming, running, and to bicycle.",
+            "The job requires dedication, creativity, and persistence."
+          ],
+          "correctAnswer": 3,
+          "explanation": "Parallel structure requires consistent grammatical form. All three items are nouns: dedication, creativity, persistence.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-009",
+          "question": "Identify the type of sentence: 'Although it was raining, we went hiking.'",
+          "options": [
+            "Simple sentence",
+            "Compound sentence",
+            "Complex sentence",
+            "Compound-complex sentence"
+          ],
+          "correctAnswer": 2,
+          "explanation": "A complex sentence contains one independent clause and at least one dependent clause ('Although it was raining').",
+          "difficulty": "easy",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-010",
+          "question": "Which sentence uses 'lie' and 'lay' correctly?",
+          "options": [
+            "I will lay down for a nap after lunch.",
+            "The cat is laying on the couch.",
+            "Please lie the book on the table.",
+            "The documents have lain on the desk all week."
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Lain' is the past participle of 'lie' (to recline). 'Lie' is intransitive and doesn't take an object.",
+          "difficulty": "difficult",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-011",
+          "question": "What type of pronoun is 'whoever' in: 'Give it to whoever arrives first.'",
+          "options": [
+            "Demonstrative pronoun",
+            "Relative pronoun",
+            "Interrogative pronoun",
+            "Indefinite pronoun"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Whoever' is a relative pronoun introducing a noun clause that serves as the object of the preposition 'to'.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-012",
+          "question": "Identify the sentence with correct pronoun case.",
+          "options": [
+            "Between you and I, this is difficult.",
+            "The secret is between you and me.",
+            "This gift is for my sister and I.",
+            "The teacher chose my partner and I."
+          ],
+          "correctAnswer": 1,
+          "explanation": "After the preposition 'between', the objective case 'me' (not 'I') is required.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-013",
+          "question": "Which sentence contains a correlative conjunction?",
+          "options": [
+            "She is both intelligent and hardworking.",
+            "We will go to the park or the museum.",
+            "I studied because I wanted to pass.",
+            "He ran quickly but carefully."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Correlative conjunctions work in pairs: both...and, either...or, neither...nor, not only...but also.",
+          "difficulty": "easy",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-014",
+          "question": "What is the tense of: 'By next month, I will have been teaching for ten years.'",
+          "options": [
+            "Future perfect",
+            "Present perfect continuous",
+            "Future perfect continuous",
+            "Future continuous"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Future perfect continuous (will have been + verb-ing) indicates an action continuing up to a point in the future.",
+          "difficulty": "difficult",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-015",
+          "question": "Which sentence uses 'fewer' and 'less' correctly?",
+          "options": [
+            "There are less students in class today.",
+            "We need less chairs for the event.",
+            "There is less water in the bottle than yesterday.",
+            "She has less books than her sister."
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Less' is used with uncountable nouns (water), while 'fewer' is used with countable nouns (students, chairs, books).",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-016",
+          "question": "Identify the appositive in: 'My friend Maria, a talented artist, won the competition.'",
+          "options": [
+            "won the competition",
+            "My friend Maria",
+            "a talented artist",
+            "the competition"
+          ],
+          "correctAnswer": 2,
+          "explanation": "An appositive renames or identifies a noun. 'A talented artist' renames 'Maria'.",
+          "difficulty": "easy",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-017",
+          "question": "Which sentence demonstrates correct conditional form?",
+          "options": [
+            "If I would have known, I would have come.",
+            "If I knew you were coming, I would have prepared.",
+            "If I had known, I would have come.",
+            "If I would know, I would come."
+          ],
+          "correctAnswer": 2,
+          "explanation": "Third conditional uses 'had + past participle' in the if-clause and 'would have + past participle' in the main clause.",
+          "difficulty": "difficult",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-018",
+          "question": "What is the gerund phrase in: 'Swimming in the ocean is her favorite activity.'",
+          "options": [
+            "in the ocean",
+            "is her favorite activity",
+            "her favorite activity",
+            "Swimming in the ocean"
+          ],
+          "correctAnswer": 3,
+          "explanation": "A gerund phrase includes the gerund (swimming) and its modifiers/objects, functioning as a noun (subject here).",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-019",
+          "question": "Which sentence uses 'who' and 'whom' correctly?",
+          "options": [
+            "Who did you give the letter to?",
+            "The person who I spoke with was helpful.",
+            "To whom should I address this letter?",
+            "Who should I send this to?"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Whom' is the objective case used after prepositions. 'To whom' is correct formal usage.",
+          "difficulty": "difficult",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-020",
+          "question": "Identify the sentence with correct comma usage.",
+          "options": [
+            "After eating, the students went to recess.",
+            "The teacher who was tired went home.",
+            "My brother John is a doctor.",
+            "We visited Paris, France in 2020."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Introductory phrases require a comma. 'After eating' is an introductory participial phrase.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-021",
+          "question": "What type of verbal is underlined: 'The RUNNING water soothed her nerves.'",
+          "options": [
+            "Infinitive",
+            "Gerund",
+            "Present participle",
+            "Past participle"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Running' is a present participle functioning as an adjective modifying 'water'.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-022",
+          "question": "Which sentence contains a noun clause?",
+          "options": [
+            "I know that she will succeed.",
+            "The book that I read was excellent.",
+            "When he arrives, call me.",
+            "She sings beautifully."
+          ],
+          "correctAnswer": 0,
+          "explanation": "'That she will succeed' is a noun clause functioning as the direct object of 'know'.",
+          "difficulty": "medium",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-023",
+          "question": "Identify the sentence with correct punctuation of a restrictive clause.",
+          "options": [
+            "The students, who studied hard, passed the exam.",
+            "The car, that was parked illegally, was towed.",
+            "The teacher who teaches math is very patient.",
+            "My sister, who lives in Manila, is visiting."
+          ],
+          "correctAnswer": 2,
+          "explanation": "Restrictive clauses (essential to meaning) don't use commas. 'Who teaches math' identifies which teacher.",
+          "difficulty": "difficult",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-024",
+          "question": "What is the function of 'quickly' in: 'She ran quickly to catch the bus.'",
+          "options": [
+            "Adverb modifying the verb 'ran'",
+            "Adjective modifying 'she'",
+            "Adverb modifying 'catch'",
+            "Adverb modifying 'bus'"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Quickly' is an adverb that modifies the verb 'ran', telling how she ran.",
+          "difficulty": "easy",
+          "topic": "Language Structure and Grammar"
+        },
+        {
+          "id": "eng-ls-025",
+          "question": "Which sentence demonstrates correct use of the passive voice?",
+          "options": [
+            "The letter was wrote by Maria.",
+            "The song was sang beautifully.",
+            "The book was written by a famous author.",
+            "The cake was ate by the children."
+          ],
+          "correctAnswer": 2,
+          "explanation": "Passive voice requires 'be' + past participle. 'Written' is the correct past participle of 'write'.",
+          "difficulty": "easy",
+          "topic": "Language Structure and Grammar"
+        }
+      ]
+    },
+    {
+      "id": "reading-comprehension",
+      "name": "Reading Comprehension and Literature",
+      "questions": [
+        {
+          "id": "eng-rc-026",
+          "question": "What literary device is used: 'The classroom was a zoo during the substitute teacher's lesson.'",
+          "options": [
+            "Simile",
+            "Personification",
+            "Metaphor",
+            "Hyperbole"
+          ],
+          "correctAnswer": 2,
+          "explanation": "This is a metaphor, directly comparing the classroom to a zoo without using 'like' or 'as'.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-027",
+          "question": "Identify the point of view: 'I walked through the old house, feeling the weight of memories pressing down on me.'",
+          "options": [
+            "Third person omniscient",
+            "Second person",
+            "Third person limited",
+            "First person"
+          ],
+          "correctAnswer": 3,
+          "explanation": "First person point of view uses 'I' and shows the narrator's personal perspective and feelings.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-028",
+          "question": "What is the theme of a literary work?",
+          "options": [
+            "The sequence of events",
+            "The central idea or underlying meaning",
+            "The setting and time period",
+            "The main character's goal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Theme is the central idea, underlying meaning, or message that the author conveys through the work.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-029",
+          "question": "What type of conflict is shown: 'The protagonist struggles with feelings of inadequacy and self-doubt.'",
+          "options": [
+            "Character vs. nature",
+            "Character vs. society",
+            "Character vs. character",
+            "Character vs. self"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Internal conflict where a character struggles with their own emotions, thoughts, or decisions is character vs. self.",
+          "difficulty": "medium",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-030",
+          "question": "What is foreshadowing in literature?",
+          "options": [
+            "Describing shadows in detail",
+            "A hint or clue about events that will occur later",
+            "Writing about the past",
+            "Using dark imagery"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Foreshadowing provides hints or clues about events that will happen later in the story, building anticipation.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-031",
+          "question": "Identify the literary device: 'The wind whispered secrets through the trees.'",
+          "options": [
+            "Metaphor",
+            "Alliteration",
+            "Personification",
+            "Onomatopoeia"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Personification gives human qualities (whispering secrets) to non-human things (wind).",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-032",
+          "question": "What is the climax of a story?",
+          "options": [
+            "The introduction of characters",
+            "The turning point or moment of highest tension",
+            "The conclusion of the story",
+            "The background information"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The climax is the turning point, the moment of highest tension or drama where the main conflict reaches its peak.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-033",
+          "question": "What is irony in literature?",
+          "options": [
+            "Using iron as a symbol",
+            "A contrast between expectation and reality",
+            "Serious and formal language",
+            "Repetition for emphasis"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Irony is a contrast between what is expected and what actually occurs, or between appearance and reality.",
+          "difficulty": "medium",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-034",
+          "question": "What is a soliloquy?",
+          "options": [
+            "A conversation between two characters",
+            "A speech given to a large audience",
+            "A character's thoughts spoken aloud when alone",
+            "Narration by the author"
+          ],
+          "correctAnswer": 2,
+          "explanation": "A soliloquy is when a character speaks their thoughts aloud, usually when alone, revealing inner feelings to the audience.",
+          "difficulty": "medium",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-035",
+          "question": "What is the purpose of a denouement?",
+          "options": [
+            "To introduce the main conflict",
+            "To resolve loose ends and conclude the story",
+            "To build suspense",
+            "To develop characters"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The denouement is the final resolution where loose ends are tied up and the story concludes after the climax.",
+          "difficulty": "medium",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-036",
+          "question": "What literary device uses extreme exaggeration: 'I've told you a million times!'",
+          "options": [
+            "Simile",
+            "Metaphor",
+            "Hyperbole",
+            "Understatement"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Hyperbole is deliberate exaggeration for emphasis or effect, not meant to be taken literally.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-037",
+          "question": "What is symbolism in literature?",
+          "options": [
+            "Using symbols in math",
+            "Objects, characters, or colors representing abstract ideas",
+            "Sign language in stories",
+            "Literal meaning of words"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Symbolism uses objects, characters, colors, or elements to represent abstract ideas or concepts beyond their literal meaning.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-038",
+          "question": "What is the difference between mood and tone?",
+          "options": [
+            "There is no difference",
+            "Mood is the author's attitude; tone is reader's feeling",
+            "Mood is the atmosphere; tone is author's attitude",
+            "Both are the same as theme"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mood is the atmosphere or feeling created for the reader; tone is the author's attitude toward the subject.",
+          "difficulty": "difficult",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-039",
+          "question": "What is alliteration?",
+          "options": [
+            "Repetition of vowel sounds",
+            "Similar ending sounds",
+            "Repetition of consonant sounds at the beginning of words",
+            "Rhyming words"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Alliteration is the repetition of initial consonant sounds in neighboring words (e.g., 'Peter Piper picked').",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-040",
+          "question": "What is a protagonist?",
+          "options": [
+            "The villain of the story",
+            "The main character or hero",
+            "A supporting character",
+            "The narrator"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The protagonist is the main character or hero of the story, often facing the central conflict.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-041",
+          "question": "What is dramatic irony?",
+          "options": [
+            "When the outcome is opposite of what characters expect",
+            "When the audience knows something the characters don't",
+            "When characters say the opposite of what they mean",
+            "When something is overdramatized"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Dramatic irony occurs when the audience knows important information that the characters do not, creating tension.",
+          "difficulty": "medium",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-042",
+          "question": "What is the setting of a story?",
+          "options": [
+            "The main idea",
+            "The sequence of events",
+            "The time and place where the story occurs",
+            "The conclusion"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Setting refers to the time period and physical location where the story takes place.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-043",
+          "question": "What is an allegory?",
+          "options": [
+            "A funny story",
+            "A story with symbolic meaning representing abstract ideas",
+            "A brief story with a moral",
+            "A long narrative poem"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An allegory is a narrative where characters and events symbolically represent abstract ideas or moral/political meanings.",
+          "difficulty": "difficult",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-044",
+          "question": "What is onomatopoeia?",
+          "options": [
+            "Repetition of sounds",
+            "Words that imitate sounds they describe",
+            "Exaggeration",
+            "Comparison using 'like' or 'as'"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Onomatopoeia uses words that imitate the sounds they describe (e.g., buzz, hiss, crash).",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        },
+        {
+          "id": "eng-rc-045",
+          "question": "What is the resolution in a story's plot structure?",
+          "options": [
+            "The final outcome after the climax where conflicts are resolved",
+            "The introduction of the conflict",
+            "The highest point of tension",
+            "The background information"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The resolution (or falling action/denouement) is where conflicts are resolved and the story concludes after the climax.",
+          "difficulty": "easy",
+          "topic": "Reading Comprehension and Literature"
+        }
+      ]
+    },
+    {
+      "id": "writing-composition",
+      "name": "Writing and Composition",
+      "questions": [
+        {
+          "id": "eng-wc-046",
+          "question": "What is the primary purpose of a thesis statement?",
+          "options": [
+            "To conclude the essay",
+            "To present the main argument or central idea",
+            "To provide background information",
+            "To introduce supporting details"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A thesis statement presents the main argument or central idea that the entire essay will support and develop.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-047",
+          "question": "Which organizational pattern is best for explaining how something works?",
+          "options": [
+            "Compare and contrast",
+            "Cause and effect",
+            "Chronological/Process",
+            "Problem-solution"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Process or chronological organization presents steps in order, ideal for explaining how something works or is done.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-048",
+          "question": "What is the purpose of a topic sentence?",
+          "options": [
+            "To conclude the paragraph",
+            "To introduce the main idea of the paragraph",
+            "To provide evidence",
+            "To connect to the next paragraph"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A topic sentence introduces the main idea of a paragraph and guides what the paragraph will discuss.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-049",
+          "question": "What is coherence in writing?",
+          "options": [
+            "Using complex vocabulary",
+            "Logical flow and connection between ideas",
+            "Writing lengthy sentences",
+            "Using formal language"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Coherence means ideas flow logically and connect clearly, making the writing easy to follow and understand.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-050",
+          "question": "What is unity in paragraph writing?",
+          "options": [
+            "Using transition words",
+            "All sentences support the main idea of the paragraph",
+            "Having equal-length sentences",
+            "Using the same verb tense"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Unity means all sentences in a paragraph relate to and support the single main idea expressed in the topic sentence.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-051",
+          "question": "Which type of evidence is most effective in persuasive writing?",
+          "options": [
+            "Personal opinions only",
+            "Statistics, expert testimony, and logical reasoning",
+            "Emotional appeals only",
+            "Anecdotes only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Effective persuasion combines factual evidence (statistics, expert testimony) with logical reasoning, supported by appeals to emotion and credibility.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-052",
+          "question": "What is the purpose of a conclusion paragraph?",
+          "options": [
+            "To introduce new arguments",
+            "To restate the thesis and synthesize main points",
+            "To provide detailed evidence",
+            "To ask questions only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A conclusion restates the thesis, synthesizes main points, and provides closure without introducing new arguments.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-053",
+          "question": "What is plagiarism?",
+          "options": [
+            "Summarizing information",
+            "Using someone's ideas or words without proper attribution",
+            "Paraphrasing with citation",
+            "Quoting with citation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Plagiarism is using another's ideas, words, or work without proper citation or attribution, presenting them as your own.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-054",
+          "question": "What is the difference between revising and editing?",
+          "options": [
+            "They are the same process",
+            "Revising focuses on content/organization; editing on grammar/mechanics",
+            "Revising is grammar; editing is content",
+            "There is no difference"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Revising addresses big-picture issues (content, organization, clarity); editing fixes grammar, punctuation, and mechanics.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-055",
+          "question": "What is a hook in an introduction?",
+          "options": [
+            "The thesis statement",
+            "An attention-grabbing opening that engages readers",
+            "A concluding sentence",
+            "A transition phrase"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A hook is an engaging opening (question, anecdote, quote, statistic) that captures reader interest at the start of an essay.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-056",
+          "question": "What is the purpose of transitions in writing?",
+          "options": [
+            "To make writing longer",
+            "To connect ideas and improve flow between sentences and paragraphs",
+            "To add complex vocabulary",
+            "To replace punctuation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Transitions are words/phrases that connect ideas, showing relationships and improving coherence between sentences and paragraphs.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-057",
+          "question": "What makes a strong argument in persuasive writing?",
+          "options": [
+            "Emotional appeals only",
+            "Clear claim, solid evidence, logical reasoning, addressing counterarguments",
+            "Personal stories only",
+            "Repetition of the same point"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Strong arguments combine a clear claim, credible evidence, logical reasoning, and acknowledgment/refutation of counterarguments.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-058",
+          "question": "What is the purpose of brainstorming in the writing process?",
+          "options": [
+            "To edit grammar",
+            "To generate and explore ideas before drafting",
+            "To write the final copy",
+            "To create citations"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Brainstorming is a prewriting strategy to generate, explore, and organize ideas before beginning the draft.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-059",
+          "question": "What is diction in writing?",
+          "options": [
+            "Dictionary definitions",
+            "The writer's choice of words and style of expression",
+            "Speaking clearly",
+            "Grammar rules"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Diction refers to the writer's choice of words and style of expression, affecting tone, clarity, and effectiveness.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-060",
+          "question": "What is the purpose of outlining before writing?",
+          "options": [
+            "To check spelling",
+            "To organize ideas and structure before drafting",
+            "To count words",
+            "To cite sources"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Outlining helps organize main ideas, supporting details, and overall structure before writing the full draft.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-061",
+          "question": "What is voice in writing?",
+          "options": [
+            "Reading aloud",
+            "The unique personality and style of the writer",
+            "Volume level",
+            "Type of narrator"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Voice is the distinctive personality, style, and tone that makes a writer's work unique and recognizable.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-062",
+          "question": "What is a counterargument?",
+          "options": [
+            "Agreeing with the opponent",
+            "An opposing viewpoint that the writer addresses and refutes",
+            "A counting method",
+            "Supporting evidence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A counterargument presents an opposing viewpoint that the writer acknowledges and then refutes to strengthen their argument.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-063",
+          "question": "What is the purpose of a works cited or reference page?",
+          "options": [
+            "To make the paper longer",
+            "To credit sources and allow readers to locate them",
+            "To summarize the paper",
+            "To provide definitions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A works cited/reference page credits sources used and provides information for readers to locate the original sources.",
+          "difficulty": "easy",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-064",
+          "question": "What is syntax in writing?",
+          "options": [
+            "Spelling rules",
+            "The arrangement of words and phrases to create sentences",
+            "Punctuation marks",
+            "Vocabulary choice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Syntax is the arrangement of words and phrases to create well-formed sentences, affecting meaning and style.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        },
+        {
+          "id": "eng-wc-065",
+          "question": "What is the primary difference between summary and analysis?",
+          "options": [
+            "Length of writing",
+            "Summary retells; analysis examines meaning and significance",
+            "Summary is longer",
+            "No difference"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Summary objectively retells main points; analysis examines, interprets, and evaluates meaning, significance, and techniques.",
+          "difficulty": "medium",
+          "topic": "Writing and Composition"
+        }
+      ]
+    },
+    {
+      "id": "vocabulary-development",
+      "name": "Vocabulary and Word Study",
+      "questions": [
+        {
+          "id": "eng-vd-066",
+          "question": "What does the prefix 'anti-' mean in words like 'antibiotic' or 'antisocial'?",
+          "options": [
+            "Before",
+            "Against or opposite",
+            "Around",
+            "Above"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The prefix 'anti-' means against or opposite (antibiotic = against life/bacteria; antisocial = against social norms).",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-067",
+          "question": "What does the suffix '-ology' mean in words like 'biology' or 'psychology'?",
+          "options": [
+            "Fear of",
+            "Study of",
+            "Love of",
+            "Against"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The suffix '-ology' means 'study of' (biology = study of life; psychology = study of mind/behavior).",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-068",
+          "question": "What are homonyms?",
+          "options": [
+            "Words that sound alike but have different meanings and spellings",
+            "Words that sound and are spelled the same but have different meanings",
+            "Words with opposite meanings",
+            "Words with similar meanings"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Homonyms are words spelled and pronounced the same but with different meanings (e.g., 'bat' - animal vs. sports equipment).",
+          "difficulty": "medium",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-069",
+          "question": "What are homophones?",
+          "options": [
+            "Words that sound the same but have different meanings and spellings",
+            "Words with the same meaning",
+            "Words that rhyme",
+            "Words with opposite meanings"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Homophones sound the same but have different meanings and usually different spellings (e.g., there/their/they're).",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-070",
+          "question": "What are synonyms?",
+          "options": [
+            "Words with opposite meanings",
+            "Words with similar or the same meanings",
+            "Words that sound alike",
+            "Words from the same root"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Synonyms are words with similar or nearly the same meanings (e.g., happy/joyful, big/large).",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-071",
+          "question": "What are antonyms?",
+          "options": [
+            "Words with similar meanings",
+            "Words with opposite meanings",
+            "Words that sound alike",
+            "Words from different languages"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Antonyms are words with opposite meanings (e.g., hot/cold, day/night, happy/sad).",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-072",
+          "question": "What does 'benevolent' mean?",
+          "options": [
+            "Harmful",
+            "Kind and generous",
+            "Fearful",
+            "Confused"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Benevolent' means kind, generous, and well-meaning (from Latin 'bene' = good, 'volent' = wishing).",
+          "difficulty": "medium",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-073",
+          "question": "What does 'ubiquitous' mean?",
+          "options": [
+            "Rare",
+            "Present everywhere; widespread",
+            "Ancient",
+            "Dangerous"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Ubiquitous' means present, appearing, or found everywhere; omnipresent.",
+          "difficulty": "difficult",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-074",
+          "question": "What does the root 'chron' mean in words like 'chronological' or 'synchronize'?",
+          "options": [
+            "Time",
+            "Write",
+            "Sound",
+            "Light"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The root 'chron' means time (chronological = in time order; synchronize = make occur at same time).",
+          "difficulty": "medium",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-075",
+          "question": "What does 'loquacious' mean?",
+          "options": [
+            "Silent",
+            "Talkative",
+            "Shy",
+            "Angry"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Loquacious' means very talkative or chatty (from Latin 'loqui' = to speak).",
+          "difficulty": "difficult",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-076",
+          "question": "What does 'ambiguous' mean?",
+          "options": [
+            "Very clear",
+            "Having multiple possible meanings; unclear",
+            "Simple",
+            "Direct"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Ambiguous' means open to more than one interpretation; unclear or having multiple meanings.",
+          "difficulty": "medium",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-077",
+          "question": "What does the prefix 'mis-' mean in words like 'misunderstand' or 'misjudge'?",
+          "options": [
+            "Again",
+            "Wrongly or badly",
+            "Not",
+            "Before"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The prefix 'mis-' means wrongly, badly, or incorrectly (misunderstand = understand wrongly).",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-078",
+          "question": "What does 'ephemeral' mean?",
+          "options": [
+            "Permanent",
+            "Lasting a very short time",
+            "Eternal",
+            "Recurring"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Ephemeral' means lasting for a very short time; transient or fleeting.",
+          "difficulty": "difficult",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-079",
+          "question": "What does the root 'bio' mean in words like 'biology' or 'biography'?",
+          "options": [
+            "Life",
+            "Study",
+            "Book",
+            "Earth"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The root 'bio' means life (biology = study of life; biography = written life story).",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-080",
+          "question": "What is connotation?",
+          "options": [
+            "Dictionary definition",
+            "Emotional or cultural associations of a word beyond its literal meaning",
+            "Pronunciation",
+            "Word origin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Connotation is the emotional, cultural, or associative meaning of a word beyond its literal dictionary definition (denotation).",
+          "difficulty": "medium",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-081",
+          "question": "What is denotation?",
+          "options": [
+            "Emotional meaning",
+            "The literal, dictionary definition of a word",
+            "Cultural association",
+            "Implied meaning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Denotation is the literal, explicit, dictionary definition of a word without emotional or cultural associations.",
+          "difficulty": "medium",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-082",
+          "question": "What does 'meticulous' mean?",
+          "options": [
+            "Careless",
+            "Showing great attention to detail; precise",
+            "Fast",
+            "Simple"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Meticulous' means showing great attention to detail; very careful and precise.",
+          "difficulty": "medium",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-083",
+          "question": "What are idioms?",
+          "options": [
+            "Scientific terms",
+            "Expressions whose meanings differ from literal word meanings",
+            "Foreign words",
+            "Technical vocabulary"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Idioms are expressions whose figurative meanings differ from the literal meanings of individual words (e.g., 'raining cats and dogs').",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-084",
+          "question": "What does 'verbose' mean?",
+          "options": [
+            "Brief",
+            "Using more words than necessary; wordy",
+            "Clear",
+            "Poetic"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Verbose' means using or containing more words than necessary; long-winded or wordy.",
+          "difficulty": "difficult",
+          "topic": "Vocabulary and Word Study"
+        },
+        {
+          "id": "eng-vd-085",
+          "question": "What does the suffix '-less' mean in words like 'hopeless' or 'fearless'?",
+          "options": [
+            "Full of",
+            "Without",
+            "More than",
+            "Capable of"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The suffix '-less' means without or lacking (hopeless = without hope; fearless = without fear).",
+          "difficulty": "easy",
+          "topic": "Vocabulary and Word Study"
+        }
+      ]
+    },
+    {
+      "id": "linguistics-phonology",
+      "name": "Linguistics and Phonology",
+      "questions": [
+        {
+          "id": "eng-lp-086",
+          "question": "What is phonology?",
+          "options": [
+            "The study of word meanings",
+            "The study of sound systems and patterns in language",
+            "The study of sentence structure",
+            "The study of language history"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Phonology is the study of sound systems, patterns, and rules in language, including how sounds function and interact.",
+          "difficulty": "medium",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-087",
+          "question": "What is a phoneme?",
+          "options": [
+            "A letter of the alphabet",
+            "The smallest unit of sound that distinguishes meaning",
+            "A word part",
+            "A syllable"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A phoneme is the smallest unit of sound in a language that can distinguish meaning (e.g., /p/ and /b/ in 'pat' vs. 'bat').",
+          "difficulty": "medium",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-088",
+          "question": "What is morphology in linguistics?",
+          "options": [
+            "Sound patterns",
+            "The study of word formation and structure",
+            "Sentence meaning",
+            "Language change"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Morphology studies the structure and formation of words, including roots, prefixes, suffixes, and how they combine.",
+          "difficulty": "medium",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-089",
+          "question": "What is a morpheme?",
+          "options": [
+            "A sentence",
+            "The smallest meaningful unit of language",
+            "A sound",
+            "A paragraph"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A morpheme is the smallest meaningful unit in a language (e.g., 'un-', 'break', '-able' in 'unbreakable').",
+          "difficulty": "medium",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-090",
+          "question": "What is semantics?",
+          "options": [
+            "The study of meaning in language",
+            "The study of sounds",
+            "The study of grammar",
+            "The study of writing"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Semantics is the study of meaning in language, including word meanings, sentence meanings, and relationships between signs and what they represent.",
+          "difficulty": "easy",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-091",
+          "question": "What is syntax in linguistics?",
+          "options": [
+            "Word meaning",
+            "The rules for combining words into sentences",
+            "Sound production",
+            "Language origin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Syntax is the set of rules, principles, and processes that govern the structure of sentences and how words combine.",
+          "difficulty": "easy",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-092",
+          "question": "What is pragmatics in linguistics?",
+          "options": [
+            "Grammar rules",
+            "How context influences meaning and language use",
+            "Sound patterns",
+            "Word formation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pragmatics studies how context, situation, and social factors influence language meaning and use beyond literal interpretation.",
+          "difficulty": "difficult",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-093",
+          "question": "What are consonants?",
+          "options": [
+            "Open sounds",
+            "Speech sounds produced with obstruction or constriction in vocal tract",
+            "Vowel sounds",
+            "Silent letters"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Consonants are speech sounds produced with some obstruction or constriction of airflow in the vocal tract (e.g., /p/, /t/, /s/).",
+          "difficulty": "easy",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-094",
+          "question": "What are vowels?",
+          "options": [
+            "Consonant sounds",
+            "Speech sounds produced without obstruction of airflow",
+            "Silent letters",
+            "Stressed sounds only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Vowels are speech sounds produced with relatively open vocal tract and no obstruction of airflow (a, e, i, o, u).",
+          "difficulty": "easy",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-095",
+          "question": "What is a diphthong?",
+          "options": [
+            "Two consonants together",
+            "A vowel sound that glides from one position to another",
+            "Silent letters",
+            "Stressed syllable"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A diphthong is a complex vowel sound that begins with one vowel position and glides to another within the same syllable (e.g., 'oy' in 'boy').",
+          "difficulty": "medium",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-096",
+          "question": "What is phonemic awareness?",
+          "options": [
+            "Reading ability",
+            "The ability to hear, identify, and manipulate individual sounds in words",
+            "Spelling skills",
+            "Vocabulary knowledge"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Phonemic awareness is the ability to hear, identify, and manipulate individual phonemes (sounds) in spoken words.",
+          "difficulty": "medium",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-097",
+          "question": "What is phonics?",
+          "options": [
+            "Sound system",
+            "The relationship between letters and sounds for reading",
+            "Phone usage",
+            "Speaking clearly"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Phonics is the method of teaching reading and spelling based on understanding the relationship between letters and sounds.",
+          "difficulty": "easy",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-098",
+          "question": "What is a syllable?",
+          "options": [
+            "A letter",
+            "A unit of pronunciation with one vowel sound",
+            "A word",
+            "A sentence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A syllable is a unit of pronunciation having one vowel sound, with or without surrounding consonants (e.g., 'cat' = 1 syllable, 'table' = 2).",
+          "difficulty": "easy",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-099",
+          "question": "What is stress in phonology?",
+          "options": [
+            "Anxiety while speaking",
+            "Emphasis placed on certain syllables in words",
+            "Loud speech",
+            "Fast speaking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Stress is the emphasis or prominence given to certain syllables in words, affecting meaning and rhythm (e.g., 'REcord' vs. 'reCORD').",
+          "difficulty": "medium",
+          "topic": "Linguistics and Phonology"
+        },
+        {
+          "id": "eng-lp-100",
+          "question": "What is intonation?",
+          "options": [
+            "Volume level",
+            "The rise and fall of pitch in speech",
+            "Speed of speech",
+            "Pronunciation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Intonation is the variation of pitch while speaking, which conveys meaning, emotion, and grammatical structure (questions vs. statements).",
+          "difficulty": "medium",
+          "topic": "Linguistics and Phonology"
+        }
+      ]
+    },
+    {
+      "id": "language-acquisition",
+      "name": "Language Acquisition and Development",
+      "questions": [
+        {
+          "id": "eng-la-101",
+          "question": "What is first language acquisition?",
+          "options": [
+            "Learning to read",
+            "The natural process of learning one's native language as a child",
+            "Studying grammar",
+            "Learning vocabulary"
+          ],
+          "correctAnswer": 1,
+          "explanation": "First language acquisition is the natural, subconscious process by which children learn their native language from infancy.",
+          "difficulty": "easy",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-102",
+          "question": "What is second language acquisition?",
+          "options": [
+            "Learning a second dialect",
+            "Learning an additional language after the first language is established",
+            "Improving first language",
+            "Learning to write"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Second language acquisition is the process of learning an additional language after the first language has been acquired.",
+          "difficulty": "easy",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-103",
+          "question": "What is the Critical Period Hypothesis?",
+          "options": [
+            "Children learn better when stressed",
+            "There's an optimal period for language acquisition, typically before puberty",
+            "Adults learn faster than children",
+            "Language can be learned equally at any age"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Critical Period Hypothesis suggests there's an optimal period (early childhood to puberty) for language acquisition, after which it becomes more difficult.",
+          "difficulty": "difficult",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-104",
+          "question": "What is 'interlanguage' in second language learning?",
+          "options": [
+            "Mixing two languages",
+            "The learner's developing language system between L1 and L2",
+            "Translation",
+            "Code-switching"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Interlanguage is the learner's evolving linguistic system that falls between their first language and target second language.",
+          "difficulty": "difficult",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-105",
+          "question": "What is 'language transfer' in second language learning?",
+          "options": [
+            "Switching languages",
+            "Influence of first language on learning second language",
+            "Translation skills",
+            "Teaching methods"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Language transfer is when learners apply knowledge, rules, or patterns from their first language to the second language they're learning.",
+          "difficulty": "medium",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-106",
+          "question": "What is 'fossilization' in language learning?",
+          "options": [
+            "Forgetting language",
+            "When incorrect language patterns become permanent",
+            "Learning ancient languages",
+            "Rapid improvement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fossilization occurs when incorrect linguistic features become a permanent part of a learner's interlanguage despite continued exposure and instruction.",
+          "difficulty": "difficult",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-107",
+          "question": "What are the four language skills?",
+          "options": [
+            "Listening, Speaking, Reading, Writing",
+            "Grammar, Vocabulary, Pronunciation, Spelling",
+            "Nouns, Verbs, Adjectives, Adverbs",
+            "Phonics, Fluency, Comprehension, Vocabulary"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The four language skills are Listening and Reading (receptive skills) and Speaking and Writing (productive skills).",
+          "difficulty": "easy",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-108",
+          "question": "What is 'comprehensible input' in language learning?",
+          "options": [
+            "Easy material only",
+            "Language slightly above learner's current level that they can understand",
+            "Native speaker speech",
+            "Grammar rules"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Comprehensible input (Krashen) is language that's slightly above the learner's current level but still understandable through context.",
+          "difficulty": "medium",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-109",
+          "question": "What is the difference between 'acquisition' and 'learning' according to Krashen?",
+          "options": [
+            "No difference",
+            "Acquisition is subconscious/natural; learning is conscious/formal study",
+            "Acquisition is faster",
+            "Learning is better"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Krashen distinguishes: acquisition is subconscious, natural process; learning is conscious, formal study of language rules.",
+          "difficulty": "difficult",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-110",
+          "question": "What is code-switching?",
+          "options": [
+            "Changing topics",
+            "Alternating between languages within conversation",
+            "Secret language",
+            "Translation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Code-switching is alternating between two or more languages or language varieties within a single conversation or utterance.",
+          "difficulty": "medium",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-111",
+          "question": "What is communicative competence?",
+          "options": [
+            "Speaking fluently",
+            "Ability to use language appropriately in social contexts",
+            "Grammar knowledge",
+            "Vocabulary size"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Communicative competence is the ability to use language effectively and appropriately in various social contexts, beyond just grammatical knowledge.",
+          "difficulty": "medium",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-112",
+          "question": "What is the 'silent period' in language acquisition?",
+          "options": [
+            "Not speaking due to shyness",
+            "Initial phase where learners listen and comprehend before speaking",
+            "Quiet classroom",
+            "Study time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The silent period is an initial phase in language acquisition where learners actively listen and process language before producing speech.",
+          "difficulty": "medium",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-113",
+          "question": "What is 'language interference'?",
+          "options": [
+            "Noise while studying",
+            "When first language patterns negatively affect second language learning",
+            "Interrupting speakers",
+            "Distractions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Language interference occurs when patterns from a learner's first language negatively influence their production or comprehension of the second language.",
+          "difficulty": "medium",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-114",
+          "question": "What is 'metalinguistic awareness'?",
+          "options": [
+            "Language learning speed",
+            "Ability to think about and analyze language as a system",
+            "Speaking multiple languages",
+            "Translation skills"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Metalinguistic awareness is the ability to think about, analyze, and manipulate language as an object of thought, recognizing it as a system.",
+          "difficulty": "difficult",
+          "topic": "Language Acquisition and Development"
+        },
+        {
+          "id": "eng-la-115",
+          "question": "What is 'scaffolding' in language learning?",
+          "options": [
+            "Building vocabulary",
+            "Temporary support to help learners accomplish tasks",
+            "Learning structure",
+            "Grammar framework"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding provides temporary, adjustable support (visual aids, modeling, prompts) to help learners accomplish language tasks, gradually withdrawn as competence increases.",
+          "difficulty": "medium",
+          "topic": "Language Acquisition and Development"
+        }
+      ]
+    },
+    {
+      "id": "teaching-methods",
+      "name": "English Teaching Methodologies",
+      "questions": [
+        {
+          "id": "eng-tm-116",
+          "question": "What is the Communicative Language Teaching (CLT) approach?",
+          "options": [
+            "Focus on grammar rules",
+            "Emphasis on using language for real communication",
+            "Translation method",
+            "Memorization-based"
+          ],
+          "correctAnswer": 1,
+          "explanation": "CLT emphasizes using language for authentic communication and interaction, focusing on meaning over form.",
+          "difficulty": "medium",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-117",
+          "question": "What is the Direct Method of language teaching?",
+          "options": [
+            "Teaching through translation",
+            "Instruction entirely in target language without translation",
+            "Grammar-focused approach",
+            "Reading-based method"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Direct Method teaches language entirely in the target language without translation, emphasizing conversation and oral skills.",
+          "difficulty": "medium",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-118",
+          "question": "What is the Grammar-Translation Method?",
+          "options": [
+            "Speaking practice",
+            "Teaching through analyzing grammar and translating texts",
+            "Conversational approach",
+            "Immersion method"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Grammar-Translation focuses on analyzing grammatical rules and translating texts between native and target languages, with little emphasis on speaking.",
+          "difficulty": "easy",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-119",
+          "question": "What is Task-Based Language Teaching (TBLT)?",
+          "options": [
+            "Grammar exercises",
+            "Learning through completing meaningful tasks",
+            "Lecture-based teaching",
+            "Translation practice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "TBLT has students learn language by completing meaningful, real-world tasks that require language use for authentic purposes.",
+          "difficulty": "medium",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-120",
+          "question": "What is the Audio-Lingual Method?",
+          "options": [
+            "Reading comprehension focus",
+            "Repetition and drilling for habit formation",
+            "Written communication emphasis",
+            "Translation practice"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Audio-Lingual Method uses repetition, drilling, and pattern practice to form language habits, based on behaviorist psychology.",
+          "difficulty": "medium",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-121",
+          "question": "What is Content-Based Instruction (CBI)?",
+          "options": [
+            "Grammar-focused teaching",
+            "Learning language through subject matter content",
+            "Conversation practice only",
+            "Translation method"
+          ],
+          "correctAnswer": 1,
+          "explanation": "CBI teaches language through content from other subject areas (science, history), integrating language and content learning.",
+          "difficulty": "medium",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-122",
+          "question": "What is the Silent Way teaching method?",
+          "options": [
+            "Quiet classroom rules",
+            "Teacher remains largely silent while students discover language",
+            "No speaking allowed",
+            "Reading silently"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Silent Way has the teacher remain largely silent, using gestures and visuals while students actively discover and produce language.",
+          "difficulty": "difficult",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-123",
+          "question": "What is Total Physical Response (TPR)?",
+          "options": [
+            "Exercise during class",
+            "Learning through physical movement in response to commands",
+            "Sports-based learning",
+            "Drama method"
+          ],
+          "correctAnswer": 1,
+          "explanation": "TPR teaches language through physical movement, with students responding to commands with actions before producing speech.",
+          "difficulty": "easy",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-124",
+          "question": "What is the Natural Approach?",
+          "options": [
+            "Outdoor learning",
+            "Emphasis on comprehensible input and natural communication",
+            "Grammar focus",
+            "Translation-based"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Natural Approach (Krashen & Terrell) emphasizes comprehensible input, natural communication, and low-anxiety environment, delaying production.",
+          "difficulty": "medium",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-125",
+          "question": "What is the purpose of using realia in language teaching?",
+          "options": [
+            "Real-world objects to make learning authentic and meaningful",
+            "Virtual reality",
+            "Reality TV",
+            "Real tests"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Realia are real-world objects and materials (menus, tickets, packages) used to make language learning authentic, meaningful, and contextualized.",
+          "difficulty": "easy",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-126",
+          "question": "What is differentiated instruction in English teaching?",
+          "options": [
+            "Teaching different subjects",
+            "Adapting instruction to meet diverse learner needs and levels",
+            "Separate classes",
+            "Different teachers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Differentiated instruction adapts content, process, and product to meet diverse learner needs, readiness levels, interests, and learning profiles.",
+          "difficulty": "easy",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-127",
+          "question": "What is the purpose of error correction in language teaching?",
+          "options": [
+            "Punishment",
+            "Helping students notice and learn from mistakes",
+            "Embarrassing students",
+            "Testing only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Error correction helps students notice gaps in their knowledge, provides feedback for improvement, and facilitates language learning when done appropriately.",
+          "difficulty": "easy",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-128",
+          "question": "What is 'noticing' in language acquisition?",
+          "options": [
+            "Paying attention in class",
+            "Conscious awareness of language forms and structures",
+            "Observation skills",
+            "Note-taking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Noticing is when learners consciously attend to and become aware of specific language forms, features, or gaps in their knowledge.",
+          "difficulty": "medium",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-129",
+          "question": "What is the 'flipped classroom' model?",
+          "options": [
+            "Upside-down seating",
+            "Students learn content at home and do activities in class",
+            "Reverse order lessons",
+            "Different classroom arrangement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In the flipped classroom, students learn content (via videos/readings) at home and use class time for activities, practice, and application.",
+          "difficulty": "medium",
+          "topic": "English Teaching Methodologies"
+        },
+        {
+          "id": "eng-tm-130",
+          "question": "What is cooperative learning in English teaching?",
+          "options": [
+            "Working alone",
+            "Students working together in small groups toward shared goals",
+            "Copying from others",
+            "Teacher-led groups"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cooperative learning has students work together in small groups on structured tasks with shared goals and individual accountability.",
+          "difficulty": "easy",
+          "topic": "English Teaching Methodologies"
+        }
+      ]
+    },
+    {
+      "id": "assessment-evaluation",
+      "name": "Assessment and Evaluation in English",
+      "questions": [
+        {
+          "id": "eng-ae-131",
+          "question": "What is formative assessment?",
+          "options": [
+            "Final exam",
+            "Ongoing assessment during learning to guide instruction",
+            "Standardized test",
+            "Year-end evaluation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Formative assessment is ongoing, informal assessment during the learning process used to monitor progress and adjust instruction.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-132",
+          "question": "What is summative assessment?",
+          "options": [
+            "Daily quizzes",
+            "Final evaluation of learning at end of instruction period",
+            "Practice tests",
+            "Homework"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Summative assessment evaluates student learning at the end of an instructional period, measuring achievement against standards.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-133",
+          "question": "What is a rubric?",
+          "options": [
+            "Red pen",
+            "Scoring guide with criteria and performance levels",
+            "Test format",
+            "Grade book"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A rubric is a scoring guide that lists criteria for evaluating work and describes levels of quality for each criterion.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-134",
+          "question": "What is authentic assessment?",
+          "options": [
+            "Real tests",
+            "Evaluating performance on real-world, meaningful tasks",
+            "Standardized tests",
+            "Multiple choice tests"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Authentic assessment evaluates students' abilities through real-world, meaningful tasks that demonstrate practical application of skills.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-135",
+          "question": "What is portfolio assessment?",
+          "options": [
+            "Art folder",
+            "Collection of student work showing growth over time",
+            "Test scores",
+            "Attendance record"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Portfolio assessment uses a purposeful collection of student work that demonstrates progress, effort, and achievement over time.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-136",
+          "question": "What is diagnostic assessment?",
+          "options": [
+            "Final test",
+            "Assessment before instruction to identify strengths and needs",
+            "Pop quiz",
+            "Graded homework"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Diagnostic assessment occurs before instruction to identify students' prior knowledge, strengths, weaknesses, and learning needs.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-137",
+          "question": "What is criterion-referenced assessment?",
+          "options": [
+            "Comparing to other students",
+            "Measuring performance against specific standards or criteria",
+            "Teacher's opinion",
+            "Class ranking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Criterion-referenced assessment measures student performance against predetermined standards or criteria, not against other students.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-138",
+          "question": "What is norm-referenced assessment?",
+          "options": [
+            "Based on standards",
+            "Comparing student performance to peer group",
+            "Individual progress",
+            "Pass/fail only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Norm-referenced assessment compares a student's performance to that of a norming group or peer group, showing relative standing.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-139",
+          "question": "What is self-assessment?",
+          "options": [
+            "Peer grading",
+            "Students evaluating their own work and progress",
+            "Teacher evaluation",
+            "Standardized testing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-assessment involves students reflecting on and evaluating their own work, progress, and learning, developing metacognitive skills.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-140",
+          "question": "What is peer assessment?",
+          "options": [
+            "Teacher grading",
+            "Students evaluating classmates' work using criteria",
+            "Group work",
+            "Self-grading"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Peer assessment has students evaluate and provide feedback on classmates' work using established criteria, promoting critical thinking.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-141",
+          "question": "What is validity in assessment?",
+          "options": [
+            "Test difficulty",
+            "Assessment measures what it's intended to measure",
+            "Test length",
+            "Grading fairness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Validity means an assessment accurately measures what it's intended to measure and serves its intended purpose.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-142",
+          "question": "What is reliability in assessment?",
+          "options": [
+            "Easy grading",
+            "Consistency and dependability of assessment results",
+            "Test validity",
+            "Student honesty"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reliability means an assessment produces consistent, dependable results across different times, raters, or versions.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-143",
+          "question": "What is a holistic rubric?",
+          "options": [
+            "Detailed rubric",
+            "Single overall score for entire performance",
+            "Multiple criteria scores",
+            "Checklist"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A holistic rubric provides a single overall score based on general impression of the entire performance or product.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-144",
+          "question": "What is an analytic rubric?",
+          "options": [
+            "Overall score only",
+            "Separate scores for different criteria or dimensions",
+            "Pass/fail rubric",
+            "Simple checklist"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An analytic rubric provides separate scores for different criteria or dimensions of performance, giving detailed feedback.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-145",
+          "question": "What is performance-based assessment?",
+          "options": [
+            "Written test",
+            "Assessment requiring demonstration of skills through tasks",
+            "Multiple choice",
+            "True/false test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Performance-based assessment requires students to demonstrate skills and knowledge by performing tasks or creating products.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-146",
+          "question": "What is differentiated assessment?",
+          "options": [
+            "Same test for all",
+            "Varied assessment methods to match diverse learner needs",
+            "Different subjects",
+            "Harder tests"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Differentiated assessment provides varied methods and formats to accommodate diverse learner needs, abilities, and learning styles.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-147",
+          "question": "What is the purpose of feedback in assessment?",
+          "options": [
+            "Final grade only",
+            "Provide information to improve learning and performance",
+            "Criticism",
+            "Comparison to others"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Feedback provides specific information about performance to help students understand strengths, weaknesses, and how to improve.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-148",
+          "question": "What is a checklist in assessment?",
+          "options": [
+            "Shopping list",
+            "List of criteria marked as present or absent",
+            "Grade sheet",
+            "Attendance record"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A checklist is a list of criteria, skills, or behaviors that are marked as present/absent or complete/incomplete during assessment.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-149",
+          "question": "What is washback effect in assessment?",
+          "options": [
+            "Grading errors",
+            "Influence of assessment on teaching and learning",
+            "Test review",
+            "Score adjustments"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Washback (or backwash) is the influence of assessment on teaching and learning practices, which can be positive or negative.",
+          "difficulty": "difficult",
+          "topic": "Assessment and Evaluation in English"
+        },
+        {
+          "id": "eng-ae-150",
+          "question": "What is the purpose of exit tickets/exit slips?",
+          "options": [
+            "Leaving class early",
+            "Quick formative assessment at end of lesson to check understanding",
+            "Attendance",
+            "Homework passes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Exit tickets are brief formative assessments at lesson's end that check understanding and inform future instruction.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation in English"
         }
       ]
     }
-  ],
-  "totalQuestions": 1,
-  "note": "Sample questions - Add 150 total for full implementation"
+  ]
 }
