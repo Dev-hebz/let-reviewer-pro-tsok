@@ -1,465 +1,1303 @@
 {
-  "subject": "Elementary - General Elementary",
+  "subject": "General Elementary Education - LET Reviewer",
   "category": "elementary",
   "subcategory": "general-elementary",
   "topics": [
     {
-      "id": "child-psychology",
-      "name": "Child Psychology",
+      "id": "teaching-strategies-elementary",
+      "name": "Teaching Strategies for Elementary Grades",
       "questions": [
         {
-          "id": "ele-gen-cp-001",
-          "question": "According to Piaget, at what stage do children begin to think logically about concrete events?",
+          "id": "ge-ts-001",
+          "question": "What is the most effective teaching strategy for elementary learners?",
           "options": [
-            "Sensorimotor Stage",
-            "Preoperational Stage",
-            "Concrete Operational Stage",
-            "Formal Operational Stage"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The Concrete Operational Stage (ages 7-11) is when children develop logical thinking about concrete events and can perform operations on tangible objects.",
-          "difficulty": "medium",
-          "topic": "Child Psychology"
-        },
-        {
-          "id": "ele-gen-cp-002",
-          "question": "What is the primary focus of Erik Erikson's psychosocial development theory for elementary-aged children?",
-          "options": [
-            "Trust vs. Mistrust",
-            "Autonomy vs. Shame",
-            "Industry vs. Inferiority",
-            "Identity vs. Role Confusion"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Industry vs. Inferiority (ages 6-12) is the stage where children develop competence and learn to work with others, which is crucial for elementary education.",
-          "difficulty": "medium",
-          "topic": "Child Psychology"
-        },
-        {
-          "id": "ele-gen-cp-003",
-          "question": "What does 'scaffolding' mean in Vygotsky's theory of learning?",
-          "options": [
-            "Building physical structures for learning",
-            "Providing temporary support that is gradually removed",
-            "Creating permanent support systems",
-            "Testing children's abilities"
+            "Varied, interactive, and developmentally appropriate strategies",
+            "Lecture method only",
+            "Textbook reading only",
+            "Memorization drills"
           ],
           "correctAnswer": 1,
-          "explanation": "Scaffolding refers to the temporary support provided by teachers or peers that is gradually withdrawn as the learner becomes more competent.",
+          "explanation": "Elementary learners benefit most from varied, interactive strategies that match their developmental level and learning styles.",
           "difficulty": "easy",
-          "topic": "Child Psychology"
+          "topic": "Teaching Strategies for Elementary Grades"
         },
         {
-          "id": "ele-gen-cp-004",
-          "question": "What is the Zone of Proximal Development (ZPD)?",
+          "id": "ge-ts-002",
+          "question": "What is 'differentiated instruction' in elementary education?",
           "options": [
-            "The area where children cannot learn anything",
-            "The difference between what a child can do alone and with help",
-            "The physical space needed for learning",
-            "The time period for optimal learning"
-          ],
-          "correctAnswer": 1,
-          "explanation": "ZPD is the gap between what a learner can do independently and what they can achieve with guidance from a more knowledgeable person.",
-          "difficulty": "medium",
-          "topic": "Child Psychology"
-        },
-        {
-          "id": "ele-gen-cp-005",
-          "question": "Which learning style involves learning through physical movement and hands-on activities?",
-          "options": [
-            "Visual learners",
-            "Auditory learners",
-            "Kinesthetic learners",
-            "Reading/Writing learners"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Kinesthetic learners learn best through physical activities, movement, and hands-on experiences.",
-          "difficulty": "easy",
-          "topic": "Child Psychology"
-        }
-      ]
-    },
-    {
-      "id": "classroom-management",
-      "name": "Classroom Management",
-      "questions": [
-        {
-          "id": "ele-gen-cm-001",
-          "question": "What is the most effective approach to managing elementary classroom behavior?",
-          "options": [
-            "Strict punishment for all misbehavior",
-            "Ignoring all negative behaviors",
-            "Positive reinforcement and clear expectations",
-            "Allowing complete freedom"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Positive reinforcement combined with clear, consistent expectations creates the most effective learning environment for elementary examinees.",
-          "difficulty": "easy",
-          "topic": "Classroom Management"
-        },
-        {
-          "id": "ele-gen-cm-002",
-          "question": "What does 'proximity control' mean in classroom management?",
-          "options": [
-            "Keeping examinees far from the teacher",
-            "Using the teacher's physical presence to influence behavior",
-            "Controlling the temperature in the classroom",
-            "Managing seating arrangements"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Proximity control involves strategically positioning yourself near examinees to prevent or address behavioral issues without verbal intervention.",
-          "difficulty": "medium",
-          "topic": "Classroom Management"
-        },
-        {
-          "id": "ele-gen-cm-003",
-          "question": "What is the purpose of establishing routines in an elementary classroom?",
-          "options": [
-            "To make teaching easier for the teacher only",
-            "To waste time",
-            "To provide structure, predictability, and reduce behavioral issues",
-            "To make examinees work harder"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Routines provide structure and predictability, which helps children feel secure and reduces time spent on transitions and behavioral management.",
-          "difficulty": "easy",
-          "topic": "Classroom Management"
-        },
-        {
-          "id": "ele-gen-cm-004",
-          "question": "Which strategy is most effective for dealing with disruptive behavior?",
-          "options": [
-            "Public humiliation",
-            "Private conversation with the examinee",
-            "Immediate expulsion",
-            "Ignoring it completely"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Private conversations maintain the examinee's dignity while addressing the behavior directly and allow for understanding the root cause.",
-          "difficulty": "medium",
-          "topic": "Classroom Management"
-        },
-        {
-          "id": "ele-gen-cm-005",
-          "question": "What is 'time-on-task' in classroom management?",
-          "options": [
-            "The time examinees spend on homework",
-            "The amount of time examinees are actively engaged in learning",
-            "Break time between classes",
-            "Teacher preparation time"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Time-on-task refers to the amount of time examinees are actively and productively engaged in learning activities.",
-          "difficulty": "easy",
-          "topic": "Classroom Management"
-        }
-      ]
-    },
-    {
-      "id": "teaching-methods",
-      "name": "Teaching Methods",
-      "questions": [
-        {
-          "id": "ele-gen-tm-001",
-          "question": "What is the main advantage of cooperative learning?",
-          "options": [
-            "It reduces teacher workload",
-            "Examinees learn from each other and develop social skills",
-            "It requires no planning",
-            "It eliminates the need for assessment"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Cooperative learning promotes peer interaction, social skill development, and deeper understanding through discussion and collaboration.",
-          "difficulty": "easy",
-          "topic": "Teaching Methods"
-        },
-        {
-          "id": "ele-gen-tm-002",
-          "question": "What is 'differentiated instruction'?",
-          "options": [
-            "Teaching only advanced examinees",
             "Using different textbooks",
-            "Tailoring instruction to meet individual examinee needs",
-            "Separating examinees by ability"
+            "Teaching different subjects",
+            "Separating students by ability",
+            "Tailoring instruction to meet diverse learner needs"
           ],
-          "correctAnswer": 2,
-          "explanation": "Differentiated instruction involves adapting teaching methods, materials, and assessments to accommodate diverse learner needs and abilities.",
+          "correctAnswer": 3,
+          "explanation": "Differentiated instruction involves adjusting content, process, and product to meet individual student needs and readiness levels.",
           "difficulty": "medium",
-          "topic": "Teaching Methods"
+          "topic": "Teaching Strategies for Elementary Grades"
         },
         {
-          "id": "ele-gen-tm-003",
-          "question": "What is the 'K-W-L' strategy used for?",
+          "id": "ge-ts-003",
+          "question": "What is the purpose of 'scaffolding' in elementary instruction?",
           "options": [
-            "Behavior management",
-            "Activating prior knowledge and setting learning goals",
-            "Grading examinees",
-            "Parent communication"
+            "Organizing classroom",
+            "Providing temporary support to help students master new skills",
+            "Building structures",
+            "Physical support"
           ],
           "correctAnswer": 1,
-          "explanation": "K-W-L stands for 'What I Know, What I Want to know, What I Learned' - a strategy for activating prior knowledge and guiding inquiry.",
+          "explanation": "Scaffolding provides temporary, adjustable support that helps students accomplish tasks they cannot yet do independently.",
           "difficulty": "medium",
-          "topic": "Teaching Methods"
+          "topic": "Teaching Strategies for Elementary Grades"
         },
         {
-          "id": "ele-gen-tm-004",
+          "id": "ge-ts-004",
+          "question": "What is 'cooperative learning' in elementary classroom?",
+          "options": [
+            "Students working alone",
+            "Structured group work with shared goals and individual accountability",
+            "Teacher-led activities",
+            "Competitive games"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cooperative learning involves students working together in structured groups with shared goals and individual accountability.",
+          "difficulty": "easy",
+          "topic": "Teaching Strategies for Elementary Grades"
+        },
+        {
+          "id": "ge-ts-005",
+          "question": "What is the 'gradual release of responsibility' model?",
+          "options": [
+            "Random practice",
+            "Students teach themselves from the start",
+            "I do, We do, You do",
+            "Teacher does everything"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The gradual release model follows 'I do' (modeling), 'We do' (guided practice), 'You do' (independent practice).",
+          "difficulty": "medium",
+          "topic": "Teaching Strategies for Elementary Grades"
+        },
+        {
+          "id": "ge-ts-006",
           "question": "What is 'inquiry-based learning'?",
           "options": [
-            "Teacher lectures only",
-            "Examinees asking questions and investigating to find answers",
-            "Memorizing facts",
-            "Silent reading"
+            "Asking many questions",
+            "Quiz-based learning",
+            "Student-centered approach where learning occurs through questioning and investigation",
+            "Teacher asking questions only"
           ],
-          "correctAnswer": 1,
-          "explanation": "Inquiry-based learning engages examinees in formulating questions, investigating, and constructing their own understanding.",
-          "difficulty": "easy",
-          "topic": "Teaching Methods"
-        },
-        {
-          "id": "ele-gen-tm-005",
-          "question": "Why is 'wait time' important after asking a question?",
-          "options": [
-            "To give the teacher a break",
-            "To allow examinees time to think and formulate responses",
-            "To waste time",
-            "To confuse examinees"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Wait time (3-5 seconds) allows examinees to process the question, think critically, and formulate thoughtful responses.",
-          "difficulty": "easy",
-          "topic": "Teaching Methods"
-        }
-      ]
-    },
-    {
-      "id": "assessment",
-      "name": "Assessment and Evaluation",
-      "questions": [
-        {
-          "id": "ele-gen-as-001",
-          "question": "What is the difference between formative and summative assessment?",
-          "options": [
-            "No difference",
-            "Formative is ongoing feedback; summative evaluates final learning",
-            "Formative is harder than summative",
-            "Summative comes before formative"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Formative assessment provides ongoing feedback during learning, while summative assessment evaluates learning at the end of instruction.",
+          "correctAnswer": 2,
+          "explanation": "Inquiry-based learning is student-centered, where learners investigate questions, problems, and scenarios through research and exploration.",
           "difficulty": "medium",
-          "topic": "Assessment and Evaluation"
+          "topic": "Teaching Strategies for Elementary Grades"
         },
         {
-          "id": "ele-gen-as-002",
-          "question": "What is 'authentic assessment'?",
+          "id": "ge-ts-007",
+          "question": "What is the purpose of 'think-pair-share' strategy?",
           "options": [
-            "Multiple choice tests only",
-            "Real-world tasks that demonstrate meaningful application",
-            "Standardized tests",
-            "Pop quizzes"
+            "Promote reflection, discussion, and active participation",
+            "Time management",
+            "Group grading",
+            "Classroom organization"
           ],
           "correctAnswer": 1,
-          "explanation": "Authentic assessment requires examinees to apply knowledge and skills to real-world, meaningful tasks rather than artificial test situations.",
-          "difficulty": "medium",
-          "topic": "Assessment and Evaluation"
-        },
-        {
-          "id": "ele-gen-as-003",
-          "question": "What is a 'rubric'?",
-          "options": [
-            "A type of pencil",
-            "A scoring guide with criteria for evaluating examinee work",
-            "A classroom rule",
-            "A type of test"
-          ],
-          "correctAnswer": 1,
-          "explanation": "A rubric is a scoring tool that lists criteria and describes levels of performance quality for assessing examinee work.",
+          "explanation": "Think-pair-share promotes individual reflection, peer discussion, and active participation by all students.",
           "difficulty": "easy",
-          "topic": "Assessment and Evaluation"
+          "topic": "Teaching Strategies for Elementary Grades"
         },
         {
-          "id": "ele-gen-as-004",
-          "question": "What is 'portfolio assessment'?",
+          "id": "ge-ts-008",
+          "question": "What is 'direct instruction'?",
           "options": [
-            "A single test score",
-            "A collection of examinee work showing growth over time",
-            "A folder for storing papers",
-            "A type of standardized test"
+            "Student discovery only",
+            "Explicit, teacher-led instruction with clear objectives and modeling",
+            "Indirect teaching",
+            "Group work"
           ],
           "correctAnswer": 1,
-          "explanation": "Portfolio assessment involves collecting and evaluating a purposeful selection of examinee work to demonstrate progress and achievement.",
+          "explanation": "Direct instruction is explicit, systematic, teacher-led instruction with clear learning objectives and step-by-step modeling.",
           "difficulty": "easy",
-          "topic": "Assessment and Evaluation"
+          "topic": "Teaching Strategies for Elementary Grades"
         },
         {
-          "id": "ele-gen-as-005",
-          "question": "What does 'validity' mean in assessment?",
+          "id": "ge-ts-009",
+          "question": "What is the 'KWL' strategy used for?",
           "options": [
-            "The test is easy to grade",
-            "The test measures what it intends to measure",
-            "The test is difficult",
-            "The test takes a long time"
+            "Classroom management",
+            "Grading",
+            "Assessment only",
+            "Activating prior knowledge and organizing learning (Know, Want to know, Learned)"
+          ],
+          "correctAnswer": 3,
+          "explanation": "KWL helps activate prior knowledge (K), set learning goals (W), and reflect on learning (L).",
+          "difficulty": "easy",
+          "topic": "Teaching Strategies for Elementary Grades"
+        },
+        {
+          "id": "ge-ts-010",
+          "question": "What is 'mastery learning'?",
+          "options": [
+            "Advanced learning only",
+            "Accelerated learning",
+            "Ensuring students achieve competency before moving to next concept",
+            "Expert-level teaching"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mastery learning ensures students demonstrate competency in one concept before advancing to more complex material.",
+          "difficulty": "medium",
+          "topic": "Teaching Strategies for Elementary Grades"
+        },
+        {
+          "id": "ge-ts-011",
+          "question": "What is the purpose of using manipulatives in elementary math?",
+          "options": [
+            "Provide concrete representations of abstract concepts",
+            "Keep students busy",
+            "Toys for free time",
+            "Decoration"
           ],
           "correctAnswer": 1,
-          "explanation": "Validity refers to whether an assessment accurately measures the intended learning outcomes or skills.",
+          "explanation": "Manipulatives help elementary students understand abstract mathematical concepts through concrete, hands-on experiences.",
+          "difficulty": "easy",
+          "topic": "Teaching Strategies for Elementary Grades"
+        },
+        {
+          "id": "ge-ts-012",
+          "question": "What is 'graphic organizers' used for?",
+          "options": [
+            "Handwriting practice",
+            "Visual tools to organize and represent knowledge",
+            "Decoration",
+            "Art projects"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Graphic organizers are visual tools that help students organize, analyze, and represent information and relationships.",
+          "difficulty": "easy",
+          "topic": "Teaching Strategies for Elementary Grades"
+        },
+        {
+          "id": "ge-ts-013",
+          "question": "What is 'wait time' in questioning?",
+          "options": [
+            "Waiting in line",
+            "Time out",
+            "Pause after question to allow thinking before responses",
+            "Punishment time"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Wait time is the pause after asking a question, giving students time to think before responding or being called on.",
+          "difficulty": "easy",
+          "topic": "Teaching Strategies for Elementary Grades"
+        },
+        {
+          "id": "ge-ts-014",
+          "question": "What is the recommended wait time after asking a question?",
+          "options": [
+            "1 minute",
+            "No wait time",
+            "3-5 seconds",
+            "30 seconds"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Research shows 3-5 seconds of wait time increases quality and quantity of student responses.",
           "difficulty": "medium",
-          "topic": "Assessment and Evaluation"
+          "topic": "Teaching Strategies for Elementary Grades"
+        },
+        {
+          "id": "ge-ts-015",
+          "question": "What is 'formative assessment' used for during instruction?",
+          "options": [
+            "Ranking students",
+            "Report cards",
+            "Monitoring learning progress and adjusting instruction",
+            "Final grading"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Formative assessment monitors student learning during instruction to provide ongoing feedback and adjust teaching strategies.",
+          "difficulty": "medium",
+          "topic": "Teaching Strategies for Elementary Grades"
         }
       ]
     },
     {
       "id": "literacy-development",
-      "name": "Literacy Development",
+      "name": "Literacy Development in Elementary",
       "questions": [
         {
-          "id": "ele-gen-ld-001",
-          "question": "What are the five essential components of reading instruction?",
+          "id": "ge-ld-016",
+          "question": "What are the five components of reading instruction?",
           "options": [
-            "Reading, writing, speaking, listening, viewing",
-            "Phonemic awareness, phonics, fluency, vocabulary, comprehension",
-            "Books, pencils, paper, desks, teachers",
-            "Nouns, verbs, adjectives, adverbs, pronouns"
+            "Reading, Writing, Speaking, Listening, Viewing",
+            "Phonemic Awareness, Phonics, Fluency, Vocabulary, Comprehension",
+            "Decoding, Encoding, Understanding, Remembering, Applying",
+            "Letters, Words, Sentences, Paragraphs, Stories"
           ],
           "correctAnswer": 1,
-          "explanation": "The five pillars of reading are phonemic awareness, phonics, fluency, vocabulary, and comprehension as identified by the National Reading Panel.",
+          "explanation": "The five essential components are Phonemic Awareness, Phonics, Fluency, Vocabulary, and Reading Comprehension.",
           "difficulty": "medium",
-          "topic": "Literacy Development"
+          "topic": "Literacy Development in Elementary"
         },
         {
-          "id": "ele-gen-ld-002",
+          "id": "ge-ld-017",
           "question": "What is 'phonemic awareness'?",
           "options": [
-            "Knowing letter names",
-            "The ability to hear, identify, and manipulate individual sounds",
-            "Reading fluently",
-            "Understanding word meanings"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Phonemic awareness is the ability to recognize and manipulate individual sounds (phonemes) in spoken words.",
-          "difficulty": "easy",
-          "topic": "Literacy Development"
-        },
-        {
-          "id": "ele-gen-ld-003",
-          "question": "What is the 'gradual release of responsibility' model?",
-          "options": [
-            "Examinees teach themselves from day one",
-            "Teacher never helps examinees",
-            "I do, We do, You do - moving from teacher-led to independent",
-            "Only homework, no classroom teaching"
+            "Spelling skills",
+            "Knowing the alphabet",
+            "Ability to hear, identify, and manipulate individual sounds (phonemes)",
+            "Reading ability"
           ],
           "correctAnswer": 2,
-          "explanation": "The gradual release model moves from teacher modeling (I do), to guided practice (We do), to independent practice (You do).",
-          "difficulty": "medium",
-          "topic": "Literacy Development"
-        },
-        {
-          "id": "ele-gen-ld-004",
-          "question": "What is 'emergent literacy'?",
-          "options": [
-            "Advanced reading skills",
-            "The early reading and writing behaviors that precede conventional literacy",
-            "Computer literacy",
-            "Only for gifted examinees"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Emergent literacy refers to the knowledge, skills, and attitudes that are developmental precursors to conventional reading and writing.",
-          "difficulty": "medium",
-          "topic": "Literacy Development"
-        },
-        {
-          "id": "ele-gen-ld-005",
-          "question": "Why is reading aloud to children important?",
-          "options": [
-            "It's just entertainment",
-            "It develops listening skills, vocabulary, comprehension, and love of reading",
-            "It wastes instructional time",
-            "Only parents should do it"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Reading aloud exposes children to rich vocabulary, story structure, comprehension strategies, and fosters a love of reading.",
+          "explanation": "Phonemic awareness is the ability to hear, identify, and manipulate individual phonemes in spoken words.",
           "difficulty": "easy",
-          "topic": "Literacy Development"
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-018",
+          "question": "What is 'phonics'?",
+          "options": [
+            "Music education",
+            "Phone usage",
+            "Sound system",
+            "Relationship between letters (graphemes) and sounds (phonemes)"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Phonics is the method of teaching reading by correlating sounds with letters or groups of letters.",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-019",
+          "question": "What is 'reading fluency'?",
+          "options": [
+            "Reading accurately, at appropriate rate, with expression",
+            "Reading fast",
+            "Reading many books",
+            "Reading aloud only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reading fluency is the ability to read accurately, at an appropriate rate, and with proper expression and comprehension.",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-020",
+          "question": "What are 'sight words' or 'high-frequency words'?",
+          "options": [
+            "Large words",
+            "Words with pictures",
+            "Words that appear frequently and should be recognized instantly",
+            "Visible words"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Sight words are frequently occurring words that readers should recognize instantly without decoding.",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-021",
+          "question": "What is 'reading comprehension'?",
+          "options": [
+            "Understanding and constructing meaning from text",
+            "Pronunciation",
+            "Reading speed",
+            "Vocabulary size"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reading comprehension is the ability to understand, interpret, and construct meaning from written text.",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-022",
+          "question": "What are the levels of reading comprehension?",
+          "options": [
+            "Beginning, Intermediate, Advanced",
+            "Literal, Inferential, Critical/Evaluative, Creative",
+            "Surface, Deep, Expert",
+            "Easy, Medium, Difficult"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The four levels are Literal (stated facts), Inferential (reading between lines), Critical (evaluation), and Creative (beyond text).",
+          "difficulty": "medium",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-023",
+          "question": "What is 'guided reading'?",
+          "options": [
+            "Reading with guides",
+            "Small-group instruction with leveled texts and teacher support",
+            "Following instructions",
+            "Teacher reading aloud"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Guided reading is small-group instruction where students read leveled texts with teacher guidance and support.",
+          "difficulty": "medium",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-024",
+          "question": "What is 'independent reading'?",
+          "options": [
+            "Silent reading time",
+            "Homework",
+            "Students reading self-selected texts at their level without assistance",
+            "Reading alone in corner"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Independent reading is when students read self-selected, appropriate-level texts independently to build fluency and comprehension.",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-025",
+          "question": "What is the 'writing process'?",
+          "options": [
+            "Writing and checking",
+            "Just writing",
+            "Prewriting, Drafting, Revising, Editing, Publishing",
+            "Copying and submitting"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The writing process includes Prewriting, Drafting, Revising, Editing, and Publishing stages.",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-026",
+          "question": "What is 'vocabulary development' in elementary?",
+          "options": [
+            "Acquiring word meanings through explicit instruction and exposure",
+            "Dictionary memorization",
+            "Learning big words",
+            "Spelling practice"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Vocabulary development involves learning word meanings through direct instruction, context, and wide reading exposure.",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-027",
+          "question": "What is 'shared reading'?",
+          "options": [
+            "Teacher and students reading together with visible text",
+            "Library time",
+            "Sharing books",
+            "Book exchange"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Shared reading involves teacher and students reading together from a common, visible text (often big books).",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-028",
+          "question": "What is 'close reading'?",
+          "options": [
+            "Reading nearby",
+            "Speed reading",
+            "Careful, purposeful reading to understand complex text deeply",
+            "Reading with eyes close to book"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Close reading is careful, deep analysis of text through multiple readings to understand complex meanings.",
+          "difficulty": "medium",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-029",
+          "question": "What is the purpose of 'read-alouds' in elementary?",
+          "options": [
+            "Teacher rest time",
+            "Fill time",
+            "Entertainment only",
+            "Model fluent reading, build vocabulary, comprehension, and love of reading"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Read-alouds model fluent reading, expose students to rich vocabulary, build comprehension, and foster love of reading.",
+          "difficulty": "easy",
+          "topic": "Literacy Development in Elementary"
+        },
+        {
+          "id": "ge-ld-030",
+          "question": "What is 'balanced literacy'?",
+          "options": [
+            "Balanced books",
+            "Equal time for all subjects",
+            "Approach combining various reading/writing methods and components",
+            "Reading and writing equally"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Balanced literacy integrates read-alouds, shared reading, guided reading, independent reading, and writing instruction.",
+          "difficulty": "medium",
+          "topic": "Literacy Development in Elementary"
         }
       ]
     },
     {
-      "id": "mathematics-education",
-      "name": "Mathematics Education",
+      "id": "mathematics-elementary",
+      "name": "Mathematics in Elementary Grades",
       "questions": [
         {
-          "id": "ele-gen-me-001",
+          "id": "ge-me-031",
           "question": "What is 'number sense'?",
           "options": [
-            "Memorizing math facts",
-            "Understanding numbers, their relationships, and operations",
-            "Counting to 100",
-            "Knowing addition only"
+            "Calculation speed",
+            "Math skills",
+            "Counting ability",
+            "Intuitive understanding of numbers, operations, and relationships"
           ],
-          "correctAnswer": 1,
-          "explanation": "Number sense is an intuitive understanding of numbers, their magnitude, relationships, and how they are affected by operations.",
-          "difficulty": "easy",
-          "topic": "Mathematics Education"
-        },
-        {
-          "id": "ele-gen-me-002",
-          "question": "What are 'manipulatives' in mathematics teaching?",
-          "options": [
-            "Worksheets",
-            "Physical objects examinees can handle to learn math concepts",
-            "Pencils and paper",
-            "Textbooks"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Manipulatives are concrete objects that help examinees explore and understand mathematical concepts through hands-on experience.",
-          "difficulty": "easy",
-          "topic": "Mathematics Education"
-        },
-        {
-          "id": "ele-gen-me-003",
-          "question": "What is the 'Concrete-Representational-Abstract' (CRA) approach?",
-          "options": [
-            "Teaching only abstract concepts",
-            "Moving from physical objects, to pictures, to symbols",
-            "Teaching abstract concepts first",
-            "Using only worksheets"
-          ],
-          "correctAnswer": 1,
-          "explanation": "CRA is a sequential instructional approach moving from concrete manipulatives, to pictorial representations, to abstract symbols.",
+          "correctAnswer": 3,
+          "explanation": "Number sense is flexible, intuitive understanding of numbers, their magnitude, relationships, and how they are affected by operations.",
           "difficulty": "medium",
-          "topic": "Mathematics Education"
+          "topic": "Mathematics in Elementary Grades"
         },
         {
-          "id": "ele-gen-me-004",
-          "question": "Why is problem-solving important in elementary mathematics?",
+          "id": "ge-me-032",
+          "question": "What is 'place value'?",
           "options": [
-            "It's not important",
-            "It develops critical thinking and applies math to real situations",
-            "It's only for advanced examinees",
-            "It wastes time"
+            "Decimal points",
+            "Value of a digit based on its position in a number",
+            "Value of location",
+            "Important values"
           ],
           "correctAnswer": 1,
-          "explanation": "Problem-solving develops critical thinking, reasoning, and the ability to apply mathematical concepts to real-world situations.",
+          "explanation": "Place value is the value of a digit based on its position in a number (ones, tens, hundreds, etc.).",
           "difficulty": "easy",
-          "topic": "Mathematics Education"
+          "topic": "Mathematics in Elementary Grades"
         },
         {
-          "id": "ele-gen-me-005",
-          "question": "What is 'mathematical discourse'?",
+          "id": "ge-me-033",
+          "question": "What are the four basic operations in mathematics?",
           "options": [
-            "Silent work only",
-            "Examinees explaining their thinking and discussing strategies",
-            "Teacher lectures",
-            "Memorizing formulas"
+            "Plus, Minus, Times, Divide",
+            "Addition, Subtraction, Multiplication, Division",
+            "Counting, Comparing, Ordering, Estimating",
+            "Reading, Writing, Speaking, Listening"
           ],
           "correctAnswer": 1,
-          "explanation": "Mathematical discourse involves examinees communicating their mathematical thinking, reasoning, and problem-solving strategies with others.",
+          "explanation": "The four basic operations are Addition, Subtraction, Multiplication, and Division.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-034",
+          "question": "What is 'concrete-pictorial-abstract' (CPA) approach?",
+          "options": [
+            "Three difficulty levels",
+            "Progression from hands-on to visual to symbolic representation",
+            "Concrete math only",
+            "Three types of math"
+          ],
+          "correctAnswer": 1,
+          "explanation": "CPA approach progresses from concrete manipulatives to pictorial representations to abstract symbols for deep understanding.",
           "difficulty": "medium",
-          "topic": "Mathematics Education"
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-035",
+          "question": "What are 'fact families'?",
+          "options": [
+            "True facts",
+            "Family math",
+            "Related math facts using same numbers (e.g., 2+3=5, 3+2=5, 5-2=3, 5-3=2)",
+            "Related families"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Fact families are sets of related addition and subtraction (or multiplication and division) facts using the same numbers.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-036",
+          "question": "What is 'estimation'?",
+          "options": [
+            "Rounding only",
+            "Exact calculation",
+            "Guessing randomly",
+            "Making reasonable approximations about quantities or calculations"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Estimation involves making reasonable, educated approximations about quantities, measures, or calculation results.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-037",
+          "question": "What is 'mental math'?",
+          "options": [
+            "Performing calculations in one's head without written work",
+            "Psychology of math",
+            "Imaginary math",
+            "Thinking about math"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mental math is performing calculations mentally without written computation, developing number sense and fluency.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-038",
+          "question": "What is 'problem-solving' in elementary math?",
+          "options": [
+            "Calculator use",
+            "Memorizing formulas",
+            "Using mathematical thinking to find solutions to various situations",
+            "Solving word problems only"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Problem-solving involves applying mathematical thinking and strategies to find solutions to various real-world and abstract problems.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-039",
+          "question": "What are the steps in Polya's problem-solving method?",
+          "options": [
+            "Understand, Plan, Execute, Review",
+            "Guess, Check, Revise",
+            "Read, Solve, Check",
+            "Think, Write, Calculate"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Polya's method: Understand the problem, Devise a plan, Carry out the plan, Look back and review.",
+          "difficulty": "medium",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-040",
+          "question": "What is 'geometry' in elementary mathematics?",
+          "options": [
+            "Drawing shapes",
+            "Measurement only",
+            "Study of shapes, their properties, and spatial relationships",
+            "Advanced math only"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Elementary geometry involves studying 2D and 3D shapes, their properties, positions, and spatial relationships.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-041",
+          "question": "What is 'measurement' in elementary math?",
+          "options": [
+            "Quantifying attributes like length, weight, capacity, time using units",
+            "Comparison",
+            "Using rulers only",
+            "Estimation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Measurement involves quantifying attributes using both non-standard and standard units of length, weight, capacity, time, etc.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-042",
+          "question": "What is 'data analysis' in elementary math?",
+          "options": [
+            "Statistics only",
+            "Collecting, organizing, representing, and interpreting information",
+            "Computer analysis",
+            "Surveys"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Data analysis involves collecting, organizing, representing (graphs/charts), and interpreting information.",
+          "difficulty": "medium",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-043",
+          "question": "What is 'patterning' in mathematics?",
+          "options": [
+            "Decoration",
+            "Repetition",
+            "Recognizing, creating, and extending sequences and relationships",
+            "Art designs"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Patterning involves recognizing, describing, creating, and extending patterns, foundational for algebraic thinking.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-044",
+          "question": "What is 'fraction' concept in elementary?",
+          "options": [
+            "Part of a whole or part of a set",
+            "Division only",
+            "Decimals",
+            "Breaking things"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fractions represent parts of a whole or parts of a set, introducing concepts of equal parts and proportional reasoning.",
+          "difficulty": "easy",
+          "topic": "Mathematics in Elementary Grades"
+        },
+        {
+          "id": "ge-me-045",
+          "question": "What is the importance of 'math discourse' in elementary?",
+          "options": [
+            "Students explaining thinking and reasoning mathematically",
+            "Teacher lecturing",
+            "Memorizing terms",
+            "Teaching vocabulary only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Math discourse involves students explaining their thinking, reasoning, and strategies, deepening understanding and communication skills.",
+          "difficulty": "medium",
+          "topic": "Mathematics in Elementary Grades"
+        }
+      ]
+    },
+    {
+      "id": "science-elementary",
+      "name": "Science Education in Elementary",
+      "questions": [
+        {
+          "id": "ge-se-046",
+          "question": "What is the 'scientific method'?",
+          "options": [
+            "Science curriculum",
+            "Systematic approach to investigation: Question, Hypothesis, Test, Analyze, Conclude",
+            "Science teaching method",
+            "Laboratory procedure"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The scientific method is a systematic process of investigation involving observation, question, hypothesis, experimentation, analysis, and conclusion.",
+          "difficulty": "medium",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-047",
+          "question": "What is 'inquiry-based science learning'?",
+          "options": [
+            "Reading science books",
+            "Students investigating questions through hands-on exploration",
+            "Teacher questioning",
+            "Asking questions only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inquiry-based learning has students actively investigate scientific questions through hands-on exploration and experimentation.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-048",
+          "question": "What are the three main branches of science taught in elementary?",
+          "options": [
+            "Plants, Animals, Humans",
+            "Math, English, Science",
+            "Physical Science, Life Science, Earth Science",
+            "Biology, Chemistry, Physics"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Elementary science covers Physical Science (matter, energy), Life Science (living things), and Earth Science (earth systems).",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-049",
+          "question": "What is 'observation' in science?",
+          "options": [
+            "Supervision",
+            "Looking at things",
+            "Using senses to gather information about objects or events",
+            "Watching only"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Observation involves using all senses to carefully gather detailed information about objects, organisms, or events.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-050",
+          "question": "What is a 'hypothesis' in science?",
+          "options": [
+            "Theory",
+            "Testable prediction or educated guess based on observations",
+            "Random guess",
+            "Fact"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A hypothesis is a testable prediction or educated guess about what will happen in an experiment, based on prior knowledge.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-051",
+          "question": "What is 'classification' in science?",
+          "options": [
+            "Class assignment",
+            "Grouping objects or organisms based on common characteristics",
+            "Ranking",
+            "Grading"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Classification involves organizing objects or organisms into groups based on shared characteristics or properties.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-052",
+          "question": "What is the 'water cycle'?",
+          "options": [
+            "Continuous movement of water: evaporation, condensation, precipitation",
+            "Ocean waves",
+            "Water pollution",
+            "Bicycle in water"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The water cycle is the continuous movement of water through evaporation, condensation, precipitation, and collection.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-053",
+          "question": "What are the three states of matter?",
+          "options": [
+            "Big, Small, Tiny",
+            "Solid, Liquid, Gas",
+            "Hard, Soft, Medium",
+            "Hot, Warm, Cold"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The three basic states of matter are Solid (definite shape and volume), Liquid (definite volume), and Gas (neither).",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-054",
+          "question": "What is 'photosynthesis'?",
+          "options": [
+            "Process plants use to make food from sunlight, water, and CO2",
+            "Light synthesis",
+            "Plant reproduction",
+            "Taking photos"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Photosynthesis is the process where plants use sunlight, water, and carbon dioxide to produce glucose and oxygen.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-055",
+          "question": "What is a 'food chain'?",
+          "options": [
+            "Sequence showing how energy flows from one organism to another",
+            "Food storage",
+            "Restaurant chain",
+            "Cooking process"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A food chain shows the transfer of energy from one organism to another through feeding relationships.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-056",
+          "question": "What is 'conservation' in science education?",
+          "options": [
+            "Recycling only",
+            "Storage",
+            "Protection and preservation of natural resources and environment",
+            "Saving money"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Conservation involves protecting and preserving natural resources, ecosystems, and the environment for future generations.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-057",
+          "question": "What is an 'ecosystem'?",
+          "options": [
+            "Community of living things interacting with environment",
+            "Environmental system",
+            "Ecological study",
+            "Economic system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An ecosystem is a community of living organisms interacting with each other and their physical environment.",
+          "difficulty": "medium",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-058",
+          "question": "What is 'gravity'?",
+          "options": [
+            "Force that pulls objects toward each other, especially toward Earth",
+            "Weight",
+            "Heaviness",
+            "Seriousness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gravity is the force of attraction between objects, pulling them toward each other, especially noticeable with Earth's pull.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-059",
+          "question": "What is 'magnetism'?",
+          "options": [
+            "Electricity",
+            "Force of attraction or repulsion between magnetic materials",
+            "Personality trait",
+            "Attraction only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Magnetism is the force of attraction or repulsion between magnetic materials, with poles that attract or repel.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        },
+        {
+          "id": "ge-se-060",
+          "question": "What are 'hands-on experiments' important for in elementary science?",
+          "options": [
+            "Fun only",
+            "Active learning, engagement, and concrete understanding",
+            "Entertainment",
+            "Keeping students busy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Hands-on experiments promote active learning, engagement, and help students develop concrete understanding of abstract concepts.",
+          "difficulty": "easy",
+          "topic": "Science Education in Elementary"
+        }
+      ]
+    },
+    {
+      "id": "ppst-standards",
+      "name": "Philippine Professional Standards for Teachers (PPST)",
+      "questions": [
+        {
+          "id": "ge-ppst-076",
+          "question": "How many domains are in the PPST?",
+          "options": [
+            "7",
+            "9",
+            "10",
+            "5"
+          ],
+          "correctAnswer": 7,
+          "explanation": "The PPST has 7 domains that describe teacher competencies at different career stages.",
+          "difficulty": "easy",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-077",
+          "question": "What are the 7 domains of PPST?",
+          "options": [
+            "Content Knowledge and Pedagogy, Learning Environment, Diversity of Learners, Curriculum and Planning, Assessment and Reporting, Community Linkages, Personal Growth and Professional Development",
+            "Teaching methods only",
+            "Grade levels",
+            "Subject areas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The 7 domains are: Content Knowledge and Pedagogy, Learning Environment, Diversity of Learners, Curriculum and Planning, Assessment and Reporting, Community Linkages, Personal Growth and Professional Development.",
+          "difficulty": "difficult",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-078",
+          "question": "What are the four career stages in PPST?",
+          "options": [
+            "Entry, Regular, Senior, Master",
+            "Beginning, Proficient, Highly Proficient, Distinguished",
+            "Beginner, Intermediate, Advanced, Expert",
+            "Novice, Competent, Expert, Master"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The four career stages are: Beginning, Proficient, Highly Proficient, and Distinguished teachers.",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-079",
+          "question": "What is Domain 1 of PPST?",
+          "options": [
+            "Content Knowledge and Pedagogy",
+            "Classroom Management",
+            "Assessment",
+            "Professional Development"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Domain 1 is Content Knowledge and Pedagogy, covering mastery of subject matter and effective teaching strategies.",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-080",
+          "question": "What does Domain 2 (Learning Environment) include?",
+          "options": [
+            "Physical classroom only",
+            "Discipline system",
+            "Safe, secure, fair, and supportive learning environment",
+            "Classroom decoration only"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Domain 2 focuses on creating and maintaining safe, secure, fair, and supportive learning environments conducive to learning.",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-081",
+          "question": "What is Domain 3 about?",
+          "options": [
+            "Diversity of Learners",
+            "Assessment",
+            "Teaching methods",
+            "Curriculum development"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Domain 3 addresses understanding and respecting diversity of learners and using differentiated instruction.",
+          "difficulty": "easy",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-082",
+          "question": "What does Domain 4 (Curriculum and Planning) emphasize?",
+          "options": [
+            "Following textbooks",
+            "Time management",
+            "Planning, managing, and implementing learner-centered curriculum",
+            "Lesson plan format"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Domain 4 emphasizes planning, managing, and implementing developmentally appropriate, learner-centered curriculum.",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-083",
+          "question": "What is the focus of Domain 5?",
+          "options": [
+            "Testing only",
+            "Grading",
+            "Record keeping",
+            "Assessment and Reporting"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Domain 5 focuses on using appropriate assessment and reporting to monitor and support learner progress.",
+          "difficulty": "easy",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-084",
+          "question": "What does Domain 6 (Community Linkages) involve?",
+          "options": [
+            "Social media",
+            "Community service",
+            "Establishing partnerships with parents, community, and other stakeholders",
+            "Field trips"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Domain 6 involves establishing learning networks with parents, community, and other stakeholders to support learning.",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-085",
+          "question": "What is Domain 7 about?",
+          "options": [
+            "Career advancement",
+            "Personal Growth and Professional Development",
+            "Salary increase",
+            "Personal hobbies"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Domain 7 focuses on pursuing continuous professional development through reflective teaching and professional learning.",
+          "difficulty": "easy",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-086",
+          "question": "What is the purpose of PPST?",
+          "options": [
+            "To increase workload",
+            "To set clear expectations for teacher quality at different career stages",
+            "To rank teachers",
+            "To punish poor performance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PPST sets clear expectations for teacher quality and provides a framework for professional development at different career stages.",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-087",
+          "question": "How is PPST used in the Philippines?",
+          "options": [
+            "For hiring only",
+            "For teacher evaluation, development, and Results-Based Performance Management",
+            "For decoration",
+            "For salary purposes only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PPST is used for teacher evaluation, professional development planning, and the Results-Based Performance Management System (RPMS).",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-088",
+          "question": "What is 'reflective practice' in PPST?",
+          "options": [
+            "Reflection time",
+            "Critically examining one's teaching to improve practice",
+            "Meditation",
+            "Looking in mirror"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reflective practice involves critically examining teaching practices, decisions, and outcomes to continuously improve.",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-089",
+          "question": "What is 'content knowledge' in PPST Domain 1?",
+          "options": [
+            "Deep understanding of subject matter and how to teach it",
+            "Reading textbooks",
+            "Memorizing facts",
+            "Knowing everything"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Content knowledge includes deep understanding of subject matter, its structure, and effective pedagogical approaches.",
+          "difficulty": "easy",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        },
+        {
+          "id": "ge-ppst-090",
+          "question": "What is 'pedagogical content knowledge'?",
+          "options": [
+            "Subject matter only",
+            "Intersection of content knowledge and teaching strategies",
+            "Classroom management",
+            "Teaching methods only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pedagogical content knowledge combines deep subject understanding with knowledge of effective teaching strategies for that content.",
+          "difficulty": "medium",
+          "topic": "Philippine Professional Standards for Teachers (PPST)"
+        }
+      ]
+    },
+    {
+      "id": "classroom-management-elementary",
+      "name": "Classroom Management for Elementary",
+      "questions": [
+        {
+          "id": "ge-cm-106",
+          "question": "What is effective classroom management?",
+          "options": [
+            "Punishment system",
+            "Creating environment that maximizes learning and minimizes disruption",
+            "Discipline only",
+            "Rules enforcement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Effective classroom management creates a positive environment that maximizes learning time and minimizes disruptions.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-107",
+          "question": "What should be established on the first day of school?",
+          "options": [
+            "Punishment system",
+            "Textbook distribution",
+            "Seating chart only",
+            "Clear rules, procedures, and expectations"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Establishing clear rules, procedures, routines, and expectations on day one is foundational for effective management.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-108",
+          "question": "What is 'positive reinforcement'?",
+          "options": [
+            "Adding pleasant stimulus to increase desired behavior",
+            "Punishment",
+            "Removing privileges",
+            "Negative feedback"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Positive reinforcement involves adding something pleasant (praise, reward) after desired behavior to increase its occurrence.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-109",
+          "question": "What is 'proximity control'?",
+          "options": [
+            "Social distancing",
+            "Using physical nearness to prevent or stop misbehavior",
+            "Controlling distance",
+            "Remote control"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Proximity control uses teacher's physical presence near students to prevent or redirect misbehavior non-verbally.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-110",
+          "question": "What is 'withitness' according to Kounin?",
+          "options": [
+            "Being friendly",
+            "Teacher awareness of everything happening in classroom",
+            "Being intelligent",
+            "Being strict"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Withitness is the teacher's awareness of everything happening in the classroom - having 'eyes in the back of your head'.",
+          "difficulty": "medium",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-111",
+          "question": "What is 'classroom routines'?",
+          "options": [
+            "Established procedures for regular activities",
+            "Class rules",
+            "Daily schedule",
+            "Boring activities"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Routines are established, predictable procedures for regular classroom activities that increase efficiency and security.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-112",
+          "question": "How many classroom rules are recommended?",
+          "options": [
+            "10-15",
+            "20+",
+            "1-2",
+            "3-5"
+          ],
+          "correctAnswer": 3,
+          "explanation": "3-5 clear, positively stated, essential rules are recommended - enough to guide behavior but few enough to remember.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-113",
+          "question": "What is 'transitions' in classroom management?",
+          "options": [
+            "Changes from one activity to another",
+            "School transfers",
+            "Grade level changes",
+            "Moving classrooms"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Transitions are changes from one activity to another; smooth transitions minimize wasted time and behavior problems.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-114",
+          "question": "What is 'engaged time' or 'time on task'?",
+          "options": [
+            "School hours",
+            "Time students are actively involved in learning",
+            "Work hours",
+            "Class duration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Engaged time is the amount of time students are actively and productively involved in learning activities.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-115",
+          "question": "What is preventive classroom management?",
+          "options": [
+            "Warning students",
+            "Strategies to prevent problems before they occur",
+            "Punishing before misbehavior",
+            "Medicine"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Preventive management uses proactive strategies like engaging lessons, clear expectations, and routines to prevent problems.",
+          "difficulty": "medium",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-116",
+          "question": "What is 'logical consequences'?",
+          "options": [
+            "Consequences directly related to the misbehavior",
+            "Random punishment",
+            "No consequences",
+            "Severe punishment"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Logical consequences are directly related to the misbehavior and teach responsibility (e.g., clean up mess you made).",
+          "difficulty": "medium",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-117",
+          "question": "What is 'assertive discipline'?",
+          "options": [
+            "Clear expectations with consistent, firm, but fair consequences",
+            "Permissive discipline",
+            "Passive approach",
+            "Aggressive teaching"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Assertive discipline (Canter) involves clear expectations, consistent consequences, and firm but fair enforcement.",
+          "difficulty": "medium",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-118",
+          "question": "What is the purpose of a 'behavior management plan'?",
+          "options": [
+            "Systematic approach to promoting positive behavior and addressing misbehavior",
+            "Punishment list",
+            "Discipline code",
+            "Rules only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A behavior management plan outlines strategies for promoting positive behavior, preventing problems, and responding to misbehavior.",
+          "difficulty": "medium",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-119",
+          "question": "What is 'overlapping' in classroom management?",
+          "options": [
+            "Extra work",
+            "Attending to multiple issues simultaneously",
+            "Overlapping schedules",
+            "Too many students"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Overlapping is the teacher's ability to attend to two or more simultaneous classroom events or issues effectively.",
+          "difficulty": "medium",
+          "topic": "Classroom Management for Elementary"
+        },
+        {
+          "id": "ge-cm-120",
+          "question": "What is the role of 'student participation' in classroom management?",
+          "options": [
+            "Time waster",
+            "Active engagement reduces behavior problems and increases learning",
+            "Optional",
+            "Not important"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Active student participation and engagement reduce behavior problems while increasing motivation and learning.",
+          "difficulty": "easy",
+          "topic": "Classroom Management for Elementary"
         }
       ]
     }
-  ],
-  "totalQuestions": 30,
-  "note": "Comprehensive questions for General Elementary specialization - Add 120 more for full 150 implementation"
+  ]
 }
