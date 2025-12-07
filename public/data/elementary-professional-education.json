@@ -1,233 +1,653 @@
 {
-  "subject": "Elementary - Professional Education",
-  "category": "elementary",
-  "subcategory": "professional-education",
+  "subject": "Professional Education - LET Reviewer",
+  "category": "professional-education",
+  "subcategory": "let-preparation",
   "topics": [
     {
       "id": "teaching-profession",
       "name": "The Teaching Profession",
       "questions": [
         {
-          "id": "ele-prof-tp-001",
-          "question": "What is the primary purpose of the Code of Ethics for Professional Teachers?",
+          "id": "pe-tp-001",
+          "question": "What is the primary legal basis for the professionalization of teachers in the Philippines?",
           "options": [
-            "To increase teacher salaries",
-            "To guide teachers' professional conduct and responsibilities",
-            "To evaluate student performance",
-            "To create lesson plans"
+            "RA 7836",
+            "RA 9155",
+            "RA 10533",
+            "RA 4670"
           ],
-          "correctAnswer": 1,
-          "explanation": "The Code of Ethics guides teachers in maintaining professional standards and ethical behavior in their practice.",
+          "correctAnswer": 0,
+          "explanation": "RA 7836, also known as the Philippine Teachers Professionalization Act of 1994, is the primary law that professionalized teaching in the Philippines.",
           "difficulty": "medium",
           "topic": "The Teaching Profession"
         },
         {
-          "id": "ele-prof-tp-002",
-          "question": "According to RA 7836, what is required to practice teaching in the Philippines?",
+          "id": "pe-tp-002",
+          "question": "What is the main function of the Professional Regulation Commission (PRC)?",
           "options": [
-            "Bachelor's degree only",
-            "Valid Professional License",
-            "Master's degree",
-            "5 years experience"
+            "To teach in schools",
+            "To conduct licensure examinations and regulate professionals",
+            "To provide salaries to teachers",
+            "To build schools"
           ],
           "correctAnswer": 1,
-          "explanation": "RA 7836 (Philippine Teachers Professionalization Act) requires a valid license to practice teaching.",
+          "explanation": "The PRC is responsible for conducting licensure examinations and regulating professionals in the Philippines.",
           "difficulty": "easy",
           "topic": "The Teaching Profession"
         },
         {
-          "id": "ele-prof-tp-003",
-          "question": "What does professional development for teachers aim to achieve?",
+          "id": "pe-tp-003",
+          "question": "What is the Code of Ethics for Professional Teachers based on?",
           "options": [
-            "Higher salary",
-            "Continuous improvement of teaching skills and knowledge",
-            "More vacation time",
-            "Less work hours"
+            "RA 7836",
+            "RA 9155",
+            "RA 7610",
+            "PRC Resolution No. 435, Series of 1997"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The Code of Ethics for Professional Teachers was adopted through PRC Resolution No. 435, Series of 1997.",
+          "difficulty": "medium",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-004",
+          "question": "How long is the validity of a Professional Teacher's License?",
+          "options": [
+            "2 years",
+            "3 years",
+            "5 years",
+            "No expiration"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The Professional Teacher's License has no expiration date, but requires Continuing Professional Development (CPD) compliance.",
+          "difficulty": "easy",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-005",
+          "question": "What does CPD stand for in the teaching profession?",
+          "options": [
+            "Certified Professional Development",
+            "Continuing Professional Development",
+            "Complete Professional Diploma",
+            "Central Professional Division"
           ],
           "correctAnswer": 1,
-          "explanation": "Professional development focuses on continuously improving teaching effectiveness and staying current with educational practices.",
+          "explanation": "CPD stands for Continuing Professional Development, required to maintain and enhance professional competence under RA 10912.",
           "difficulty": "easy",
           "topic": "The Teaching Profession"
         },
         {
-          "id": "ele-prof-tp-004",
-          "question": "Which of the following is NOT a characteristic of a professional teacher?",
+          "id": "pe-tp-006",
+          "question": "What is the minimum educational requirement to become an elementary teacher?",
           "options": [
-            "Commitment to lifelong learning",
-            "Ethical conduct",
-            "Self-centered approach",
-            "Dedication to students"
+            "High School Diploma",
+            "Bachelor's Degree in Elementary Education",
+            "Master's Degree",
+            "Doctorate Degree"
           ],
-          "correctAnswer": 2,
-          "explanation": "Professional teachers are student-centered, not self-centered, in their approach to teaching.",
+          "correctAnswer": 1,
+          "explanation": "The minimum requirement is a Bachelor's Degree in Elementary Education or Bachelor of Education (BEEd) and passing the LET.",
           "difficulty": "easy",
           "topic": "The Teaching Profession"
         },
         {
-          "id": "ele-prof-tp-005",
-          "question": "What is academic freedom in teaching?",
+          "id": "pe-tp-007",
+          "question": "What is the legal basis for the Magna Carta for Public School Teachers?",
+          "options": [
+            "RA 4670",
+            "RA 7836",
+            "RA 9155",
+            "RA 10533"
+          ],
+          "correctAnswer": 0,
+          "explanation": "RA 4670, also known as the Magna Carta for Public School Teachers, protects teachers' rights and welfare.",
+          "difficulty": "medium",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-008",
+          "question": "Who is known as the 'Father of Modern Education'?",
+          "options": [
+            "John Dewey",
+            "Johann Heinrich Pestalozzi",
+            "Friedrich Froebel",
+            "Maria Montessori"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Johann Heinrich Pestalozzi is known as the 'Father of Modern Education' for his contributions to child-centered education.",
+          "difficulty": "medium",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-009",
+          "question": "What is the primary function of the Board of Professional Teachers (BPT)?",
+          "options": [
+            "Supervise all schools",
+            "Regulate the practice of teaching profession",
+            "Hire public school teachers",
+            "Create curriculum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The BPT regulates and supervises the practice of the teaching profession, conducts LET, and issues licenses.",
+          "difficulty": "medium",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-010",
+          "question": "What does 'in loco parentis' mean in the teaching context?",
+          "options": [
+            "Teacher acts in place of parents",
+            "Teacher is the boss of students",
+            "Teacher is a friend of students",
+            "Teacher is only a caregiver"
+          ],
+          "correctAnswer": 0,
+          "explanation": "In loco parentis means the teacher acts in place of parents while students are in school, with similar authority and responsibilities.",
+          "difficulty": "easy",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-011",
+          "question": "What is the minimum passing rate for the Licensure Examination for Teachers (LET)?",
+          "options": [
+            "70% in both General Education and Professional Education",
+            "75% in General Education and 50% in Professional Education",
+            "80% in both areas",
+            "60% in both areas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The minimum passing rate is 75% in General Education and 50% in Professional Education with no rating below 50% in any subject.",
+          "difficulty": "easy",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-012",
+          "question": "How many domains are there in the National Competency-Based Teacher Standards (NCBTS)?",
+          "options": [
+            "5",
+            "7",
+            "9",
+            "10"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The NCBTS has 7 domains: Social Regard for Learning, Learning Environment, Diversity of Learners, Curriculum, Planning/Assessing/Reporting, Community Linkages, and Personal Growth.",
+          "difficulty": "difficult",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-013",
+          "question": "What is Academic Freedom?",
           "options": [
             "Freedom to skip classes",
-            "Freedom to teach according to professional judgment within curriculum guidelines",
-            "Freedom from evaluations",
-            "Freedom to ignore school policies"
+            "Freedom to teach according to professional standards without undue interference",
+            "Freedom to give any grade",
+            "Freedom to change curriculum anytime"
           ],
           "correctAnswer": 1,
-          "explanation": "Academic freedom allows teachers to use professional judgment in teaching methods while adhering to curriculum standards.",
+          "explanation": "Academic freedom is the right of teachers to teach and students to learn without unreasonable restriction, based on professional and ethical standards.",
           "difficulty": "medium",
           "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-014",
+          "question": "Under RA 4670, how many days of sick leave can public school teachers avail per year?",
+          "options": [
+            "10 days",
+            "15 days",
+            "As many as necessary",
+            "30 days"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Under the Magna Carta for Public School Teachers, teachers can avail of sick leave as many days as necessary upon proof of sickness.",
+          "difficulty": "medium",
+          "topic": "The Teaching Profession"
+        },
+        {
+          "id": "pe-tp-015",
+          "question": "What is teacher burnout?",
+          "options": [
+            "Physical exhaustion only",
+            "Emotional, physical, and mental exhaustion from prolonged stress",
+            "Temporary tiredness",
+            "Excitement about teaching"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teacher burnout is a state of emotional, physical, and mental exhaustion caused by prolonged and excessive stress in the teaching profession.",
+          "difficulty": "easy",
+          "topic": "The Teaching Profession"
+        }
+      ]
+    },
+    {
+      "id": "child-adolescent-development",
+      "name": "Child and Adolescent Development",
+      "questions": [
+        {
+          "id": "pe-cad-016",
+          "question": "Who proposed the Theory of Psychosocial Development?",
+          "options": [
+            "Sigmund Freud",
+            "Erik Erikson",
+            "Jean Piaget",
+            "Lev Vygotsky"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Erik Erikson developed the Theory of Psychosocial Development with 8 stages from birth to old age.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-017",
+          "question": "What is the first stage of Erikson's Psychosocial Development?",
+          "options": [
+            "Autonomy vs. Shame and Doubt",
+            "Trust vs. Mistrust",
+            "Initiative vs. Guilt",
+            "Industry vs. Inferiority"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Trust vs. Mistrust (birth to 18 months) is the first stage where infants develop trust through consistent care.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-018",
+          "question": "What is the psychosocial crisis during adolescence according to Erikson?",
+          "options": [
+            "Identity vs. Role Confusion",
+            "Intimacy vs. Isolation",
+            "Industry vs. Inferiority",
+            "Autonomy vs. Shame"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Identity vs. Role Confusion (12-18 years) is the stage of adolescence where teenagers search for their identity.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-019",
+          "question": "According to Piaget, what is the first stage of cognitive development?",
+          "options": [
+            "Preoperational Stage",
+            "Concrete Operational Stage",
+            "Sensorimotor Stage",
+            "Formal Operational Stage"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Sensorimotor Stage (birth to 2 years) is the first stage where infants learn through senses and motor activities.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-020",
+          "question": "What is 'object permanence' according to Piaget?",
+          "options": [
+            "Understanding that objects are permanent",
+            "Understanding that objects continue to exist even when not seen",
+            "Love for objects",
+            "Collecting objects"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Object permanence is the understanding that objects continue to exist even when they cannot be seen, heard, or touched.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-021",
+          "question": "At what age range does the Preoperational Stage occur?",
+          "options": [
+            "Birth to 2 years",
+            "2 to 7 years",
+            "7 to 11 years",
+            "11 years and above"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Preoperational Stage (2-7 years) is characterized by symbolic thinking, egocentrism, and limited logical reasoning.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-022",
+          "question": "What is 'egocentrism' in the Preoperational Stage?",
+          "options": [
+            "Being selfish",
+            "Inability to see things from another person's perspective",
+            "Being proud",
+            "Self-love"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Egocentrism is the inability to differentiate between one's own perspective and someone else's perspective.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-023",
+          "question": "What is conservation in Piaget's theory?",
+          "options": [
+            "Saving money",
+            "Understanding that quantity remains the same despite changes in appearance",
+            "Environmental protection",
+            "Keeping secrets"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conservation is understanding that quantity, length, or number of items remains the same despite changes in shape or arrangement.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-024",
+          "question": "When does the Concrete Operational Stage begin?",
+          "options": [
+            "2-7 years",
+            "7-11 years",
+            "11-15 years",
+            "15 years and above"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Concrete Operational Stage (7-11 years) is when children learn logical thinking about concrete objects.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-025",
+          "question": "What characterizes the Formal Operational Stage?",
+          "options": [
+            "Concrete thinking only",
+            "Abstract and hypothetical thinking",
+            "Sensorimotor activities",
+            "Symbolic play"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Formal Operational Stage (11+ years) is characterized by abstract thinking, logical reasoning, and hypothetical problem-solving.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-026",
+          "question": "Who proposed the Theory of Moral Development?",
+          "options": [
+            "Jean Piaget",
+            "Erik Erikson",
+            "Lawrence Kohlberg",
+            "Lev Vygotsky"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Lawrence Kohlberg developed the Theory of Moral Development with three levels and six stages.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-027",
+          "question": "What is the first level of Kohlberg's Moral Development?",
+          "options": [
+            "Conventional Level",
+            "Preconventional Level",
+            "Postconventional Level",
+            "Universal Level"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Preconventional Level (ages 4-10) focuses on obedience to avoid punishment and self-interest.",
+          "difficulty": "easy",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-028",
+          "question": "What is 'scaffolding' according to Vygotsky?",
+          "options": [
+            "Building construction",
+            "Temporary support given to help learners achieve tasks",
+            "Testing method",
+            "Punishment system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding is temporary instructional support provided to help learners achieve tasks they cannot yet do independently.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-029",
+          "question": "What is Vygotsky's concept of the Zone of Proximal Development (ZPD)?",
+          "options": [
+            "Geographic zone for learning",
+            "The gap between what learners can do independently and with help",
+            "Comfort zone of students",
+            "Physical proximity to teacher"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ZPD is the distance between what a learner can do without help and what they can achieve with guidance and encouragement.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
+        },
+        {
+          "id": "pe-cad-030",
+          "question": "What is the 'critical period' in development?",
+          "options": [
+            "Examination period",
+            "Specific time when certain skills are most easily acquired",
+            "Crisis period",
+            "Project deadline"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Critical period is a specific time in development when certain skills are most easily acquired, such as language acquisition.",
+          "difficulty": "medium",
+          "topic": "Child and Adolescent Development"
         }
       ]
     },
     {
       "id": "facilitating-learning",
-      "name": "Facilitating Learning",
+      "name": "Facilitating Learning and Principles of Teaching",
       "questions": [
         {
-          "id": "ele-prof-fl-001",
-          "question": "What is the main role of a teacher as a facilitator?",
+          "id": "pe-fl-031",
+          "question": "What is the main goal of the constructivist approach to teaching?",
           "options": [
-            "To lecture all the time",
-            "To guide and support student learning",
-            "To give grades only",
-            "To discipline students"
+            "Memorization of facts",
+            "Active construction of knowledge by learners",
+            "Passive reception of information",
+            "Following the textbook"
           ],
           "correctAnswer": 1,
-          "explanation": "A facilitator guides students in constructing their own knowledge rather than just transmitting information.",
+          "explanation": "The constructivist approach focuses on active construction of knowledge by learners through experiences and interaction.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-032",
+          "question": "What is the role of the teacher in a student-centered classroom?",
+          "options": [
+            "Sole source of knowledge",
+            "Facilitator and guide",
+            "Authority figure only",
+            "Observer only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In student-centered learning, the teacher acts as a facilitator and guide, helping students construct their own understanding.",
           "difficulty": "easy",
-          "topic": "Facilitating Learning"
+          "topic": "Facilitating Learning and Principles of Teaching"
         },
         {
-          "id": "ele-prof-fl-002",
-          "question": "Which learning theory emphasizes that students construct knowledge through experience?",
+          "id": "pe-fl-033",
+          "question": "What is differentiated instruction?",
           "options": [
-            "Behaviorism",
-            "Constructivism",
-            "Traditionalism",
-            "Absolutism"
+            "Teaching different subjects",
+            "Tailoring instruction to meet individual student needs",
+            "Teaching at different levels",
+            "Using different classrooms"
           ],
           "correctAnswer": 1,
-          "explanation": "Constructivism holds that learners actively construct knowledge through their experiences and interactions.",
+          "explanation": "Differentiated instruction involves adjusting teaching methods, content, and assessment to meet diverse student needs.",
           "difficulty": "medium",
-          "topic": "Facilitating Learning"
+          "topic": "Facilitating Learning and Principles of Teaching"
         },
         {
-          "id": "ele-prof-fl-003",
-          "question": "What is scaffolding in education?",
-          "options": [
-            "Building school facilities",
-            "Temporary support to help students reach higher levels of understanding",
-            "Punishment system",
-            "Grading system"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Scaffolding is temporary, adjustable support that helps students achieve tasks they couldn't do independently.",
-          "difficulty": "medium",
-          "topic": "Facilitating Learning"
-        },
-        {
-          "id": "ele-prof-fl-004",
-          "question": "What does differentiated instruction mean?",
-          "options": [
-            "Teaching only gifted students",
-            "Adapting instruction to meet diverse student needs",
-            "Using one teaching method for all",
-            "Separating students by ability permanently"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Differentiated instruction involves modifying content, process, and products to accommodate different learning needs.",
-          "difficulty": "medium",
-          "topic": "Facilitating Learning"
-        },
-        {
-          "id": "ele-prof-fl-005",
+          "id": "pe-fl-034",
           "question": "What is cooperative learning?",
           "options": [
-            "Students working individually",
-            "Students working in groups toward common goals",
-            "Teacher-centered instruction",
-            "Competitive learning"
+            "Students working alone",
+            "Students working in groups to achieve common goals",
+            "Teacher lecturing",
+            "Individual competition"
           ],
           "correctAnswer": 1,
-          "explanation": "Cooperative learning involves students working together in small groups to maximize their own and each other's learning.",
+          "explanation": "Cooperative learning involves students working together in small groups to achieve shared learning goals.",
           "difficulty": "easy",
-          "topic": "Facilitating Learning"
-        }
-      ]
-    },
-    {
-      "id": "child-development",
-      "name": "Child and Adolescent Development",
-      "questions": [
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
         {
-          "id": "ele-prof-cd-001",
-          "question": "According to Piaget, at what stage do children develop abstract thinking?",
+          "id": "pe-fl-035",
+          "question": "What is inquiry-based learning?",
           "options": [
-            "Sensorimotor",
-            "Preoperational",
-            "Concrete Operational",
-            "Formal Operational"
+            "Asking many questions",
+            "Learning through questioning, investigating, and discovering",
+            "Asking the teacher",
+            "Reading books only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inquiry-based learning is a method where students learn through questioning, investigating, and discovering answers.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-036",
+          "question": "What is Bloom's Taxonomy?",
+          "options": [
+            "Classification of flowers",
+            "Hierarchical classification of learning objectives",
+            "Taxonomy of animals",
+            "Classification of students"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bloom's Taxonomy is a hierarchical framework of cognitive skills: Remember, Understand, Apply, Analyze, Evaluate, Create.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-037",
+          "question": "What is the highest level of Bloom's Revised Taxonomy?",
+          "options": [
+            "Understanding",
+            "Analyzing",
+            "Evaluating",
+            "Creating"
           ],
           "correctAnswer": 3,
-          "explanation": "The Formal Operational stage (11+ years) is when abstract, hypothetical thinking develops.",
-          "difficulty": "medium",
-          "topic": "Child and Adolescent Development"
-        },
-        {
-          "id": "ele-prof-cd-002",
-          "question": "What is the Zone of Proximal Development (ZPD)?",
-          "options": [
-            "Tasks a child can do alone",
-            "Tasks beyond a child's capability",
-            "The gap between what a child can do alone and with help",
-            "The physical space for learning"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Vygotsky's ZPD is the range between what learners can do independently and what they can achieve with guidance.",
-          "difficulty": "medium",
-          "topic": "Child and Adolescent Development"
-        },
-        {
-          "id": "ele-prof-cd-003",
-          "question": "What is a key characteristic of Erik Erikson's psychosocial development theory?",
-          "options": [
-            "Focuses only on childhood",
-            "Emphasizes crisis resolution at each stage",
-            "Ignores social factors",
-            "Only applies to adolescents"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Erikson's theory proposes eight psychosocial stages, each with a crisis that must be resolved for healthy development.",
-          "difficulty": "medium",
-          "topic": "Child and Adolescent Development"
-        },
-        {
-          "id": "ele-prof-cd-004",
-          "question": "At what age do children typically develop object permanence?",
-          "options": [
-            "Birth",
-            "6-8 months",
-            "2-3 years",
-            "5-6 years"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Object permanence, understanding that objects continue to exist when out of sight, develops around 6-8 months.",
-          "difficulty": "medium",
-          "topic": "Child and Adolescent Development"
-        },
-        {
-          "id": "ele-prof-cd-005",
-          "question": "What is parallel play?",
-          "options": [
-            "Children playing together cooperatively",
-            "Children playing alone without awareness of others",
-            "Children playing alongside each other without interaction",
-            "Children competing in games"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Parallel play occurs when children play side-by-side with similar toys but don't interact, typical of toddlers.",
+          "explanation": "Creating is the highest level in Bloom's Revised Taxonomy, involving producing new or original work.",
           "difficulty": "easy",
-          "topic": "Child and Adolescent Development"
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-038",
+          "question": "What is metacognition?",
+          "options": [
+            "Superior thinking",
+            "Thinking about one's own thinking and learning",
+            "High IQ",
+            "Fast thinking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Metacognition is awareness and understanding of one's own thought processes - thinking about thinking and learning how to learn.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-039",
+          "question": "What is the 5E Instructional Model?",
+          "options": [
+            "Engage, Explore, Explain, Elaborate, Evaluate",
+            "Enter, Examine, Execute, Exit, End",
+            "Easy, Efficient, Effective, Excellent, Exemplary",
+            "Education, Experience, Exercise, Exam, Evaluation"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The 5E Model is a constructivist teaching approach: Engage, Explore, Explain, Elaborate, and Evaluate.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-040",
+          "question": "What is mastery learning?",
+          "options": [
+            "Learning everything",
+            "Ensuring students master content before moving forward",
+            "Expert level learning",
+            "Advanced learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mastery learning ensures students achieve mastery of content before progressing to more complex material.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-041",
+          "question": "What is the KWL strategy?",
+          "options": [
+            "Know, Will, Learn",
+            "What I Know, Want to know, Learned",
+            "Knowledge, Wisdom, Learning",
+            "Kids Will Learn"
+          ],
+          "correctAnswer": 1,
+          "explanation": "KWL is a learning strategy: What I Know (prior knowledge), Want to know (questions), and Learned (new knowledge gained).",
+          "difficulty": "easy",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-042",
+          "question": "What is problem-based learning (PBL)?",
+          "options": [
+            "Learning about problems",
+            "Learning through solving authentic, complex problems",
+            "Creating problems for students",
+            "Avoiding problems"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PBL is a student-centered approach where learning occurs through solving complex, real-world problems.",
+          "difficulty": "medium",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-043",
+          "question": "What is the think-pair-share strategy?",
+          "options": [
+            "Think, pair up, share ideas",
+            "Thinking alone only",
+            "Pair work only",
+            "Group presentation"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Think-pair-share is a cooperative learning strategy: students think individually, discuss in pairs, then share with the class.",
+          "difficulty": "easy",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-044",
+          "question": "What is direct instruction?",
+          "options": [
+            "Indirect teaching",
+            "Teacher-led, systematic, explicit teaching",
+            "Student discovery",
+            "Group work"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Direct instruction is a teacher-centered approach with explicit teaching, systematic delivery, and clear learning objectives.",
+          "difficulty": "easy",
+          "topic": "Facilitating Learning and Principles of Teaching"
+        },
+        {
+          "id": "pe-fl-045",
+          "question": "What is 'wait time' in questioning?",
+          "options": [
+            "Rest period",
+            "Time given for students to think before responding",
+            "Waiting in line",
+            "Lunch time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Wait time is the pause given by the teacher after asking a question to give students time to think before responding.",
+          "difficulty": "easy",
+          "topic": "Facilitating Learning and Principles of Teaching"
         }
       ]
     },
@@ -236,382 +656,1506 @@
       "name": "Curriculum Development",
       "questions": [
         {
-          "id": "ele-prof-curr-001",
-          "question": "What does K-12 curriculum stand for?",
+          "id": "pe-cd-046",
+          "question": "What is the K to 12 Curriculum?",
           "options": [
-            "Knowledge to 12th grade",
-            "Kindergarten to Grade 12",
-            "Kids 12 years old",
-            "Korean 12 system"
+            "10-year basic education",
+            "13-year enhanced basic education program",
+            "College curriculum",
+            "Kindergarten only"
           ],
           "correctAnswer": 1,
-          "explanation": "K-12 refers to the educational system from Kindergarten through Grade 12.",
+          "explanation": "K to 12 is a 13-year enhanced basic education program: 1 year Kindergarten, 6 years Elementary, 4 years Junior High, 2 years Senior High.",
           "difficulty": "easy",
           "topic": "Curriculum Development"
         },
         {
-          "id": "ele-prof-curr-002",
-          "question": "What is the spiral progression approach in curriculum?",
+          "id": "pe-cd-047",
+          "question": "What law mandates the K to 12 program in the Philippines?",
           "options": [
-            "Teaching topics once only",
-            "Revisiting topics at increasing levels of complexity",
-            "Teaching in circles",
-            "Random topic selection"
+            "RA 9155",
+            "RA 10533",
+            "RA 7836",
+            "RA 4670"
           ],
           "correctAnswer": 1,
-          "explanation": "Spiral progression involves teaching concepts repeatedly at increasing depth and complexity as students advance.",
+          "explanation": "RA 10533, the Enhanced Basic Education Act of 2013, mandates the implementation of the K to 12 program.",
           "difficulty": "medium",
           "topic": "Curriculum Development"
         },
         {
-          "id": "ele-prof-curr-003",
-          "question": "What does 'hidden curriculum' refer to?",
+          "id": "pe-cd-048",
+          "question": "What is MTB-MLE?",
+          "options": [
+            "Math-Based Learning",
+            "Mother Tongue-Based Multilingual Education",
+            "Multi-Task Based Learning",
+            "Modern Technology-Based Learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "MTB-MLE is Mother Tongue-Based Multilingual Education, where mother tongue is used as medium of instruction in early grades.",
+          "difficulty": "medium",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-049",
+          "question": "What are the exit competencies of K to 12 graduates?",
+          "options": [
+            "College ready only",
+            "College ready, work ready, business ready, middle-skills ready",
+            "Work ready only",
+            "Business ready only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "K to 12 aims to produce graduates who are college ready, work ready, business ready, and middle-skills ready.",
+          "difficulty": "medium",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-050",
+          "question": "What is the spiral progression approach?",
+          "options": [
+            "Teaching in circles",
+            "Revisiting topics with increasing complexity across grade levels",
+            "Teaching one topic deeply",
+            "Random teaching sequence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Spiral progression revisits topics across grade levels with increasing depth and complexity, building on prior knowledge.",
+          "difficulty": "medium",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-051",
+          "question": "What is a contextualized curriculum?",
+          "options": [
+            "Imported curriculum",
+            "Curriculum adapted to local context and culture",
+            "Textbook-based",
+            "Foreign curriculum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Contextualized curriculum is adapted to be relevant to local context, culture, and needs of students and community.",
+          "difficulty": "easy",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-052",
+          "question": "What is the 'hidden curriculum'?",
           "options": [
             "Secret lessons",
-            "Unofficial lessons and values learned in school",
-            "Lost lesson plans",
-            "Advanced topics"
+            "Unintended lessons, values, perspectives learned in school",
+            "Coded curriculum",
+            "Advanced curriculum"
           ],
           "correctAnswer": 1,
-          "explanation": "Hidden curriculum refers to unintended lessons, values, and perspectives learned through school culture and interactions.",
+          "explanation": "Hidden curriculum refers to unintended lessons, values, and norms learned in the school environment but not explicitly taught.",
           "difficulty": "medium",
           "topic": "Curriculum Development"
         },
         {
-          "id": "ele-prof-curr-004",
-          "question": "What is the purpose of learning competencies in curriculum?",
+          "id": "pe-cd-053",
+          "question": "What is backward design in curriculum planning?",
           "options": [
-            "To increase difficulty",
-            "To specify what students should know and be able to do",
-            "To reduce teaching time",
-            "To eliminate assessments"
+            "Starting from the end goals and working backwards",
+            "Teaching in reverse order",
+            "Looking at past curriculum",
+            "Outdated curriculum"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Backward design starts with desired learning outcomes, then determines assessment, and finally plans learning activities.",
+          "difficulty": "medium",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-054",
+          "question": "What are SMART objectives?",
+          "options": [
+            "Intelligent objectives",
+            "Specific, Measurable, Attainable, Relevant, Time-bound",
+            "Simple objectives",
+            "Advanced objectives"
           ],
           "correctAnswer": 1,
-          "explanation": "Learning competencies define the knowledge, skills, and attitudes students should demonstrate after instruction.",
+          "explanation": "SMART objectives are Specific, Measurable, Attainable, Relevant, and Time-bound to make learning goals clear and achievable.",
           "difficulty": "easy",
           "topic": "Curriculum Development"
         },
         {
-          "id": "ele-prof-curr-005",
-          "question": "What is curriculum integration?",
+          "id": "pe-cd-055",
+          "question": "What is curriculum alignment?",
           "options": [
-            "Teaching subjects separately",
-            "Connecting learning across different subjects",
-            "Adding more subjects",
-            "Reducing subject content"
+            "Straight curriculum",
+            "Consistency among objectives, instruction, and assessment",
+            "Organized filing",
+            "Curriculum arrangement"
           ],
           "correctAnswer": 1,
-          "explanation": "Curriculum integration involves organizing teaching to make connections between different subject areas for more meaningful learning.",
+          "explanation": "Curriculum alignment ensures consistency and coherence among learning objectives, instructional strategies, and assessment methods.",
           "difficulty": "medium",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-056",
+          "question": "What are the Senior High School tracks?",
+          "options": [
+            "Academic and Vocational only",
+            "Academic, Technical-Vocational-Livelihood, Sports, Arts & Design",
+            "Science and Arts only",
+            "Math and English only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The four SHS tracks are: Academic (4 strands), Technical-Vocational-Livelihood, Sports, and Arts and Design.",
+          "difficulty": "easy",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-057",
+          "question": "What is Understanding by Design (UbD)?",
+          "options": [
+            "Designing classrooms",
+            "Backward design framework focused on deep understanding",
+            "Art curriculum",
+            "Technology integration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "UbD is a backward design framework by Wiggins and McTighe focused on achieving deep understanding of essential ideas.",
+          "difficulty": "difficult",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-058",
+          "question": "What is integrated curriculum?",
+          "options": [
+            "Separate subjects",
+            "Combining multiple subjects around common themes or problems",
+            "Integration of technology",
+            "Complete curriculum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Integrated curriculum combines content from multiple subject areas around common themes, issues, or problems.",
+          "difficulty": "medium",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-059",
+          "question": "What does 'scope and sequence' mean in curriculum?",
+          "options": [
+            "Coverage and order of content",
+            "Size of curriculum",
+            "Number of subjects",
+            "Length of school year"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Scope is the breadth and depth of content, while sequence is the order in which it is taught across time.",
+          "difficulty": "easy",
+          "topic": "Curriculum Development"
+        },
+        {
+          "id": "pe-cd-060",
+          "question": "What is the Tyler Rationale in curriculum development?",
+          "options": [
+            "Random planning",
+            "Four fundamental questions: purposes, experiences, organization, evaluation",
+            "Teacher-centered planning",
+            "Book-based planning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tyler Rationale is a systematic approach using four questions: What educational purposes? What experiences? How organize? How evaluate?",
+          "difficulty": "difficult",
           "topic": "Curriculum Development"
         }
       ]
     },
     {
-      "id": "assessment-learning",
-      "name": "Assessment of Learning",
+      "id": "assessment-evaluation",
+      "name": "Assessment and Evaluation",
       "questions": [
         {
-          "id": "ele-prof-assess-001",
+          "id": "pe-ae-061",
+          "question": "What is the difference between assessment and evaluation?",
+          "options": [
+            "No difference",
+            "Assessment gathers data, Evaluation makes judgments",
+            "Assessment is for grades, Evaluation is for records",
+            "They are the same"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Assessment is the data gathering process, while Evaluation involves interpreting and making judgments based on assessment data.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-062",
           "question": "What is formative assessment?",
           "options": [
             "Final exam only",
-            "Ongoing assessment during learning to guide instruction",
-            "Assessment for grades only",
-            "Year-end testing"
+            "Ongoing assessment during learning to provide feedback",
+            "End-of-year test",
+            "Grading system"
           ],
           "correctAnswer": 1,
-          "explanation": "Formative assessment is ongoing evaluation used to monitor student learning and adjust teaching strategies.",
+          "explanation": "Formative assessment is ongoing assessment during the learning process to monitor progress and provide feedback for improvement.",
           "difficulty": "easy",
-          "topic": "Assessment of Learning"
+          "topic": "Assessment and Evaluation"
         },
         {
-          "id": "ele-prof-assess-002",
-          "question": "What is the difference between assessment OF learning and assessment FOR learning?",
+          "id": "pe-ae-063",
+          "question": "What is summative assessment?",
           "options": [
-            "No difference",
-            "OF is summative/final, FOR is formative/ongoing",
-            "OF is easy, FOR is hard",
-            "OF is for students, FOR is for teachers"
+            "Daily quizzes",
+            "Assessment conducted at the end of a learning period",
+            "Practice tests",
+            "Homework"
           ],
           "correctAnswer": 1,
-          "explanation": "Assessment OF learning is summative (evaluating achievement), while assessment FOR learning is formative (guiding instruction).",
-          "difficulty": "medium",
-          "topic": "Assessment of Learning"
+          "explanation": "Summative assessment is evaluation at the end of a learning period (quarter, semester, year) to measure overall achievement.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation"
         },
         {
-          "id": "ele-prof-assess-003",
-          "question": "What does validity in assessment mean?",
+          "id": "pe-ae-064",
+          "question": "What is diagnostic assessment?",
           "options": [
-            "The test is difficult",
-            "The test measures what it intends to measure",
-            "The test is long",
-            "The test is expensive"
+            "Medical checkup",
+            "Pre-assessment to identify prior knowledge and misconceptions",
+            "Final exam",
+            "Grading period test"
           ],
           "correctAnswer": 1,
-          "explanation": "Validity refers to whether an assessment accurately measures the intended learning outcomes.",
+          "explanation": "Diagnostic assessment is conducted before instruction to identify students' prior knowledge, skills, and misconceptions.",
           "difficulty": "medium",
-          "topic": "Assessment of Learning"
+          "topic": "Assessment and Evaluation"
         },
         {
-          "id": "ele-prof-assess-004",
+          "id": "pe-ae-065",
+          "question": "What is 'validity' of a test?",
+          "options": [
+            "Legally acceptable test",
+            "Test measures what it is supposed to measure",
+            "Test with answers",
+            "Approved test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Validity is the extent to which a test actually measures the intended learning outcomes or construct.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-066",
+          "question": "What is reliability in assessment?",
+          "options": [
+            "Test can be trusted",
+            "Consistency of test results over time",
+            "Test is easy",
+            "Test is difficult"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reliability refers to the consistency and stability of test scores when administered repeatedly under similar conditions.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-067",
           "question": "What is a rubric?",
           "options": [
-            "A type of test",
-            "A scoring guide with criteria and performance levels",
-            "A textbook",
-            "A classroom rule"
+            "Red pen",
+            "Scoring guide with criteria and performance levels",
+            "Test booklet",
+            "Answer sheet"
           ],
           "correctAnswer": 1,
-          "explanation": "A rubric is a scoring tool that lists criteria and describes levels of quality for student work.",
+          "explanation": "A rubric is a scoring tool with explicit criteria and performance level descriptions for evaluating student work.",
           "difficulty": "easy",
-          "topic": "Assessment of Learning"
+          "topic": "Assessment and Evaluation"
         },
         {
-          "id": "ele-prof-assess-005",
+          "id": "pe-ae-068",
+          "question": "What is portfolio assessment?",
+          "options": [
+            "Collection of student work showing growth over time",
+            "Folder of worksheets",
+            "Art portfolio only",
+            "Teacher's file"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Portfolio assessment uses a collection of student work over time to demonstrate learning progress and achievement.",
+          "difficulty": "easy",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-069",
+          "question": "What is performance-based assessment?",
+          "options": [
+            "Written test only",
+            "Assessment requiring demonstration of skills in real tasks",
+            "Multiple choice exam",
+            "True or false test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Performance-based assessment requires students to demonstrate knowledge and skills through real-world tasks or performances.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-070",
+          "question": "What is norm-referenced assessment?",
+          "options": [
+            "Comparing student to set standards",
+            "Comparing student performance to peers",
+            "Normal test",
+            "Reference book test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Norm-referenced assessment compares a student's performance to that of other students (percentile ranks, stanines).",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-071",
+          "question": "What is criterion-referenced assessment?",
+          "options": [
+            "Assessment based on criteria or standards",
+            "Assessment based on other students",
+            "Difficult test",
+            "Easy test"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Criterion-referenced assessment measures student performance against predetermined criteria or standards, not comparison to peers.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-072",
+          "question": "What is the purpose of a Table of Specifications (TOS)?",
+          "options": [
+            "List of topics",
+            "Blueprint ensuring test coverage and balance",
+            "Examination schedule",
+            "Grading sheet"
+          ],
+          "correctAnswer": 1,
+          "explanation": "TOS is a test blueprint that ensures proper coverage and balance of content areas and cognitive levels in an assessment.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-073",
           "question": "What is authentic assessment?",
           "options": [
-            "Multiple choice tests",
-            "Assessment of real-world application of knowledge and skills",
-            "True or false tests",
-            "Memorization tests"
+            "Real test",
+            "Assessment using real-world, meaningful tasks",
+            "Difficult test",
+            "Standardized test"
           ],
           "correctAnswer": 1,
-          "explanation": "Authentic assessment evaluates students' ability to apply knowledge and skills to real-world situations.",
+          "explanation": "Authentic assessment uses real-world, meaningful tasks that require application of knowledge and skills in realistic contexts.",
           "difficulty": "medium",
-          "topic": "Assessment of Learning"
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-074",
+          "question": "What is a holistic rubric?",
+          "options": [
+            "Complete rubric",
+            "Single score based on overall impression",
+            "Detailed rubric",
+            "Multiple criteria rubric"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Holistic rubric provides a single overall score based on general impression of performance, not separate scores per criteria.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
+        },
+        {
+          "id": "pe-ae-075",
+          "question": "What is an analytic rubric?",
+          "options": [
+            "Analysis rubric",
+            "Separate scores for each criterion",
+            "Complex rubric",
+            "Simple rubric"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Analytic rubric provides separate scores for each criterion or dimension of the performance or product.",
+          "difficulty": "medium",
+          "topic": "Assessment and Evaluation"
         }
       ]
     },
     {
-      "id": "educational-technology",
-      "name": "Educational Technology",
+      "id": "classroom-management",
+      "name": "Classroom Management",
       "questions": [
         {
-          "id": "ele-prof-edtech-001",
-          "question": "What does ICT stand for in education?",
+          "id": "pe-cm-076",
+          "question": "What is classroom management?",
           "options": [
-            "International Computer Training",
-            "Information and Communication Technology",
-            "Internet Classroom Teaching",
-            "Integrated Computer Tools"
+            "Managing money",
+            "Strategies to create productive learning environment",
+            "Discipline only",
+            "Cleaning the classroom"
           ],
           "correctAnswer": 1,
-          "explanation": "ICT stands for Information and Communication Technology, tools used to handle information and aid communication.",
+          "explanation": "Classroom management involves strategies and techniques to create and maintain a productive, orderly learning environment.",
           "difficulty": "easy",
-          "topic": "Educational Technology"
+          "topic": "Classroom Management"
         },
         {
-          "id": "ele-prof-edtech-002",
-          "question": "What is blended learning?",
+          "id": "pe-cm-077",
+          "question": "What is the first step in effective classroom management?",
           "options": [
-            "Only online learning",
-            "Only face-to-face learning",
-            "Combination of online and face-to-face instruction",
-            "Learning without technology"
+            "Punishment system",
+            "Establishing clear rules and procedures",
+            "Buying materials",
+            "Arranging seats"
           ],
-          "correctAnswer": 2,
-          "explanation": "Blended learning integrates online educational materials and interaction with traditional classroom methods.",
+          "correctAnswer": 1,
+          "explanation": "Establishing clear, consistent rules and procedures at the beginning is the foundation of effective classroom management.",
           "difficulty": "easy",
-          "topic": "Educational Technology"
+          "topic": "Classroom Management"
         },
         {
-          "id": "ele-prof-edtech-003",
-          "question": "What is the SAMR model in educational technology?",
+          "id": "pe-cm-078",
+          "question": "What is 'withitness' according to Kounin?",
           "options": [
-            "A grading system",
-            "A framework for integrating technology (Substitution, Augmentation, Modification, Redefinition)",
-            "A type of software",
-            "A teaching strategy"
+            "Being intelligent",
+            "Teacher awareness of everything happening in classroom",
+            "Being happy",
+            "Being strict"
           ],
           "correctAnswer": 1,
-          "explanation": "SAMR is a framework describing four levels of technology integration in learning, from basic substitution to transformation.",
-          "difficulty": "hard",
-          "topic": "Educational Technology"
-        },
-        {
-          "id": "ele-prof-edtech-004",
-          "question": "What is digital literacy?",
-          "options": [
-            "Reading books on tablets",
-            "The ability to effectively use, understand, and create digital content",
-            "Typing speed",
-            "Computer programming"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Digital literacy encompasses the skills needed to find, evaluate, create, and communicate information using digital technologies.",
+          "explanation": "Withitness is the teacher's awareness of everything happening in the classroom - having 'eyes in the back of your head'.",
           "difficulty": "medium",
-          "topic": "Educational Technology"
+          "topic": "Classroom Management"
         },
         {
-          "id": "ele-prof-edtech-005",
-          "question": "What is an LMS (Learning Management System)?",
+          "id": "pe-cm-079",
+          "question": "What is positive reinforcement?",
           "options": [
-            "A hardware device",
-            "Software platform for delivering and managing educational content",
-            "A teaching method",
-            "A type of classroom"
+            "Punishment",
+            "Adding pleasant stimulus to increase behavior",
+            "Removing privileges",
+            "Ignoring behavior"
           ],
           "correctAnswer": 1,
-          "explanation": "An LMS is software that administers, documents, tracks, and delivers educational courses or training programs.",
+          "explanation": "Positive reinforcement involves adding a pleasant stimulus (praise, reward) after a desired behavior to increase its occurrence.",
           "difficulty": "easy",
-          "topic": "Educational Technology"
-        }
-      ]
-    },
-    {
-      "id": "social-dimensions",
-      "name": "Social Dimensions of Education",
-      "questions": [
-        {
-          "id": "ele-prof-social-001",
-          "question": "What is inclusive education?",
-          "options": [
-            "Education only for gifted students",
-            "Education that accommodates all students regardless of abilities or differences",
-            "Private school education",
-            "Online education only"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Inclusive education ensures all students, regardless of physical, intellectual, social, or linguistic differences, learn together.",
-          "difficulty": "easy",
-          "topic": "Social Dimensions of Education"
+          "topic": "Classroom Management"
         },
         {
-          "id": "ele-prof-social-002",
-          "question": "What does multicultural education promote?",
+          "id": "pe-cm-080",
+          "question": "What is negative reinforcement?",
           "options": [
-            "Single culture dominance",
-            "Recognition and appreciation of cultural diversity",
-            "Segregation",
-            "Uniformity"
+            "Humiliation",
+            "Removing unpleasant stimulus to increase behavior",
+            "Punishment",
+            "Prohibition"
           ],
           "correctAnswer": 1,
-          "explanation": "Multicultural education values and integrates diverse cultural perspectives in teaching and learning.",
-          "difficulty": "easy",
-          "topic": "Social Dimensions of Education"
-        },
-        {
-          "id": "ele-prof-social-003",
-          "question": "What is the purpose of gender-fair education?",
-          "options": [
-            "To favor one gender",
-            "To eliminate gender stereotypes and promote equality",
-            "To separate boys and girls",
-            "To focus only on girls"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Gender-fair education works to eliminate gender bias and stereotypes, ensuring equal opportunities for all students.",
+          "explanation": "Negative reinforcement removes an unpleasant stimulus after desired behavior to increase the occurrence of that behavior.",
           "difficulty": "medium",
-          "topic": "Social Dimensions of Education"
+          "topic": "Classroom Management"
         },
         {
-          "id": "ele-prof-social-004",
-          "question": "What is social justice in education?",
+          "id": "pe-cm-081",
+          "question": "What is the difference between punishment and negative reinforcement?",
           "options": [
-            "Equal punishment for all",
-            "Fair distribution of resources and opportunities for all students",
-            "Competitive grading",
-            "Merit-based exclusion"
+            "No difference",
+            "Punishment decreases behavior, negative reinforcement increases behavior",
+            "Same effect",
+            "Both increase behavior"
           ],
           "correctAnswer": 1,
-          "explanation": "Social justice in education means ensuring equitable access to quality education and resources for all students.",
+          "explanation": "Punishment aims to decrease unwanted behavior, while negative reinforcement removes something unpleasant to increase desired behavior.",
           "difficulty": "medium",
-          "topic": "Social Dimensions of Education"
+          "topic": "Classroom Management"
         },
         {
-          "id": "ele-prof-social-005",
-          "question": "What is the role of education in poverty alleviation?",
+          "id": "pe-cm-082",
+          "question": "What is 'proximity control'?",
           "options": [
-            "No connection",
-            "Provides knowledge and skills for economic opportunities",
-            "Only provides certificates",
-            "Creates more poverty"
+            "Controlling distance",
+            "Using physical nearness to manage behavior",
+            "Remote control",
+            "Distancing"
           ],
           "correctAnswer": 1,
-          "explanation": "Education equips individuals with knowledge and skills needed to access better economic opportunities and break the poverty cycle.",
+          "explanation": "Proximity control uses physical nearness or presence of the teacher near a misbehaving student to manage behavior.",
           "difficulty": "easy",
-          "topic": "Social Dimensions of Education"
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "pe-cm-083",
+          "question": "What is the assertive discipline model?",
+          "options": [
+            "Aggressive teaching",
+            "Clear expectations with consistent consequences (Canter)",
+            "Passive teaching",
+            "Democratic discipline"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Assertive Discipline (Canter) involves setting clear behavioral expectations with consistent, fair consequences when rules are broken.",
+          "difficulty": "medium",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "pe-cm-084",
+          "question": "What are 'logical consequences' according to Dreikurs?",
+          "options": [
+            "Random punishment",
+            "Consequences logically related to misbehavior",
+            "Severe punishment",
+            "No consequences"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Logical consequences are directly related to misbehavior and teach students responsibility.",
+          "difficulty": "medium",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "pe-cm-085",
+          "question": "What is 'time-out'?",
+          "options": [
+            "Rest time",
+            "Temporary removal from reinforcing situation",
+            "Lunch break",
+            "Recess"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Time-out is temporary removal of a student from a reinforcing activity or situation as a consequence of inappropriate behavior.",
+          "difficulty": "easy",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "pe-cm-086",
+          "question": "What is the Ripple Effect (Kounin)?",
+          "options": [
+            "Water waves",
+            "How correcting one student affects others' behavior",
+            "Spreading rumors",
+            "Contagious behavior"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Ripple Effect describes how a teacher's correction of one student's misbehavior can influence the behavior of other students.",
+          "difficulty": "medium",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "pe-cm-087",
+          "question": "What is 'overlapping' in classroom management?",
+          "options": [
+            "Overlapping schedules",
+            "Attending to two issues simultaneously",
+            "Too many students",
+            "Extra work"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Overlapping is the ability of the teacher to manage two or more activities or situations simultaneously in the classroom.",
+          "difficulty": "medium",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "pe-cm-088",
+          "question": "What is the recommended number of classroom rules?",
+          "options": [
+            "1-2 rules",
+            "3-5 rules",
+            "10-15 rules",
+            "20 or more rules"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The recommended number is 3-5 clear, positively stated rules that are easy to remember and understand.",
+          "difficulty": "easy",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "pe-cm-089",
+          "question": "What is 'momentum' according to Kounin?",
+          "options": [
+            "Running speed",
+            "Keeping lessons moving at appropriate pace",
+            "Physical movement",
+            "Exercise routine"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Momentum is the pacing of lessons - keeping activities moving smoothly without slowdowns or interruptions.",
+          "difficulty": "medium",
+          "topic": "Classroom Management"
+        },
+        {
+          "id": "pe-cm-090",
+          "question": "What is effective praise in classroom management?",
+          "options": [
+            "Generic praise",
+            "Specific, sincere, contingent on appropriate behavior",
+            "Constant praise",
+            "Public praise only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Effective praise is specific to the behavior, sincere, contingent on appropriate behavior, and delivered immediately.",
+          "difficulty": "medium",
+          "topic": "Classroom Management"
         }
       ]
     },
     {
       "id": "field-study",
-      "name": "Field Study and Practice Teaching",
+      "name": "Field Study and Observation",
       "questions": [
         {
-          "id": "ele-prof-field-001",
-          "question": "What is the main purpose of field study in teacher education?",
+          "id": "pe-fs-091",
+          "question": "What is the primary purpose of Field Study in teacher education?",
           "options": [
-            "To observe and analyze actual classroom practices",
-            "To substitute regular classes",
-            "To avoid theory classes",
-            "To grade teachers"
+            "To earn units",
+            "To provide practical observation and experience in actual classroom settings",
+            "To substitute for classes",
+            "To evaluate cooperating teachers"
           ],
-          "correctAnswer": 0,
-          "explanation": "Field study allows pre-service teachers to observe, analyze, and reflect on real classroom situations.",
+          "correctAnswer": 1,
+          "explanation": "Field Study provides pre-service teachers with opportunities to observe and experience actual classroom settings before practice teaching.",
           "difficulty": "easy",
-          "topic": "Field Study and Practice Teaching"
+          "topic": "Field Study and Observation"
         },
         {
-          "id": "ele-prof-field-002",
-          "question": "What is action research in education?",
+          "id": "pe-fs-092",
+          "question": "What is the role of a cooperating teacher in Field Study?",
           "options": [
-            "Physical activities",
-            "Systematic inquiry to improve teaching practice",
-            "Acting lessons",
-            "Sports research"
+            "To grade the student teacher",
+            "To serve as mentor and model for the student observer",
+            "To do nothing",
+            "To assign all tasks to the observer"
           ],
           "correctAnswer": 1,
-          "explanation": "Action research is a reflective process where teachers investigate their own practice to improve student learning.",
-          "difficulty": "medium",
-          "topic": "Field Study and Practice Teaching"
+          "explanation": "The cooperating teacher serves as a mentor and role model, guiding the student observer in understanding classroom practices.",
+          "difficulty": "easy",
+          "topic": "Field Study and Observation"
         },
         {
-          "id": "ele-prof-field-003",
-          "question": "What is reflective teaching?",
+          "id": "pe-fs-093",
+          "question": "What should be the focus during classroom observation in Field Study?",
           "options": [
-            "Teaching in front of mirrors",
-            "Critically analyzing one's teaching to improve practice",
-            "Copying other teachers",
-            "Following scripts exactly"
+            "Only the teacher's appearance",
+            "Teaching strategies, classroom management, and student engagement",
+            "Counting students",
+            "Checking time"
           ],
           "correctAnswer": 1,
-          "explanation": "Reflective teaching involves examining teaching methods and their effectiveness to continuously improve practice.",
+          "explanation": "Observers should focus on teaching strategies, classroom management techniques, student engagement, and learning environment.",
           "difficulty": "medium",
-          "topic": "Field Study and Practice Teaching"
+          "topic": "Field Study and Observation"
         },
         {
-          "id": "ele-prof-field-004",
-          "question": "What is the purpose of a teaching demonstration?",
+          "id": "pe-fs-094",
+          "question": "What is an observation guide or protocol?",
+          "options": [
+            "School rules",
+            "Structured tool to focus and record classroom observations",
+            "Teacher's manual",
+            "Lesson plan format"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An observation guide is a structured tool that helps focus observations on specific aspects and provides a framework for recording data.",
+          "difficulty": "medium",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-095",
+          "question": "What is reflection in Field Study?",
+          "options": [
+            "Looking in a mirror",
+            "Critical thinking about observations to develop insights and understanding",
+            "Copying what was observed",
+            "Writing a summary"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reflection involves critical thinking about observations to develop deeper insights and understanding of teaching practices.",
+          "difficulty": "medium",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-096",
+          "question": "What is the proper conduct when observing a classroom?",
+          "options": [
+            "Interrupt the class frequently",
+            "Be unobtrusive, respectful, and professional",
+            "Talk to students during the lesson",
+            "Use mobile phone"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Observers should be unobtrusive, respectful of the learning process, maintain professionalism, and avoid disrupting the class.",
+          "difficulty": "easy",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-097",
+          "question": "What is participant observation?",
+          "options": [
+            "Just watching",
+            "Observing while actively participating in classroom activities",
+            "Participating in sports",
+            "Attending events"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Participant observation involves the observer actively participating in classroom activities while observing teaching and learning processes.",
+          "difficulty": "medium",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-098",
+          "question": "What should be included in a Field Study portfolio?",
+          "options": [
+            "Personal photos only",
+            "Observation reports, reflections, and learning artifacts",
+            "Unrelated documents",
+            "Blank papers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A Field Study portfolio should include observation reports, reflections, lesson plans analyzed, and other relevant learning artifacts.",
+          "difficulty": "medium",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-099",
+          "question": "What is the difference between Field Study and Practice Teaching?",
+          "options": [
+            "No difference",
+            "Field Study is observation-focused; Practice Teaching involves actual teaching",
+            "Same requirements",
+            "Field Study is easier"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Field Study focuses on observation and limited participation, while Practice Teaching involves full teaching responsibilities.",
+          "difficulty": "easy",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-100",
+          "question": "What is an anecdotal record in classroom observation?",
+          "options": [
+            "Funny stories",
+            "Brief narrative account of significant classroom incidents",
+            "Student grades",
+            "Attendance record"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An anecdotal record is a brief, factual narrative account of a significant incident or behavior observed in the classroom.",
+          "difficulty": "medium",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-101",
+          "question": "Why is confidentiality important in Field Study observations?",
+          "options": [
+            "To keep secrets",
+            "To protect privacy and maintain professional ethics",
+            "To hide information",
+            "To avoid sharing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Confidentiality protects the privacy of students and teachers and maintains professional ethics in educational settings.",
+          "difficulty": "easy",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-102",
+          "question": "What is a running record in observation?",
+          "options": [
+            "Record of running activities",
+            "Continuous, detailed narrative of everything occurring during observation",
+            "Race results",
+            "Speed test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A running record is a continuous, detailed narrative description of behavior and events as they occur during observation.",
+          "difficulty": "medium",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-103",
+          "question": "What should observers do after completing classroom observations?",
+          "options": [
+            "Forget everything",
+            "Analyze, reflect, and connect observations to teaching theories",
+            "Complain about what they saw",
+            "Sleep"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Observers should analyze observations, reflect on what was learned, and connect experiences to educational theories and principles.",
+          "difficulty": "medium",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-104",
+          "question": "What is the purpose of post-observation conferences?",
+          "options": [
+            "To criticize the teacher",
+            "To discuss observations, ask questions, and gain deeper insights",
+            "To gossip",
+            "To make complaints"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Post-observation conferences allow observers to discuss what they saw, ask questions, and gain deeper understanding from the cooperating teacher.",
+          "difficulty": "easy",
+          "topic": "Field Study and Observation"
+        },
+        {
+          "id": "pe-fs-105",
+          "question": "What is systematic observation?",
+          "options": [
+            "Random watching",
+            "Structured observation using specific criteria and instruments",
+            "Casual observation",
+            "Unsystematic watching"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Systematic observation uses structured methods, specific criteria, and observation instruments to collect focused, objective data.",
+          "difficulty": "medium",
+          "topic": "Field Study and Observation"
+        }
+      ]
+    },
+    {
+      "id": "practice-teaching",
+      "name": "Practice Teaching and Internship",
+      "questions": [
+        {
+          "id": "pe-pt-106",
+          "question": "What is Practice Teaching or Student Teaching Internship?",
+          "options": [
+            "Observing classes only",
+            "Full immersion experience where student teachers assume teaching responsibilities",
+            "Part-time job",
+            "Volunteer work"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Practice Teaching is a full immersion experience where student teachers assume full teaching responsibilities under supervision.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-107",
+          "question": "Who are the three key people involved in Practice Teaching?",
+          "options": [
+            "Student, Parent, Principal",
+            "Student Teacher, Cooperating Teacher, College Supervisor",
+            "Teacher, Student, Janitor",
+            "Principal, Teacher, Guard"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The triad in Practice Teaching consists of the Student Teacher, Cooperating Teacher (mentor), and College Supervisor.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-108",
+          "question": "What is the role of the Cooperating Teacher in Practice Teaching?",
+          "options": [
+            "To do nothing",
+            "To mentor, guide, and evaluate the student teacher",
+            "To do all the teaching",
+            "To observe only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Cooperating Teacher serves as mentor, provides guidance, models effective teaching, and helps evaluate the student teacher.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-109",
+          "question": "What is the role of the College Supervisor?",
+          "options": [
+            "To grade only",
+            "To observe, provide feedback, and link theory to practice",
+            "To never visit",
+            "To criticize only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The College Supervisor observes lessons, provides constructive feedback, and helps connect teaching practice to educational theory.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-110",
+          "question": "What should be prepared before teaching a demonstration lesson?",
+          "options": [
+            "Nothing",
+            "Detailed lesson plan, instructional materials, and assessment tools",
+            "Excuses",
+            "Apologies"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Student teachers should prepare a detailed lesson plan, instructional materials, visual aids, and assessment tools before demonstration.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-111",
+          "question": "What is a pre-observation conference?",
+          "options": [
+            "Meeting after teaching",
+            "Meeting before observation to discuss lesson plan and objectives",
+            "Random meeting",
+            "Final meeting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A pre-observation conference is held before the lesson to discuss the lesson plan, objectives, strategies, and anticipated challenges.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-112",
+          "question": "What is a post-observation conference?",
+          "options": [
+            "Meeting before teaching",
+            "Meeting after observation to provide feedback and reflection",
+            "Cancellation of meeting",
+            "No meeting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A post-observation conference is held after the lesson to discuss what happened, provide feedback, and encourage reflection.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-113",
+          "question": "What is the purpose of a demonstration teaching?",
           "options": [
             "To show off",
-            "To showcase teaching skills and receive feedback",
-            "To compete with others",
-            "To fill time"
+            "To showcase teaching competencies and application of teaching principles",
+            "To entertain",
+            "To compete"
           ],
           "correctAnswer": 1,
-          "explanation": "Teaching demonstrations allow pre-service teachers to apply pedagogical knowledge and receive constructive feedback.",
+          "explanation": "Demonstration teaching showcases the student teacher's ability to plan, deliver effective instruction, and apply teaching principles.",
           "difficulty": "easy",
-          "topic": "Field Study and Practice Teaching"
+          "topic": "Practice Teaching and Internship"
         },
         {
-          "id": "ele-prof-field-005",
-          "question": "What is a lesson plan?",
+          "id": "pe-pt-114",
+          "question": "What should student teachers do when receiving constructive criticism?",
           "options": [
-            "A daily schedule",
-            "A detailed guide for implementing instruction",
-            "A list of assignments",
-            "A classroom seating chart"
+            "Get angry",
+            "Accept it professionally and use it for improvement",
+            "Argue",
+            "Ignore it"
           ],
           "correctAnswer": 1,
-          "explanation": "A lesson plan is a teacher's detailed description of the course of instruction for a lesson.",
+          "explanation": "Student teachers should accept constructive criticism professionally, reflect on it, and use it as an opportunity for growth and improvement.",
           "difficulty": "easy",
-          "topic": "Field Study and Practice Teaching"
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-115",
+          "question": "What is gradual release of responsibility in Practice Teaching?",
+          "options": [
+            "Sudden teaching",
+            "Progressive transition from observation to full teaching responsibility",
+            "No responsibility",
+            "Immediate full load"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gradual release involves slowly transitioning from observation to co-teaching to independent teaching, building confidence and competence.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-116",
+          "question": "What are teaching standards that student teachers must demonstrate?",
+          "options": [
+            "Height and weight",
+            "Content knowledge, pedagogical skills, and professional behavior",
+            "Physical strength",
+            "Appearance only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Student teachers must demonstrate content knowledge, pedagogical competence, classroom management skills, and professional behavior.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-117",
+          "question": "Why is lesson planning crucial in Practice Teaching?",
+          "options": [
+            "Just a requirement",
+            "Ensures organized, purposeful instruction aligned with objectives",
+            "For decoration",
+            "To show handwriting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Lesson planning ensures organized, purposeful instruction aligned with learning objectives and helps anticipate potential issues.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-118",
+          "question": "What is reflective practice in Practice Teaching?",
+          "options": [
+            "Looking in mirror",
+            "Critically analyzing one's teaching to improve future practice",
+            "Thinking only",
+            "Daydreaming"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Reflective practice involves critically analyzing one's teaching experiences to identify strengths, weaknesses, and areas for improvement.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-119",
+          "question": "What should student teachers do when they make mistakes during teaching?",
+          "options": [
+            "Quit teaching",
+            "Acknowledge, learn from them, and adjust strategies",
+            "Blame students",
+            "Ignore mistakes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Student teachers should acknowledge mistakes as learning opportunities, reflect on them, and adjust their teaching strategies accordingly.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-120",
+          "question": "What is the ultimate goal of Practice Teaching?",
+          "options": [
+            "To finish requirements",
+            "To develop competent, reflective, and professional teachers",
+            "To get a grade",
+            "To graduate only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The ultimate goal is to develop competent, reflective, and professional teachers ready for the challenges of the teaching profession.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-121",
+          "question": "What is professional ethics in Practice Teaching?",
+          "options": [
+            "Wearing professional clothes only",
+            "Adhering to ethical standards including confidentiality and respect",
+            "Being on time",
+            "Following fashion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Professional ethics includes maintaining confidentiality, showing respect, demonstrating integrity, and upholding professional standards.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-122",
+          "question": "How should student teachers handle classroom diversity?",
+          "options": [
+            "Ignore differences",
+            "Use differentiated instruction and inclusive strategies",
+            "Treat all students the same way",
+            "Separate students by ability"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Student teachers should use differentiated instruction and inclusive strategies to meet the diverse needs of all learners.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-123",
+          "question": "What is the importance of time management in Practice Teaching?",
+          "options": [
+            "Not important",
+            "Essential for effective lesson delivery and classroom management",
+            "Only for schedules",
+            "Just for punctuality"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Effective time management ensures lessons are delivered efficiently, activities are well-paced, and learning objectives are met.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-124",
+          "question": "What should be included in a Practice Teaching portfolio?",
+          "options": [
+            "Photos only",
+            "Lesson plans, reflections, evaluations, and evidence of student learning",
+            "Random papers",
+            "Blank documents"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A comprehensive portfolio includes lesson plans, reflections, observation reports, evaluations, and evidence of student learning.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-125",
+          "question": "How should student teachers build rapport with students?",
+          "options": [
+            "Be authoritarian only",
+            "Show genuine interest, respect, and create positive relationships",
+            "Be distant",
+            "Ignore students"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Building rapport involves showing genuine interest in students, demonstrating respect, and creating positive, trusting relationships.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-126",
+          "question": "What is action research in Practice Teaching?",
+          "options": [
+            "Physical activities",
+            "Systematic inquiry to improve one's teaching practice",
+            "Action movies",
+            "Quick decisions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Action research is systematic inquiry conducted by teachers to improve their practice by identifying problems and testing solutions.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-127",
+          "question": "Why is collaboration important during Practice Teaching?",
+          "options": [
+            "Not important",
+            "Provides support, shares ideas, and enhances professional growth",
+            "Creates conflict",
+            "Wastes time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Collaboration with cooperating teachers and peers provides support, allows sharing of ideas, and enhances professional development.",
+          "difficulty": "easy",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-128",
+          "question": "What is the significance of the final demonstration teaching?",
+          "options": [
+            "Just another lesson",
+            "Culminating assessment of teaching competencies",
+            "Practice only",
+            "Optional activity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The final demonstration is a culminating assessment that showcases the student teacher's developed competencies and readiness to teach.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-129",
+          "question": "How should student teachers handle difficult or challenging students?",
+          "options": [
+            "Give up on them",
+            "Use positive behavior strategies and seek to understand root causes",
+            "Punish severely",
+            "Ignore them"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Student teachers should use positive behavior management strategies, try to understand underlying causes, and seek guidance when needed.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        },
+        {
+          "id": "pe-pt-130",
+          "question": "What is the value of keeping a teaching journal during Practice Teaching?",
+          "options": [
+            "Waste of time",
+            "Documents experiences, promotes reflection, and tracks growth",
+            "Just for grades",
+            "Unnecessary work"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A teaching journal documents daily experiences, promotes reflective practice, and provides evidence of professional growth over time.",
+          "difficulty": "medium",
+          "topic": "Practice Teaching and Internship"
+        }
+      ]
+    },
+    {
+      "id": "educational-technology",
+      "name": "Educational Technology and Innovations",
+      "questions": [
+        {
+          "id": "pe-et-131",
+          "question": "What is the TPACK framework?",
+          "options": [
+            "Technology Package",
+            "Technological Pedagogical Content Knowledge",
+            "Teaching Pack",
+            "Tech Planning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "TPACK integrates Technological knowledge, Pedagogical knowledge, and Content knowledge for effective teaching with technology.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-132",
+          "question": "What is blended learning?",
+          "options": [
+            "Mixed students",
+            "Combination of online and face-to-face instruction",
+            "Blending subjects",
+            "Team teaching"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Blended learning combines online digital media with traditional face-to-face classroom methods.",
+          "difficulty": "easy",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-133",
+          "question": "What is a Learning Management System (LMS)?",
+          "options": [
+            "Library system",
+            "Software application for delivering and managing courses",
+            "School management",
+            "Grading system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "LMS is software for administration, documentation, tracking, reporting, and delivery of educational courses.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-134",
+          "question": "What is a flipped classroom?",
+          "options": [
+            "Inverted classroom",
+            "Students learn content at home, do activities in class",
+            "Upside-down teaching",
+            "Reverse seating"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Flipped classroom has students learn content at home (via video) and do activities and application work in class.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-135",
+          "question": "What is the SAMR model?",
+          "options": [
+            "Student Assessment Model",
+            "Substitution, Augmentation, Modification, Redefinition",
+            "School Management Rules",
+            "Subject Area Model"
+          ],
+          "correctAnswer": 1,
+          "explanation": "SAMR model describes four levels of technology integration: Substitution, Augmentation, Modification, and Redefinition.",
+          "difficulty": "difficult",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-136",
+          "question": "What is Digital Citizenship?",
+          "options": [
+            "Online voting",
+            "Responsible use of technology and online behavior",
+            "Computer literacy",
+            "Internet connection"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Digital Citizenship is responsible and appropriate use of technology, including online etiquette, safety, and digital literacy.",
+          "difficulty": "easy",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-137",
+          "question": "What is gamification in education?",
+          "options": [
+            "Playing games only",
+            "Using game design elements in learning activities",
+            "Video game lessons",
+            "Game-based rewards"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gamification applies game design elements (points, badges, leaderboards) to educational contexts to increase engagement.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-138",
+          "question": "What is an e-portfolio?",
+          "options": [
+            "Electronic folder",
+            "Digital collection of student work and reflections",
+            "Email portfolio",
+            "Online resume"
+          ],
+          "correctAnswer": 1,
+          "explanation": "E-portfolio is a digital collection of student work, reflections, and evidence of learning stored electronically.",
+          "difficulty": "easy",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-139",
+          "question": "What is assistive technology?",
+          "options": [
+            "Teaching aids",
+            "Technology helping individuals with disabilities",
+            "Computer assistance",
+            "Technical support"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Assistive technology includes devices or systems that help individuals with disabilities perform functions that might be difficult.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-140",
+          "question": "What is a webquest?",
+          "options": [
+            "Internet search",
+            "Inquiry-based lesson using web resources",
+            "Website quiz",
+            "Online game"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A webquest is an inquiry-oriented lesson format where most or all information comes from the web.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-141",
+          "question": "What is distance learning or online learning?",
+          "options": [
+            "Learning from far away physically",
+            "Education delivered remotely via internet and digital tools",
+            "Correspondence courses only",
+            "Self-study"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Distance or online learning is education delivered remotely using internet and digital technologies, allowing flexible access.",
+          "difficulty": "easy",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-142",
+          "question": "What are MOOCs?",
+          "options": [
+            "Massive Open Online Courses",
+            "Modern Offline Organized Classes",
+            "Multiple Option Online Curriculum",
+            "Managed Offline Courses"
+          ],
+          "correctAnswer": 0,
+          "explanation": "MOOCs are Massive Open Online Courses - free online courses available to unlimited participants via the internet.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-143",
+          "question": "What is augmented reality (AR) in education?",
+          "options": [
+            "Virtual reality",
+            "Technology that overlays digital information on real-world environment",
+            "3D movies",
+            "Computer graphics"
+          ],
+          "correctAnswer": 1,
+          "explanation": "AR overlays digital content (images, information) onto the real-world environment, enhancing learning experiences.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-144",
+          "question": "What is virtual reality (VR) in education?",
+          "options": [
+            "Augmented reality",
+            "Immersive computer-generated environment for learning experiences",
+            "Video games",
+            "Online learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "VR creates immersive, computer-generated environments that allow students to experience learning in simulated settings.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-145",
+          "question": "What is the purpose of educational apps and software?",
+          "options": [
+            "Entertainment only",
+            "To enhance learning through interactive, engaging digital tools",
+            "Replace teachers",
+            "Fill time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Educational apps and software enhance learning by providing interactive, engaging tools that support instruction and practice.",
+          "difficulty": "easy",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-146",
+          "question": "What is cloud computing in education?",
+          "options": [
+            "Weather study",
+            "Internet-based storage and access to educational resources and tools",
+            "Sky observation",
+            "Cloud formation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cloud computing provides internet-based storage and access to educational resources, enabling collaboration and flexible learning.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-147",
+          "question": "What are the benefits of using multimedia in teaching?",
+          "options": [
+            "None",
+            "Engages multiple senses, accommodates learning styles, increases retention",
+            "Wastes time",
+            "Confuses students"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Multimedia engages multiple senses, accommodates different learning styles, and increases information retention and engagement.",
+          "difficulty": "easy",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-148",
+          "question": "What is digital literacy?",
+          "options": [
+            "Reading digital books",
+            "Ability to effectively use, evaluate, and create digital content",
+            "Computer programming",
+            "Typing skills"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Digital literacy is the ability to find, evaluate, use, share, and create content using digital technologies effectively.",
+          "difficulty": "easy",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-149",
+          "question": "What are the challenges of integrating technology in the classroom?",
+          "options": [
+            "No challenges",
+            "Access, training, technical issues, and maintaining pedagogical focus",
+            "Too easy",
+            "Students know everything"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Challenges include limited access, need for teacher training, technical difficulties, and ensuring technology enhances rather than distracts from learning.",
+          "difficulty": "medium",
+          "topic": "Educational Technology and Innovations"
+        },
+        {
+          "id": "pe-et-150",
+          "question": "What is the role of social media in education?",
+          "options": [
+            "Distraction only",
+            "Platform for collaboration, communication, and sharing resources",
+            "Entertainment",
+            "Waste of time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Social media can facilitate collaboration, enable global connections, provide platforms for discussion, and allow sharing of educational resources when used appropriately.",
+          "difficulty": "easy",
+          "topic": "Educational Technology and Innovations"
         }
       ]
     }
-  ],
-  "totalQuestions": 40,
-  "note": "This is a sample with 5 questions per topic. Full version should have 150 questions total."
+  ]
 }
