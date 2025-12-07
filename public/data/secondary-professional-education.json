@@ -16,7 +16,7 @@
             "RA 10533",
             "RA 4670"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "RA 7836, also known as the Philippine Teachers Professionalization Act of 1994, is the primary law that professionalized teaching in the Philippines.",
           "difficulty": "medium",
           "topic": "The Teaching Profession"
@@ -100,7 +100,7 @@
             "RA 9155",
             "RA 10533"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "RA 4670, also known as the Magna Carta for Public School Teachers, protects teachers' rights and welfare.",
           "difficulty": "medium",
           "topic": "The Teaching Profession"
@@ -142,7 +142,7 @@
             "Teacher is a friend of students",
             "Teacher is only a caregiver"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "In loco parentis means the teacher acts in place of parents while students are in school, with similar authority and responsibilities.",
           "difficulty": "easy",
           "topic": "The Teaching Profession"
@@ -260,7 +260,7 @@
             "Industry vs. Inferiority",
             "Autonomy vs. Shame"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Identity vs. Role Confusion (12-18 years) is the stage of adolescence where teenagers search for their identity.",
           "difficulty": "easy",
           "topic": "Child and Adolescent Development"
@@ -560,7 +560,7 @@
             "Easy, Efficient, Effective, Excellent, Exemplary",
             "Education, Experience, Exercise, Exam, Evaluation"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The 5E Model is a constructivist teaching approach: Engage, Explore, Explain, Elaborate, and Evaluate.",
           "difficulty": "medium",
           "topic": "Facilitating Learning and Principles of Teaching"
@@ -616,7 +616,7 @@
             "Pair work only",
             "Group presentation"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Think-pair-share is a cooperative learning strategy: students think individually, discuss in pairs, then share with the class.",
           "difficulty": "easy",
           "topic": "Facilitating Learning and Principles of Teaching"
@@ -846,7 +846,7 @@
             "Number of subjects",
             "Length of school year"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Scope is the breadth and depth of content, while sequence is the order in which it is taught across time.",
           "difficulty": "easy",
           "topic": "Curriculum Development"
@@ -978,7 +978,7 @@
             "Art portfolio only",
             "Teacher's file"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Portfolio assessment uses a collection of student work over time to demonstrate learning progress and achievement.",
           "difficulty": "easy",
           "topic": "Assessment and Evaluation"
@@ -1020,7 +1020,7 @@
             "Difficult test",
             "Easy test"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Criterion-referenced assessment measures student performance against predetermined criteria or standards, not comparison to peers.",
           "difficulty": "medium",
           "topic": "Assessment and Evaluation"
@@ -2038,7 +2038,7 @@
             "Multiple Option Online Curriculum",
             "Managed Offline Courses"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "MOOCs are Massive Open Online Courses - free online courses available to unlimited participants via the internet.",
           "difficulty": "medium",
           "topic": "Educational Technology and Innovations"
