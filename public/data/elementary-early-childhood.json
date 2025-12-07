@@ -72,7 +72,7 @@
             "Thinking, Feeling, Acting",
             "Body, Mind, Soul"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The three main domains are Physical (motor skills), Cognitive (thinking/learning), and Socio-emotional (social and emotional development).",
           "difficulty": "easy",
           "topic": "Child Development (Ages 0-8)"
@@ -414,7 +414,7 @@
             "1:15 to 1:20",
             "1:20 to 1:25"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "For 3-year-olds, NAEYC recommends an adult-child ratio of 1:7 to 1:10, with group sizes of 14-20 children maximum.",
           "difficulty": "difficult",
           "topic": "Developmentally Appropriate Practice (DAP)"
@@ -1382,7 +1382,7 @@
             "1:10 to 1:12",
             "1:15 to 1:20"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "For infants, NAEYC recommends a ratio of 1:3 to 1:4 to ensure individualized care and safety.",
           "difficulty": "difficult",
           "topic": "Health, Safety, and Nutrition"
@@ -1452,7 +1452,7 @@
             "Meat only",
             "Bread and water"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Children need daily servings from all food groups: Fruits, Vegetables, Grains, Protein, and Dairy for balanced nutrition.",
           "difficulty": "easy",
           "topic": "Health, Safety, and Nutrition"
@@ -1508,7 +1508,7 @@
             "Safe Indoor Development Space",
             "Special Infant Diet Supplement"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "SIDS is Sudden Infant Death Syndrome; risk is reduced by placing infants on their backs to sleep and maintaining safe sleep environment.",
           "difficulty": "medium",
           "topic": "Health, Safety, and Nutrition"
