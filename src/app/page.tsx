@@ -224,29 +224,32 @@ export default function LETReviewerApp() {
   // ============ SELECT ROLE VIEW ============
   if (view === 'select-role') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex items-center justify-center p-4">
+      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex flex-col">
         {loading && (
           <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
             <div className="text-white text-2xl font-bold">Loading...</div>
           </div>
         )}
-        <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.5 }}
-          className="max-w-6xl w-full">
-          <div className="text-center mb-12">
-            <motion.div initial={{ y: -50 }} animate={{ y: 0 }} transition={{ type: 'spring', stiffness: 100 }}>
-              <Image src="/logo.png" alt="TSOK Logo" width={150} height={150} className="mx-auto mb-6" />
-            </motion.div>
-            <h1 className="text-5xl md:text-6xl font-black text-white mb-4 drop-shadow-lg">LET Reviewer Pro</h1>
-            <p className="text-xl text-green-100 font-semibold">Teachers Specialists Organization Kuwait (TSOK)</p>
-          </div>
+        <div className="flex-1 flex items-center justify-center p-4">
+          <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.5 }}
+            className="max-w-6xl w-full">
+            <div className="text-center mb-12">
+              <motion.div initial={{ y: -50 }} animate={{ y: 0 }} transition={{ type: 'spring', stiffness: 100 }}>
+                <Image src="/logo.png" alt="TSOK Logo" width={150} height={150} className="mx-auto mb-6" />
+              </motion.div>
+              <h1 className="text-5xl md:text-6xl font-black text-white mb-4 drop-shadow-lg">LET Reviewer Pro</h1>
+              <p className="text-xl text-green-100 font-semibold">Teachers Specialists Organization Kuwait (TSOK)</p>
+            </div>
 
-          <div className="grid md:grid-cols-2 gap-8">
-            <RoleCard title="Examinee" description="Take practice tests and track your progress" icon={<User className="w-16 h-16" />}
-              onClick={() => setView('examinee-login')} gradientFrom="from-blue-500" gradientTo="to-cyan-600" />
-            <RoleCard title="Admin" description="Manage examinees and view analytics" icon={<Shield className="w-16 h-16" />}
-              onClick={() => setView('admin-login')} gradientFrom="from-purple-500" gradientTo="to-pink-600" />
-          </div>
-        </motion.div>
+            <div className="grid md:grid-cols-2 gap-8">
+              <RoleCard title="Examinee" description="Take practice tests and track your progress" icon={<User className="w-16 h-16" />}
+                onClick={() => setView('examinee-login')} gradientFrom="from-blue-500" gradientTo="to-cyan-600" />
+              <RoleCard title="Admin" description="Manage examinees and view analytics" icon={<Shield className="w-16 h-16" />}
+                onClick={() => setView('admin-login')} gradientFrom="from-purple-500" gradientTo="to-pink-600" />
+            </div>
+          </motion.div>
+        </div>
+        <Footer />
       </div>
     );
   }
@@ -254,13 +257,16 @@ export default function LETReviewerApp() {
   // ============ EXAMINEE LOGIN VIEW ============
   if (view === 'examinee-login') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex items-center justify-center p-4">
+      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex flex-col">
         {loading && (
           <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
             <div className="text-white text-2xl font-bold">Loading...</div>
           </div>
         )}
-        <ExamineeLoginForm onSubmit={handleExamineeLogin} onBack={() => setView('select-role')} />
+        <div className="flex-1 flex items-center justify-center p-4">
+          <ExamineeLoginForm onSubmit={handleExamineeLogin} onBack={() => setView('select-role')} />
+        </div>
+        <Footer />
       </div>
     );
   }
@@ -268,13 +274,16 @@ export default function LETReviewerApp() {
   // ============ ADMIN LOGIN VIEW ============
   if (view === 'admin-login') {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex items-center justify-center p-4">
+      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex flex-col">
         {loading && (
           <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
             <div className="text-white text-2xl font-bold">Loading...</div>
           </div>
         )}
-        <AdminLoginForm onSubmit={handleAdminLogin} onBack={() => setView('select-role')} />
+        <div className="flex-1 flex items-center justify-center p-4">
+          <AdminLoginForm onSubmit={handleAdminLogin} onBack={() => setView('select-role')} />
+        </div>
+        <Footer />
       </div>
     );
   }
@@ -290,19 +299,22 @@ export default function LETReviewerApp() {
     const categoryData = category ? categories[category as keyof typeof categories] : null;
 
     return (
-      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 p-4 md:p-8">
-        <div className="max-w-6xl mx-auto">
-          <UserHeader user={user} onLogout={handleLogout} />
+      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex flex-col">
+        <div className="flex-1 p-4 md:p-8">
+          <div className="max-w-6xl mx-auto">
+            <UserHeader user={user} onLogout={handleLogout} />
 
-          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="bg-white rounded-3xl shadow-2xl p-8 mb-8">
-            <h2 className="text-3xl font-black text-gray-800 mb-6">Select a Subject</h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {categoryData?.subjects.map((subject) => (
-                <SubjectCard key={subject.id} subject={subject} onClick={() => { setSelectedSubject(subject); setView('quiz-info'); }} />
-              ))}
-            </div>
-          </motion.div>
+            <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="bg-white rounded-3xl shadow-2xl p-8 mb-8">
+              <h2 className="text-3xl font-black text-gray-800 mb-6">Select a Subject</h2>
+              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {categoryData?.subjects.map((subject) => (
+                  <SubjectCard key={subject.id} subject={subject} onClick={() => { setSelectedSubject(subject); setView('quiz-info'); }} />
+                ))}
+              </div>
+            </motion.div>
+          </div>
         </div>
+        <Footer />
       </div>
     );
   }
@@ -310,33 +322,36 @@ export default function LETReviewerApp() {
   // ============ QUIZ INFO ============
   if (view === 'quiz-info' && selectedSubject) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex items-center justify-center p-4">
-        <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
-          className="bg-white rounded-3xl shadow-2xl p-8 max-w-2xl w-full">
-          <div className="text-center mb-8">
-            <Brain className="w-20 h-20 text-green-600 mx-auto mb-4" />
-            <h2 className="text-4xl font-black text-gray-800 mb-2">{selectedSubject.name}</h2>
-            <p className="text-gray-600">Get ready for your practice test!</p>
-          </div>
+      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex flex-col">
+        <div className="flex-1 flex items-center justify-center p-4">
+          <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+            className="bg-white rounded-3xl shadow-2xl p-8 max-w-2xl w-full">
+            <div className="text-center mb-8">
+              <Brain className="w-20 h-20 text-green-600 mx-auto mb-4" />
+              <h2 className="text-4xl font-black text-gray-800 mb-2">{selectedSubject.name}</h2>
+              <p className="text-gray-600">Get ready for your practice test!</p>
+            </div>
 
-          <div className="space-y-6 mb-8">
-            <InfoItem icon={<Target className="w-8 h-8 text-green-600" />} label="Questions" value="150 questions" />
-            <InfoItem icon={<Clock className="w-8 h-8 text-green-600" />} label="Time" value="Unlimited" />
-            <InfoItem icon={<Award className="w-8 h-8 text-green-600" />} label="Format" value="Multiple Choice" />
-          </div>
+            <div className="space-y-6 mb-8">
+              <InfoItem icon={<Target className="w-8 h-8 text-green-600" />} label="Questions" value="150 questions" />
+              <InfoItem icon={<Clock className="w-8 h-8 text-green-600" />} label="Time" value="Unlimited" />
+              <InfoItem icon={<Award className="w-8 h-8 text-green-600" />} label="Format" value="Multiple Choice" />
+            </div>
 
-          <div className="flex space-x-4">
-            <button onClick={backToSubjects}
-              className="flex-1 bg-gray-200 text-gray-700 py-4 rounded-2xl font-bold text-lg hover:bg-gray-300 transition-all">
-              Back
-            </button>
-            <button onClick={startQuiz}
-              className="flex-1 bg-gradient-to-r from-green-600 to-emerald-600 text-white py-4 rounded-2xl font-bold text-lg hover:from-green-700 hover:to-emerald-700 transition-all flex items-center justify-center">
-              <PlayCircle className="w-6 h-6 mr-2" />
-              Start Quiz
-            </button>
-          </div>
-        </motion.div>
+            <div className="flex space-x-4">
+              <button onClick={backToSubjects}
+                className="flex-1 bg-gray-200 text-gray-700 py-4 rounded-2xl font-bold text-lg hover:bg-gray-300 transition-all">
+                Back
+              </button>
+              <button onClick={startQuiz}
+                className="flex-1 bg-gradient-to-r from-green-600 to-emerald-600 text-white py-4 rounded-2xl font-bold text-lg hover:from-green-700 hover:to-emerald-700 transition-all flex items-center justify-center">
+                <PlayCircle className="w-6 h-6 mr-2" />
+                Start Quiz
+              </button>
+            </div>
+          </motion.div>
+        </div>
+        <Footer />
       </div>
     );
   }
@@ -344,25 +359,28 @@ export default function LETReviewerApp() {
   // ============ QUIZ VIEW ============
   if (view === 'quiz' && !showResults) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 p-4 md:p-8">
+      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex flex-col">
         {loading && (
           <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
             <div className="text-white text-2xl font-bold">Saving...</div>
           </div>
         )}
-        <div className="max-w-4xl mx-auto">
-          <QuizHeader progress={progress} answered={answered} total={questions.length} onBack={backToSubjects} />
+        <div className="flex-1 p-4 md:p-8">
+          <div className="max-w-4xl mx-auto">
+            <QuizHeader progress={progress} answered={answered} total={questions.length} onBack={backToSubjects} />
 
-          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="bg-white rounded-3xl shadow-2xl p-8 mb-8">
-            {currentQuestion && (
-              <QuestionCard question={currentQuestion} questionNumber={currentQuestionIndex + 1} selectedAnswer={userAnswers[currentQuestionIndex]}
-                onAnswer={handleAnswer} />
-            )}
-          </motion.div>
+            <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="bg-white rounded-3xl shadow-2xl p-8 mb-8">
+              {currentQuestion && (
+                <QuestionCard question={currentQuestion} questionNumber={currentQuestionIndex + 1} selectedAnswer={userAnswers[currentQuestionIndex]}
+                  onAnswer={handleAnswer} />
+              )}
+            </motion.div>
 
-          <NavigationControls currentIndex={currentQuestionIndex} totalQuestions={questions.length} onPrevious={handlePrevious}
-            onNext={handleNext} onSubmit={handleSubmit} answeredCount={answered} />
+            <NavigationControls currentIndex={currentQuestionIndex} totalQuestions={questions.length} onPrevious={handlePrevious}
+              onNext={handleNext} onSubmit={handleSubmit} answeredCount={answered} />
+          </div>
         </div>
+        <Footer />
       </div>
     );
   }
@@ -374,11 +392,14 @@ export default function LETReviewerApp() {
     const timeSpent = quizStartTime && quizEndTime ? Math.floor((quizEndTime.getTime() - quizStartTime.getTime()) / 1000 / 60) : 0;
 
     return (
-      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 p-4 md:p-8">
-        <div className="max-w-6xl mx-auto">
-          <ResultsView accuracy={parseFloat(accuracy)} correctCount={correctCount} totalQuestions={questions.length} timeSpent={timeSpent}
-            questions={questions} userAnswers={userAnswers} onRetry={retryQuiz} onBackToSubjects={backToSubjects} />
+      <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex flex-col">
+        <div className="flex-1 p-4 md:p-8">
+          <div className="max-w-6xl mx-auto">
+            <ResultsView accuracy={parseFloat(accuracy)} correctCount={correctCount} totalQuestions={questions.length} timeSpent={timeSpent}
+              questions={questions} userAnswers={userAnswers} onRetry={retryQuiz} onBackToSubjects={backToSubjects} />
+          </div>
         </div>
+        <Footer />
       </div>
     );
   }
@@ -798,164 +819,167 @@ function AdminDashboard({ user, onLogout }: any) {
   });
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 p-4 md:p-8">
+    <div className="min-h-screen bg-gradient-to-br from-green-900 via-emerald-800 to-green-700 flex flex-col">
       {loading && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
           <div className="text-white text-2xl font-bold">Loading...</div>
         </div>
       )}
       
-      <div className="max-w-7xl mx-auto">
-        <div className="flex justify-between items-center mb-8 bg-white rounded-2xl p-6 shadow-lg">
-          <div className="flex items-center space-x-4">
-            <div className="w-12 h-12 bg-gradient-to-br from-purple-600 to-pink-600 rounded-full flex items-center justify-center">
-              <Shield className="w-6 h-6 text-white" />
+      <div className="flex-1 p-4 md:p-8">
+        <div className="max-w-7xl mx-auto">
+          <div className="flex justify-between items-center mb-8 bg-white rounded-2xl p-6 shadow-lg">
+            <div className="flex items-center space-x-4">
+              <div className="w-12 h-12 bg-gradient-to-br from-purple-600 to-pink-600 rounded-full flex items-center justify-center">
+                <Shield className="w-6 h-6 text-white" />
+              </div>
+              <div>
+                <p className="text-lg font-black text-gray-800">{user?.name}</p>
+                <p className="text-sm text-gray-600">Administrator</p>
+              </div>
             </div>
-            <div>
-              <p className="text-lg font-black text-gray-800">{user?.name}</p>
-              <p className="text-sm text-gray-600">Administrator</p>
+            <div className="flex space-x-3">
+              <button onClick={() => setShowPasswordModal(true)}
+                className="flex items-center space-x-2 bg-gray-600 text-white px-4 py-2 rounded-xl font-bold hover:bg-gray-700 transition-all">
+                <Key className="w-5 h-5" />
+                <span>Change Password</span>
+              </button>
+              <button onClick={onLogout}
+                className="flex items-center space-x-2 bg-red-600 text-white px-4 py-2 rounded-xl font-bold hover:bg-red-700 transition-all">
+                <LogOut className="w-5 h-5" />
+                <span>Logout</span>
+              </button>
             </div>
           </div>
-          <div className="flex space-x-3">
-            <button onClick={() => setShowPasswordModal(true)}
-              className="flex items-center space-x-2 bg-gray-600 text-white px-4 py-2 rounded-xl font-bold hover:bg-gray-700 transition-all">
-              <Key className="w-5 h-5" />
-              <span>Change Password</span>
-            </button>
-            <button onClick={onLogout}
-              className="flex items-center space-x-2 bg-red-600 text-white px-4 py-2 rounded-xl font-bold hover:bg-red-700 transition-all">
-              <LogOut className="w-5 h-5" />
-              <span>Logout</span>
-            </button>
-          </div>
-        </div>
 
-        <div className="bg-white rounded-3xl shadow-2xl p-8">
-          <h2 className="text-3xl font-black text-gray-800 mb-6">Examinee Management</h2>
+          <div className="bg-white rounded-3xl shadow-2xl p-8">
+            <h2 className="text-3xl font-black text-gray-800 mb-6">Examinee Management</h2>
 
-          <div className="flex space-x-2 mb-6 border-b-2 border-gray-200">
-            <TabButton active={activeTab === 'all'} onClick={() => setActiveTab('all')} label={`All (${examinees.length})`} />
-            <TabButton active={activeTab === 'top'} onClick={() => setActiveTab('top')} label="Top Performers" />
-            <TabButton active={activeTab === 'inactive'} onClick={() => setActiveTab('inactive')} label={`Inactive (${inactiveExaminees.length})`} />
-          </div>
-
-          {activeTab === 'all' && (
-            <div className="overflow-x-auto">
-              <table className="w-full">
-                <thead className="bg-green-100">
-                  <tr>
-                    <th className="px-4 py-3 text-left font-black text-gray-700">Name</th>
-                    <th className="px-4 py-3 text-left font-black text-gray-700">Email</th>
-                    <th className="px-4 py-3 text-left font-black text-gray-700">Category</th>
-                    <th className="px-4 py-3 text-left font-black text-gray-700">Status</th>
-                    <th className="px-4 py-3 text-left font-black text-gray-700">Avg Accuracy</th>
-                    <th className="px-4 py-3 text-left font-black text-gray-700">Actions</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {examinees.map((examinee, index) => {
-                    const status = getExamineeStatus(examinee);
-                    return (
-                      <tr key={index} className="border-b border-gray-200 hover:bg-green-50">
-                        <td className="px-4 py-4 font-medium text-gray-800">{examinee.name}</td>
-                        <td className="px-4 py-4 text-gray-600">{examinee.email}</td>
-                        <td className="px-4 py-4 text-gray-600">
-                          {examinee.category === 'elementary' ? 'Elementary' : 'Secondary'}
-                        </td>
-                        <td className="px-4 py-4">
-                          <span className={`px-3 py-1 rounded-full text-sm font-bold ${
-                            status.color === 'green' ? 'bg-green-100 text-green-700' :
-                            status.color === 'yellow' ? 'bg-yellow-100 text-yellow-700' :
-                            'bg-red-100 text-red-700'
-                          }`}>{status.status}</span>
-                        </td>
-                        <td className="px-4 py-4 font-bold text-green-900">{getAverageAccuracy(examinee)}%</td>
-                        <td className="px-4 py-4">
-                          <button onClick={() => { setSelectedExaminee(examinee); setShowDeleteModal(true); }}
-                            className="text-red-600 hover:text-red-800 transition-colors">
-                            <Trash2 className="w-5 h-5" />
-                          </button>
-                        </td>
-                      </tr>
-                    );
-                  })}
-                </tbody>
-              </table>
+            <div className="flex space-x-2 mb-6 border-b-2 border-gray-200">
+              <TabButton active={activeTab === 'all'} onClick={() => setActiveTab('all')} label={`All (${examinees.length})`} />
+              <TabButton active={activeTab === 'top'} onClick={() => setActiveTab('top')} label="Top Performers" />
+              <TabButton active={activeTab === 'inactive'} onClick={() => setActiveTab('inactive')} label={`Inactive (${inactiveExaminees.length})`} />
             </div>
-          )}
 
-          {activeTab === 'top' && (
-            <div className="space-y-4">
-              {topExaminees.map((examinee, index) => (
-                <motion.div key={index} initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: index * 0.1 }}
-                  className="flex items-center justify-between p-6 bg-gradient-to-r from-green-100 to-emerald-100 rounded-2xl border-2 border-green-300">
-                  <div className="flex items-center space-x-4">
-                    <div className={`w-12 h-12 rounded-full flex items-center justify-center font-black text-white text-xl ${
-                      index === 0 ? 'bg-yellow-500' : index === 1 ? 'bg-gray-400' : index === 2 ? 'bg-orange-600' : 'bg-green-800'
-                    }`}>{index + 1}</div>
-                    <div>
-                      <p className="font-black text-gray-800 text-lg">{examinee.name}</p>
-                      <p className="text-sm text-gray-600">{examinee.category === 'elementary' ? 'Elementary' : 'Secondary'}</p>
-                    </div>
-                  </div>
-                  <div className="text-center">
-                    <p className="text-2xl font-black text-green-900">{getAverageAccuracy(examinee)}%</p>
-                    <p className="text-xs text-gray-600">Accuracy</p>
-                  </div>
-                </motion.div>
-              ))}
-            </div>
-          )}
+            {activeTab === 'all' && (
+              <div className="overflow-x-auto">
+                <table className="w-full">
+                  <thead className="bg-green-100">
+                    <tr>
+                      <th className="px-4 py-3 text-left font-black text-gray-700">Name</th>
+                      <th className="px-4 py-3 text-left font-black text-gray-700">Email</th>
+                      <th className="px-4 py-3 text-left font-black text-gray-700">Category</th>
+                      <th className="px-4 py-3 text-left font-black text-gray-700">Status</th>
+                      <th className="px-4 py-3 text-left font-black text-gray-700">Avg Accuracy</th>
+                      <th className="px-4 py-3 text-left font-black text-gray-700">Actions</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {examinees.map((examinee, index) => {
+                      const status = getExamineeStatus(examinee);
+                      return (
+                        <tr key={index} className="border-b border-gray-200 hover:bg-green-50">
+                          <td className="px-4 py-4 font-medium text-gray-800">{examinee.name}</td>
+                          <td className="px-4 py-4 text-gray-600">{examinee.email}</td>
+                          <td className="px-4 py-4 text-gray-600">
+                            {examinee.category === 'elementary' ? 'Elementary' : 'Secondary'}
+                          </td>
+                          <td className="px-4 py-4">
+                            <span className={`px-3 py-1 rounded-full text-sm font-bold ${
+                              status.color === 'green' ? 'bg-green-100 text-green-700' :
+                              status.color === 'yellow' ? 'bg-yellow-100 text-yellow-700' :
+                              'bg-red-100 text-red-700'
+                            }`}>{status.status}</span>
+                          </td>
+                          <td className="px-4 py-4 font-bold text-green-900">{getAverageAccuracy(examinee)}%</td>
+                          <td className="px-4 py-4">
+                            <button onClick={() => { setSelectedExaminee(examinee); setShowDeleteModal(true); }}
+                              className="text-red-600 hover:text-red-800 transition-colors">
+                              <Trash2 className="w-5 h-5" />
+                            </button>
+                          </td>
+                        </tr>
+                      );
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            )}
 
-          {activeTab === 'inactive' && (
-            <div className="space-y-4">
-              {inactiveExaminees.length === 0 ? (
-                <div className="text-center py-12">
-                  <Trophy className="w-16 h-16 text-green-600 mx-auto mb-4" />
-                  <p className="text-xl font-bold text-gray-800">All examinees are active!</p>
-                </div>
-              ) : (
-                inactiveExaminees.map((examinee, index) => {
-                  const daysSinceActive =
-                    Math.floor(
-                      (new Date().getTime() - new Date(examinee.lastActive).getTime()) /
-                        (1000 * 60 * 60 * 24)
-                    );
-                  return (
-                    <div key={index} className="flex items-center justify-between p-6 bg-red-50 rounded-2xl border-2 border-red-300">
+            {activeTab === 'top' && (
+              <div className="space-y-4">
+                {topExaminees.map((examinee, index) => (
+                  <motion.div key={index} initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: index * 0.1 }}
+                    className="flex items-center justify-between p-6 bg-gradient-to-r from-green-100 to-emerald-100 rounded-2xl border-2 border-green-300">
+                    <div className="flex items-center space-x-4">
+                      <div className={`w-12 h-12 rounded-full flex items-center justify-center font-black text-white text-xl ${
+                        index === 0 ? 'bg-yellow-500' : index === 1 ? 'bg-gray-400' : index === 2 ? 'bg-orange-600' : 'bg-green-800'
+                      }`}>{index + 1}</div>
                       <div>
                         <p className="font-black text-gray-800 text-lg">{examinee.name}</p>
-                        <p className="text-sm text-gray-600">{examinee.email}</p>
-                      </div>
-                      <div className="text-right">
-                        <p className="text-red-600 font-bold">No activity for {daysSinceActive} days</p>
-                        <p className="text-sm text-gray-600">Last: {new Date(examinee.lastActive).toLocaleDateString()}</p>
+                        <p className="text-sm text-gray-600">{examinee.category === 'elementary' ? 'Elementary' : 'Secondary'}</p>
                       </div>
                     </div>
-                  );
-                })
-              )}
+                    <div className="text-center">
+                      <p className="text-2xl font-black text-green-900">{getAverageAccuracy(examinee)}%</p>
+                      <p className="text-xs text-gray-600">Accuracy</p>
+                    </div>
+                  </motion.div>
+                ))}
+              </div>
+            )}
+
+            {activeTab === 'inactive' && (
+              <div className="space-y-4">
+                {inactiveExaminees.length === 0 ? (
+                  <div className="text-center py-12">
+                    <Trophy className="w-16 h-16 text-green-600 mx-auto mb-4" />
+                    <p className="text-xl font-bold text-gray-800">All examinees are active!</p>
+                  </div>
+                ) : (
+                  inactiveExaminees.map((examinee, index) => {
+                    const daysSinceActive =
+                      Math.floor(
+                        (new Date().getTime() - new Date(examinee.lastActive).getTime()) /
+                          (1000 * 60 * 60 * 24)
+                      );
+                    return (
+                      <div key={index} className="flex items-center justify-between p-6 bg-red-50 rounded-2xl border-2 border-red-300">
+                        <div>
+                          <p className="font-black text-gray-800 text-lg">{examinee.name}</p>
+                          <p className="text-sm text-gray-600">{examinee.email}</p>
+                        </div>
+                        <div className="text-right">
+                          <p className="text-red-600 font-bold">No activity for {daysSinceActive} days</p>
+                          <p className="text-sm text-gray-600">Last: {new Date(examinee.lastActive).toLocaleDateString()}</p>
+                        </div>
+                      </div>
+                    );
+                  })
+                )}
+              </div>
+            )}
+          </div>
+
+          {showPasswordModal && <PasswordChangeModal onClose={() => setShowPasswordModal(false)} />}
+
+          {showDeleteModal && selectedExaminee && (
+            <div className="fixed inset-0 bg-green-900 bg-opacity-50 flex items-center justify-center z-50">
+              <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="bg-white rounded-2xl p-8 max-w-md mx-4">
+                <h3 className="text-2xl font-black text-gray-800 mb-4">Delete Examinee?</h3>
+                <p className="text-gray-600 mb-6">Delete <span className="font-bold">{selectedExaminee.name}</span>? Cannot be undone.</p>
+                <div className="flex space-x-3">
+                  <button onClick={() => { setShowDeleteModal(false); setSelectedExaminee(null); }}
+                    className="flex-1 bg-gray-200 text-gray-700 py-3 rounded-xl font-bold hover:bg-gray-300 transition-all">Cancel</button>
+                  <button onClick={() => deleteExaminee(selectedExaminee.email)}
+                    className="flex-1 bg-red-600 text-white py-3 rounded-xl font-bold hover:bg-red-700 transition-all">Delete</button>
+                </div>
+              </motion.div>
             </div>
           )}
         </div>
-
-        {showPasswordModal && <PasswordChangeModal onClose={() => setShowPasswordModal(false)} />}
-
-        {showDeleteModal && selectedExaminee && (
-          <div className="fixed inset-0 bg-green-900 bg-opacity-50 flex items-center justify-center z-50">
-            <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="bg-white rounded-2xl p-8 max-w-md mx-4">
-              <h3 className="text-2xl font-black text-gray-800 mb-4">Delete Examinee?</h3>
-              <p className="text-gray-600 mb-6">Delete <span className="font-bold">{selectedExaminee.name}</span>? Cannot be undone.</p>
-              <div className="flex space-x-3">
-                <button onClick={() => { setShowDeleteModal(false); setSelectedExaminee(null); }}
-                  className="flex-1 bg-gray-200 text-gray-700 py-3 rounded-xl font-bold hover:bg-gray-300 transition-all">Cancel</button>
-                <button onClick={() => deleteExaminee(selectedExaminee.email)}
-                  className="flex-1 bg-red-600 text-white py-3 rounded-xl font-bold hover:bg-red-700 transition-all">Delete</button>
-              </div>
-            </motion.div>
-          </div>
-        )}
       </div>
+      <Footer />
     </div>
   );
 }
@@ -1053,5 +1077,37 @@ function PasswordChangeModal({ onClose }: { onClose: () => void }) {
         </form>
       </motion.div>
     </div>
+  );
+}
+
+function Footer() {
+  return (
+    <footer className="bg-gradient-to-r from-green-800 to-emerald-900 text-white py-8 mt-12">
+      <div className="max-w-7xl mx-auto px-4">
+        <div className="text-center">
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }} 
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5 }}
+          >
+            <p className="text-lg font-bold mb-2">
+              Developed by <span className="text-yellow-300 font-black">Heber Mayormita, LPT</span>
+            </p>
+            <p className="text-green-200 text-sm font-semibold mb-3">
+              for LET Takers
+            </p>
+            <div className="flex items-center justify-center space-x-2 text-xs text-green-300">
+              <Award className="w-4 h-4" />
+              <span>Teachers Specialists Organization Kuwait (TSOK)</span>
+            </div>
+            <div className="mt-4 pt-4 border-t border-green-700">
+              <p className="text-xs text-green-300">
+                © {new Date().getFullYear()} LET Reviewer Pro. All rights reserved.
+              </p>
+            </div>
+          </motion.div>
+        </div>
+      </div>
+    </footer>
   );
 }
