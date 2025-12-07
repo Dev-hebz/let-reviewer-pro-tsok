@@ -1,157 +1,577 @@
 {
-  "subject": "Elementary - General Education",
-  "category": "elementary",
-  "subcategory": "general-education",
+  "subject": "General Education - LET Reviewer",
+  "category": "general-education",
+  "subcategory": "let-preparation",
   "topics": [
     {
-      "id": "english",
-      "name": "English",
+      "id": "social-sciences",
+      "name": "Social Sciences (Philippine History & Culture)",
       "questions": [
         {
-          "id": "ele-gen-eng-001",
-          "question": "Which of the following is a complex sentence?",
+          "id": "ge-ss-001",
+          "question": "Sino ang pambansang bayani ng Pilipinas?",
           "options": [
-            "Maria went to school.",
-            "Although it was raining, we went to the park.",
-            "John and Mary are siblings.",
-            "The dog barked loudly."
+            "Andres Bonifacio",
+            "Jose Rizal",
+            "Apolinario Mabini",
+            "Emilio Aguinaldo"
           ],
           "correctAnswer": 1,
-          "explanation": "A complex sentence contains an independent clause and at least one dependent clause. 'Although it was raining' is a dependent clause.",
+          "explanation": "Si Jose Rizal ang pambansang bayani ng Pilipinas dahil sa kanyang mga akda at sakripisyo para sa kalayaan ng bansa.",
+          "difficulty": "easy",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-002",
+          "question": "Kailan ipinagdiwang ang Araw ng Kalayaan ng Pilipinas?",
+          "options": [
+            "Hunyo 12",
+            "Hulyo 4",
+            "Agosto 13",
+            "Nobyembre 30"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Hunyo 12, 1898 ang Araw ng Kalayaan kung kailan idineklarang malaya ang Pilipinas mula sa Espanya.",
+          "difficulty": "easy",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-003",
+          "question": "Ano ang tawag sa pinakamatandang kasulatan na natagpuan sa Pilipinas?",
+          "options": [
+            "Laguna Copperplate Inscription",
+            "Doctrina Christiana",
+            "Codigo de Kalantiaw",
+            "Maragtas"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang Laguna Copperplate Inscription (900 AD) ang pinakamatandang kasulatan na natagpuan sa Pilipinas.",
           "difficulty": "medium",
-          "topic": "English"
+          "topic": "Social Sciences (Philippine History & Culture)"
         },
         {
-          "id": "ele-gen-eng-002",
-          "question": "What is the past participle of 'swim'?",
+          "id": "ge-ss-004",
+          "question": "Sino ang unang Pilipinong santo?",
           "options": [
-            "swam",
-            "swum",
-            "swimming",
-            "swimmed"
+            "San Lorenzo Ruiz",
+            "San Pedro Calungsod",
+            "Santa Rosa de Lima",
+            "San Ezekiel Moreno"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Si San Lorenzo Ruiz ang unang Pilipinong santo na ginawang santo noong 1987 ni Pope John Paul II.",
+          "difficulty": "easy",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-005",
+          "question": "Ano ang pangunahing layunin ng Katipunan?",
+          "options": [
+            "Reporma sa pamahalaan",
+            "Kalayaan mula sa Espanya",
+            "Pagpapalaganap ng edukasyon",
+            "Pakikipagkalakalan"
           ],
           "correctAnswer": 1,
-          "explanation": "The past participle of 'swim' is 'swum' (swim, swam, swum).",
+          "explanation": "Ang Katipunan ay itinatag upang makamit ang kalayaan ng Pilipinas mula sa pamamahala ng Espanya.",
           "difficulty": "easy",
-          "topic": "English"
+          "topic": "Social Sciences (Philippine History & Culture)"
         },
         {
-          "id": "ele-gen-eng-003",
-          "question": "Which word is a synonym for 'difficult'?",
+          "id": "ge-ss-006",
+          "question": "Sino ang sumulat ng 'Noli Me Tangere'?",
           "options": [
-            "easy",
-            "challenging",
-            "simple",
-            "straightforward"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Challenging means difficult or requiring effort and skill.",
-          "difficulty": "easy",
-          "topic": "English"
-        },
-        {
-          "id": "ele-gen-eng-004",
-          "question": "Identify the subject in this sentence: 'The beautiful flowers bloom in spring.'",
-          "options": [
-            "beautiful",
-            "flowers",
-            "bloom",
-            "spring"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The subject is 'flowers' - the noun that performs the action of blooming.",
-          "difficulty": "easy",
-          "topic": "English"
-        },
-        {
-          "id": "ele-gen-eng-005",
-          "question": "What type of noun is 'happiness'?",
-          "options": [
-            "Concrete noun",
-            "Proper noun",
-            "Abstract noun",
-            "Collective noun"
+            "Marcelo H. del Pilar",
+            "Graciano Lopez Jaena",
+            "Jose Rizal",
+            "Emilio Jacinto"
           ],
           "correctAnswer": 2,
-          "explanation": "Happiness is an abstract noun as it represents an idea or quality that cannot be physically touched.",
+          "explanation": "Si Jose Rizal ang sumulat ng Noli Me Tangere, isang nobela tungkol sa kalagayan ng Pilipinas sa panahon ng Espanya.",
+          "difficulty": "easy",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-007",
+          "question": "Ano ang tawag sa unang Konstitusyon ng Pilipinas?",
+          "options": [
+            "Konstitusyon ng Biak-na-Bato",
+            "Konstitusyon ng Malolos",
+            "Konstitusyon ng 1935",
+            "Konstitusyon ng 1973"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Konstitusyon ng Malolos (1899) ay ang unang republika at demokratikong konstitusyon sa Asya.",
           "difficulty": "medium",
-          "topic": "English"
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-008",
+          "question": "Sino ang tinaguriang 'Ama ng Wikang Pambansa'?",
+          "options": [
+            "Manuel L. Quezon",
+            "Lope K. Santos",
+            "Jose Rizal",
+            "Francisco Balagtas"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Si Manuel L. Quezon ang tinaguriang 'Ama ng Wikang Pambansa' dahil sa kanyang pagtataguyod ng Filipino bilang pambansang wika.",
+          "difficulty": "medium",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-009",
+          "question": "Anong taon naganap ang People Power Revolution?",
+          "options": [
+            "1983",
+            "1986",
+            "1987",
+            "1988"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang EDSA People Power Revolution ay naganap noong Pebrero 22-25, 1986 na nagwakas sa diktadurya ni Marcos.",
+          "difficulty": "easy",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-010",
+          "question": "Sino ang kauna-unahang Pilipinong Pangulo?",
+          "options": [
+            "Manuel Roxas",
+            "Emilio Aguinaldo",
+            "Manuel L. Quezon",
+            "Sergio Osmeña"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Emilio Aguinaldo ang unang Pangulo ng Unang Republika ng Pilipinas noong 1899.",
+          "difficulty": "medium",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-011",
+          "question": "Ano ang tawag sa patakarang ginamit ng mga Espanyol upang kontrolin ang kalakalan?",
+          "options": [
+            "Tributo",
+            "Polo y Servicio",
+            "Reduccion",
+            "Monopolyo sa Tabako"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Ang Monopolyo sa Tabako ay patakaran ng Espanya upang kontrolin ang produksyon at kalakalan ng tabako.",
+          "difficulty": "medium",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-012",
+          "question": "Sino ang namuno sa Biak-na-Bato?",
+          "options": [
+            "Andres Bonifacio",
+            "Emilio Aguinaldo",
+            "Antonio Luna",
+            "Gregorio del Pilar"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Emilio Aguinaldo ang naging pinuno ng rebolusyonaryong pamahalaan sa Biak-na-Bato noong 1897.",
+          "difficulty": "medium",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-013",
+          "question": "Ano ang kahulugan ng 'Reduccion'?",
+          "options": [
+            "Pagbubuwis",
+            "Paglilipat ng mga katutubo sa mga bayan",
+            "Sapilitang paggawa",
+            "Monopolyo sa produkto"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Reduccion ay patakaran ng Espanya na naglilipat ng mga katutubo mula sa kanilang mga tahanan tungo sa mga bayan upang madaling kontrolin.",
+          "difficulty": "difficult",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-014",
+          "question": "Kailan naganap ang Bataan Death March?",
+          "options": [
+            "1941",
+            "1942",
+            "1943",
+            "1944"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Bataan Death March ay naganap noong Abril 1942 kung saan pinilit ang mga POWs na maglakad ng mahigit 100 km.",
+          "difficulty": "medium",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-015",
+          "question": "Sino ang kilala bilang 'Utak ng Katipunan'?",
+          "options": [
+            "Emilio Jacinto",
+            "Andres Bonifacio",
+            "Apolinario Mabini",
+            "Jose Rizal"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Si Emilio Jacinto ang tinatawag na 'Utak ng Katipunan' dahil sa kanyang katalinuhan at kontribusyon sa organisasyon.",
+          "difficulty": "medium",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-016",
+          "question": "Ano ang layunin ng Kasunduan sa Paris noong 1898?",
+          "options": [
+            "Kalayaan ng Pilipinas",
+            "Pagbili ng Amerika sa Pilipinas mula sa Espanya",
+            "Pagtigil ng digmaan",
+            "Pagbabalik ng Pilipinas sa Espanya"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sa Treaty of Paris (1898), ibinenta ng Espanya ang Pilipinas sa Estados Unidos sa halagang $20 million.",
+          "difficulty": "difficult",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-017",
+          "question": "Sino ang Supremo ng Katipunan?",
+          "options": [
+            "Jose Rizal",
+            "Andres Bonifacio",
+            "Emilio Aguinaldo",
+            "Apolinario Mabini"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Andres Bonifacio ang Supremo o pinakamataas na pinuno ng Katipunan.",
+          "difficulty": "easy",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-018",
+          "question": "Ano ang pangunahing dahilan ng Rebolusyong Pilipino laban sa Espanya?",
+          "options": [
+            "Pang-aabuso at kawalan ng kalayaan",
+            "Kahirapan lamang",
+            "Relihiyon",
+            "Edukasyon"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang pangunahing dahilan ay ang pang-aabuso ng mga Espanyol at kawalan ng kalayaan ng mga Pilipino.",
+          "difficulty": "easy",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-019",
+          "question": "Sino ang kilalang Pilipinong heneral na namatay sa Tirad Pass?",
+          "options": [
+            "Antonio Luna",
+            "Gregorio del Pilar",
+            "Miguel Malvar",
+            "Macario Sakay"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Gregorio del Pilar, ang 'Bayani ng Tirad Pass', ay namatay sa labanan noong Disyembre 2, 1899 sa edad na 23.",
+          "difficulty": "medium",
+          "topic": "Social Sciences (Philippine History & Culture)"
+        },
+        {
+          "id": "ge-ss-020",
+          "question": "Ano ang kahulugan ng 'Polo y Servicio'?",
+          "options": [
+            "Pagbubuwis",
+            "Sapilitang paggawa para sa pamahalaan",
+            "Kalakalan",
+            "Edukasyon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Polo y Servicio ay sapilitang paggawa ng mga Pilipinong lalaki (16-60 taong gulang) para sa mga proyekto ng kolonya ng Espanya.",
+          "difficulty": "medium",
+          "topic": "Social Sciences (Philippine History & Culture)"
         }
       ]
     },
     {
-      "id": "filipino",
-      "name": "Filipino",
+      "id": "english-communication",
+      "name": "English and Communication",
       "questions": [
         {
-          "id": "ele-gen-fil-001",
-          "question": "Ano ang kahulugan ng salitang 'maagap'?",
+          "id": "ge-ec-021",
+          "question": "Which of the following is a noun?",
           "options": [
-            "Mabagal",
-            "Mabilis at handa",
-            "Tamad",
-            "Pagod"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Maagap ay nangangahulugang mabilis, handa, at aktibo sa pagkilos.",
-          "difficulty": "easy",
-          "topic": "Filipino"
-        },
-        {
-          "id": "ele-gen-fil-002",
-          "question": "Alin ang wastong gamit ng 'nang' sa pangungusap?",
-          "options": [
-            "Kumain siya nang marami.",
-            "Umuwi siya ng maaga.",
-            "Ang bahay nang kaibigan ko.",
-            "Binili ko nang libro."
-          ],
-          "correctAnswer": 0,
-          "explanation": "'Nang' ay ginagamit bilang pang-abay o kapag sumasagot sa tanong na 'paano'.",
-          "difficulty": "medium",
-          "topic": "Filipino"
-        },
-        {
-          "id": "ele-gen-fil-003",
-          "question": "Ano ang uri ng pangngalan ng salitang 'kagandahan'?",
-          "options": [
-            "Pantangi",
-            "Pambalana",
-            "Basal",
-            "Lansakan"
+            "Run",
+            "Quickly",
+            "Happiness",
+            "Beautiful"
           ],
           "correctAnswer": 2,
-          "explanation": "Ang 'kagandahan' ay basal na pangngalan dahil ito ay nagsasaad ng kalidad o katangian.",
-          "difficulty": "medium",
-          "topic": "Filipino"
-        },
-        {
-          "id": "ele-gen-fil-004",
-          "question": "Alin ang tamang bantas sa pangungusap: 'Kumusta ka na'",
-          "options": [
-            "Kumusta ka na.",
-            "Kumusta ka na?",
-            "Kumusta ka na!",
-            "Kumusta ka na,"
-          ],
-          "correctAnswer": 1,
-          "explanation": "Gumagamit ng tandang pananong (?) sa mga pangungusap na nagtatanog.",
+          "explanation": "Happiness is a noun (abstract noun) that names a state or quality. Run is a verb, quickly is an adverb, and beautiful is an adjective.",
           "difficulty": "easy",
-          "topic": "Filipino"
+          "topic": "English and Communication"
         },
         {
-          "id": "ele-gen-fil-005",
-          "question": "Ano ang pokus ng pandiwang 'binili' sa pangungusap na 'Binili ni Maria ang damit'?",
+          "id": "ge-ec-022",
+          "question": "What is the past tense of 'go'?",
           "options": [
-            "Pokus sa Aktor",
-            "Pokus sa Layon",
-            "Pokus sa Sanhi",
-            "Pokus sa Direksyon"
+            "Goed",
+            "Went",
+            "Gone",
+            "Going"
           ],
           "correctAnswer": 1,
-          "explanation": "Pokus sa Layon dahil ang 'damit' (layon ng kilos) ay paksa ng pangungusap.",
-          "difficulty": "hard",
-          "topic": "Filipino"
+          "explanation": "The past tense of 'go' is 'went', an irregular verb form. 'Gone' is the past participle, and 'going' is the present participle.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-023",
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "She don't like pizza",
+            "She doesn't likes pizza",
+            "She doesn't like pizza",
+            "She not like pizza"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The correct form is 'She doesn't like pizza' using the auxiliary verb 'does' + not + base form of the verb.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-024",
+          "question": "What is a synonym for 'happy'?",
+          "options": [
+            "Sad",
+            "Joyful",
+            "Angry",
+            "Tired"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Joyful is a synonym of happy, both meaning experiencing pleasure or contentment.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-025",
+          "question": "Identify the adjective: 'The beautiful garden has many flowers.'",
+          "options": [
+            "Garden",
+            "Beautiful",
+            "Has",
+            "Many"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Beautiful is an adjective describing the noun 'garden'. 'Many' is also an adjective, but 'beautiful' is the more obvious descriptive adjective.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-026",
+          "question": "What type of sentence is this: 'Please close the door.'?",
+          "options": [
+            "Declarative",
+            "Interrogative",
+            "Imperative",
+            "Exclamatory"
+          ],
+          "correctAnswer": 2,
+          "explanation": "This is an imperative sentence because it gives a command or request.",
+          "difficulty": "medium",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-027",
+          "question": "Which word is an antonym of 'difficult'?",
+          "options": [
+            "Hard",
+            "Easy",
+            "Complex",
+            "Challenging"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Easy is the antonym (opposite) of difficult. Hard, complex, and challenging are synonyms of difficult.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-028",
+          "question": "What is the plural form of 'child'?",
+          "options": [
+            "Childs",
+            "Children",
+            "Childes",
+            "Childrens"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Children is the irregular plural form of child.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-029",
+          "question": "Identify the verb in the sentence: 'The cat sleeps on the mat.'",
+          "options": [
+            "Cat",
+            "Sleeps",
+            "Mat",
+            "The"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sleeps is the verb showing the action performed by the subject 'cat'.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-030",
+          "question": "What is the correct spelling?",
+          "options": [
+            "Recieve",
+            "Receive",
+            "Receeve",
+            "Recive"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The correct spelling is 'receive', following the rule 'i before e except after c'.",
+          "difficulty": "medium",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-031",
+          "question": "Which is a compound sentence?",
+          "options": [
+            "I like coffee.",
+            "I like coffee and tea.",
+            "I like coffee, but she prefers tea.",
+            "Because I like coffee."
+          ],
+          "correctAnswer": 2,
+          "explanation": "A compound sentence contains two independent clauses joined by a coordinating conjunction (but). Option C has two complete thoughts joined together.",
+          "difficulty": "medium",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-032",
+          "question": "What does 'gregarious' mean?",
+          "options": [
+            "Shy",
+            "Sociable",
+            "Angry",
+            "Lazy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gregarious means fond of company, sociable. It describes someone who enjoys being around other people.",
+          "difficulty": "difficult",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-033",
+          "question": "Identify the adverb: 'She sings beautifully.'",
+          "options": [
+            "She",
+            "Sings",
+            "Beautifully",
+            "None"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Beautifully is an adverb modifying the verb 'sings', describing how she sings.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-034",
+          "question": "What is the superlative form of 'good'?",
+          "options": [
+            "Gooder",
+            "Goodest",
+            "Better",
+            "Best"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Best is the superlative form of good (good, better, best). Better is the comparative form.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-035",
+          "question": "Which sentence uses correct punctuation?",
+          "options": [
+            "Let's eat grandma!",
+            "Let's eat, grandma!",
+            "Lets eat grandma!",
+            "Let's, eat grandma!"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The comma after 'eat' is essential to show you're addressing grandma, not eating her! The apostrophe in 'Let's' (Let us) is also correct.",
+          "difficulty": "medium",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-036",
+          "question": "What is a preposition?",
+          "options": [
+            "A word that shows action",
+            "A word that shows relationship between words",
+            "A describing word",
+            "A naming word"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A preposition shows the relationship between a noun/pronoun and other words in a sentence (e.g., in, on, at, under).",
+          "difficulty": "medium",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-037",
+          "question": "Which is an example of a metaphor?",
+          "options": [
+            "He runs like the wind",
+            "Time is money",
+            "The sun smiled",
+            "She is as pretty as a flower"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A metaphor directly compares two things without using 'like' or 'as'. 'Time is money' directly equates time with money.",
+          "difficulty": "medium",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-038",
+          "question": "What is the comparative form of 'bad'?",
+          "options": [
+            "Badder",
+            "Worse",
+            "Worst",
+            "More bad"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Worse is the comparative form of bad (bad, worse, worst). Worst is the superlative form.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-039",
+          "question": "Identify the subject in: 'The students are studying hard.'",
+          "options": [
+            "Students",
+            "Are",
+            "Studying",
+            "Hard"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Students is the subject - the noun performing the action of studying.",
+          "difficulty": "easy",
+          "topic": "English and Communication"
+        },
+        {
+          "id": "ge-ec-040",
+          "question": "What literary device is used: 'The stars danced in the sky'?",
+          "options": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Hyperbole"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Personification gives human characteristics (dancing) to non-human things (stars).",
+          "difficulty": "medium",
+          "topic": "English and Communication"
         }
       ]
     },
@@ -160,140 +580,518 @@
       "name": "Mathematics",
       "questions": [
         {
-          "id": "ele-gen-math-001",
-          "question": "What is 15% of 200?",
+          "id": "ge-math-041",
+          "question": "What is 15 + 28?",
           "options": [
-            "20",
-            "25",
-            "30",
-            "35"
+            "42",
+            "43",
+            "44",
+            "45"
           ],
-          "correctAnswer": 2,
-          "explanation": "15% of 200 = 0.15 × 200 = 30",
+          "correctAnswer": 1,
+          "explanation": "15 + 28 = 43. Add the ones place (5+8=13, carry 1) and tens place (1+2+1=4).",
           "difficulty": "easy",
           "topic": "Mathematics"
         },
         {
-          "id": "ele-gen-math-002",
-          "question": "If the perimeter of a square is 48 cm, what is its area?",
+          "id": "ge-math-042",
+          "question": "What is 12 × 8?",
           "options": [
-            "144 sq cm",
-            "192 sq cm",
-            "96 sq cm",
-            "576 sq cm"
+            "84",
+            "96",
+            "102",
+            "108"
           ],
-          "correctAnswer": 0,
-          "explanation": "Each side = 48÷4 = 12 cm. Area = 12² = 144 sq cm",
-          "difficulty": "medium",
+          "correctAnswer": 1,
+          "explanation": "12 × 8 = 96. You can calculate this as (10 × 8) + (2 × 8) = 80 + 16 = 96.",
+          "difficulty": "easy",
           "topic": "Mathematics"
         },
         {
-          "id": "ele-gen-math-003",
-          "question": "What is the value of x in the equation: 3x + 5 = 20?",
+          "id": "ge-math-043",
+          "question": "What is 50% of 200?",
+          "options": [
+            "50",
+            "75",
+            "100",
+            "150"
+          ],
+          "correctAnswer": 2,
+          "explanation": "50% means half. 50% of 200 = 200 ÷ 2 = 100 or 200 × 0.50 = 100.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-044",
+          "question": "What is the value of x in: 2x + 5 = 15?",
           "options": [
             "3",
+            "4",
             "5",
-            "7",
-            "15"
+            "6"
           ],
-          "correctAnswer": 1,
-          "explanation": "3x = 20 - 5 = 15, therefore x = 15 ÷ 3 = 5",
+          "correctAnswer": 2,
+          "explanation": "Subtract 5 from both sides: 2x = 10, then divide by 2: x = 5.",
           "difficulty": "medium",
           "topic": "Mathematics"
         },
         {
-          "id": "ele-gen-math-004",
-          "question": "Which of the following is a prime number?",
+          "id": "ge-math-045",
+          "question": "What is the perimeter of a square with side 7 cm?",
           "options": [
-            "12",
-            "15",
-            "17",
-            "21"
+            "14 cm",
+            "21 cm",
+            "28 cm",
+            "49 cm"
           ],
           "correctAnswer": 2,
-          "explanation": "17 is a prime number because it has only two factors: 1 and 17.",
+          "explanation": "Perimeter of a square = 4 × side = 4 × 7 = 28 cm.",
           "difficulty": "easy",
           "topic": "Mathematics"
         },
         {
-          "id": "ele-gen-math-005",
-          "question": "What is the average of 15, 20, 25, and 40?",
+          "id": "ge-math-046",
+          "question": "What is 3/4 + 1/4?",
           "options": [
-            "20",
-            "25",
+            "1/2",
+            "3/8",
+            "1",
+            "4/4"
+          ],
+          "correctAnswer": 2,
+          "explanation": "When adding fractions with the same denominator, add the numerators: 3/4 + 1/4 = 4/4 = 1.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-047",
+          "question": "What is the area of a rectangle with length 10 and width 5?",
+          "options": [
+            "15",
             "30",
-            "35"
+            "50",
+            "100"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area of rectangle = length × width = 10 × 5 = 50 square units.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-048",
+          "question": "What is the next number in the sequence: 2, 4, 6, 8, __?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
           ],
           "correctAnswer": 1,
-          "explanation": "Average = (15 + 20 + 25 + 40) ÷ 4 = 100 ÷ 4 = 25",
+          "explanation": "This is a sequence of even numbers increasing by 2. The next number is 8 + 2 = 10.",
           "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-049",
+          "question": "What is 144 ÷ 12?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correctAnswer": 2,
+          "explanation": "144 ÷ 12 = 12. This can be verified: 12 × 12 = 144.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-050",
+          "question": "What is the square root of 64?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "correctAnswer": 2,
+          "explanation": "√64 = 8 because 8 × 8 = 64.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-051",
+          "question": "If a = 3 and b = 4, what is a² + b²?",
+          "options": [
+            "7",
+            "12",
+            "25",
+            "49"
+          ],
+          "correctAnswer": 2,
+          "explanation": "a² + b² = 3² + 4² = 9 + 16 = 25.",
+          "difficulty": "medium",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-052",
+          "question": "What is 25% of 80?",
+          "options": [
+            "15",
+            "20",
+            "25",
+            "30"
+          ],
+          "correctAnswer": 1,
+          "explanation": "25% = 1/4. So 25% of 80 = 80 ÷ 4 = 20 or 80 × 0.25 = 20.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-053",
+          "question": "What is the volume of a cube with side 3 cm?",
+          "options": [
+            "9 cm³",
+            "18 cm³",
+            "27 cm³",
+            "36 cm³"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Volume of cube = side³ = 3³ = 3 × 3 × 3 = 27 cm³.",
+          "difficulty": "medium",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-054",
+          "question": "Solve for x: 3x - 7 = 14",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Add 7 to both sides: 3x = 21, then divide by 3: x = 7.",
+          "difficulty": "medium",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-055",
+          "question": "What is the circumference of a circle with radius 7? (Use π = 22/7)",
+          "options": [
+            "22",
+            "44",
+            "88",
+            "154"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Circumference = 2πr = 2 × (22/7) × 7 = 2 × 22 = 44.",
+          "difficulty": "medium",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-056",
+          "question": "What is the mean of 5, 10, 15, 20?",
+          "options": [
+            "10",
+            "12.5",
+            "15",
+            "17.5"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mean = sum ÷ count = (5+10+15+20) ÷ 4 = 50 ÷ 4 = 12.5.",
+          "difficulty": "medium",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-057",
+          "question": "If 5x = 45, what is x?",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Divide both sides by 5: x = 45 ÷ 5 = 9.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-058",
+          "question": "What is 2³ × 3²?",
+          "options": [
+            "36",
+            "54",
+            "72",
+            "108"
+          ],
+          "correctAnswer": 2,
+          "explanation": "2³ × 3² = 8 × 9 = 72.",
+          "difficulty": "medium",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-059",
+          "question": "What is the sum of angles in a triangle?",
+          "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of all interior angles in any triangle is always 180°.",
+          "difficulty": "easy",
+          "topic": "Mathematics"
+        },
+        {
+          "id": "ge-math-060",
+          "question": "If y = 2x + 3 and x = 5, what is y?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Substitute x = 5 into the equation: y = 2(5) + 3 = 10 + 3 = 13.",
+          "difficulty": "medium",
           "topic": "Mathematics"
         }
       ]
     },
     {
-      "id": "science",
-      "name": "Science",
+      "id": "science-health",
+      "name": "Science and Health",
       "questions": [
         {
-          "id": "ele-gen-sci-001",
-          "question": "What is the main function of chlorophyll in plants?",
+          "id": "ge-sh-061",
+          "question": "What is the chemical symbol for water?",
           "options": [
-            "Transport water",
-            "Absorb sunlight for photosynthesis",
-            "Store nutrients",
-            "Protect from insects"
+            "O2",
+            "H2O",
+            "CO2",
+            "NaCl"
           ],
           "correctAnswer": 1,
-          "explanation": "Chlorophyll is the green pigment in plants that absorbs sunlight to produce food through photosynthesis.",
+          "explanation": "Water is composed of 2 hydrogen atoms and 1 oxygen atom, hence H2O.",
           "difficulty": "easy",
-          "topic": "Science"
+          "topic": "Science and Health"
         },
         {
-          "id": "ele-gen-sci-002",
-          "question": "What are the three states of matter?",
+          "id": "ge-sh-062",
+          "question": "What is the largest organ in the human body?",
           "options": [
-            "Hot, cold, warm",
-            "Solid, liquid, gas",
-            "Hard, soft, flexible",
-            "Heavy, light, medium"
+            "Heart",
+            "Liver",
+            "Skin",
+            "Brain"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The skin is the largest organ, covering the entire body and protecting internal organs.",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-063",
+          "question": "What gas do plants absorb from the atmosphere?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Plants absorb carbon dioxide (CO2) during photosynthesis and release oxygen.",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-064",
+          "question": "How many bones are in the adult human body?",
+          "options": [
+            "186",
+            "206",
+            "226",
+            "246"
           ],
           "correctAnswer": 1,
-          "explanation": "The three basic states of matter are solid, liquid, and gas.",
-          "difficulty": "easy",
-          "topic": "Science"
+          "explanation": "An adult human has 206 bones. Babies are born with about 270 bones that fuse as they grow.",
+          "difficulty": "medium",
+          "topic": "Science and Health"
         },
         {
-          "id": "ele-gen-sci-003",
-          "question": "Which planet is known as the 'Red Planet'?",
+          "id": "ge-sh-065",
+          "question": "What is the process by which plants make food?",
           "options": [
-            "Venus",
-            "Mars",
-            "Jupiter",
-            "Saturn"
+            "Respiration",
+            "Digestion",
+            "Photosynthesis",
+            "Fermentation"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Photosynthesis is the process where plants use sunlight, water, and CO2 to make glucose and oxygen.",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-066",
+          "question": "What is the boiling point of water at sea level?",
+          "options": [
+            "90°C",
+            "100°C",
+            "110°C",
+            "120°C"
           ],
           "correctAnswer": 1,
-          "explanation": "Mars is called the Red Planet because of its reddish appearance caused by iron oxide on its surface.",
+          "explanation": "At sea level (normal atmospheric pressure), water boils at 100°C or 212°F.",
           "difficulty": "easy",
-          "topic": "Science"
+          "topic": "Science and Health"
         },
         {
-          "id": "ele-gen-sci-004",
-          "question": "What is the process by which water changes from liquid to gas?",
+          "id": "ge-sh-067",
+          "question": "What is the center of an atom called?",
           "options": [
-            "Condensation",
-            "Evaporation",
-            "Precipitation",
-            "Freezing"
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Nucleus"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The nucleus is the center of an atom, containing protons and neutrons.",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-068",
+          "question": "What vitamin is produced when skin is exposed to sunlight?",
+          "options": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin E"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Vitamin D is synthesized in the skin when exposed to UVB rays from sunlight.",
+          "difficulty": "medium",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-069",
+          "question": "What is the smallest unit of life?",
+          "options": [
+            "Atom",
+            "Molecule",
+            "Cell",
+            "Tissue"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The cell is the smallest unit of life that can function independently.",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-070",
+          "question": "What is the main function of red blood cells?",
+          "options": [
+            "Fight infection",
+            "Carry oxygen",
+            "Clot blood",
+            "Produce antibodies"
           ],
           "correctAnswer": 1,
-          "explanation": "Evaporation is the process where liquid water changes into water vapor (gas).",
+          "explanation": "Red blood cells (erythrocytes) carry oxygen from the lungs to body tissues using hemoglobin.",
           "difficulty": "easy",
-          "topic": "Science"
+          "topic": "Science and Health"
         },
         {
-          "id": "ele-gen-sci-005",
-          "question": "Which organ pumps blood throughout the human body?",
+          "id": "ge-sh-071",
+          "question": "What type of energy does a moving object have?",
+          "options": [
+            "Potential",
+            "Kinetic",
+            "Thermal",
+            "Chemical"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kinetic energy is the energy of motion. Moving objects possess kinetic energy.",
+          "difficulty": "medium",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-072",
+          "question": "What is the pH of pure water?",
+          "options": [
+            "5",
+            "7",
+            "9",
+            "11"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pure water has a pH of 7, which is neutral (neither acidic nor basic).",
+          "difficulty": "medium",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-073",
+          "question": "What is the powerhouse of the cell?",
+          "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Chloroplast"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mitochondria produce ATP (energy) through cellular respiration, earning the name 'powerhouse of the cell'.",
+          "difficulty": "medium",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-074",
+          "question": "What is the Earth's primary source of energy?",
+          "options": [
+            "The Moon",
+            "The Sun",
+            "The Core",
+            "The Wind"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Sun is the primary source of energy for Earth, driving weather, climate, and photosynthesis.",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-075",
+          "question": "What is the hardest natural substance on Earth?",
+          "options": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Platinum"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Diamond is the hardest naturally occurring substance, rating 10 on the Mohs scale.",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-076",
+          "question": "What is the normal human body temperature in Celsius?",
+          "options": [
+            "35°C",
+            "36°C",
+            "37°C",
+            "38°C"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Normal human body temperature is approximately 37°C (98.6°F).",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-077",
+          "question": "What organ pumps blood throughout the body?",
           "options": [
             "Lungs",
             "Liver",
@@ -301,165 +1099,1057 @@
             "Kidneys"
           ],
           "correctAnswer": 2,
-          "explanation": "The heart is the organ responsible for pumping blood throughout the body.",
+          "explanation": "The heart is a muscular organ that pumps blood throughout the circulatory system.",
           "difficulty": "easy",
-          "topic": "Science"
-        }
-      ]
-    },
-    {
-      "id": "social-studies",
-      "name": "Social Studies",
-      "questions": [
-        {
-          "id": "ele-gen-ss-001",
-          "question": "Who is known as the 'Father of Philippine Independence'?",
-          "options": [
-            "Jose Rizal",
-            "Andres Bonifacio",
-            "Emilio Aguinaldo",
-            "Apolinario Mabini"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Emilio Aguinaldo declared Philippine Independence on June 12, 1898.",
-          "difficulty": "easy",
-          "topic": "Social Studies"
+          "topic": "Science and Health"
         },
         {
-          "id": "ele-gen-ss-002",
-          "question": "What is the longest river in the Philippines?",
+          "id": "ge-sh-078",
+          "question": "What is the study of living organisms called?",
           "options": [
-            "Pasig River",
-            "Cagayan River",
-            "Agusan River",
-            "Pampanga River"
+            "Geology",
+            "Biology",
+            "Physics",
+            "Chemistry"
           ],
           "correctAnswer": 1,
-          "explanation": "The Cagayan River is the longest river in the Philippines at approximately 505 km.",
+          "explanation": "Biology is the scientific study of life and living organisms.",
+          "difficulty": "easy",
+          "topic": "Science and Health"
+        },
+        {
+          "id": "ge-sh-079",
+          "question": "What is the primary gas in Earth's atmosphere?",
+          "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, followed by oxygen at 21%.",
           "difficulty": "medium",
-          "topic": "Social Studies"
+          "topic": "Science and Health"
         },
         {
-          "id": "ele-gen-ss-003",
-          "question": "What are the three branches of the Philippine government?",
+          "id": "ge-sh-080",
+          "question": "What is the process of water changing from liquid to gas?",
           "options": [
-            "Federal, State, Local",
-            "Executive, Legislative, Judicial",
-            "President, Senate, Courts",
-            "National, Regional, Municipal"
+            "Condensation",
+            "Evaporation",
+            "Precipitation",
+            "Sublimation"
           ],
           "correctAnswer": 1,
-          "explanation": "The three branches are Executive (President), Legislative (Congress), and Judicial (Courts).",
+          "explanation": "Evaporation is the process where liquid water changes to water vapor (gas) due to heat.",
           "difficulty": "easy",
-          "topic": "Social Studies"
-        },
-        {
-          "id": "ele-gen-ss-004",
-          "question": "In what year was the EDSA People Power Revolution?",
-          "options": [
-            "1983",
-            "1986",
-            "1987",
-            "1990"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The EDSA People Power Revolution happened in February 1986.",
-          "difficulty": "easy",
-          "topic": "Social Studies"
-        },
-        {
-          "id": "ele-gen-ss-005",
-          "question": "What is the capital city of the Philippines?",
-          "options": [
-            "Quezon City",
-            "Makati",
-            "Manila",
-            "Cebu"
-          ],
-          "correctAnswer": 2,
-          "explanation": "Manila is the capital city of the Philippines.",
-          "difficulty": "easy",
-          "topic": "Social Studies"
+          "topic": "Science and Health"
         }
       ]
     },
     {
-      "id": "literature",
-      "name": "Literature",
+      "id": "filipino-culture",
+      "name": "Filipino Language and Culture",
       "questions": [
         {
-          "id": "ele-gen-lit-001",
-          "question": "Who wrote 'Noli Me Tangere'?",
+          "id": "ge-fc-081",
+          "question": "Ano ang pambansang wika ng Pilipinas?",
           "options": [
-            "Andres Bonifacio",
+            "Ingles",
+            "Espanyol",
+            "Filipino",
+            "Tagalog"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ang Filipino ang pambansang wika ng Pilipinas batay sa 1987 Constitution.",
+          "difficulty": "easy",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-082",
+          "question": "Sino ang tinaguriang 'Ama ng Balagtasan'?",
+          "options": [
+            "Jose Corazon de Jesus",
+            "Francisco Balagtas",
+            "Lope K. Santos",
+            "Jose Rizal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Francisco Balagtas ang 'Ama ng Balagtasan', na pinangalanan sa kanya ang uri ng patula (debate).",
+          "difficulty": "medium",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-083",
+          "question": "Ilang titik mayroon sa alpabetong Filipino?",
+          "options": [
+            "26",
+            "27",
+            "28",
+            "29"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ang modernong alpabetong Filipino ay may 28 titik, kabilang ang Ñ at Ng.",
+          "difficulty": "medium",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-084",
+          "question": "Ano ang kahulugan ng 'bayani'?",
+          "options": [
+            "Mandirigma",
+            "Taong nag-alay ng buhay para sa bayan",
+            "Pinuno",
+            "Magsasaka"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang bayani ay taong handang mag-alay ng kanyang buhay para sa kapakanan ng bayan.",
+          "difficulty": "easy",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-085",
+          "question": "Ano ang tawag sa tradisyonal na awit ng pag-ibig sa Pilipinas?",
+          "options": [
+            "Kundiman",
+            "Harana",
+            "Balitaw",
+            "Kumintang"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang Kundiman ay tradisyonal na awit ng pag-ibig sa kultura ng Pilipinas.",
+          "difficulty": "medium",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-086",
+          "question": "Sino ang sumulat ng 'Florante at Laura'?",
+          "options": [
             "Jose Rizal",
-            "Marcelo H. del Pilar",
-            "Graciano Lopez Jaena"
+            "Francisco Balagtas",
+            "Andres Bonifacio",
+            "Emilio Jacinto"
           ],
           "correctAnswer": 1,
-          "explanation": "Jose Rizal wrote 'Noli Me Tangere' in 1887.",
+          "explanation": "Si Francisco Balagtas ang sumulat ng klasikong akdang 'Florante at Laura'.",
           "difficulty": "easy",
-          "topic": "Literature"
+          "topic": "Filipino Language and Culture"
         },
         {
-          "id": "ele-gen-lit-002",
-          "question": "What is a haiku?",
+          "id": "ge-fc-087",
+          "question": "Ano ang pangunahing sangkap ng adobo?",
           "options": [
-            "A long narrative poem",
-            "A three-line poem with 5-7-5 syllable pattern",
-            "A rhyming couplet",
-            "A four-stanza poem"
+            "Suka at toyo",
+            "Gata",
+            "Mantika",
+            "Alat"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang adobo ay lutong Pilipino na gumagamit ng suka at toyo bilang pangunahing sangkap.",
+          "difficulty": "easy",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-088",
+          "question": "Ano ang ibig sabihin ng salitang 'pakikipagkapwa-tao'?",
+          "options": [
+            "Pakikisama",
+            "Pakikitungo sa kapwa",
+            "Pagiging mabait",
+            "Pagtutulungan"
           ],
           "correctAnswer": 1,
-          "explanation": "A haiku is a Japanese poem with three lines following a 5-7-5 syllable pattern.",
-          "difficulty": "easy",
-          "topic": "Literature"
+          "explanation": "Ang pakikipagkapwa-tao ay ang Filipino value ng makataong pakikitungo sa kapwa.",
+          "difficulty": "medium",
+          "topic": "Filipino Language and Culture"
         },
         {
-          "id": "ele-gen-lit-003",
-          "question": "What literary device is used: 'The sun smiled down on us'?",
+          "id": "ge-fc-089",
+          "question": "Ano ang tawag sa tradisyonal na sayaw ng Pilipinas gamit ang mga kawayan?",
           "options": [
-            "Simile",
+            "Pandanggo",
+            "Tinikling",
+            "Maglalatik",
+            "Singkil"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Tinikling ay popular na sayaw na gumagamit ng dalawang kawayan na pinagsasalpok.",
+          "difficulty": "easy",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-090",
+          "question": "Sino ang 'Prinsipe ng mga Makatang Tagalog'?",
+          "options": [
+            "Francisco Balagtas",
+            "Jose Corazon de Jesus",
+            "Lope K. Santos",
+            "Alejandro Abadilla"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Jose Corazon de Jesus (Huseng Batute) ang 'Prinsipe ng mga Makatang Tagalog'.",
+          "difficulty": "difficult",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-091",
+          "question": "Ano ang ibig sabihin ng 'Mabuhay'?",
+          "options": [
+            "Paalam",
+            "Maligayang pagdating",
+            "Salamat",
+            "Oo"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Mabuhay' ay salitang Tagalog na ginagamit bilang pagbati o welcome.",
+          "difficulty": "easy",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-092",
+          "question": "Ano ang pambansang prutas ng Pilipinas?",
+          "options": [
+            "Mangga",
+            "Saging",
+            "Pinya",
+            "Papaya"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang mangga (Carabao Mango) ay pambansang prutas ng Pilipinas.",
+          "difficulty": "easy",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-093",
+          "question": "Ano ang tawag sa awit na ginagamit sa pag-aalay sa patay?",
+          "options": [
+            "Kundiman",
+            "Dalit",
+            "Awit",
+            "Kumintang"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Dalit ay uri ng awit o panalangin na ginagamit sa pag-aalay sa mga yumao.",
+          "difficulty": "difficult",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-094",
+          "question": "Sino ang sumulat ng 'Bayan Ko'?",
+          "options": [
+            "Jose Corazon de Jesus",
+            "Constancio de Guzman",
+            "Levi Celerio",
+            "Ryan Cayabyab"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Si Jose Corazon de Jesus ang sumulat ng liriko ng 'Bayan Ko', at si Constancio de Guzman ang kompositor.",
+          "difficulty": "medium",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-095",
+          "question": "Ano ang pambansang ibon ng Pilipinas?",
+          "options": [
+            "Maya",
+            "Agila",
+            "Kalapati",
+            "Loro"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Philippine Eagle (Haribon o Agila) ang pambansang ibon ng Pilipinas.",
+          "difficulty": "easy",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-096",
+          "question": "Ano ang tawag sa epiko ng mga Ilokano?",
+          "options": [
+            "Biag ni Lam-ang",
+            "Darangan",
+            "Hudhud",
+            "Alim"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang Biag ni Lam-ang ay sikat na epiko ng mga Ilokano tungkol sa bayaning si Lam-ang.",
+          "difficulty": "medium",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-097",
+          "question": "Ilang pulo mayroon sa Pilipinas?",
+          "options": [
+            "7,107",
+            "7,641",
+            "8,000",
+            "6,500"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ayon sa latest count, ang Pilipinas ay may 7,641 pulo.",
+          "difficulty": "difficult",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-098",
+          "question": "Ano ang ibig sabihin ng 'utang na loob'?",
+          "options": [
+            "Pagkakautang",
+            "Debt of gratitude",
+            "Pagtulong",
+            "Kabutihan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang 'utang na loob' ay Filipino value na nangangahulugang debt of gratitude o sense of indebtedness.",
+          "difficulty": "medium",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-099",
+          "question": "Ano ang pambansang laro ng Pilipinas?",
+          "options": [
+            "Basketball",
+            "Arnis",
+            "Sipa",
+            "Patintero"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Arnis (Eskrima/Kali) ay opisyal na pambansang laro at martial art ng Pilipinas.",
+          "difficulty": "medium",
+          "topic": "Filipino Language and Culture"
+        },
+        {
+          "id": "ge-fc-100",
+          "question": "Sino ang unang Pilipinong pambansang alagad ng sining sa literatura?",
+          "options": [
+            "Nick Joaquin",
+            "F. Sionil Jose",
+            "Virgilio Almario",
+            "Amado V. Hernandez"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Si Amado V. Hernandez ang unang pambansang alagad ng sining sa literatura noong 1973.",
+          "difficulty": "difficult",
+          "topic": "Filipino Language and Culture"
+        }
+      ]
+    },
+    {
+      "id": "arts-humanities",
+      "name": "Arts and Humanities",
+      "questions": [
+        {
+          "id": "ge-ah-101",
+          "question": "What are the three primary colors?",
+          "options": [
+            "Red, Yellow, Blue",
+            "Red, Green, Blue",
+            "Yellow, Green, Purple",
+            "Orange, Purple, Green"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The three primary colors in traditional color theory are red, yellow, and blue. These cannot be created by mixing other colors.",
+          "difficulty": "easy",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-102",
+          "question": "Who painted the Mona Lisa?",
+          "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Leonardo da Vinci painted the Mona Lisa during the Italian Renaissance (1503-1519).",
+          "difficulty": "easy",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-103",
+          "question": "What is the term for a story's sequence of events?",
+          "options": [
+            "Setting",
+            "Plot",
+            "Theme",
+            "Character"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The plot is the sequence of events that make up a story's narrative structure.",
+          "difficulty": "easy",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-104",
+          "question": "Who is known as the 'Bard of Avon'?",
+          "options": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Mark Twain",
+            "Edgar Allan Poe"
+          ],
+          "correctAnswer": 1,
+          "explanation": "William Shakespeare is called the 'Bard of Avon' because he was from Stratford-upon-Avon.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-105",
+          "question": "What is the art of beautiful handwriting called?",
+          "options": [
+            "Typography",
+            "Calligraphy",
+            "Lithography",
+            "Orthography"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Calligraphy is the art of decorative handwriting or lettering with a pen or brush.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-106",
+          "question": "How many lines does a sonnet have?",
+          "options": [
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "correctAnswer": 2,
+          "explanation": "A sonnet is a 14-line poem, typically written in iambic pentameter.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-107",
+          "question": "What is the highest male singing voice?",
+          "options": [
+            "Tenor",
+            "Baritone",
+            "Bass",
+            "Countertenor"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The countertenor is the highest male singing voice, singing in the alto or soprano range.",
+          "difficulty": "difficult",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-108",
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "options": [
+            "William Shakespeare",
+            "Christopher Marlowe",
+            "Ben Jonson",
+            "John Milton"
+          ],
+          "correctAnswer": 0,
+          "explanation": "William Shakespeare wrote the tragedy 'Romeo and Juliet' around 1594-1596.",
+          "difficulty": "easy",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-109",
+          "question": "What is the study of the general nature of morals and moral choices?",
+          "options": [
+            "Psychology",
+            "Ethics",
+            "Sociology",
+            "Anthropology"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ethics is the branch of philosophy that deals with moral principles and values.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-110",
+          "question": "What art movement is Salvador Dali associated with?",
+          "options": [
+            "Impressionism",
+            "Cubism",
+            "Surrealism",
+            "Expressionism"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Salvador Dali was a prominent Surrealist artist known for his dreamlike, bizarre imagery.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-111",
+          "question": "What is the term for the main character in a story?",
+          "options": [
+            "Antagonist",
+            "Protagonist",
+            "Supporting character",
+            "Narrator"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The protagonist is the main character or hero of a story who drives the plot forward.",
+          "difficulty": "easy",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-112",
+          "question": "How many symphonies did Beethoven compose?",
+          "options": [
+            "7",
+            "9",
+            "11",
+            "13"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ludwig van Beethoven composed 9 symphonies, with the 9th (Ode to Joy) being the most famous.",
+          "difficulty": "difficult",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-113",
+          "question": "What is the Japanese art of paper folding?",
+          "options": [
+            "Ikebana",
+            "Origami",
+            "Bonsai",
+            "Sumi-e"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Origami is the traditional Japanese art of folding paper into decorative shapes and figures.",
+          "difficulty": "easy",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-114",
+          "question": "Who sculpted 'The Thinker'?",
+          "options": [
+            "Michelangelo",
+            "Donatello",
+            "Auguste Rodin",
+            "Bernini"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Auguste Rodin created 'The Thinker' in 1902, one of the most recognizable sculptures in the world.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-115",
+          "question": "What is the term for a play on words with similar sounds?",
+          "options": [
             "Metaphor",
-            "Personification",
-            "Hyperbole"
+            "Simile",
+            "Pun",
+            "Alliteration"
           ],
           "correctAnswer": 2,
-          "explanation": "Personification gives human characteristics to non-human things. The sun cannot actually smile.",
+          "explanation": "A pun is a form of wordplay that exploits multiple meanings of words or similar-sounding words for humorous effect.",
           "difficulty": "medium",
-          "topic": "Literature"
+          "topic": "Arts and Humanities"
         },
         {
-          "id": "ele-gen-lit-004",
-          "question": "What is the climax of a story?",
+          "id": "ge-ah-116",
+          "question": "In music, what does 'forte' mean?",
           "options": [
-            "The beginning",
-            "The turning point or most intense moment",
-            "The ending",
-            "The introduction of characters"
+            "Soft",
+            "Loud",
+            "Fast",
+            "Slow"
           ],
           "correctAnswer": 1,
-          "explanation": "The climax is the turning point or most intense moment in a story.",
+          "explanation": "Forte (f) is an Italian musical term meaning loud or strong.",
           "difficulty": "easy",
-          "topic": "Literature"
+          "topic": "Arts and Humanities"
         },
         {
-          "id": "ele-gen-lit-005",
-          "question": "Who is the protagonist in a story?",
+          "id": "ge-ah-117",
+          "question": "What ancient Greek philosopher taught Alexander the Great?",
           "options": [
-            "The villain",
-            "The narrator",
-            "The main character",
-            "The supporting character"
+            "Socrates",
+            "Plato",
+            "Aristotle",
+            "Pythagoras"
           ],
           "correctAnswer": 2,
-          "explanation": "The protagonist is the main character in a story.",
+          "explanation": "Aristotle was the tutor of Alexander the Great and influenced his worldview and leadership.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-118",
+          "question": "What is the term for the emotional atmosphere of a literary work?",
+          "options": [
+            "Tone",
+            "Mood",
+            "Theme",
+            "Style"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mood is the emotional atmosphere created in a literary work that evokes feelings in readers.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-119",
+          "question": "What is the oldest known system of writing?",
+          "options": [
+            "Hieroglyphics",
+            "Cuneiform",
+            "Sanskrit",
+            "Chinese characters"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cuneiform, developed by the Sumerians around 3400 BCE, is the oldest known writing system.",
+          "difficulty": "difficult",
+          "topic": "Arts and Humanities"
+        },
+        {
+          "id": "ge-ah-120",
+          "question": "Who wrote 'The Divine Comedy'?",
+          "options": [
+            "Petrarch",
+            "Boccaccio",
+            "Dante Alighieri",
+            "Virgil"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Dante Alighieri wrote 'The Divine Comedy', an epic poem about the journey through Hell, Purgatory, and Paradise.",
+          "difficulty": "medium",
+          "topic": "Arts and Humanities"
+        }
+      ]
+    },
+    {
+      "id": "technology-innovation",
+      "name": "Technology and Innovation",
+      "questions": [
+        {
+          "id": "ge-ti-121",
+          "question": "What does 'CPU' stand for?",
+          "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Program Utility",
+            "Computer Processing Utility"
+          ],
+          "correctAnswer": 0,
+          "explanation": "CPU stands for Central Processing Unit, the 'brain' of the computer that executes instructions.",
           "difficulty": "easy",
-          "topic": "Literature"
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-122",
+          "question": "What does 'WWW' stand for?",
+          "options": [
+            "World Wide Web",
+            "World Web Width",
+            "Web World Wide",
+            "Wide World Web"
+          ],
+          "correctAnswer": 0,
+          "explanation": "WWW stands for World Wide Web, an information system where documents are connected via hyperlinks.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-123",
+          "question": "Who is known as the father of computers?",
+          "options": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Charles Babbage",
+            "Alan Turing"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Charles Babbage is known as the father of computers for designing the first mechanical computer, the Analytical Engine.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-124",
+          "question": "What is the main function of RAM?",
+          "options": [
+            "Permanent storage",
+            "Temporary storage",
+            "Processing",
+            "Input/Output"
+          ],
+          "correctAnswer": 1,
+          "explanation": "RAM (Random Access Memory) provides temporary storage for data and programs currently being used.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-125",
+          "question": "What year was the first iPhone released?",
+          "options": [
+            "2005",
+            "2006",
+            "2007",
+            "2008"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The first iPhone was released by Apple on June 29, 2007, revolutionizing smartphones.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-126",
+          "question": "What does 'URL' stand for?",
+          "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Universal Reference Link",
+            "Uniform Reference Locator"
+          ],
+          "correctAnswer": 1,
+          "explanation": "URL stands for Uniform Resource Locator, the address used to access resources on the internet.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-127",
+          "question": "What is the binary system based on?",
+          "options": [
+            "0 and 1",
+            "1 and 2",
+            "A and B",
+            "X and Y"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The binary system uses only two digits: 0 and 1, forming the basis of all digital computing.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-128",
+          "question": "What company developed the Android operating system?",
+          "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "Samsung"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Google acquired and developed Android, now the world's most popular mobile operating system.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-129",
+          "question": "What does 'AI' stand for?",
+          "options": [
+            "Automated Intelligence",
+            "Artificial Intelligence",
+            "Advanced Interface",
+            "Automatic Integration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "AI stands for Artificial Intelligence, the simulation of human intelligence by machines.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-130",
+          "question": "What is the smallest unit of data in a computer?",
+          "options": [
+            "Byte",
+            "Bit",
+            "Kilobyte",
+            "Megabyte"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A bit (binary digit) is the smallest unit of data, representing either 0 or 1.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-131",
+          "question": "What programming language is known as the 'language of the web'?",
+          "options": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C++"
+          ],
+          "correctAnswer": 2,
+          "explanation": "JavaScript is the programming language that enables interactive web pages and is essential for web development.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-132",
+          "question": "What does 'PDF' stand for?",
+          "options": [
+            "Portable Document Format",
+            "Personal Data File",
+            "Printed Document Format",
+            "Public Data Format"
+          ],
+          "correctAnswer": 0,
+          "explanation": "PDF stands for Portable Document Format, developed by Adobe for document sharing.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-133",
+          "question": "Who founded Microsoft?",
+          "options": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Elon Musk"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bill Gates co-founded Microsoft with Paul Allen in 1975.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-134",
+          "question": "What is cloud computing?",
+          "options": [
+            "Weather prediction",
+            "Internet-based computing",
+            "Satellite technology",
+            "Wireless networking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cloud computing delivers computing services over the internet, including storage, processing, and software.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-135",
+          "question": "What does 'HTML' stand for?",
+          "options": [
+            "Hyper Text Markup Language",
+            "High Tech Modern Language",
+            "Home Tool Markup Language",
+            "Hyperlinks and Text Markup Language"
+          ],
+          "correctAnswer": 0,
+          "explanation": "HTML stands for Hyper Text Markup Language, the standard language for creating web pages.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-136",
+          "question": "What is phishing?",
+          "options": [
+            "A type of virus",
+            "A cyber attack to steal information",
+            "A programming language",
+            "A type of hardware"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Phishing is a cybercrime where attackers trick people into revealing sensitive information like passwords.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-137",
+          "question": "What does 'USB' stand for?",
+          "options": [
+            "Universal Serial Bus",
+            "United System Bus",
+            "Universal System Board",
+            "United Serial Board"
+          ],
+          "correctAnswer": 0,
+          "explanation": "USB stands for Universal Serial Bus, a standard for connecting devices to computers.",
+          "difficulty": "easy",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-138",
+          "question": "What is the function of a firewall?",
+          "options": [
+            "Cool the computer",
+            "Protect against unauthorized access",
+            "Speed up internet",
+            "Store data"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A firewall protects networks by monitoring and controlling incoming and outgoing network traffic.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-139",
+          "question": "What is encryption?",
+          "options": [
+            "Deleting data",
+            "Converting data into code",
+            "Compressing files",
+            "Backing up data"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Encryption converts data into code to prevent unauthorized access, ensuring security and privacy.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        },
+        {
+          "id": "ge-ti-140",
+          "question": "What does 'IoT' stand for?",
+          "options": [
+            "Internet of Things",
+            "Integration of Technology",
+            "Interface of Tools",
+            "Internet of Transfers"
+          ],
+          "correctAnswer": 0,
+          "explanation": "IoT stands for Internet of Things, connecting everyday devices to the internet for data exchange.",
+          "difficulty": "medium",
+          "topic": "Technology and Innovation"
+        }
+      ]
+    },
+    {
+      "id": "current-events",
+      "name": "Current Events and Global Awareness",
+      "questions": [
+        {
+          "id": "ge-ce-141",
+          "question": "What is the capital of the Philippines?",
+          "options": [
+            "Cebu",
+            "Davao",
+            "Manila",
+            "Quezon City"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Manila is the capital city of the Philippines, located on the island of Luzon.",
+          "difficulty": "easy",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-142",
+          "question": "What international organization promotes peace and security?",
+          "options": [
+            "WHO",
+            "UNESCO",
+            "United Nations",
+            "World Bank"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The United Nations (UN) is an international organization founded in 1945 to maintain international peace and security.",
+          "difficulty": "easy",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-143",
+          "question": "What does 'ASEAN' stand for?",
+          "options": [
+            "Asian Southeast Economic Nations",
+            "Association of Southeast Asian Nations",
+            "Asian States Economic Alliance",
+            "Association of South East Alliance Nations"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ASEAN stands for Association of Southeast Asian Nations, a regional organization promoting cooperation among member states.",
+          "difficulty": "medium",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-144",
+          "question": "What is climate change?",
+          "options": [
+            "Daily weather changes",
+            "Long-term change in Earth's climate",
+            "Seasonal variations",
+            "Ocean temperature"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Climate change refers to long-term shifts in temperatures and weather patterns, primarily caused by human activities.",
+          "difficulty": "easy",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-145",
+          "question": "What is the currency of the Philippines?",
+          "options": [
+            "Dollar",
+            "Peso",
+            "Yen",
+            "Rupee"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Philippine Peso (PHP or ₱) is the official currency of the Philippines.",
+          "difficulty": "easy",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-146",
+          "question": "What does 'GDP' stand for?",
+          "options": [
+            "Gross Domestic Product",
+            "General Development Plan",
+            "Global Development Program",
+            "Gross Development Product"
+          ],
+          "correctAnswer": 0,
+          "explanation": "GDP stands for Gross Domestic Product, the total value of goods and services produced in a country.",
+          "difficulty": "medium",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-147",
+          "question": "What is the main purpose of the World Health Organization?",
+          "options": [
+            "Economic development",
+            "Public health",
+            "Education",
+            "Trade"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The WHO (World Health Organization) is responsible for international public health and disease prevention.",
+          "difficulty": "easy",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-148",
+          "question": "How many member countries are in ASEAN?",
+          "options": [
+            "8",
+            "10",
+            "12",
+            "15"
+          ],
+          "correctAnswer": 1,
+          "explanation": "ASEAN has 10 member countries: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam.",
+          "difficulty": "medium",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-149",
+          "question": "What is renewable energy?",
+          "options": [
+            "Energy from fossil fuels",
+            "Energy that can be replenished naturally",
+            "Nuclear energy",
+            "Imported energy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Renewable energy comes from natural sources that are constantly replenished, such as solar, wind, and hydroelectric power.",
+          "difficulty": "easy",
+          "topic": "Current Events and Global Awareness"
+        },
+        {
+          "id": "ge-ce-150",
+          "question": "What is the main cause of global warming?",
+          "options": [
+            "Deforestation only",
+            "Greenhouse gas emissions",
+            "Ocean pollution",
+            "Overpopulation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Global warming is primarily caused by increased greenhouse gas emissions from human activities like burning fossil fuels.",
+          "difficulty": "medium",
+          "topic": "Current Events and Global Awareness"
         }
       ]
     }
-  ],
-  "totalQuestions": 30,
-  "note": "This is a sample with 5 questions per topic. Full version should have 150 questions total."
+  ]
 }
