@@ -65,7 +65,7 @@
         },
         {
           "id": "mapeh-mu-005",
-          "question": "Which Filipino composer is known as the "Father of Kundiman"?",
+          "question": "Which Filipino composer is known as the Father of Kundiman?",
           "options": [
             "Lucio San Pedro",
             "Nicanor Abelardo",
@@ -93,7 +93,7 @@
         },
         {
           "id": "mapeh-mu-007",
-          "question": "Which tempo marking means "very fast"?",
+          "question": "Which tempo marking means very fast?",
           "options": [
             "Largo",
             "Adagio",
@@ -365,7 +365,7 @@
         },
         {
           "id": "mapeh-ar-026",
-          "question": "Who painted the famous artwork "The Starry Night"?",
+          "question": "Who painted the famous artwork The Starry Night?",
           "options": [
             "Leonardo da Vinci",
             "Pablo Picasso",
@@ -415,7 +415,7 @@
             "Piña fibers"
           ],
           "correctAnswer": 0,
-          "explanation": "T'nalak is made from abaca fiber and produced by T'boli "dreamweavers".",
+          "explanation": "T'nalak is made from abaca fiber and produced by T'boli dreamweavers.",
           "difficulty": "medium",
           "topic": "Arts"
         },
@@ -491,7 +491,7 @@
         },
         {
           "id": "mapeh-ar-035",
-          "question": "Which Filipino National Artist is famous for his "spherical" abstract paintings?",
+          "question": "Which Filipino National Artist is famous for his spherical abstract paintings?",
           "options": [
             "Napoleon Abueva",
             "Victorio Edades",
@@ -617,7 +617,7 @@
         },
         {
           "id": "mapeh-ar-044",
-          "question": "What medium did Juan Luna use for his painting "Spoliarium"?",
+          "question": "What medium did Juan Luna use for his painting Spoliarium?",
           "options": [
             "Acrylic",
             "Watercolor",
@@ -701,7 +701,7 @@
         },
         {
           "id": "mapeh-ar-050",
-          "question": "The carved wooden figures from the Cordillera, often called "bulul," represent:",
+          "question": "The carved wooden figures from the Cordillera, often called bulul, represent:",
           "options": [
             "Rice guardians",
             "Spiritual healers",
@@ -1455,7 +1455,7 @@
         },
         {
           "id": "mapeh-he-111",
-          "question": "Which hormone is responsible for the "fight-or-flight" response?",
+          "question": "Which hormone is responsible for the fight-or-flight response?",
           "options": [
             "Adrenaline",
             "Insulin",
@@ -1651,7 +1651,7 @@
         },
         {
           "id": "mapeh-125",
-          "question": "Anong fitness component ang sinusukat ng "sit and reach test"?",
+          "question": "Anong fitness component ang sinusukat ng sit and reach test?",
           "options": [
             "Muscular strength",
             "Cardio endurance",
