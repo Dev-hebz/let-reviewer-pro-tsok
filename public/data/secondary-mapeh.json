@@ -1861,7 +1861,7 @@
         },
         {
           "id": "mapeh-140",
-          "question": "Ang "value" sa sining ay tumutukoy sa ano?",
+          "question": "Ang value sa sining ay tumutukoy sa ano?",
           "options": [
             "Laki",
             "Timpla",
@@ -1889,7 +1889,7 @@
         },
         {
           "id": "mapeh-142",
-          "question": "Ang "melody" ay tumutukoy sa ano?",
+          "question": "Ang melody ay tumutukoy sa ano?",
           "options": [
             "Sabay-sabay na tunog",
             "Isa-isang sunod-sunod na tunog",
@@ -1931,7 +1931,7 @@
         },
         {
           "id": "mapeh-145",
-          "question": "Ang "rhythm" sa musika ay tumutukoy sa ano?",
+          "question": "Ang rhythm sa musika ay tumutukoy sa ano?",
           "options": [
             "Pagkakasunod ng tunog at pahinga",
             "Pinakamataas na nota",
@@ -1959,7 +1959,7 @@
         },
         {
           "id": "mapeh-147",
-          "question": "Ang "perspective" sa art ay nagpapakita ng ano?",
+          "question": "Ang perspective sa art ay nagpapakita ng ano?",
           "options": [
             "Pagkakaiba ng kulay",
             "Pagkakaroon ng depth o lalim",
