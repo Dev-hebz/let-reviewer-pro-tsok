@@ -1,29 +1,2143 @@
 {
-  "subject": "Secondary - Values Education",
+  "subject": "Values Education - LET Reviewer",
   "category": "secondary",
   "subcategory": "values-education",
   "topics": [
     {
-      "id": "topic-1",
-      "name": "Topic 1",
+      "id": "moral-development",
+      "name": "Moral and Character Development",
       "questions": [
         {
-          "id": "sec-values-education-001",
-          "question": "Sample question for values education?",
+          "id": "val-md-001",
+          "question": "Who proposed the theory of moral development with six stages?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Jean Piaget",
+            "Lawrence Kohlberg",
+            "Erik Erikson",
+            "Albert Bandura"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Lawrence Kohlberg developed the six-stage theory of moral development based on moral reasoning.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-002",
+          "question": "At what stage of Kohlberg's moral development does a child obey rules to avoid punishment?",
+          "options": [
+            "Stage 2: Individualism",
+            "Stage 1: Punishment and Obedience",
+            "Stage 3: Good Interpersonal Relationships",
+            "Stage 4: Maintaining Social Order"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Stage 1 (Pre-conventional level) is characterized by obedience to avoid punishment.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-003",
+          "question": "Which level of Kohlberg's moral development involves conformity to social norms?",
+          "options": [
+            "Pre-conventional",
+            "Post-conventional",
+            "Conventional",
+            "Universal"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Conventional level (Stages 3-4) involves conforming to social expectations and maintaining order.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-004",
+          "question": "According to Piaget, at what age do children begin to understand rules as mutual agreements?",
+          "options": [
+            "Birth to 2 years",
+            "2-7 years (Heteronomous morality)",
+            "7-10 years (Transition period)",
+            "10+ years (Autonomous morality)"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Autonomous morality emerges around age 10 when children view rules as changeable by mutual consent.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-005",
+          "question": "What is the highest stage in Kohlberg's moral development?",
+          "options": [
+            "Law and order orientation",
+            "Universal ethical principles",
+            "Social contract orientation",
+            "Good boy/girl orientation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Stage 6: Universal Ethical Principles represents the highest level where individuals follow self-chosen ethical principles.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-006",
+          "question": "Which term refers to the inner voice that guides moral behavior?",
+          "options": [
+            "Ego",
+            "Conscience",
+            "Id",
+            "Superego"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conscience is the inner sense of what is right or wrong that guides one's behavior.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-007",
+          "question": "What is the term for the ability to understand and share the feelings of others?",
+          "options": [
+            "Apathy",
+            "Empathy",
+            "Sympathy",
+            "Antipathy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Empathy is the capacity to understand and share another person's emotional state.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-008",
+          "question": "Which character trait involves telling the truth and being sincere?",
+          "options": [
+            "Respect",
+            "Honesty",
+            "Loyalty",
+            "Responsibility"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Honesty is the quality of being truthful, sincere, and free from deceit.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-009",
+          "question": "What is the term for accepting the consequences of one's actions?",
+          "options": [
+            "Perseverance",
+            "Accountability",
+            "Integrity",
+            "Diligence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Accountability means taking responsibility for one's actions and their outcomes.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-010",
+          "question": "Which Filipino value emphasizes smooth interpersonal relationships?",
+          "options": [
+            "Hiya",
+            "Pakikisama",
+            "Utang na loob",
+            "Bahala na"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pakikisama refers to getting along with others and maintaining harmonious relationships.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-011",
+          "question": "What moral principle states 'Do unto others as you would have them do unto you'?",
+          "options": [
+            "Social Contract",
+            "Golden Rule",
+            "Categorical Imperative",
+            "Utilitarian Principle"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Golden Rule is a fundamental ethical principle found in many religions and philosophies.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-012",
+          "question": "Who is known as the father of character education?",
+          "options": [
+            "William Bennett",
+            "Thomas Lickona",
+            "John Dewey",
+            "Nel Noddings"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Thomas Lickona is widely recognized as a leading figure in character education.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-013",
+          "question": "What are the three components of good character according to Lickona?",
+          "options": [
+            "Awareness, Attitude, Application",
+            "Moral knowing, Moral feeling, Moral action",
+            "Knowledge, Skills, Abilities",
+            "Thinking, Feeling, Behaving"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Lickona identifies moral knowing, moral feeling, and moral action as essential components of character.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-014",
+          "question": "Which approach to values education emphasizes critical thinking about moral issues?",
+          "options": [
+            "Character education",
+            "Moral reasoning",
+            "Inculcation",
+            "Values clarification"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The moral reasoning approach focuses on developing the ability to think critically about ethical dilemmas.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-015",
+          "question": "What term describes the consistency between one's values and actions?",
+          "options": [
+            "Reliability",
+            "Integrity",
+            "Authenticity",
+            "Congruence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Integrity involves the alignment of one's beliefs, words, and actions.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-016",
+          "question": "According to Aristotle, what is achieved through practicing virtuous behavior?",
+          "options": [
+            "Power",
+            "Happiness (Eudaimonia)",
+            "Wealth",
+            "Fame"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Aristotle believed that eudaimonia (human flourishing/happiness) comes from living virtuously.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-017",
+          "question": "What is the term for habits that lead to moral excellence?",
+          "options": [
+            "Principles",
+            "Virtues",
+            "Ethics",
+            "Values"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Virtues are positive character traits or habits that lead to moral excellence.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-018",
+          "question": "Which cardinal virtue involves acting with fairness and giving each person their due?",
+          "options": [
+            "Temperance",
+            "Justice",
+            "Prudence",
+            "Fortitude"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Justice is the virtue of treating others fairly and upholding what is right.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-019",
+          "question": "What is the term for the process of acquiring values from society and culture?",
+          "options": [
+            "Assimilation",
+            "Socialization",
+            "Enculturation",
+            "Acculturation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Socialization is the lifelong process through which individuals learn values and norms of their society.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-020",
+          "question": "Which theory emphasizes learning through observation and imitation?",
+          "options": [
+            "Psychoanalytic Theory",
+            "Social Learning Theory",
+            "Cognitive Development Theory",
+            "Moral Development Theory"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Albert Bandura's Social Learning Theory emphasizes observational learning and modeling behavior.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-021",
+          "question": "What Filipino value refers to sensitivity to others' feelings to avoid causing shame?",
+          "options": [
+            "Pakikisama",
+            "Hiya",
+            "Amor propio",
+            "Delicadeza"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Hiya is the sense of shame or propriety that regulates Filipino social behavior.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-022",
+          "question": "Which virtue involves moderation and self-control?",
+          "options": [
+            "Fortitude",
+            "Temperance",
+            "Justice",
+            "Prudence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Temperance is the cardinal virtue of moderation, self-restraint, and balance.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-023",
+          "question": "What is the term for feeling remorse after doing something wrong?",
+          "options": [
+            "Shame",
+            "Guilt",
+            "Regret",
+            "Embarrassment"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Guilt is the emotional experience of remorse when one violates personal or societal moral standards.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-024",
+          "question": "According to Kohlberg, which stage involves seeking approval from others?",
+          "options": [
+            "Stage 2: Individualism",
+            "Stage 3: Good Interpersonal Relationships",
+            "Stage 4: Maintaining Social Order",
+            "Stage 5: Social Contract"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Stage 3 is characterized by conforming to gain approval and maintain good relationships.",
+          "difficulty": "medium",
+          "topic": "Moral and Character Development"
+        },
+        {
+          "id": "val-md-025",
+          "question": "What term refers to the moral obligation to repay debts of gratitude?",
+          "options": [
+            "Pakikisama",
+            "Utang na loob",
+            "Hiya",
+            "Delicadeza"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Utang na loob is the Filipino value of reciprocating kindness and favors received.",
+          "difficulty": "easy",
+          "topic": "Moral and Character Development"
+        }
+      ]
+    },
+    {
+      "id": "ethics-philosophy",
+      "name": "Ethics and Moral Philosophy",
+      "questions": [
+        {
+          "id": "val-ep-026",
+          "question": "What branch of philosophy deals with moral principles and values?",
+          "options": [
+            "Metaphysics",
+            "Ethics",
+            "Epistemology",
+            "Logic"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ethics is the branch of philosophy concerned with morality, right and wrong, and values.",
+          "difficulty": "easy",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-027",
+          "question": "Which ethical theory judges actions based on their consequences?",
+          "options": [
+            "Virtue Ethics",
+            "Consequentialism",
+            "Deontology",
+            "Care Ethics"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Consequentialism evaluates the morality of actions based on their outcomes or consequences.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-028",
+          "question": "Who is the philosopher associated with Utilitarianism?",
+          "options": [
+            "Immanuel Kant",
+            "John Stuart Mill",
+            "Aristotle",
+            "Friedrich Nietzsche"
+          ],
+          "correctAnswer": 1,
+          "explanation": "John Stuart Mill, along with Jeremy Bentham, is a key figure in developing Utilitarian ethics.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-029",
+          "question": "What is the Utilitarian principle of 'the greatest happiness for the greatest number'?",
+          "options": [
+            "Categorical Imperative",
+            "Principle of Utility",
+            "Social Contract",
+            "Virtue Ethics"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Principle of Utility states that actions are right if they promote the greatest happiness for the greatest number.",
+          "difficulty": "easy",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-030",
+          "question": "Which ethical theory emphasizes duty and moral rules?",
+          "options": [
+            "Virtue Ethics",
+            "Deontology",
+            "Utilitarianism",
+            "Relativism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Deontological ethics focuses on duties, rules, and obligations regardless of consequences.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-031",
+          "question": "Who formulated the Categorical Imperative?",
+          "options": [
+            "John Locke",
+            "Immanuel Kant",
+            "Thomas Hobbes",
+            "Jean-Jacques Rousseau"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Immanuel Kant developed the Categorical Imperative as a universal moral principle.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-032",
+          "question": "What does Kant's Categorical Imperative state?",
+          "options": [
+            "Maximize happiness",
+            "Act only according to maxims that can be universal laws",
+            "Follow religious commandments",
+            "Seek personal advantage"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kant's imperative requires that actions be based on principles that could be universal laws.",
+          "difficulty": "difficult",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-033",
+          "question": "Which ethical theory focuses on character and virtues rather than rules?",
+          "options": [
+            "Deontology",
+            "Virtue Ethics",
+            "Utilitarianism",
+            "Social Contract Theory"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Virtue Ethics, associated with Aristotle, emphasizes developing good character traits.",
+          "difficulty": "easy",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-034",
+          "question": "What is the term for the belief that moral truths are relative to cultures?",
+          "options": [
+            "Moral absolutism",
+            "Moral relativism",
+            "Moral universalism",
+            "Moral objectivism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Moral relativism holds that moral judgments are relative to cultural, social, or individual perspectives.",
+          "difficulty": "easy",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-035",
+          "question": "Which philosopher is known for the concept of the 'Social Contract'?",
+          "options": [
+            "Plato",
+            "Jean-Jacques Rousseau",
+            "Aristotle",
+            "Socrates"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Rousseau, along with Hobbes and Locke, developed Social Contract Theory.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-036",
+          "question": "What is ethical egoism?",
+          "options": [
+            "Acting for the greatest good",
+            "Acting in one's own self-interest",
+            "Following duty",
+            "Imitating virtuous people"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ethical egoism is the normative position that moral agents ought to act in their own self-interest.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-037",
+          "question": "Which theory states that moral values are discovered through reason?",
+          "options": [
+            "Emotivism",
+            "Rationalism",
+            "Empiricism",
+            "Intuitionism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Moral rationalism holds that moral truths can be known through rational reflection.",
+          "difficulty": "difficult",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-038",
+          "question": "What is the term for actions that are morally neutral?",
+          "options": [
+            "Supererogatory",
+            "Adiaphora",
+            "Obligatory",
+            "Prohibited"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Adiaphora refers to actions that are neither morally required nor forbidden.",
+          "difficulty": "difficult",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-039",
+          "question": "Which ethical theory emphasizes care and relationships?",
+          "options": [
+            "Justice Ethics",
+            "Care Ethics",
+            "Rights Ethics",
+            "Duty Ethics"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Care Ethics, developed by Carol Gilligan, emphasizes empathy, relationships, and context.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-040",
+          "question": "What is the difference between morals and ethics?",
+          "options": [
+            "There is no difference",
+            "Morals are personal beliefs; ethics are professional standards",
+            "Morals are universal; ethics are relative",
+            "Ethics came first historically"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Morals are individual beliefs about right and wrong, while ethics are formalized principles within groups or professions.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-041",
+          "question": "What is a moral dilemma?",
+          "options": [
+            "An easy ethical choice",
+            "A situation where all choices have negative consequences",
+            "A legal problem",
+            "A religious conflict"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A moral dilemma occurs when one must choose between conflicting moral principles with no clear right answer.",
+          "difficulty": "easy",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-042",
+          "question": "Which philosopher wrote 'Nicomachean Ethics'?",
+          "options": [
+            "Plato",
+            "Aristotle",
+            "Socrates",
+            "Epicurus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Aristotle's Nicomachean Ethics is a foundational text in virtue ethics.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-043",
+          "question": "What does 'normative ethics' study?",
+          "options": [
+            "How people actually behave",
+            "What actions are morally right or wrong",
+            "The meaning of moral terms",
+            "Cultural moral practices"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Normative ethics examines standards for determining what is morally right and wrong.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-044",
+          "question": "What is 'meta-ethics'?",
+          "options": [
+            "Applied ethics in medicine",
+            "The study of the nature and meaning of moral judgments",
+            "Religious ethics",
+            "Professional codes of conduct"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Meta-ethics examines the origin, nature, and meaning of ethical concepts.",
+          "difficulty": "difficult",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-045",
+          "question": "What is the principle of 'double effect'?",
+          "options": [
+            "Two wrongs make a right",
+            "An action with both good and bad consequences may be permissible if the good is intended",
+            "All actions have two sides",
+            "Consequences are always doubled"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The doctrine of double effect allows actions with both good and harmful effects if certain conditions are met.",
+          "difficulty": "difficult",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-046",
+          "question": "Which ethical theory did Jeremy Bentham develop?",
+          "options": [
+            "Virtue Ethics",
+            "Utilitarianism",
+            "Deontology",
+            "Social Contract Theory"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jeremy Bentham founded classical utilitarianism based on the principle of utility.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-047",
+          "question": "What is 'ethical naturalism'?",
+          "options": [
+            "Ethics based on nature worship",
+            "The view that moral properties are natural properties",
+            "Environmental ethics",
+            "Ethics without religion"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ethical naturalism holds that moral facts are reducible to natural facts about the world.",
+          "difficulty": "difficult",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-048",
+          "question": "What does 'prima facie duty' mean?",
+          "options": [
+            "First duty in importance",
+            "A duty that is binding unless overridden by a stronger duty",
+            "Obvious duty",
+            "Legal duty"
+          ],
+          "correctAnswer": 1,
+          "explanation": "W.D. Ross introduced prima facie duties as obligations that hold unless conflicting with more important duties.",
+          "difficulty": "difficult",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-049",
+          "question": "What is the trolley problem designed to test?",
+          "options": [
+            "Reaction time",
+            "Ethical intuitions about moral dilemmas",
+            "Transportation safety",
+            "Logic skills"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The trolley problem is a thought experiment exploring moral intuitions about action versus inaction.",
+          "difficulty": "medium",
+          "topic": "Ethics and Moral Philosophy"
+        },
+        {
+          "id": "val-ep-050",
+          "question": "What is 'supererogatory action'?",
+          "options": [
+            "Morally forbidden",
+            "Going beyond moral duty; praiseworthy but not required",
+            "Legally required",
+            "Morally neutral"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Supererogatory acts are morally praiseworthy actions that exceed what duty requires.",
+          "difficulty": "difficult",
+          "topic": "Ethics and Moral Philosophy"
+        }
+      ]
+    },
+    {
+      "id": "filipino-values",
+      "name": "Filipino Values and Culture",
+      "questions": [
+        {
+          "id": "val-fv-051",
+          "question": "What is the core Filipino value that emphasizes family orientation?",
+          "options": [
+            "Individualism",
+            "Family-centeredness",
+            "Collectivism",
+            "Nationalism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipino culture places the family at the center of social structure and values.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-052",
+          "question": "What Filipino value shows hospitality and generosity to guests?",
+          "options": [
+            "Pakikisama",
+            "Filipino hospitality",
+            "Hiya",
+            "Bayanihan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipino hospitality is the warm, generous welcome extended to visitors and strangers.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-053",
+          "question": "What does 'Bayanihan' represent?",
+          "options": [
+            "Personal ambition",
+            "Communal unity and cooperation",
+            "Competition",
+            "Independence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bayanihan embodies the spirit of communal cooperation and helping one another.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-054",
+          "question": "What is 'delicadeza' in Filipino values?",
+          "options": [
+            "Sensitivity to propriety; sense of decency",
+            "Sense of shame",
+            "Debt of gratitude",
+            "Getting along"
           ],
           "correctAnswer": 0,
-          "explanation": "This is a sample question. Add 150 questions for this subject.",
+          "explanation": "Delicadeza refers to sensitivity to what is proper, decent, and morally upright.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-055",
+          "question": "What Filipino value involves accepting life's uncertainties with faith?",
+          "options": [
+            "Pakikisama",
+            "Bahala na",
+            "Hiya",
+            "Lakas ng loob"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bahala na reflects leaving outcomes to God or fate, showing trust amid uncertainty.",
           "difficulty": "easy",
-          "topic": "Topic 1"
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-056",
+          "question": "What is 'amor propio'?",
+          "options": [
+            "Self-love or pride; concern for self-esteem",
+            "Love for country",
+            "Love for family",
+            "Romantic love"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Amor propio is the Filipino sense of self-esteem and personal dignity.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-057",
+          "question": "What gesture shows respect to elders in Filipino culture?",
+          "options": [
+            "Shaking hands",
+            "Pagmamano (taking hand to forehead)",
+            "Bowing",
+            "Hugging"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pagmamano is the traditional Filipino gesture of respect where one takes an elder's hand to their forehead.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-058",
+          "question": "What is the Filipino concept of 'pakikipagkapwa-tao'?",
+          "options": [
+            "Regard for others as fellow human beings; shared humanity",
+            "Competition",
+            "Self-reliance",
+            "Authority"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pakikipagkapwa-tao is the core Filipino value of treating others with dignity as fellow humans.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-059",
+          "question": "What does 'ningas-kugon' negatively describe?",
+          "options": [
+            "Initial enthusiasm that quickly fades",
+            "Continuous effort",
+            "Patience",
+            "Determination"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ningas-kugon refers to the tendency to start projects enthusiastically but fail to sustain effort.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-060",
+          "question": "What is the meaning of 'mañana habit'?",
+          "options": [
+            "Early rising",
+            "Procrastination; tendency to postpone",
+            "Planning ahead",
+            "Punctuality"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mañana habit refers to the tendency to delay or put off tasks until later.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-061",
+          "question": "What Filipino value emphasizes close family ties including extended family?",
+          "options": [
+            "Nuclear family focus",
+            "Extended family system",
+            "Individualism",
+            "Communalism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipino culture values the extended family system, including aunts, uncles, cousins, and grandparents.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-062",
+          "question": "What is 'pakikisama' primarily concerned with?",
+          "options": [
+            "Maintaining harmony and getting along with the group",
+            "Individual achievement",
+            "Personal goals",
+            "Competition"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pakikisama emphasizes group harmony, camaraderie, and going along with others.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-063",
+          "question": "What is 'lakas ng loob'?",
+          "options": [
+            "Courage and inner strength",
+            "Physical strength",
+            "Stubbornness",
+            "Aggressiveness"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Lakas ng loob refers to courage, fortitude, and inner strength to face challenges.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-064",
+          "question": "What does 'colonial mentality' refer to in Filipino context?",
+          "options": [
+            "Preference for foreign products and ideas over local ones",
+            "Pride in local culture",
+            "Historical awareness",
+            "Cultural preservation"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Colonial mentality is the preference for foreign cultures and products, viewing them as superior to local ones.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-065",
+          "question": "What is the Filipino resilience in facing adversity called?",
+          "options": [
+            "Helplessness",
+            "Filipino resilience or 'katatagan'",
+            "Avoidance",
+            "Denial"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipinos are known for their resilience, the ability to bounce back and smile despite hardships.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-066",
+          "question": "What is the system of reciprocity in Filipino culture?",
+          "options": [
+            "Capitalism",
+            "Utang na loob (debt of gratitude)",
+            "Barter system",
+            "Free market"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Utang na loob creates lifelong bonds of reciprocity and obligation.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-067",
+          "question": "What Filipino value involves indirect communication to avoid confrontation?",
+          "options": [
+            "Directness",
+            "Euphemism or 'pagpapaligoy-ligoy'",
+            "Assertiveness",
+            "Transparency"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipinos often use indirect communication and euphemisms to maintain harmony and avoid offense.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-068",
+          "question": "What is the role of 'compadre' or 'comadre' system?",
+          "options": [
+            "Business partnership",
+            "Ritual kinship creating social bonds",
+            "Political alliance",
+            "Employee relationship"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The compadre/comadre system creates pseudo-family ties through sponsorship in baptism or marriage.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-069",
+          "question": "What does 'Filipino time' humorously refer to?",
+          "options": [
+            "Punctuality",
+            "Habitual lateness",
+            "Time zones",
+            "Work schedule"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Filipino time refers to the cultural tendency toward being late for appointments and events.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-070",
+          "question": "What is 'pakikipagkuwentuhan'?",
+          "options": [
+            "Formal debate",
+            "Art of storytelling and conversation",
+            "Silent treatment",
+            "Written communication"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pakikipagkuwentuhan values conversation, storytelling, and social interaction as bonding activities.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-071",
+          "question": "What is the Filipino concept of 'kapwa'?",
+          "options": [
+            "Enemy",
+            "Shared identity; self in the other",
+            "Stranger",
+            "Authority figure"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kapwa represents shared identity, seeing oneself in others as fundamentally connected.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-072",
+          "question": "What does 'palabas' or 'pakitang-tao' mean?",
+          "options": [
+            "Show or pretense; doing things for appearance",
+            "Authenticity",
+            "Humility",
+            "Sincerity"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Palabas refers to actions done for show or to impress others rather than genuine intent.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-073",
+          "question": "What is the Filipino value of 'malasakit'?",
+          "options": [
+            "Indifference",
+            "Deep concern and care for others",
+            "Selfishness",
+            "Apathy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Malasakit is genuine concern, care, and empathy shown towards others.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-074",
+          "question": "What does 'kanya-kanya syndrome' negatively describe?",
+          "options": [
+            "Teamwork",
+            "Self-centered individualism at the expense of community",
+            "Sharing",
+            "Cooperation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kanya-kanya syndrome refers to excessive self-interest without regard for the common good.",
+          "difficulty": "medium",
+          "topic": "Filipino Values and Culture"
+        },
+        {
+          "id": "val-fv-075",
+          "question": "What is the Filipino attitude toward religion and faith?",
+          "options": [
+            "Secular",
+            "Deeply religious and faith-centered",
+            "Atheistic",
+            "Agnostic"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Religion plays a central role in Filipino life, with deep faith and spirituality.",
+          "difficulty": "easy",
+          "topic": "Filipino Values and Culture"
+        }
+      ]
+    },
+    {
+      "id": "social-values",
+      "name": "Social and Civic Values",
+      "questions": [
+        {
+          "id": "val-sv-076",
+          "question": "What is citizenship?",
+          "options": [
+            "Legal membership in a country with rights and responsibilities",
+            "Just paying taxes",
+            "Living in a place",
+            "Voting in elections"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Citizenship involves legal status, rights, and duties within a political community.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-077",
+          "question": "What is the primary duty of a responsible citizen?",
+          "options": [
+            "To obey laws and contribute to society",
+            "To criticize government",
+            "To avoid participation",
+            "To only claim rights"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Responsible citizenship involves obeying laws, paying taxes, and contributing to community welfare.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-078",
+          "question": "What does 'social justice' mean?",
+          "options": [
+            "Equal treatment before the law",
+            "Fair distribution of resources and opportunities",
+            "Strict equality",
+            "Government control"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Social justice involves fair and equitable distribution of resources, opportunities, and privileges.",
+          "difficulty": "medium",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-079",
+          "question": "What is civic participation?",
+          "options": [
+            "Watching news",
+            "Active involvement in community and political life",
+            "Paying bills",
+            "Working"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Civic participation involves engaging in activities that address public concerns and improve community.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-080",
+          "question": "What is volunteerism?",
+          "options": [
+            "Paid work",
+            "Offering time and services without payment for community benefit",
+            "Mandatory service",
+            "Career building"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Volunteerism is the practice of offering one's time and talents freely to help others and the community.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-081",
+          "question": "What is nationalism?",
+          "options": [
+            "Hatred of other countries",
+            "Love and devotion to one's country",
+            "Isolationism",
+            "Superiority complex"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Nationalism is positive identification with and loyalty to one's nation and its interests.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-082",
+          "question": "What is patriotism?",
+          "options": [
+            "Blind obedience",
+            "Love, support, and defense of one's country",
+            "Aggression toward others",
+            "Political alignment"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Patriotism involves devotion to and vigorous support for one's country.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-083",
+          "question": "What does 'common good' refer to?",
+          "options": [
+            "Personal benefit",
+            "Benefit shared by all members of society",
+            "Government property",
+            "Majority rule"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The common good refers to conditions beneficial to all members of a community.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-084",
+          "question": "What is human rights?",
+          "options": [
+            "Special privileges",
+            "Basic rights inherent to all humans",
+            "Legal benefits",
+            "Constitutional gifts"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Human rights are fundamental rights belonging to every person by virtue of being human.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-085",
+          "question": "What is the Universal Declaration of Human Rights (UDHR)?",
+          "options": [
+            "A treaty",
+            "International statement of fundamental human rights",
+            "National constitution",
+            "Religious document"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The UDHR, adopted by the UN in 1948, proclaims fundamental human rights to be universally protected.",
+          "difficulty": "medium",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-086",
+          "question": "What is equality?",
+          "options": [
+            "Sameness in all aspects",
+            "Equal rights, treatment, and opportunities regardless of differences",
+            "Uniform outcomes",
+            "Identical resources"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Equality means ensuring all people have equal rights and opportunities regardless of their differences.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-087",
+          "question": "What does 'equity' mean?",
+          "options": [
+            "Treating everyone exactly the same",
+            "Fairness through different treatment based on need",
+            "Equal outcomes",
+            "Uniform distribution"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Equity involves fair treatment that may require different approaches to address different needs.",
+          "difficulty": "medium",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-088",
+          "question": "What is social responsibility?",
+          "options": [
+            "Government duty",
+            "Obligation to act for the benefit of society",
+            "Personal choice only",
+            "Business requirement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Social responsibility is the ethical framework requiring individuals to act beneficially for society.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-089",
+          "question": "What is diversity?",
+          "options": [
+            "Uniformity",
+            "Presence of differences in backgrounds, perspectives, and identities",
+            "Segregation",
+            "Assimilation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Diversity refers to the variety of human differences including race, gender, culture, and beliefs.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-090",
+          "question": "What is inclusion?",
+          "options": [
+            "Exclusion",
+            "Creating environments where all individuals feel welcomed and valued",
+            "Tolerance",
+            "Separation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inclusion ensures that all people, regardless of differences, feel welcomed and valued.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-091",
+          "question": "What is discrimination?",
+          "options": [
+            "Fair treatment",
+            "Unjust treatment based on categories like race or gender",
+            "Personal preference",
+            "Evaluation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Discrimination is unfair treatment of people based on characteristics such as race, gender, or age.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-092",
+          "question": "What is prejudice?",
+          "options": [
+            "Fair judgment",
+            "Preconceived opinion not based on reason or experience",
+            "Wisdom",
+            "Education"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Prejudice involves forming opinions without adequate knowledge or examination of facts.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-093",
+          "question": "What is tolerance?",
+          "options": [
+            "Agreement",
+            "Respect for beliefs or practices differing from one's own",
+            "Approval",
+            "Indifference"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tolerance is the willingness to accept and respect different views, beliefs, and practices.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-094",
+          "question": "What is solidarity?",
+          "options": [
+            "Isolation",
+            "Unity based on shared interests, objectives, or standards",
+            "Competition",
+            "Independence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Solidarity is unity or agreement of feeling or action among individuals with a common interest.",
+          "difficulty": "medium",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-095",
+          "question": "What is social cohesion?",
+          "options": [
+            "Social fragmentation",
+            "Bonds that bring society together",
+            "Isolation",
+            "Conflict"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Social cohesion refers to the strength of relationships and sense of solidarity among community members.",
+          "difficulty": "medium",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-096",
+          "question": "What is the rule of law?",
+          "options": [
+            "Rule by force",
+            "Principle that law applies equally to everyone",
+            "Military rule",
+            "Arbitrary government"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The rule of law means that all people and institutions are subject to and accountable to law.",
+          "difficulty": "medium",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-097",
+          "question": "What is democracy?",
+          "options": [
+            "Rule by one",
+            "Government by the people, through elected representatives",
+            "Military government",
+            "Monarchy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Democracy is a system of government where citizens exercise power through voting and representation.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-098",
+          "question": "What is accountability in governance?",
+          "options": [
+            "Secrecy",
+            "Obligation to answer for responsibilities and actions",
+            "Immunity",
+            "Privilege"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Accountability means being answerable for decisions and actions, particularly in public service.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-099",
+          "question": "What is transparency in government?",
+          "options": [
+            "Secrecy",
+            "Openness and accessibility of information and processes",
+            "Privacy",
+            "Confidentiality"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Transparency involves operating in ways that make information available and processes visible to citizens.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        },
+        {
+          "id": "val-sv-100",
+          "question": "What is civic duty?",
+          "options": [
+            "Optional activity",
+            "Obligations of citizenship like voting and jury service",
+            "Personal choice",
+            "Career requirement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Civic duties are responsibilities required or expected of citizens in a society.",
+          "difficulty": "easy",
+          "topic": "Social and Civic Values"
+        }
+      ]
+    },
+    {
+      "id": "environmental-values",
+      "name": "Environmental and Ecological Values",
+      "questions": [
+        {
+          "id": "val-ev-101",
+          "question": "What is environmental stewardship?",
+          "options": [
+            "Exploitation of resources",
+            "Responsible management and care of the environment",
+            "Industrial development",
+            "Resource extraction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Environmental stewardship involves taking responsibility for protecting and preserving the natural environment.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-102",
+          "question": "What does sustainability mean?",
+          "options": [
+            "Unlimited growth",
+            "Meeting present needs without compromising future generations",
+            "Maximum exploitation",
+            "Short-term profit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sustainability involves using resources in ways that don't deplete them for future generations.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-103",
+          "question": "What is biodiversity?",
+          "options": [
+            "Single species",
+            "Variety of life in all forms and ecosystems",
+            "Farming",
+            "Urbanization"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Biodiversity refers to the variety of living species in an environment or on Earth as a whole.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-104",
+          "question": "What is the main cause of climate change?",
+          "options": [
+            "Natural cycles only",
+            "Human activities producing greenhouse gases",
+            "Solar activity",
+            "Volcanic eruptions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scientific consensus attributes current climate change primarily to human activities, especially burning fossil fuels.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-105",
+          "question": "What does 'reduce, reuse, recycle' promote?",
+          "options": [
+            "Waste generation",
+            "Waste management and resource conservation",
+            "Consumerism",
+            "Disposal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The 3Rs promote minimizing waste, reusing items, and recycling materials to conserve resources.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-106",
+          "question": "What is ecological balance?",
+          "options": [
+            "Dominance of one species",
+            "State where species coexist in stable equilibrium",
+            "Extinction",
+            "Monoculture"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ecological balance occurs when ecosystems maintain stability through natural processes.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-107",
+          "question": "What is deforestation?",
+          "options": [
+            "Planting trees",
+            "Clearing forests for other land uses",
+            "Forest management",
+            "Conservation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Deforestation is the removal of forests, often for agriculture, logging, or development.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-108",
+          "question": "What is pollution?",
+          "options": [
+            "Clean environment",
+            "Introduction of harmful substances into the environment",
+            "Natural process",
+            "Conservation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pollution involves contaminating the environment with substances that cause harm to living organisms.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-109",
+          "question": "What is renewable energy?",
+          "options": [
+            "Fossil fuels",
+            "Energy from sources that naturally replenish",
+            "Nuclear power",
+            "Coal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Renewable energy comes from naturally replenishing sources like solar, wind, and hydropower.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-110",
+          "question": "What is carbon footprint?",
+          "options": [
+            "Shoe size",
+            "Total greenhouse gases produced by activities",
+            "Walking distance",
+            "Tree planting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Carbon footprint measures the total greenhouse gas emissions caused by an individual, organization, or activity.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-111",
+          "question": "What is conservation?",
+          "options": [
+            "Wasteful use",
+            "Careful management and protection of natural resources",
+            "Exploitation",
+            "Destruction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Conservation involves protecting and preserving natural resources and wildlife.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-112",
+          "question": "What is the greenhouse effect?",
+          "options": [
+            "Growing plants",
+            "Trapping of heat in atmosphere by gases",
+            "Building structures",
+            "Cooling system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The greenhouse effect occurs when atmospheric gases trap heat from the sun, warming Earth.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-113",
+          "question": "What are endangered species?",
+          "options": [
+            "Common animals",
+            "Species at risk of extinction",
+            "Domesticated animals",
+            "Invasive species"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Endangered species are those threatened with extinction due to habitat loss, hunting, or other factors.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-114",
+          "question": "What is an ecosystem?",
+          "options": [
+            "Single organism",
+            "Community of living and non-living things interacting",
+            "Building",
+            "Machine"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An ecosystem consists of all organisms in an area interacting with each other and their environment.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-115",
+          "question": "What is water conservation?",
+          "options": [
+            "Wasting water",
+            "Careful and efficient use of water resources",
+            "Pollution",
+            "Flooding"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Water conservation involves practices that reduce water usage and waste.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-116",
+          "question": "What is organic farming?",
+          "options": [
+            "Heavy chemical use",
+            "Agricultural method avoiding synthetic pesticides and fertilizers",
+            "Factory farming",
+            "Monoculture"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Organic farming uses natural methods and materials, avoiding synthetic chemicals.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-117",
+          "question": "What is the ozone layer?",
+          "options": [
+            "Underground water",
+            "Atmospheric layer protecting Earth from UV radiation",
+            "Soil layer",
+            "Ocean layer"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The ozone layer in the stratosphere absorbs most of the sun's harmful ultraviolet radiation.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-118",
+          "question": "What is environmental ethics?",
+          "options": [
+            "Ignoring nature",
+            "Moral relationship between humans and the environment",
+            "Exploitation rights",
+            "Economic priority"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Environmental ethics examines the moral relationship of humans to the natural environment.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-119",
+          "question": "What is the precautionary principle?",
+          "options": [
+            "Take risks freely",
+            "If action may cause harm, burden of proof lies with advocates",
+            "Ignore consequences",
+            "Profit first"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The precautionary principle states that if an action might cause harm, those proposing it must prove it's safe.",
+          "difficulty": "difficult",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-120",
+          "question": "What is environmental justice?",
+          "options": [
+            "Unequal environmental burdens",
+            "Fair treatment in environmental policies for all people",
+            "Privilege for wealthy",
+            "Exploitation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Environmental justice ensures fair treatment and meaningful involvement of all people in environmental decisions.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-121",
+          "question": "What is land degradation?",
+          "options": [
+            "Soil improvement",
+            "Decline in land quality and productivity",
+            "Farming",
+            "Development"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Land degradation involves the deterioration of land quality, often from overuse or poor management.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-122",
+          "question": "What does the term 'ecological footprint' measure?",
+          "options": [
+            "Shoe size",
+            "Human demand on Earth's ecosystems",
+            "Walking distance",
+            "Population"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ecological footprint measures human impact on Earth in terms of resources consumed and waste produced.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-123",
+          "question": "What is climate adaptation?",
+          "options": [
+            "Causing climate change",
+            "Adjusting practices to minimize climate change damage",
+            "Ignoring climate",
+            "Increasing emissions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Climate adaptation involves adjusting systems and behaviors to reduce vulnerability to climate change effects.",
+          "difficulty": "medium",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-124",
+          "question": "What is habitat destruction?",
+          "options": [
+            "Creating habitats",
+            "Process where natural habitat is altered so species can't survive",
+            "Conservation",
+            "Protection"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Habitat destruction is the main threat to biodiversity, rendering environments unable to support native species.",
+          "difficulty": "easy",
+          "topic": "Environmental and Ecological Values"
+        },
+        {
+          "id": "val-ev-125",
+          "question": "What is the circular economy?",
+          "options": [
+            "Linear production",
+            "Economic system aimed at eliminating waste through reuse",
+            "Disposable culture",
+            "One-time use"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The circular economy focuses on designing out waste and keeping products and materials in use.",
+          "difficulty": "difficult",
+          "topic": "Environmental and Ecological Values"
+        }
+      ]
+    },
+    {
+      "id": "personal-development",
+      "name": "Personal and Spiritual Values",
+      "questions": [
+        {
+          "id": "val-pd-126",
+          "question": "What is self-awareness?",
+          "options": [
+            "Ignoring oneself",
+            "Understanding one's own thoughts, feelings, and behaviors",
+            "Selfishness",
+            "Ego"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-awareness is conscious knowledge of one's character, feelings, motives, and desires.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-127",
+          "question": "What is self-discipline?",
+          "options": [
+            "Laziness",
+            "Ability to control impulses and pursue goals",
+            "Punishment",
+            "Rigidity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-discipline is the ability to control one's feelings and overcome weaknesses to pursue goals.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-128",
+          "question": "What is resilience?",
+          "options": [
+            "Giving up easily",
+            "Ability to recover from difficulties",
+            "Avoidance",
+            "Weakness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Resilience is the capacity to recover quickly from challenges and adapt to adversity.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-129",
+          "question": "What is emotional intelligence?",
+          "options": [
+            "IQ score",
+            "Ability to recognize and manage emotions in self and others",
+            "Academic skill",
+            "Memory"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Emotional intelligence involves perceiving, understanding, and managing emotions effectively.",
+          "difficulty": "medium",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-130",
+          "question": "What is gratitude?",
+          "options": [
+            "Entitlement",
+            "Thankfulness and appreciation",
+            "Complaint",
+            "Demand"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gratitude is the quality of being thankful and showing appreciation for kindness.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-131",
+          "question": "What is humility?",
+          "options": [
+            "Arrogance",
+            "Modest view of one's importance",
+            "Self-deprecation",
+            "Weakness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Humility is freedom from pride or arrogance, having a modest estimate of one's worth.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-132",
+          "question": "What is forgiveness?",
+          "options": [
+            "Revenge",
+            "Letting go of resentment toward those who wronged you",
+            "Forgetting",
+            "Condoning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Forgiveness involves releasing anger and resentment toward someone who has harmed you.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-133",
+          "question": "What is compassion?",
+          "options": [
+            "Indifference",
+            "Sympathetic concern for others' suffering",
+            "Pity",
+            "Superiority"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Compassion is sympathetic awareness of others' distress with a desire to alleviate it.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-134",
+          "question": "What is mindfulness?",
+          "options": [
+            "Distraction",
+            "Present-moment awareness without judgment",
+            "Daydreaming",
+            "Planning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mindfulness is the practice of maintaining awareness of thoughts, feelings, and surroundings in the present.",
+          "difficulty": "medium",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-135",
+          "question": "What is self-esteem?",
+          "options": [
+            "Self-doubt",
+            "Confidence in one's worth and abilities",
+            "Arrogance",
+            "Comparison"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-esteem is an individual's subjective evaluation of their own worth.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-136",
+          "question": "What is perseverance?",
+          "options": [
+            "Quitting",
+            "Continued effort despite difficulties",
+            "Stubbornness",
+            "Inflexibility"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Perseverance is persistence in doing something despite difficulty or delay in achieving success.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-137",
+          "question": "What is optimism?",
+          "options": [
+            "Pessimism",
+            "Hopefulness about the future",
+            "Denial",
+            "Unrealism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Optimism is a mental attitude characterized by hope and confidence about the future.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-138",
+          "question": "What is altruism?",
+          "options": [
+            "Selfishness",
+            "Selfless concern for the well-being of others",
+            "Self-interest",
+            "Indifference"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Altruism is unselfish regard for or devotion to the welfare of others.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-139",
+          "question": "What is spiritual development?",
+          "options": [
+            "Material gain",
+            "Growth in connection to meaning, purpose, and transcendence",
+            "Physical fitness",
+            "Career success"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Spiritual development involves deepening one's sense of meaning, purpose, and connection to something greater.",
+          "difficulty": "medium",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-140",
+          "question": "What is authenticity?",
+          "options": [
+            "Pretense",
+            "Being true to one's own personality and values",
+            "Conformity",
+            "Imitation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Authenticity is the quality of being genuine, real, and true to oneself.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-141",
+          "question": "What is self-reflection?",
+          "options": [
+            "Mirror gazing",
+            "Examination of one's thoughts, feelings, and motivations",
+            "Narcissism",
+            "Avoidance"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-reflection is the process of thinking about and analyzing one's own thoughts and behaviors.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-142",
+          "question": "What is courage?",
+          "options": [
+            "Recklessness",
+            "Ability to face fear, danger, or adversity",
+            "Absence of fear",
+            "Aggression"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Courage is the mental or moral strength to face difficulty, danger, or pain.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-143",
+          "question": "What is wisdom?",
+          "options": [
+            "Information",
+            "Good judgment from knowledge and experience",
+            "Intelligence",
+            "Education"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Wisdom is the quality of having experience, knowledge, and good judgment.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-144",
+          "question": "What is inner peace?",
+          "options": [
+            "Excitement",
+            "State of mental and spiritual calm despite stress",
+            "Boredom",
+            "Isolation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inner peace is a state of psychological and spiritual calm despite external stressors.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-145",
+          "question": "What is purposeful living?",
+          "options": [
+            "Aimless existence",
+            "Living with clear direction aligned with values and goals",
+            "Following others",
+            "Conformity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Purposeful living involves having clear intentions and goals that give life meaning and direction.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-146",
+          "question": "What is self-actualization?",
+          "options": [
+            "Self-destruction",
+            "Realization of one's full potential",
+            "Stagnation",
+            "Conformity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Self-actualization, in Maslow's hierarchy, is achieving one's full potential and creative expression.",
+          "difficulty": "medium",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-147",
+          "question": "What is the difference between sympathy and empathy?",
+          "options": [
+            "No difference",
+            "Sympathy feels for someone; empathy feels with someone",
+            "Sympathy is stronger",
+            "Empathy is pity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sympathy is feeling compassion for someone, while empathy is understanding and sharing their feelings.",
+          "difficulty": "medium",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-148",
+          "question": "What is contentment?",
+          "options": [
+            "Greed",
+            "State of peaceful happiness and satisfaction",
+            "Complacency",
+            "Laziness"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Contentment is a state of satisfaction with one's situation without excessive desire for more.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-149",
+          "question": "What is generosity?",
+          "options": [
+            "Stinginess",
+            "Willingness to give freely without expecting return",
+            "Wastefulness",
+            "Obligation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Generosity is the quality of being kind, understanding, and giving to others.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
+        },
+        {
+          "id": "val-pd-150",
+          "question": "What does 'living with intention' mean?",
+          "options": [
+            "Accident-prone",
+            "Making deliberate choices aligned with values",
+            "Spontaneity only",
+            "Following impulses"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Living with intention means making conscious, purposeful choices aligned with one's values and goals.",
+          "difficulty": "easy",
+          "topic": "Personal and Spiritual Values"
         }
       ]
     }
-  ],
-  "totalQuestions": 1,
-  "note": "Sample questions - Add 150 total for full implementation"
+  ]
 }
