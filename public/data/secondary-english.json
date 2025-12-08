@@ -30,7 +30,7 @@
             "The teacher explained the lesson clearly.",
             "Having finished dinner, we watched a movie."
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The modifier 'on paper plates' is misplaced, suggesting the children were on paper plates rather than the sandwiches.",
           "difficulty": "difficult",
           "topic": "Language Structure and Grammar"
@@ -86,7 +86,7 @@
             "Having studied all night, Maria passed the exam.",
             "The car, damaged in the accident, was towed away."
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The participle 'waiting' dangles because the rain cannot wait for the bus. The subject who was waiting is missing.",
           "difficulty": "difficult",
           "topic": "Language Structure and Grammar"
@@ -184,7 +184,7 @@
             "I studied because I wanted to pass.",
             "He ran quickly but carefully."
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Correlative conjunctions work in pairs: both...and, either...or, neither...nor, not only...but also.",
           "difficulty": "easy",
           "topic": "Language Structure and Grammar"
@@ -310,7 +310,7 @@
             "When he arrives, call me.",
             "She sings beautifully."
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "'That she will succeed' is a noun clause functioning as the direct object of 'know'.",
           "difficulty": "medium",
           "topic": "Language Structure and Grammar"
@@ -338,7 +338,7 @@
             "Adverb modifying 'catch'",
             "Adverb modifying 'bus'"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "'Quickly' is an adverb that modifies the verb 'ran', telling how she ran.",
           "difficulty": "easy",
           "topic": "Language Structure and Grammar"
@@ -638,7 +638,7 @@
             "The highest point of tension",
             "The background information"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The resolution (or falling action/denouement) is where conflicts are resolved and the story concludes after the climax.",
           "difficulty": "easy",
           "topic": "Reading Comprehension and Literature"
@@ -986,7 +986,7 @@
             "Words that rhyme",
             "Words with opposite meanings"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Homophones sound the same but have different meanings and usually different spellings (e.g., there/their/they're).",
           "difficulty": "easy",
           "topic": "Vocabulary and Word Study"
@@ -1056,7 +1056,7 @@
             "Sound",
             "Light"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The root 'chron' means time (chronological = in time order; synchronize = make occur at same time).",
           "difficulty": "medium",
           "topic": "Vocabulary and Word Study"
@@ -1126,7 +1126,7 @@
             "Book",
             "Earth"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The root 'bio' means life (biology = study of life; biography = written life story).",
           "difficulty": "easy",
           "topic": "Vocabulary and Word Study"
@@ -1286,7 +1286,7 @@
             "The study of grammar",
             "The study of writing"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Semantics is the study of meaning in language, including word meanings, sentence meanings, and relationships between signs and what they represent.",
           "difficulty": "easy",
           "topic": "Linguistics and Phonology"
@@ -1530,7 +1530,7 @@
             "Nouns, Verbs, Adjectives, Adverbs",
             "Phonics, Fluency, Comprehension, Vocabulary"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The four language skills are Listening and Reading (receptive skills) and Speaking and Writing (productive skills).",
           "difficulty": "easy",
           "topic": "Language Acquisition and Development"
@@ -1788,7 +1788,7 @@
             "Reality TV",
             "Real tests"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Realia are real-world objects and materials (menus, tickets, packages) used to make language learning authentic, meaningful, and contextualized.",
           "difficulty": "easy",
           "topic": "English Teaching Methodologies"
