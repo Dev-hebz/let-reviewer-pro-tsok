@@ -1,29 +1,2113 @@
 {
-  "subject": "Secondary - Mathematics",
+  "subject": "Secondary - MATHEMATICS",
   "category": "secondary",
-  "subcategory": "mathematics",
+  "subcategory": "MATH",
   "topics": [
     {
-      "id": "algebra",
-      "name": "Algebra",
+      "id": "mat",
+      "name": "Mathematics",
       "questions": [
         {
-          "id": "sec-math-alg-001",
-          "question": "Solve for x: 2x + 5 = 15",
+          "id": "math-001",
+          "question": "What is 1 + 3?",
           "options": [
-            "x = 3",
-            "x = 5",
-            "x = 7",
-            "x = 10"
+            "3.0",
+            "4.0",
+            "5.0",
+            "6.0"
           ],
-          "correctAnswer": 1,
-          "explanation": "Subtract 5 from both sides: 2x = 10, then divide by 2: x = 5",
+          "correctAnswer": 2,
+          "explanation": "1 + 3 = 4.",
           "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-002",
+          "question": "What is 2 + 4?",
+          "options": [
+            "5.0",
+            "6.0",
+            "7.0",
+            "8.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "2 + 4 = 6.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-003",
+          "question": "What is 3 + 5?",
+          "options": [
+            "7.0",
+            "8.0",
+            "9.0",
+            "10.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "3 + 5 = 8.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-004",
+          "question": "What is 4 + 6?",
+          "options": [
+            "9.0",
+            "10.0",
+            "11.0",
+            "12.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "4 + 6 = 10.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-005",
+          "question": "What is 5 + 7?",
+          "options": [
+            "11.0",
+            "12.0",
+            "13.0",
+            "14.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "5 + 7 = 12.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-006",
+          "question": "What is 6 + 8?",
+          "options": [
+            "13.0",
+            "14.0",
+            "15.0",
+            "16.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "6 + 8 = 14.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-007",
+          "question": "What is 7 + 9?",
+          "options": [
+            "15.0",
+            "16.0",
+            "17.0",
+            "18.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "7 + 9 = 16.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-008",
+          "question": "What is 8 + 10?",
+          "options": [
+            "17.0",
+            "18.0",
+            "19.0",
+            "20.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "8 + 10 = 18.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-009",
+          "question": "What is 9 + 11?",
+          "options": [
+            "19.0",
+            "20.0",
+            "21.0",
+            "22.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "9 + 11 = 20.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-010",
+          "question": "What is 10 + 12?",
+          "options": [
+            "21.0",
+            "22.0",
+            "23.0",
+            "24.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "10 + 12 = 22.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-011",
+          "question": "What is 11 + 13?",
+          "options": [
+            "23.0",
+            "24.0",
+            "25.0",
+            "26.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "11 + 13 = 24.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-012",
+          "question": "What is 12 + 14?",
+          "options": [
+            "25.0",
+            "26.0",
+            "27.0",
+            "28.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "12 + 14 = 26.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-013",
+          "question": "What is 13 + 15?",
+          "options": [
+            "27.0",
+            "28.0",
+            "29.0",
+            "30.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "13 + 15 = 28.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-014",
+          "question": "What is 14 + 16?",
+          "options": [
+            "29.0",
+            "30.0",
+            "31.0",
+            "32.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "14 + 16 = 30.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-015",
+          "question": "What is 15 + 17?",
+          "options": [
+            "31.0",
+            "32.0",
+            "33.0",
+            "34.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "15 + 17 = 32.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-016",
+          "question": "What is 16 + 18?",
+          "options": [
+            "33.0",
+            "34.0",
+            "35.0",
+            "36.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "16 + 18 = 34.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-017",
+          "question": "What is 17 + 19?",
+          "options": [
+            "35.0",
+            "36.0",
+            "37.0",
+            "38.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "17 + 19 = 36.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-018",
+          "question": "What is 18 + 20?",
+          "options": [
+            "37.0",
+            "38.0",
+            "39.0",
+            "40.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "18 + 20 = 38.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-019",
+          "question": "What is 19 + 21?",
+          "options": [
+            "39.0",
+            "40.0",
+            "41.0",
+            "42.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "19 + 21 = 40.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-020",
+          "question": "What is 20 + 22?",
+          "options": [
+            "41.0",
+            "42.0",
+            "43.0",
+            "44.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "20 + 22 = 42.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-021",
+          "question": "What is 21 + 23?",
+          "options": [
+            "43.0",
+            "44.0",
+            "45.0",
+            "46.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "21 + 23 = 44.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-022",
+          "question": "What is 22 + 24?",
+          "options": [
+            "45.0",
+            "46.0",
+            "47.0",
+            "48.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "22 + 24 = 46.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-023",
+          "question": "What is 23 + 25?",
+          "options": [
+            "47.0",
+            "48.0",
+            "49.0",
+            "50.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "23 + 25 = 48.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-024",
+          "question": "What is 24 + 26?",
+          "options": [
+            "49.0",
+            "50.0",
+            "51.0",
+            "52.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "24 + 26 = 50.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-025",
+          "question": "What is 25 + 27?",
+          "options": [
+            "51.0",
+            "52.0",
+            "53.0",
+            "54.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "25 + 27 = 52.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-026",
+          "question": "What is 26 + 28?",
+          "options": [
+            "53.0",
+            "54.0",
+            "55.0",
+            "56.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "26 + 28 = 54.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-027",
+          "question": "What is 27 + 29?",
+          "options": [
+            "55.0",
+            "56.0",
+            "57.0",
+            "58.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "27 + 29 = 56.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-028",
+          "question": "What is 28 + 30?",
+          "options": [
+            "57.0",
+            "58.0",
+            "59.0",
+            "60.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "28 + 30 = 58.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-029",
+          "question": "What is 29 + 31?",
+          "options": [
+            "59.0",
+            "60.0",
+            "61.0",
+            "62.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "29 + 31 = 60.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-030",
+          "question": "What is 30 + 32?",
+          "options": [
+            "61.0",
+            "62.0",
+            "63.0",
+            "64.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "30 + 32 = 62.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-031",
+          "question": "What is 31 + 33?",
+          "options": [
+            "63.0",
+            "64.0",
+            "65.0",
+            "66.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "31 + 33 = 64.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-032",
+          "question": "What is 32 + 34?",
+          "options": [
+            "65.0",
+            "66.0",
+            "67.0",
+            "68.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "32 + 34 = 66.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-033",
+          "question": "What is 33 + 35?",
+          "options": [
+            "67.0",
+            "68.0",
+            "69.0",
+            "70.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "33 + 35 = 68.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-034",
+          "question": "What is 34 + 36?",
+          "options": [
+            "69.0",
+            "70.0",
+            "71.0",
+            "72.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "34 + 36 = 70.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-035",
+          "question": "What is 35 + 37?",
+          "options": [
+            "71.0",
+            "72.0",
+            "73.0",
+            "74.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "35 + 37 = 72.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-036",
+          "question": "What is 36 + 38?",
+          "options": [
+            "73.0",
+            "74.0",
+            "75.0",
+            "76.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "36 + 38 = 74.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-037",
+          "question": "What is 37 + 39?",
+          "options": [
+            "75.0",
+            "76.0",
+            "77.0",
+            "78.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "37 + 39 = 76.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-038",
+          "question": "What is 38 + 40?",
+          "options": [
+            "77.0",
+            "78.0",
+            "79.0",
+            "80.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "38 + 40 = 78.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-039",
+          "question": "What is 39 + 41?",
+          "options": [
+            "79.0",
+            "80.0",
+            "81.0",
+            "82.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "39 + 41 = 80.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-040",
+          "question": "What is 40 + 42?",
+          "options": [
+            "81.0",
+            "82.0",
+            "83.0",
+            "84.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "40 + 42 = 82.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-041",
+          "question": "What is 41 + 43?",
+          "options": [
+            "83.0",
+            "84.0",
+            "85.0",
+            "86.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "41 + 43 = 84.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-042",
+          "question": "What is 42 + 44?",
+          "options": [
+            "85.0",
+            "86.0",
+            "87.0",
+            "88.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "42 + 44 = 86.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-043",
+          "question": "What is 43 + 45?",
+          "options": [
+            "87.0",
+            "88.0",
+            "89.0",
+            "90.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "43 + 45 = 88.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-044",
+          "question": "What is 44 + 46?",
+          "options": [
+            "89.0",
+            "90.0",
+            "91.0",
+            "92.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "44 + 46 = 90.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-045",
+          "question": "What is 45 + 47?",
+          "options": [
+            "91.0",
+            "92.0",
+            "93.0",
+            "94.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "45 + 47 = 92.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-046",
+          "question": "What is 46 + 48?",
+          "options": [
+            "93.0",
+            "94.0",
+            "95.0",
+            "96.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "46 + 48 = 94.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-047",
+          "question": "What is 47 + 49?",
+          "options": [
+            "95.0",
+            "96.0",
+            "97.0",
+            "98.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "47 + 49 = 96.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-048",
+          "question": "What is 48 + 50?",
+          "options": [
+            "97.0",
+            "98.0",
+            "99.0",
+            "100.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "48 + 50 = 98.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-049",
+          "question": "What is 49 + 51?",
+          "options": [
+            "99.0",
+            "100.0",
+            "101.0",
+            "102.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "49 + 51 = 100.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-050",
+          "question": "What is 50 + 52?",
+          "options": [
+            "101.0",
+            "102.0",
+            "103.0",
+            "104.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "50 + 52 = 102.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "math-051",
+          "question": "Solve for x: x + 11 = 22.",
+          "options": [
+            "10.0",
+            "11.0",
+            "12.0",
+            "13.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 11 = 22 → x = 11.",
+          "difficulty": "medium",
           "topic": "Algebra"
+        },
+        {
+          "id": "math-052",
+          "question": "Solve for x: x + 12 = 24.",
+          "options": [
+            "11.0",
+            "12.0",
+            "13.0",
+            "14.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 12 = 24 → x = 12.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-053",
+          "question": "Solve for x: x + 13 = 26.",
+          "options": [
+            "12.0",
+            "13.0",
+            "14.0",
+            "15.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 13 = 26 → x = 13.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-054",
+          "question": "Solve for x: x + 14 = 28.",
+          "options": [
+            "13.0",
+            "14.0",
+            "15.0",
+            "16.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 14 = 28 → x = 14.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-055",
+          "question": "Solve for x: x + 15 = 30.",
+          "options": [
+            "14.0",
+            "15.0",
+            "16.0",
+            "17.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 15 = 30 → x = 15.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-056",
+          "question": "Solve for x: x + 16 = 32.",
+          "options": [
+            "15.0",
+            "16.0",
+            "17.0",
+            "18.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 16 = 32 → x = 16.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-057",
+          "question": "Solve for x: x + 17 = 34.",
+          "options": [
+            "16.0",
+            "17.0",
+            "18.0",
+            "19.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 17 = 34 → x = 17.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-058",
+          "question": "Solve for x: x + 18 = 36.",
+          "options": [
+            "17.0",
+            "18.0",
+            "19.0",
+            "20.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 18 = 36 → x = 18.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-059",
+          "question": "Solve for x: x + 19 = 38.",
+          "options": [
+            "18.0",
+            "19.0",
+            "20.0",
+            "21.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 19 = 38 → x = 19.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-060",
+          "question": "Solve for x: x + 20 = 40.",
+          "options": [
+            "19.0",
+            "20.0",
+            "21.0",
+            "22.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 20 = 40 → x = 20.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-061",
+          "question": "Solve for x: x + 21 = 42.",
+          "options": [
+            "20.0",
+            "21.0",
+            "22.0",
+            "23.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 21 = 42 → x = 21.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-062",
+          "question": "Solve for x: x + 22 = 44.",
+          "options": [
+            "21.0",
+            "22.0",
+            "23.0",
+            "24.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 22 = 44 → x = 22.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-063",
+          "question": "Solve for x: x + 23 = 46.",
+          "options": [
+            "22.0",
+            "23.0",
+            "24.0",
+            "25.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 23 = 46 → x = 23.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-064",
+          "question": "Solve for x: x + 24 = 48.",
+          "options": [
+            "23.0",
+            "24.0",
+            "25.0",
+            "26.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 24 = 48 → x = 24.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-065",
+          "question": "Solve for x: x + 25 = 50.",
+          "options": [
+            "24.0",
+            "25.0",
+            "26.0",
+            "27.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 25 = 50 → x = 25.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-066",
+          "question": "Solve for x: x + 26 = 52.",
+          "options": [
+            "25.0",
+            "26.0",
+            "27.0",
+            "28.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 26 = 52 → x = 26.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-067",
+          "question": "Solve for x: x + 27 = 54.",
+          "options": [
+            "26.0",
+            "27.0",
+            "28.0",
+            "29.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 27 = 54 → x = 27.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-068",
+          "question": "Solve for x: x + 28 = 56.",
+          "options": [
+            "27.0",
+            "28.0",
+            "29.0",
+            "30.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 28 = 56 → x = 28.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-069",
+          "question": "Solve for x: x + 29 = 58.",
+          "options": [
+            "28.0",
+            "29.0",
+            "30.0",
+            "31.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 29 = 58 → x = 29.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-070",
+          "question": "Solve for x: x + 30 = 60.",
+          "options": [
+            "29.0",
+            "30.0",
+            "31.0",
+            "32.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 30 = 60 → x = 30.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-071",
+          "question": "Solve for x: x + 31 = 62.",
+          "options": [
+            "30.0",
+            "31.0",
+            "32.0",
+            "33.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 31 = 62 → x = 31.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-072",
+          "question": "Solve for x: x + 32 = 64.",
+          "options": [
+            "31.0",
+            "32.0",
+            "33.0",
+            "34.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 32 = 64 → x = 32.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-073",
+          "question": "Solve for x: x + 33 = 66.",
+          "options": [
+            "32.0",
+            "33.0",
+            "34.0",
+            "35.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 33 = 66 → x = 33.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-074",
+          "question": "Solve for x: x + 34 = 68.",
+          "options": [
+            "33.0",
+            "34.0",
+            "35.0",
+            "36.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 34 = 68 → x = 34.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-075",
+          "question": "Solve for x: x + 35 = 70.",
+          "options": [
+            "34.0",
+            "35.0",
+            "36.0",
+            "37.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 35 = 70 → x = 35.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-076",
+          "question": "Solve for x: x + 36 = 72.",
+          "options": [
+            "35.0",
+            "36.0",
+            "37.0",
+            "38.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 36 = 72 → x = 36.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-077",
+          "question": "Solve for x: x + 37 = 74.",
+          "options": [
+            "36.0",
+            "37.0",
+            "38.0",
+            "39.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 37 = 74 → x = 37.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-078",
+          "question": "Solve for x: x + 38 = 76.",
+          "options": [
+            "37.0",
+            "38.0",
+            "39.0",
+            "40.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 38 = 76 → x = 38.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-079",
+          "question": "Solve for x: x + 39 = 78.",
+          "options": [
+            "38.0",
+            "39.0",
+            "40.0",
+            "41.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 39 = 78 → x = 39.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-080",
+          "question": "Solve for x: x + 40 = 80.",
+          "options": [
+            "39.0",
+            "40.0",
+            "41.0",
+            "42.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "x + 40 = 80 → x = 40.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "math-081",
+          "question": "What is the area of a square with side 21?",
+          "options": [
+            "436.0",
+            "441.0",
+            "446.0",
+            "451.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 21² = 441.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-082",
+          "question": "What is the area of a square with side 22?",
+          "options": [
+            "479.0",
+            "484.0",
+            "489.0",
+            "494.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 22² = 484.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-083",
+          "question": "What is the area of a square with side 23?",
+          "options": [
+            "524.0",
+            "529.0",
+            "534.0",
+            "539.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 23² = 529.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-084",
+          "question": "What is the area of a square with side 24?",
+          "options": [
+            "571.0",
+            "576.0",
+            "581.0",
+            "586.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 24² = 576.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-085",
+          "question": "What is the area of a square with side 25?",
+          "options": [
+            "620.0",
+            "625.0",
+            "630.0",
+            "635.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 25² = 625.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-086",
+          "question": "What is the area of a square with side 26?",
+          "options": [
+            "671.0",
+            "676.0",
+            "681.0",
+            "686.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 26² = 676.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-087",
+          "question": "What is the area of a square with side 27?",
+          "options": [
+            "724.0",
+            "729.0",
+            "734.0",
+            "739.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 27² = 729.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-088",
+          "question": "What is the area of a square with side 28?",
+          "options": [
+            "779.0",
+            "784.0",
+            "789.0",
+            "794.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 28² = 784.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-089",
+          "question": "What is the area of a square with side 29?",
+          "options": [
+            "836.0",
+            "841.0",
+            "846.0",
+            "851.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 29² = 841.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-090",
+          "question": "What is the area of a square with side 30?",
+          "options": [
+            "895.0",
+            "900.0",
+            "905.0",
+            "910.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 30² = 900.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-091",
+          "question": "What is the area of a square with side 31?",
+          "options": [
+            "956.0",
+            "961.0",
+            "966.0",
+            "971.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 31² = 961.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-092",
+          "question": "What is the area of a square with side 32?",
+          "options": [
+            "1019.0",
+            "1024.0",
+            "1029.0",
+            "1034.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 32² = 1024.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-093",
+          "question": "What is the area of a square with side 33?",
+          "options": [
+            "1084.0",
+            "1089.0",
+            "1094.0",
+            "1099.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 33² = 1089.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-094",
+          "question": "What is the area of a square with side 34?",
+          "options": [
+            "1151.0",
+            "1156.0",
+            "1161.0",
+            "1166.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 34² = 1156.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-095",
+          "question": "What is the area of a square with side 35?",
+          "options": [
+            "1220.0",
+            "1225.0",
+            "1230.0",
+            "1235.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 35² = 1225.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-096",
+          "question": "What is the area of a square with side 36?",
+          "options": [
+            "1291.0",
+            "1296.0",
+            "1301.0",
+            "1306.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 36² = 1296.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-097",
+          "question": "What is the area of a square with side 37?",
+          "options": [
+            "1364.0",
+            "1369.0",
+            "1374.0",
+            "1379.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 37² = 1369.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-098",
+          "question": "What is the area of a square with side 38?",
+          "options": [
+            "1439.0",
+            "1444.0",
+            "1449.0",
+            "1454.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 38² = 1444.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-099",
+          "question": "What is the area of a square with side 39?",
+          "options": [
+            "1516.0",
+            "1521.0",
+            "1526.0",
+            "1531.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 39² = 1521.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-100",
+          "question": "What is the area of a square with side 40?",
+          "options": [
+            "1595.0",
+            "1600.0",
+            "1605.0",
+            "1610.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Area = side² = 40² = 1600.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "math-101",
+          "question": "What is sin(63°) approximately?",
+          "options": [
+            "0.79",
+            "0.89",
+            "0.99",
+            "1.09"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(63°) ≈ 0.89.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-102",
+          "question": "What is sin(66°) approximately?",
+          "options": [
+            "0.81",
+            "0.91",
+            "1.01",
+            "1.11"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(66°) ≈ 0.91.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-103",
+          "question": "What is sin(69°) approximately?",
+          "options": [
+            "0.8300000000000001",
+            "0.93",
+            "1.03",
+            "1.1300000000000001"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(69°) ≈ 0.93.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-104",
+          "question": "What is sin(72°) approximately?",
+          "options": [
+            "0.85",
+            "0.95",
+            "1.05",
+            "1.15"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(72°) ≈ 0.95.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-105",
+          "question": "What is sin(75°) approximately?",
+          "options": [
+            "0.87",
+            "0.97",
+            "1.07",
+            "1.17"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(75°) ≈ 0.97.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-106",
+          "question": "What is sin(78°) approximately?",
+          "options": [
+            "0.88",
+            "0.98",
+            "1.08",
+            "1.18"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(78°) ≈ 0.98.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-107",
+          "question": "What is sin(81°) approximately?",
+          "options": [
+            "0.89",
+            "0.99",
+            "1.09",
+            "1.19"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(81°) ≈ 0.99.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-108",
+          "question": "What is sin(84°) approximately?",
+          "options": [
+            "0.89",
+            "0.99",
+            "1.09",
+            "1.19"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(84°) ≈ 0.99.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-109",
+          "question": "What is sin(87°) approximately?",
+          "options": [
+            "0.9",
+            "1.0",
+            "1.1",
+            "1.2"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(87°) ≈ 1.0.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-110",
+          "question": "What is sin(90°) approximately?",
+          "options": [
+            "0.9",
+            "1.0",
+            "1.1",
+            "1.2"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(90°) ≈ 1.0.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-111",
+          "question": "What is sin(93°) approximately?",
+          "options": [
+            "0.9",
+            "1.0",
+            "1.1",
+            "1.2"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(93°) ≈ 1.0.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-112",
+          "question": "What is sin(96°) approximately?",
+          "options": [
+            "0.89",
+            "0.99",
+            "1.09",
+            "1.19"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(96°) ≈ 0.99.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-113",
+          "question": "What is sin(99°) approximately?",
+          "options": [
+            "0.89",
+            "0.99",
+            "1.09",
+            "1.19"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(99°) ≈ 0.99.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-114",
+          "question": "What is sin(102°) approximately?",
+          "options": [
+            "0.88",
+            "0.98",
+            "1.08",
+            "1.18"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(102°) ≈ 0.98.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-115",
+          "question": "What is sin(105°) approximately?",
+          "options": [
+            "0.87",
+            "0.97",
+            "1.07",
+            "1.17"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(105°) ≈ 0.97.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-116",
+          "question": "What is sin(108°) approximately?",
+          "options": [
+            "0.85",
+            "0.95",
+            "1.05",
+            "1.15"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(108°) ≈ 0.95.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-117",
+          "question": "What is sin(111°) approximately?",
+          "options": [
+            "0.8300000000000001",
+            "0.93",
+            "1.03",
+            "1.1300000000000001"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(111°) ≈ 0.93.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-118",
+          "question": "What is sin(114°) approximately?",
+          "options": [
+            "0.81",
+            "0.91",
+            "1.01",
+            "1.11"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(114°) ≈ 0.91.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-119",
+          "question": "What is sin(117°) approximately?",
+          "options": [
+            "0.79",
+            "0.89",
+            "0.99",
+            "1.09"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(117°) ≈ 0.89.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-120",
+          "question": "What is sin(120°) approximately?",
+          "options": [
+            "0.77",
+            "0.87",
+            "0.97",
+            "1.07"
+          ],
+          "correctAnswer": 2,
+          "explanation": "sin(120°) ≈ 0.87.",
+          "difficulty": "difficult",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "math-121",
+          "question": "What is the mean of [121, 123, 125]?",
+          "options": [
+            "122.0",
+            "123.0",
+            "124.0",
+            "125.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 121 + 123 + 125 ) / 3 = 123.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-122",
+          "question": "What is the mean of [122, 124, 126]?",
+          "options": [
+            "123.0",
+            "124.0",
+            "125.0",
+            "126.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 122 + 124 + 126 ) / 3 = 124.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-123",
+          "question": "What is the mean of [123, 125, 127]?",
+          "options": [
+            "124.0",
+            "125.0",
+            "126.0",
+            "127.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 123 + 125 + 127 ) / 3 = 125.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-124",
+          "question": "What is the mean of [124, 126, 128]?",
+          "options": [
+            "125.0",
+            "126.0",
+            "127.0",
+            "128.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 124 + 126 + 128 ) / 3 = 126.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-125",
+          "question": "What is the mean of [125, 127, 129]?",
+          "options": [
+            "126.0",
+            "127.0",
+            "128.0",
+            "129.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 125 + 127 + 129 ) / 3 = 127.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-126",
+          "question": "What is the mean of [126, 128, 130]?",
+          "options": [
+            "127.0",
+            "128.0",
+            "129.0",
+            "130.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 126 + 128 + 130 ) / 3 = 128.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-127",
+          "question": "What is the mean of [127, 129, 131]?",
+          "options": [
+            "128.0",
+            "129.0",
+            "130.0",
+            "131.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 127 + 129 + 131 ) / 3 = 129.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-128",
+          "question": "What is the mean of [128, 130, 132]?",
+          "options": [
+            "129.0",
+            "130.0",
+            "131.0",
+            "132.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 128 + 130 + 132 ) / 3 = 130.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-129",
+          "question": "What is the mean of [129, 131, 133]?",
+          "options": [
+            "130.0",
+            "131.0",
+            "132.0",
+            "133.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 129 + 131 + 133 ) / 3 = 131.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-130",
+          "question": "What is the mean of [130, 132, 134]?",
+          "options": [
+            "131.0",
+            "132.0",
+            "133.0",
+            "134.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 130 + 132 + 134 ) / 3 = 132.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-131",
+          "question": "What is the mean of [131, 133, 135]?",
+          "options": [
+            "132.0",
+            "133.0",
+            "134.0",
+            "135.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 131 + 133 + 135 ) / 3 = 133.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-132",
+          "question": "What is the mean of [132, 134, 136]?",
+          "options": [
+            "133.0",
+            "134.0",
+            "135.0",
+            "136.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 132 + 134 + 136 ) / 3 = 134.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-133",
+          "question": "What is the mean of [133, 135, 137]?",
+          "options": [
+            "134.0",
+            "135.0",
+            "136.0",
+            "137.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 133 + 135 + 137 ) / 3 = 135.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-134",
+          "question": "What is the mean of [134, 136, 138]?",
+          "options": [
+            "135.0",
+            "136.0",
+            "137.0",
+            "138.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 134 + 136 + 138 ) / 3 = 136.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-135",
+          "question": "What is the mean of [135, 137, 139]?",
+          "options": [
+            "136.0",
+            "137.0",
+            "138.0",
+            "139.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 135 + 137 + 139 ) / 3 = 137.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-136",
+          "question": "What is the mean of [136, 138, 140]?",
+          "options": [
+            "137.0",
+            "138.0",
+            "139.0",
+            "140.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 136 + 138 + 140 ) / 3 = 138.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-137",
+          "question": "What is the mean of [137, 139, 141]?",
+          "options": [
+            "138.0",
+            "139.0",
+            "140.0",
+            "141.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 137 + 139 + 141 ) / 3 = 139.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-138",
+          "question": "What is the mean of [138, 140, 142]?",
+          "options": [
+            "139.0",
+            "140.0",
+            "141.0",
+            "142.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 138 + 140 + 142 ) / 3 = 140.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-139",
+          "question": "What is the mean of [139, 141, 143]?",
+          "options": [
+            "140.0",
+            "141.0",
+            "142.0",
+            "143.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 139 + 141 + 143 ) / 3 = 141.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-140",
+          "question": "What is the mean of [140, 142, 144]?",
+          "options": [
+            "141.0",
+            "142.0",
+            "143.0",
+            "144.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 140 + 142 + 144 ) / 3 = 142.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-141",
+          "question": "What is the mean of [141, 143, 145]?",
+          "options": [
+            "142.0",
+            "143.0",
+            "144.0",
+            "145.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 141 + 143 + 145 ) / 3 = 143.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-142",
+          "question": "What is the mean of [142, 144, 146]?",
+          "options": [
+            "143.0",
+            "144.0",
+            "145.0",
+            "146.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 142 + 144 + 146 ) / 3 = 144.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-143",
+          "question": "What is the mean of [143, 145, 147]?",
+          "options": [
+            "144.0",
+            "145.0",
+            "146.0",
+            "147.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 143 + 145 + 147 ) / 3 = 145.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-144",
+          "question": "What is the mean of [144, 146, 148]?",
+          "options": [
+            "145.0",
+            "146.0",
+            "147.0",
+            "148.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 144 + 146 + 148 ) / 3 = 146.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-145",
+          "question": "What is the mean of [145, 147, 149]?",
+          "options": [
+            "146.0",
+            "147.0",
+            "148.0",
+            "149.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 145 + 147 + 149 ) / 3 = 147.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-146",
+          "question": "What is the mean of [146, 148, 150]?",
+          "options": [
+            "147.0",
+            "148.0",
+            "149.0",
+            "150.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 146 + 148 + 150 ) / 3 = 148.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-147",
+          "question": "What is the mean of [147, 149, 151]?",
+          "options": [
+            "148.0",
+            "149.0",
+            "150.0",
+            "151.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 147 + 149 + 151 ) / 3 = 149.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-148",
+          "question": "What is the mean of [148, 150, 152]?",
+          "options": [
+            "149.0",
+            "150.0",
+            "151.0",
+            "152.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 148 + 150 + 152 ) / 3 = 150.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-149",
+          "question": "What is the mean of [149, 151, 153]?",
+          "options": [
+            "150.0",
+            "151.0",
+            "152.0",
+            "153.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 149 + 151 + 153 ) / 3 = 151.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "math-150",
+          "question": "What is the mean of [150, 152, 154]?",
+          "options": [
+            "151.0",
+            "152.0",
+            "153.0",
+            "154.0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mean = ( 150 + 152 + 154 ) / 3 = 152.0.",
+          "difficulty": "medium",
+          "topic": "Statistics"
         }
       ]
     }
-  ],
-  "totalQuestions": 1,
-  "note": "Template file - Add 150 questions for full implementation"
+  ]
 }
