@@ -86,7 +86,7 @@
             "Pang-abay na panlunan",
             "Pang-abay na pamalit"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang 'mabilis' ay pang-abay na pamaraan dahil nagsasaad ng kung paano isagawa ang kilos. Ginamitan ng 'nang'.",
           "difficulty": "easy",
           "topic": "Gramatika at Retorika"
@@ -128,7 +128,7 @@
             "mag-",
             "ma-"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang -um- ay unlapi (infix) na nakapaloob sa pagitan ng mga tunog ng salitang-ugat 'bili'. Ito ay panlaping nagsasaad ng pokus sa tagaganap.",
           "difficulty": "medium",
           "topic": "Gramatika at Retorika"
@@ -226,7 +226,7 @@
             "Pokus sa Direksyon",
             "Pokus sa Gamit"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang 'kinain' ay pokus sa layon dahil ang layon ng kilos (na kinain) ang nagiging simuno. Ginagamitan ng panlaping -in.",
           "difficulty": "medium",
           "topic": "Gramatika at Retorika"
@@ -268,7 +268,7 @@
             "Kilos na gagawin pa",
             "Kilos na katatapusin lang"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang aspektong perpektibo ay nagsasaad ng kilos na natapos na o nagawa na (hal. kumain, bumili, nagluto).",
           "difficulty": "easy",
           "topic": "Gramatika at Retorika"
@@ -310,7 +310,7 @@
             "Pagmamalabis",
             "Pagtawag"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang personipikasyon ay pagbibigay ng katangiang pantao (damdamin, kilos) sa mga bagay, hayop, o konsepto na walang buhay.",
           "difficulty": "easy",
           "topic": "Gramatika at Retorika"
@@ -428,7 +428,7 @@
             "Adolfo",
             "Menandro"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Si Florante ang pangunahing tauhan (protagonista) sa 'Florante at Laura', isang prinsipe ng Albanya na dumanas ng maraming pagsubok.",
           "difficulty": "easy",
           "topic": "Panitikan"
@@ -442,7 +442,7 @@
             "Sanaysay",
             "Dula"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang korido ay mahabang tulang pasalaysay na may labindalawang (12) pantig sa bawat taludtod, tungkol sa pakikipagsapalaran ng mga tauhan.",
           "difficulty": "medium",
           "topic": "Panitikan"
@@ -456,7 +456,7 @@
             "Maikling tula",
             "Tuluyan"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang awit ay mahabang tulang pasalaysay na may labindalawang (12) pantig sa bawat taludtod, tulad ng 'Florante at Laura'.",
           "difficulty": "medium",
           "topic": "Panitikan"
@@ -484,7 +484,7 @@
             "Mahabang tula",
             "Sanaysay"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang haiku ay maikling tulang Hapones na may tatlong taludtod na may 5-7-5 bilang ng pantig, karaniwang tungkol sa kalikasan.",
           "difficulty": "easy",
           "topic": "Panitikan"
@@ -512,7 +512,7 @@
             "Sanaysay",
             "Dula"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang dalit ay uri ng awit o tula na panalangin o pamuhat, karaniwang ginagamit sa mga ritwal o seremonya.",
           "difficulty": "medium",
           "topic": "Panitikan"
@@ -554,7 +554,7 @@
             "Kuwento",
             "Dula"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang sawikain ay mga pahayag na may malalim na kahulugan na naiiba sa literal na kahulugan ng mga salita (hal. 'ningas-kugon').",
           "difficulty": "easy",
           "topic": "Panitikan"
@@ -610,7 +610,7 @@
             "Tula",
             "Sanaysay"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang pasyon ay mahabang tuluyan o awit tungkol sa buhay at pagdurusa ni Hesukristo, karaniwang inawit tuwing Mahal na Araw.",
           "difficulty": "easy",
           "topic": "Panitikan"
@@ -638,7 +638,7 @@
             "Tula",
             "Dula"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang karagatan ay tradisyonal na laro o sayaw na may kasamang pabugtungan, karaniwang ginagawa sa mga piging o kasalan.",
           "difficulty": "difficult",
           "topic": "Panitikan"
@@ -694,7 +694,7 @@
             "Kuwento",
             "Awit"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang tanaga ay katutubong anyong tula na may apat na taludtod, pitong pantig bawat linya, at may tugma (AAAA o AABB).",
           "difficulty": "easy",
           "topic": "Panitikan"
@@ -742,7 +742,7 @@
             "Pag-aaral ng estruktura",
             "Pag-aaral ng kasaysayan"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang ponolohiya ay sangay ng linggwistika na nag-aaral ng mga tunog ng wika, ang kanilang organisasyon at mga alituntunin.",
           "difficulty": "medium",
           "topic": "Linggwistika at Wikang Filipino"
@@ -770,7 +770,7 @@
             "Pag-aaral ng estruktura",
             "Pag-aaral ng kasaysayan"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang semantika ay sangay ng linggwistika na nag-aaral ng kahulugan ng mga salita, parirala, at pangungusap.",
           "difficulty": "easy",
           "topic": "Linggwistika at Wikang Filipino"
@@ -784,7 +784,7 @@
             "Pag-aaral ng salita",
             "Pag-aaral ng gramatika"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang pragmatika ay nag-aaral kung paano ginagamit ang wika sa aktwal na komunikasyon at konteksto, kasama ang layunin ng nagsasalita.",
           "difficulty": "medium",
           "topic": "Linggwistika at Wikang Filipino"
@@ -840,7 +840,7 @@
             "Pagbabago ng tono",
             "Pagsasalita ng mabilis"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang code-switching ay paglilipat mula sa isang wika patungo sa isa pang wika sa loob ng isang usapan o pangungusap.",
           "difficulty": "easy",
           "topic": "Linggwistika at Wikang Filipino"
@@ -854,7 +854,7 @@
             "Pag-aaral ng gramatika",
             "Pag-aaral ng panitikan"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang sosyolinggwistika ay nag-aaral ng ugnayan ng wika at lipunan, kasama ang epekto ng kultura, edad, kasarian at iba pang salik sa paggamit ng wika.",
           "difficulty": "medium",
           "topic": "Linggwistika at Wikang Filipino"
@@ -868,7 +868,7 @@
             "Pag-aaral ng wika at lipunan",
             "Pag-aaral ng kalusugan"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang psikolinggwistika ay nag-aaral ng ugnayan ng wika at prosesong mental, kasama ang pag-unawa, produksyon, at pag-aral ng wika.",
           "difficulty": "medium",
           "topic": "Linggwistika at Wikang Filipino"
@@ -1182,7 +1182,7 @@
             "Aklat",
             "Silid-aralan"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang rubric ay pamantayan o sukatan na naglalaman ng criteria at antas ng kalidad na ginagamit sa pagtatasa ng gawain.",
           "difficulty": "easy",
           "topic": "Pagtuturo at Pagtatasa ng Filipino"
@@ -1420,7 +1420,7 @@
             "Independent study",
             "Memorization"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ang think-pair-share ay estratehiya kung saan ang mag-aaral ay nag-iisip mag-isa, nakikipag-usap sa kapares, at nagbabahagi sa buong klase.",
           "difficulty": "easy",
           "topic": "Pagtuturo at Pagtatasa ng Filipino"
@@ -1838,7 +1838,7 @@
 "Tauhan",
 "Setting"
 ],
-"correctAnswer": 0,
+"correctAnswer": 1,
 "explanation": "Ang genre ay uri o kategorya ng teksto (naratibo, impormatibo, argumentatibo) batay sa layunin, nilalaman, at estruktura.",
 "difficulty": "easy",
 "topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
@@ -1922,7 +1922,7 @@
 "Persuasive",
 "Expository"
 ],
-"correctAnswer": 0,
+"correctAnswer": 1,
 "explanation": "Ang descriptive writing ay naglalarawan ng tao, lugar, bagay, o karanasan gamit ang masining na detalye at pandama.",
 "difficulty": "easy",
 "topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
@@ -1936,7 +1936,7 @@
 "Pangangatwiran",
 "Paliwanag"
 ],
-"correctAnswer": 0,
+"correctAnswer": 1,
 "explanation": "Ang narrative writing ay nagkukuwento o nagsasalaysay ng pangyayari, may simula, gitna, at wakas.",
 "difficulty": "easy",
 "topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
@@ -1950,7 +1950,7 @@
 "Paglalarawan",
 "Pangangatwiran"
 ],
-"correctAnswer": 0,
+"correctAnswer": 1,
 "explanation": "Ang expository writing ay nagpapaliwanag, naglalahad, o nagbibigay ng impormasyon tungkol sa paksa nang malinaw at organisado.",
 "difficulty": "easy",
 "topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
@@ -1964,7 +1964,7 @@
 "Pagkukuwento",
 "Pagsasalaysay"
 ],
-"correctAnswer": 0,
+"correctAnswer": 1,
 "explanation": "Ang persuasive writing ay naglalayong manghikayat o impluwensyahin ang mambabasa na sumang-ayon sa pananaw ng may-akda.",
 "difficulty": "easy",
 "topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
@@ -2020,7 +2020,7 @@
 "Simula",
 "Talata"
 ],
-"correctAnswer": 0,
+"correctAnswer": 1,
 "explanation": "Ang citation ay pagbanggit o pagtukoy sa pinagkunan ng impormasyon, ideya, o quote upang bigyan ng kredito ang orihinal na may-akda.",
 "difficulty": "easy",
 "topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
