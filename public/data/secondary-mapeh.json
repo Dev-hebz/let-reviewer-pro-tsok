@@ -65,7 +65,7 @@
     },
     {
       "id": "mapeh-mu-005",
-      "question": "Which Filipino composer is known as the 'Father of Kundiman'?",
+      "question": "Which Filipino composer is known as the "Father of Kundiman"?",
       "options": [
         "Lucio San Pedro",
         "Nicanor Abelardo",
@@ -93,7 +93,7 @@
     },
     {
       "id": "mapeh-mu-007",
-      "question": "Which tempo marking means 'very fast'?",
+      "question": "Which tempo marking means "very fast"?",
       "options": [
         "Largo",
         "Adagio",
@@ -360,7 +360,7 @@
     },
     {
       "id": "mapeh-ar-026",
-      "question": "Who painted the famous artwork 'The Starry Night'?",
+      "question": "Who painted the famous artwork "The Starry Night"?",
       "options": [
         "Leonardo da Vinci",
         "Pablo Picasso",
@@ -378,7 +378,7 @@
       "options": [
         "Piña weaving",
         "Calado",
-        "T'nalak",
+        "T"nalak",
         "Inabel"
       ],
       "correctAnswer": 1,
@@ -402,7 +402,7 @@
     },
     {
       "id": "mapeh-ar-029",
-      "question": "T'nalak fabric is traditionally woven by the T'boli using what material?",
+      "question": "T"nalak fabric is traditionally woven by the T"boli using what material?",
       "options": [
         "Abaca fibers",
         "Cotton threads",
@@ -410,7 +410,7 @@
         "Piña fibers"
       ],
       "correctAnswer": 0,
-      "explanation": "T'nalak is made from abaca fiber and produced by T'boli 'dreamweavers'.",
+      "explanation": "T"nalak is made from abaca fiber and produced by T"boli "dreamweavers".",
       "difficulty": "medium",
       "topic": "Arts"
     },
@@ -486,7 +486,7 @@
     },
     {
       "id": "mapeh-ar-035",
-      "question": "Which Filipino National Artist is famous for his 'spherical' abstract paintings?",
+      "question": "Which Filipino National Artist is famous for his "spherical" abstract paintings?",
       "options": [
         "Napoleon Abueva",
         "Victorio Edades",
@@ -612,7 +612,7 @@
     },
     {
       "id": "mapeh-ar-044",
-      "question": "What medium did Juan Luna use for his painting 'Spoliarium'?",
+      "question": "What medium did Juan Luna use for his painting "Spoliarium"?",
       "options": [
         "Acrylic",
         "Watercolor",
@@ -696,7 +696,7 @@
     },
     {
       "id": "mapeh-ar-050",
-      "question": "The carved wooden figures from the Cordillera, often called 'bulul,' represent:",
+      "question": "The carved wooden figures from the Cordillera, often called "bulul," represent:",
       "options": [
         "Rice guardians",
         "Spiritual healers",
@@ -974,7 +974,7 @@
         "Side-by-side position"
       ],
       "correctAnswer": 0,
-      "explanation": "In closed position, partners face each other with one partner’s hand on the other's shoulder.",
+      "explanation": "In closed position, partners face each other with one partner’s hand on the other"s shoulder.",
       "difficulty": "easy",
       "topic": "Physical Education"
     },
@@ -1222,7 +1222,7 @@
     },
     {
       "id": "mapeh-pe-095",
-      "question": "What is the correct volleyball term for preventing the ball from touching the floor after an opponent's attack?",
+      "question": "What is the correct volleyball term for preventing the ball from touching the floor after an opponent"s attack?",
       "options": [
         "Dig",
         "Block",
@@ -1309,7 +1309,7 @@
 
     {
       "id": "mapeh-he-101",
-      "question": "Which nutrient is the body's main source of energy?",
+      "question": "Which nutrient is the body"s main source of energy?",
       "options": [
         "Carbohydrates",
         "Proteins",
@@ -1331,7 +1331,7 @@
         "Nervous system"
       ],
       "correctAnswer": 0,
-      "explanation": "HIV attacks the immune system, weakening the body's defense against infections.",
+      "explanation": "HIV attacks the immune system, weakening the body"s defense against infections.",
       "difficulty": "medium",
       "topic": "Health"
     },
@@ -1449,7 +1449,7 @@
     },
     {
       "id": "mapeh-he-111",
-      "question": "Which hormone is responsible for the 'fight-or-flight' response?",
+      "question": "Which hormone is responsible for the "fight-or-flight" response?",
       "options": [
         "Adrenaline",
         "Insulin",
@@ -1645,7 +1645,7 @@
         },
         {
           "id": "mapeh-125",
-          "question": "Anong fitness component ang sinusukat ng 'sit and reach test'?",
+          "question": "Anong fitness component ang sinusukat ng "sit and reach test"?",
           "options": [
             "Muscular strength",
             "Cardio endurance",
@@ -1659,7 +1659,7 @@
         },
         {
           "id": "mapeh-126",
-          "question": "Ang 'WHO' ay tumutukoy sa alin?",
+          "question": "Ang "WHO" ay tumutukoy sa alin?",
           "options": [
             "World Healthy Operation",
             "World Health Organization",
@@ -1715,7 +1715,7 @@
         },
         {
           "id": "mapeh-130",
-          "question": "Anong laro ang gumagamit ng 'rally point system'?",
+          "question": "Anong laro ang gumagamit ng "rally point system"?",
           "options": [
             "Basketball",
             "Volleyball",
@@ -1855,7 +1855,7 @@
         },
         {
           "id": "mapeh-140",
-          "question": "Ang 'value' sa sining ay tumutukoy sa ano?",
+          "question": "Ang "value" sa sining ay tumutukoy sa ano?",
           "options": [
             "Laki",
             "Timpla",
@@ -1883,7 +1883,7 @@
         },
         {
           "id": "mapeh-142",
-          "question": "Ang 'melody' ay tumutukoy sa ano?",
+          "question": "Ang "melody" ay tumutukoy sa ano?",
           "options": [
             "Sabay-sabay na tunog",
             "Isa-isang sunod-sunod na tunog",
@@ -1925,12 +1925,12 @@
         },
         {
           "id": "mapeh-145",
-          "question": "Ang 'rhythm' sa musika ay tumutukoy sa ano?",
+          "question": "Ang "rhythm" sa musika ay tumutukoy sa ano?",
           "options": [
             "Pagkakasunod ng tunog at pahinga",
             "Pinakamataas na nota",
             "Pinakamabilis na bahagi ng kanta",
-            "Paghalo-halo ng iba't ibang instrumento"
+            "Paghalo-halo ng iba"t ibang instrumento"
           ],
           "correctAnswer": 0,
           "explanation": "Ang rhythm ay pattern ng tunog at pahinga.",
@@ -1953,7 +1953,7 @@
         },
         {
           "id": "mapeh-147",
-          "question": "Ang 'perspective' sa art ay nagpapakita ng ano?",
+          "question": "Ang "perspective" sa art ay nagpapakita ng ano?",
           "options": [
             "Pagkakaiba ng kulay",
             "Pagkakaroon ng depth o lalim",
