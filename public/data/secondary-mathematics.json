@@ -1,11 +1,11 @@
 {
-  "subject": "Secondary - MATHEMATICS",
-  "category": "Secondary",
-  "subcategory": "MATH",
+  "subject": "Secondary - Mathematics",
+  "category": "secondary",
+  "subcategory": "math",
   "topics": [
     {
-      "id": "mat",
-      "name": "",
+      "id": "statistics",
+      "name": "Statistics",
       "questions": [
         {
           "id": "1",
@@ -22,34 +22,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "2",
-          "question": "What is 10 + 13?",
-          "options": [
-            "30",
-            "43",
-            "20",
-            "23"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 10 and 13 is 23.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "3",
-          "question": "What is 12 + 17?",
-          "options": [
-            "26",
-            "29",
-            "42",
-            "35"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 12 and 17 is 29.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
           "id": "4",
           "question": "What is 5 + 16?",
           "options": [
@@ -62,132 +34,6 @@
           "explanation": "The sum of 5 and 16 is 21.",
           "difficulty": "medium",
           "topic": "Statistics"
-        },
-        {
-          "id": "5",
-          "question": "What is 12 + 5?",
-          "options": [
-            "14",
-            "24",
-            "17",
-            "34"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 12 and 5 is 17.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "6",
-          "question": "What is 11 + 12?",
-          "options": [
-            "20",
-            "39",
-            "23",
-            "33"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 11 and 12 is 23.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "7",
-          "question": "What is 11 + 8?",
-          "options": [
-            "22",
-            "38",
-            "19",
-            "12"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 11 and 8 is 19.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "8",
-          "question": "What is 17 + 2?",
-          "options": [
-            "37",
-            "26",
-            "11",
-            "19"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 17 and 2 is 19.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "9",
-          "question": "What is 4 + 8?",
-          "options": [
-            "12",
-            "18",
-            "23",
-            "11"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 4 and 8 is 12.",
-          "difficulty": "medium",
-          "topic": "Calculus"
-        },
-        {
-          "id": "10",
-          "question": "What is 8 + 11?",
-          "options": [
-            "30",
-            "15",
-            "27",
-            "19"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 8 and 11 is 19.",
-          "difficulty": "hard",
-          "topic": "Calculus"
-        },
-        {
-          "id": "11",
-          "question": "What is 10 + 10?",
-          "options": [
-            "35",
-            "22",
-            "20",
-            "16"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 10 and 10 is 20.",
-          "difficulty": "easy",
-          "topic": "Calculus"
-        },
-        {
-          "id": "12",
-          "question": "What is 15 + 12?",
-          "options": [
-            "32",
-            "27",
-            "26",
-            "46"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 15 and 12 is 27.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "13",
-          "question": "What is 4 + 10?",
-          "options": [
-            "14",
-            "4",
-            "27",
-            "24"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 4 and 10 is 14.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
         },
         {
           "id": "14",
@@ -204,48 +50,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "15",
-          "question": "What is 13 + 5?",
-          "options": [
-            "26",
-            "18",
-            "17",
-            "33"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 13 and 5 is 18.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "16",
-          "question": "What is 6 + 17?",
-          "options": [
-            "24",
-            "22",
-            "23",
-            "35"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 6 and 17 is 23.",
-          "difficulty": "medium",
-          "topic": "Calculus"
-        },
-        {
-          "id": "17",
-          "question": "What is 15 + 12?",
-          "options": [
-            "20",
-            "27",
-            "38",
-            "28"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 15 and 12 is 27.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
           "id": "18",
           "question": "What is 12 + 11?",
           "options": [
@@ -258,20 +62,6 @@
           "explanation": "The sum of 12 and 11 is 23.",
           "difficulty": "easy",
           "topic": "Statistics"
-        },
-        {
-          "id": "19",
-          "question": "What is 20 + 13?",
-          "options": [
-            "33",
-            "49",
-            "23",
-            "39"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 20 and 13 is 33.",
-          "difficulty": "hard",
-          "topic": "Calculus"
         },
         {
           "id": "20",
@@ -288,20 +78,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "21",
-          "question": "What is 16 + 8?",
-          "options": [
-            "28",
-            "35",
-            "14",
-            "24"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 16 and 8 is 24.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
           "id": "22",
           "question": "What is 5 + 14?",
           "options": [
@@ -314,146 +90,6 @@
           "explanation": "The sum of 5 and 14 is 19.",
           "difficulty": "easy",
           "topic": "Statistics"
-        },
-        {
-          "id": "23",
-          "question": "What is 19 + 3?",
-          "options": [
-            "20",
-            "37",
-            "22",
-            "32"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 19 and 3 is 22.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "24",
-          "question": "What is 15 + 4?",
-          "options": [
-            "19",
-            "39",
-            "21",
-            "17"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 15 and 4 is 19.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "25",
-          "question": "What is 5 + 14?",
-          "options": [
-            "23",
-            "19",
-            "36",
-            "18"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 5 and 14 is 19.",
-          "difficulty": "hard",
-          "topic": "Calculus"
-        },
-        {
-          "id": "26",
-          "question": "What is 18 + 2?",
-          "options": [
-            "27",
-            "20",
-            "39",
-            "17"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 18 and 2 is 20.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "27",
-          "question": "What is 4 + 17?",
-          "options": [
-            "34",
-            "28",
-            "19",
-            "21"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 4 and 17 is 21.",
-          "difficulty": "hard",
-          "topic": "Algebra"
-        },
-        {
-          "id": "28",
-          "question": "What is 3 + 5?",
-          "options": [
-            "8",
-            "26",
-            "5",
-            "11"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 3 and 5 is 8.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "29",
-          "question": "What is 2 + 14?",
-          "options": [
-            "26",
-            "27",
-            "16",
-            "12"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 2 and 14 is 16.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "30",
-          "question": "What is 14 + 5?",
-          "options": [
-            "19",
-            "39",
-            "28",
-            "18"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 14 and 5 is 19.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "31",
-          "question": "What is 5 + 13?",
-          "options": [
-            "38",
-            "20",
-            "18",
-            "10"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 5 and 13 is 18.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "32",
-          "question": "What is 8 + 18?",
-          "options": [
-            "37",
-            "20",
-            "32",
-            "26"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 8 and 18 is 26.",
-          "difficulty": "medium",
-          "topic": "Algebra"
         },
         {
           "id": "33",
@@ -470,90 +106,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "34",
-          "question": "What is 16 + 17?",
-          "options": [
-            "44",
-            "29",
-            "35",
-            "33"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 16 and 17 is 33.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "35",
-          "question": "What is 2 + 4?",
-          "options": [
-            "-3",
-            "12",
-            "26",
-            "6"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 2 and 4 is 6.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "36",
-          "question": "What is 5 + 4?",
-          "options": [
-            "12",
-            "27",
-            "6",
-            "9"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 5 and 4 is 9.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "37",
-          "question": "What is 4 + 19?",
-          "options": [
-            "31",
-            "23",
-            "39",
-            "22"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 4 and 19 is 23.",
-          "difficulty": "hard",
-          "topic": "Algebra"
-        },
-        {
-          "id": "38",
-          "question": "What is 15 + 17?",
-          "options": [
-            "32",
-            "22",
-            "35",
-            "44"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 15 and 17 is 32.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "39",
-          "question": "What is 8 + 18?",
-          "options": [
-            "32",
-            "44",
-            "24",
-            "26"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 8 and 18 is 26.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
           "id": "40",
           "question": "What is 17 + 8?",
           "options": [
@@ -566,160 +118,6 @@
           "explanation": "The sum of 17 and 8 is 25.",
           "difficulty": "medium",
           "topic": "Statistics"
-        },
-        {
-          "id": "41",
-          "question": "What is 6 + 12?",
-          "options": [
-            "17",
-            "33",
-            "25",
-            "18"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 6 and 12 is 18.",
-          "difficulty": "easy",
-          "topic": "Calculus"
-        },
-        {
-          "id": "42",
-          "question": "What is 14 + 14?",
-          "options": [
-            "28",
-            "40",
-            "35",
-            "20"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 14 and 14 is 28.",
-          "difficulty": "hard",
-          "topic": "Calculus"
-        },
-        {
-          "id": "43",
-          "question": "What is 4 + 13?",
-          "options": [
-            "33",
-            "21",
-            "17",
-            "16"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 4 and 13 is 17.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "44",
-          "question": "What is 19 + 19?",
-          "options": [
-            "45",
-            "51",
-            "35",
-            "38"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 19 and 19 is 38.",
-          "difficulty": "easy",
-          "topic": "Geometry"
-        },
-        {
-          "id": "45",
-          "question": "What is 19 + 3?",
-          "options": [
-            "19",
-            "25",
-            "22",
-            "38"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 19 and 3 is 22.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "46",
-          "question": "What is 19 + 16?",
-          "options": [
-            "36",
-            "27",
-            "49",
-            "35"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 19 and 16 is 35.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "47",
-          "question": "What is 13 + 6?",
-          "options": [
-            "19",
-            "27",
-            "38",
-            "16"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 13 and 6 is 19.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "48",
-          "question": "What is 19 + 20?",
-          "options": [
-            "39",
-            "37",
-            "52",
-            "48"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 19 and 20 is 39.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "49",
-          "question": "What is 15 + 15?",
-          "options": [
-            "30",
-            "39",
-            "47",
-            "25"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 15 and 15 is 30.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "50",
-          "question": "What is 17 + 13?",
-          "options": [
-            "27",
-            "31",
-            "30",
-            "43"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 17 and 13 is 30.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "51",
-          "question": "What is 7 + 4?",
-          "options": [
-            "26",
-            "11",
-            "16",
-            "3"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 7 and 4 is 11.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
         },
         {
           "id": "52",
@@ -736,34 +134,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "53",
-          "question": "What is 18 + 19?",
-          "options": [
-            "49",
-            "42",
-            "35",
-            "37"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 18 and 19 is 37.",
-          "difficulty": "easy",
-          "topic": "Geometry"
-        },
-        {
-          "id": "54",
-          "question": "What is 9 + 8?",
-          "options": [
-            "18",
-            "32",
-            "17",
-            "7"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 9 and 8 is 17.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
           "id": "55",
           "question": "What is 13 + 11?",
           "options": [
@@ -778,286 +148,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "56",
-          "question": "What is 7 + 14?",
-          "options": [
-            "21",
-            "11",
-            "25",
-            "35"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 7 and 14 is 21.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "57",
-          "question": "What is 14 + 17?",
-          "options": [
-            "34",
-            "48",
-            "31",
-            "30"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 14 and 17 is 31.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "58",
-          "question": "What is 20 + 13?",
-          "options": [
-            "50",
-            "29",
-            "42",
-            "33"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 20 and 13 is 33.",
-          "difficulty": "hard",
-          "topic": "Algebra"
-        },
-        {
-          "id": "59",
-          "question": "What is 18 + 7?",
-          "options": [
-            "41",
-            "25",
-            "29",
-            "22"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 18 and 7 is 25.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "60",
-          "question": "What is 13 + 7?",
-          "options": [
-            "29",
-            "34",
-            "18",
-            "20"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 13 and 7 is 20.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "61",
-          "question": "What is 3 + 10?",
-          "options": [
-            "28",
-            "8",
-            "13",
-            "19"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 3 and 10 is 13.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "62",
-          "question": "What is 20 + 16?",
-          "options": [
-            "53",
-            "36",
-            "35",
-            "39"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 20 and 16 is 36.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "63",
-          "question": "What is 6 + 13?",
-          "options": [
-            "29",
-            "30",
-            "19",
-            "18"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 6 and 13 is 19.",
-          "difficulty": "easy",
-          "topic": "Calculus"
-        },
-        {
-          "id": "64",
-          "question": "What is 11 + 3?",
-          "options": [
-            "33",
-            "11",
-            "19",
-            "14"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 11 and 3 is 14.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "65",
-          "question": "What is 11 + 4?",
-          "options": [
-            "15",
-            "17",
-            "6",
-            "32"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 11 and 4 is 15.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "66",
-          "question": "What is 19 + 8?",
-          "options": [
-            "30",
-            "19",
-            "46",
-            "27"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 19 and 8 is 27.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "67",
-          "question": "What is 15 + 10?",
-          "options": [
-            "18",
-            "36",
-            "25",
-            "28"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 15 and 10 is 25.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "68",
-          "question": "What is 12 + 16?",
-          "options": [
-            "43",
-            "22",
-            "29",
-            "28"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 12 and 16 is 28.",
-          "difficulty": "hard",
-          "topic": "Algebra"
-        },
-        {
-          "id": "69",
-          "question": "What is 19 + 3?",
-          "options": [
-            "25",
-            "14",
-            "22",
-            "38"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 19 and 3 is 22.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "70",
-          "question": "What is 13 + 14?",
-          "options": [
-            "34",
-            "47",
-            "27",
-            "24"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 13 and 14 is 27.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "71",
-          "question": "What is 12 + 19?",
-          "options": [
-            "31",
-            "23",
-            "44",
-            "39"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 12 and 19 is 31.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "72",
-          "question": "What is 7 + 7?",
-          "options": [
-            "22",
-            "13",
-            "32",
-            "14"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 7 and 7 is 14.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "73",
-          "question": "What is 17 + 20?",
-          "options": [
-            "53",
-            "37",
-            "39",
-            "33"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 17 and 20 is 37.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "74",
-          "question": "What is 3 + 8?",
-          "options": [
-            "19",
-            "7",
-            "11",
-            "24"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 3 and 8 is 11.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "75",
-          "question": "What is 11 + 12?",
-          "options": [
-            "23",
-            "43",
-            "20",
-            "28"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 11 and 12 is 23.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
           "id": "76",
           "question": "What is 15 + 7?",
           "options": [
@@ -1070,62 +160,6 @@
           "explanation": "The sum of 15 and 7 is 22.",
           "difficulty": "medium",
           "topic": "Statistics"
-        },
-        {
-          "id": "77",
-          "question": "What is 19 + 17?",
-          "options": [
-            "42",
-            "35",
-            "36",
-            "53"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 19 and 17 is 36.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "78",
-          "question": "What is 15 + 20?",
-          "options": [
-            "36",
-            "35",
-            "50",
-            "33"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 15 and 20 is 35.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "79",
-          "question": "What is 8 + 14?",
-          "options": [
-            "17",
-            "22",
-            "26",
-            "37"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 8 and 14 is 22.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "80",
-          "question": "What is 5 + 18?",
-          "options": [
-            "21",
-            "23",
-            "34",
-            "26"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 5 and 18 is 23.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
         },
         {
           "id": "81",
@@ -1154,34 +188,6 @@
           "explanation": "The sum of 11 and 7 is 18.",
           "difficulty": "hard",
           "topic": "Statistics"
-        },
-        {
-          "id": "83",
-          "question": "What is 19 + 19?",
-          "options": [
-            "29",
-            "56",
-            "48",
-            "38"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 19 and 19 is 38.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "84",
-          "question": "What is 4 + 16?",
-          "options": [
-            "11",
-            "29",
-            "39",
-            "20"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 4 and 16 is 20.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
         },
         {
           "id": "85",
@@ -1226,48 +232,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "88",
-          "question": "What is 2 + 2?",
-          "options": [
-            "16",
-            "4",
-            "8",
-            "-6"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 2 and 2 is 4.",
-          "difficulty": "hard",
-          "topic": "Calculus"
-        },
-        {
-          "id": "89",
-          "question": "What is 5 + 18?",
-          "options": [
-            "23",
-            "13",
-            "33",
-            "42"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 5 and 18 is 23.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "90",
-          "question": "What is 14 + 5?",
-          "options": [
-            "17",
-            "19",
-            "38",
-            "23"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 14 and 5 is 19.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
           "id": "91",
           "question": "What is 18 + 5?",
           "options": [
@@ -1282,34 +246,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "92",
-          "question": "What is 10 + 9?",
-          "options": [
-            "19",
-            "24",
-            "16",
-            "32"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 10 and 9 is 19.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "93",
-          "question": "What is 6 + 14?",
-          "options": [
-            "36",
-            "11",
-            "24",
-            "20"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 6 and 14 is 20.",
-          "difficulty": "easy",
-          "topic": "Calculus"
-        },
-        {
           "id": "94",
           "question": "What is 9 + 18?",
           "options": [
@@ -1322,20 +258,6 @@
           "explanation": "The sum of 9 and 18 is 27.",
           "difficulty": "hard",
           "topic": "Statistics"
-        },
-        {
-          "id": "95",
-          "question": "What is 13 + 19?",
-          "options": [
-            "32",
-            "51",
-            "38",
-            "25"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 13 and 19 is 32.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
         },
         {
           "id": "96",
@@ -1366,76 +288,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "98",
-          "question": "What is 9 + 12?",
-          "options": [
-            "21",
-            "41",
-            "13",
-            "28"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 9 and 12 is 21.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "99",
-          "question": "What is 4 + 6?",
-          "options": [
-            "16",
-            "24",
-            "1",
-            "10"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 4 and 6 is 10.",
-          "difficulty": "easy",
-          "topic": "Calculus"
-        },
-        {
-          "id": "100",
-          "question": "What is 7 + 12?",
-          "options": [
-            "19",
-            "21",
-            "9",
-            "32"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 7 and 12 is 19.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "101",
-          "question": "What is 2 + 3?",
-          "options": [
-            "21",
-            "-5",
-            "9",
-            "5"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 2 and 3 is 5.",
-          "difficulty": "easy",
-          "topic": "Geometry"
-        },
-        {
-          "id": "102",
-          "question": "What is 9 + 14?",
-          "options": [
-            "24",
-            "37",
-            "23",
-            "19"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 9 and 14 is 23.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
           "id": "103",
           "question": "What is 18 + 14?",
           "options": [
@@ -1462,20 +314,6 @@
           "explanation": "The sum of 19 and 16 is 35.",
           "difficulty": "easy",
           "topic": "Statistics"
-        },
-        {
-          "id": "105",
-          "question": "What is 7 + 15?",
-          "options": [
-            "22",
-            "28",
-            "14",
-            "42"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 7 and 15 is 22.",
-          "difficulty": "medium",
-          "topic": "Algebra"
         },
         {
           "id": "106",
@@ -1506,34 +344,6 @@
           "topic": "Statistics"
         },
         {
-          "id": "108",
-          "question": "What is 16 + 3?",
-          "options": [
-            "19",
-            "29",
-            "12",
-            "35"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 16 and 3 is 19.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "109",
-          "question": "What is 2 + 13?",
-          "options": [
-            "32",
-            "18",
-            "15",
-            "14"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 2 and 13 is 15.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
           "id": "110",
           "question": "What is 9 + 11?",
           "options": [
@@ -1562,32 +372,290 @@
           "topic": "Statistics"
         },
         {
-          "id": "112",
-          "question": "What is 3 + 19?",
+          "id": "116",
+          "question": "What is 5 + 9?",
           "options": [
-            "25",
-            "33",
-            "20",
-            "22"
+            "14",
+            "5",
+            "28",
+            "17"
           ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 3 and 19 is 22.",
+          "correctAnswer": 1,
+          "explanation": "The sum of 5 and 9 is 14.",
           "difficulty": "hard",
-          "topic": "Geometry"
+          "topic": "Statistics"
         },
         {
-          "id": "113",
-          "question": "What is 18 + 17?",
+          "id": "123",
+          "question": "What is 12 + 20?",
           "options": [
-            "42",
-            "32",
-            "53",
-            "35"
+            "46",
+            "27",
+            "37",
+            "32"
           ],
           "correctAnswer": 4,
-          "explanation": "The sum of 18 and 17 is 35.",
+          "explanation": "The sum of 12 and 20 is 32.",
+          "difficulty": "easy",
+          "topic": "Statistics"
+        },
+        {
+          "id": "129",
+          "question": "What is 8 + 13?",
+          "options": [
+            "21",
+            "30",
+            "37",
+            "19"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 8 and 13 is 21.",
+          "difficulty": "easy",
+          "topic": "Statistics"
+        },
+        {
+          "id": "138",
+          "question": "What is 20 + 9?",
+          "options": [
+            "31",
+            "49",
+            "29",
+            "25"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 20 and 9 is 29.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "139",
+          "question": "What is 9 + 3?",
+          "options": [
+            "12",
+            "24",
+            "6",
+            "18"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 9 and 3 is 12.",
+          "difficulty": "medium",
+          "topic": "Statistics"
+        },
+        {
+          "id": "150",
+          "question": "What is 18 + 9?",
+          "options": [
+            "43",
+            "25",
+            "27",
+            "34"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 18 and 9 is 27.",
           "difficulty": "hard",
-          "topic": "Calculus"
+          "topic": "Statistics"
+        }
+      ]
+    },
+    {
+      "id": "trigonometry",
+      "name": "Trigonometry",
+      "questions": [
+        {
+          "id": "2",
+          "question": "What is 10 + 13?",
+          "options": [
+            "30",
+            "43",
+            "20",
+            "23"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 10 and 13 is 23.",
+          "difficulty": "easy",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "31",
+          "question": "What is 5 + 13?",
+          "options": [
+            "38",
+            "20",
+            "18",
+            "10"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 5 and 13 is 18.",
+          "difficulty": "easy",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "36",
+          "question": "What is 5 + 4?",
+          "options": [
+            "12",
+            "27",
+            "6",
+            "9"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 5 and 4 is 9.",
+          "difficulty": "hard",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "47",
+          "question": "What is 13 + 6?",
+          "options": [
+            "19",
+            "27",
+            "38",
+            "16"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 13 and 6 is 19.",
+          "difficulty": "medium",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "51",
+          "question": "What is 7 + 4?",
+          "options": [
+            "26",
+            "11",
+            "16",
+            "3"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 7 and 4 is 11.",
+          "difficulty": "hard",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "60",
+          "question": "What is 13 + 7?",
+          "options": [
+            "29",
+            "34",
+            "18",
+            "20"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 13 and 7 is 20.",
+          "difficulty": "easy",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "61",
+          "question": "What is 3 + 10?",
+          "options": [
+            "28",
+            "8",
+            "13",
+            "19"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 3 and 10 is 13.",
+          "difficulty": "medium",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "64",
+          "question": "What is 11 + 3?",
+          "options": [
+            "33",
+            "11",
+            "19",
+            "14"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 11 and 3 is 14.",
+          "difficulty": "medium",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "71",
+          "question": "What is 12 + 19?",
+          "options": [
+            "31",
+            "23",
+            "44",
+            "39"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 12 and 19 is 31.",
+          "difficulty": "hard",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "73",
+          "question": "What is 17 + 20?",
+          "options": [
+            "53",
+            "37",
+            "39",
+            "33"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 17 and 20 is 37.",
+          "difficulty": "hard",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "75",
+          "question": "What is 11 + 12?",
+          "options": [
+            "23",
+            "43",
+            "20",
+            "28"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 11 and 12 is 23.",
+          "difficulty": "medium",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "80",
+          "question": "What is 5 + 18?",
+          "options": [
+            "21",
+            "23",
+            "34",
+            "26"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 5 and 18 is 23.",
+          "difficulty": "easy",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "83",
+          "question": "What is 19 + 19?",
+          "options": [
+            "29",
+            "56",
+            "48",
+            "38"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 19 and 19 is 38.",
+          "difficulty": "easy",
+          "topic": "Trigonometry"
+        },
+        {
+          "id": "98",
+          "question": "What is 9 + 12?",
+          "options": [
+            "21",
+            "41",
+            "13",
+            "28"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 9 and 12 is 21.",
+          "difficulty": "easy",
+          "topic": "Trigonometry"
         },
         {
           "id": "114",
@@ -1604,34 +672,6 @@
           "topic": "Trigonometry"
         },
         {
-          "id": "115",
-          "question": "What is 13 + 20?",
-          "options": [
-            "35",
-            "45",
-            "26",
-            "33"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 13 and 20 is 33.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "116",
-          "question": "What is 5 + 9?",
-          "options": [
-            "14",
-            "5",
-            "28",
-            "17"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 5 and 9 is 14.",
-          "difficulty": "hard",
-          "topic": "Statistics"
-        },
-        {
           "id": "117",
           "question": "What is 6 + 18?",
           "options": [
@@ -1644,34 +684,6 @@
           "explanation": "The sum of 6 and 18 is 24.",
           "difficulty": "medium",
           "topic": "Trigonometry"
-        },
-        {
-          "id": "118",
-          "question": "What is 18 + 7?",
-          "options": [
-            "25",
-            "15",
-            "35",
-            "42"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 18 and 7 is 25.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "119",
-          "question": "What is 15 + 19?",
-          "options": [
-            "41",
-            "45",
-            "25",
-            "34"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 15 and 19 is 34.",
-          "difficulty": "medium",
-          "topic": "Geometry"
         },
         {
           "id": "120",
@@ -1688,20 +700,6 @@
           "topic": "Trigonometry"
         },
         {
-          "id": "121",
-          "question": "What is 17 + 5?",
-          "options": [
-            "23",
-            "22",
-            "17",
-            "36"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 17 and 5 is 22.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
           "id": "122",
           "question": "What is 8 + 3?",
           "options": [
@@ -1714,20 +712,6 @@
           "explanation": "The sum of 8 and 3 is 11.",
           "difficulty": "hard",
           "topic": "Trigonometry"
-        },
-        {
-          "id": "123",
-          "question": "What is 12 + 20?",
-          "options": [
-            "46",
-            "27",
-            "37",
-            "32"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 12 and 20 is 32.",
-          "difficulty": "easy",
-          "topic": "Statistics"
         },
         {
           "id": "124",
@@ -1772,20 +756,6 @@
           "topic": "Trigonometry"
         },
         {
-          "id": "127",
-          "question": "What is 12 + 8?",
-          "options": [
-            "11",
-            "31",
-            "20",
-            "28"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 12 and 8 is 20.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
           "id": "128",
           "question": "What is 13 + 18?",
           "options": [
@@ -1798,62 +768,6 @@
           "explanation": "The sum of 13 and 18 is 31.",
           "difficulty": "easy",
           "topic": "Trigonometry"
-        },
-        {
-          "id": "129",
-          "question": "What is 8 + 13?",
-          "options": [
-            "21",
-            "30",
-            "37",
-            "19"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 8 and 13 is 21.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "130",
-          "question": "What is 13 + 19?",
-          "options": [
-            "28",
-            "40",
-            "32",
-            "43"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 13 and 19 is 32.",
-          "difficulty": "easy",
-          "topic": "Geometry"
-        },
-        {
-          "id": "131",
-          "question": "What is 18 + 18?",
-          "options": [
-            "56",
-            "38",
-            "36",
-            "30"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 18 and 18 is 36.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "132",
-          "question": "What is 20 + 20?",
-          "options": [
-            "40",
-            "58",
-            "48",
-            "37"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 20 and 20 is 40.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
         },
         {
           "id": "133",
@@ -1870,20 +784,6 @@
           "topic": "Trigonometry"
         },
         {
-          "id": "134",
-          "question": "What is 15 + 5?",
-          "options": [
-            "20",
-            "14",
-            "39",
-            "27"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 15 and 5 is 20.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
           "id": "135",
           "question": "What is 16 + 19?",
           "options": [
@@ -1898,18 +798,374 @@
           "topic": "Trigonometry"
         },
         {
-          "id": "136",
-          "question": "What is 4 + 7?",
+          "id": "142",
+          "question": "What is 4 + 11?",
           "options": [
-            "30",
-            "11",
-            "7",
-            "15"
+            "15",
+            "25",
+            "9",
+            "34"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 4 and 11 is 15.",
+          "difficulty": "easy",
+          "topic": "Trigonometry"
+        }
+      ]
+    },
+    {
+      "id": "geometry",
+      "name": "Geometry",
+      "questions": [
+        {
+          "id": "3",
+          "question": "What is 12 + 17?",
+          "options": [
+            "26",
+            "29",
+            "42",
+            "35"
           ],
           "correctAnswer": 2,
-          "explanation": "The sum of 4 and 7 is 11.",
+          "explanation": "The sum of 12 and 17 is 29.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "5",
+          "question": "What is 12 + 5?",
+          "options": [
+            "14",
+            "24",
+            "17",
+            "34"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 12 and 5 is 17.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "12",
+          "question": "What is 15 + 12?",
+          "options": [
+            "32",
+            "27",
+            "26",
+            "46"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 15 and 12 is 27.",
           "difficulty": "medium",
-          "topic": "Algebra"
+          "topic": "Geometry"
+        },
+        {
+          "id": "17",
+          "question": "What is 15 + 12?",
+          "options": [
+            "20",
+            "27",
+            "38",
+            "28"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 15 and 12 is 27.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "26",
+          "question": "What is 18 + 2?",
+          "options": [
+            "27",
+            "20",
+            "39",
+            "17"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 18 and 2 is 20.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "39",
+          "question": "What is 8 + 18?",
+          "options": [
+            "32",
+            "44",
+            "24",
+            "26"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 8 and 18 is 26.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "43",
+          "question": "What is 4 + 13?",
+          "options": [
+            "33",
+            "21",
+            "17",
+            "16"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 4 and 13 is 17.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "44",
+          "question": "What is 19 + 19?",
+          "options": [
+            "45",
+            "51",
+            "35",
+            "38"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 19 and 19 is 38.",
+          "difficulty": "easy",
+          "topic": "Geometry"
+        },
+        {
+          "id": "50",
+          "question": "What is 17 + 13?",
+          "options": [
+            "27",
+            "31",
+            "30",
+            "43"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 17 and 13 is 30.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "53",
+          "question": "What is 18 + 19?",
+          "options": [
+            "49",
+            "42",
+            "35",
+            "37"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 18 and 19 is 37.",
+          "difficulty": "easy",
+          "topic": "Geometry"
+        },
+        {
+          "id": "56",
+          "question": "What is 7 + 14?",
+          "options": [
+            "21",
+            "11",
+            "25",
+            "35"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 7 and 14 is 21.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "66",
+          "question": "What is 19 + 8?",
+          "options": [
+            "30",
+            "19",
+            "46",
+            "27"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 19 and 8 is 27.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "72",
+          "question": "What is 7 + 7?",
+          "options": [
+            "22",
+            "13",
+            "32",
+            "14"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 7 and 7 is 14.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "89",
+          "question": "What is 5 + 18?",
+          "options": [
+            "23",
+            "13",
+            "33",
+            "42"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 5 and 18 is 23.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "92",
+          "question": "What is 10 + 9?",
+          "options": [
+            "19",
+            "24",
+            "16",
+            "32"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 10 and 9 is 19.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "101",
+          "question": "What is 2 + 3?",
+          "options": [
+            "21",
+            "-5",
+            "9",
+            "5"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 2 and 3 is 5.",
+          "difficulty": "easy",
+          "topic": "Geometry"
+        },
+        {
+          "id": "102",
+          "question": "What is 9 + 14?",
+          "options": [
+            "24",
+            "37",
+            "23",
+            "19"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 9 and 14 is 23.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "108",
+          "question": "What is 16 + 3?",
+          "options": [
+            "19",
+            "29",
+            "12",
+            "35"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 16 and 3 is 19.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "109",
+          "question": "What is 2 + 13?",
+          "options": [
+            "32",
+            "18",
+            "15",
+            "14"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 2 and 13 is 15.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "112",
+          "question": "What is 3 + 19?",
+          "options": [
+            "25",
+            "33",
+            "20",
+            "22"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 3 and 19 is 22.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "118",
+          "question": "What is 18 + 7?",
+          "options": [
+            "25",
+            "15",
+            "35",
+            "42"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 18 and 7 is 25.",
+          "difficulty": "hard",
+          "topic": "Geometry"
+        },
+        {
+          "id": "119",
+          "question": "What is 15 + 19?",
+          "options": [
+            "41",
+            "45",
+            "25",
+            "34"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 15 and 19 is 34.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "121",
+          "question": "What is 17 + 5?",
+          "options": [
+            "23",
+            "22",
+            "17",
+            "36"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 17 and 5 is 22.",
+          "difficulty": "medium",
+          "topic": "Geometry"
+        },
+        {
+          "id": "130",
+          "question": "What is 13 + 19?",
+          "options": [
+            "28",
+            "40",
+            "32",
+            "43"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 13 and 19 is 32.",
+          "difficulty": "easy",
+          "topic": "Geometry"
+        },
+        {
+          "id": "134",
+          "question": "What is 15 + 5?",
+          "options": [
+            "20",
+            "14",
+            "39",
+            "27"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 15 and 5 is 20.",
+          "difficulty": "hard",
+          "topic": "Geometry"
         },
         {
           "id": "137",
@@ -1924,76 +1180,6 @@
           "explanation": "The sum of 5 and 13 is 18.",
           "difficulty": "medium",
           "topic": "Geometry"
-        },
-        {
-          "id": "138",
-          "question": "What is 20 + 9?",
-          "options": [
-            "31",
-            "49",
-            "29",
-            "25"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 20 and 9 is 29.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "139",
-          "question": "What is 9 + 3?",
-          "options": [
-            "12",
-            "24",
-            "6",
-            "18"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 9 and 3 is 12.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "140",
-          "question": "What is 17 + 8?",
-          "options": [
-            "43",
-            "15",
-            "32",
-            "25"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 17 and 8 is 25.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "141",
-          "question": "What is 17 + 16?",
-          "options": [
-            "33",
-            "37",
-            "44",
-            "27"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 17 and 16 is 33.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "142",
-          "question": "What is 4 + 11?",
-          "options": [
-            "15",
-            "25",
-            "9",
-            "34"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 4 and 11 is 15.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
         },
         {
           "id": "143",
@@ -2022,6 +1208,362 @@
           "explanation": "The sum of 17 and 12 is 29.",
           "difficulty": "medium",
           "topic": "Geometry"
+        }
+      ]
+    },
+    {
+      "id": "arithmetic",
+      "name": "Arithmetic",
+      "questions": [
+        {
+          "id": "6",
+          "question": "What is 11 + 12?",
+          "options": [
+            "20",
+            "39",
+            "23",
+            "33"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 11 and 12 is 23.",
+          "difficulty": "medium",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "7",
+          "question": "What is 11 + 8?",
+          "options": [
+            "22",
+            "38",
+            "19",
+            "12"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 11 and 8 is 19.",
+          "difficulty": "hard",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "13",
+          "question": "What is 4 + 10?",
+          "options": [
+            "14",
+            "4",
+            "27",
+            "24"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 4 and 10 is 14.",
+          "difficulty": "hard",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "21",
+          "question": "What is 16 + 8?",
+          "options": [
+            "28",
+            "35",
+            "14",
+            "24"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 16 and 8 is 24.",
+          "difficulty": "hard",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "28",
+          "question": "What is 3 + 5?",
+          "options": [
+            "8",
+            "26",
+            "5",
+            "11"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 3 and 5 is 8.",
+          "difficulty": "hard",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "30",
+          "question": "What is 14 + 5?",
+          "options": [
+            "19",
+            "39",
+            "28",
+            "18"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 14 and 5 is 19.",
+          "difficulty": "hard",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "34",
+          "question": "What is 16 + 17?",
+          "options": [
+            "44",
+            "29",
+            "35",
+            "33"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 16 and 17 is 33.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "38",
+          "question": "What is 15 + 17?",
+          "options": [
+            "32",
+            "22",
+            "35",
+            "44"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 15 and 17 is 32.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "46",
+          "question": "What is 19 + 16?",
+          "options": [
+            "36",
+            "27",
+            "49",
+            "35"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 19 and 16 is 35.",
+          "difficulty": "medium",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "48",
+          "question": "What is 19 + 20?",
+          "options": [
+            "39",
+            "37",
+            "52",
+            "48"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 19 and 20 is 39.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "54",
+          "question": "What is 9 + 8?",
+          "options": [
+            "18",
+            "32",
+            "17",
+            "7"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 9 and 8 is 17.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "57",
+          "question": "What is 14 + 17?",
+          "options": [
+            "34",
+            "48",
+            "31",
+            "30"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 14 and 17 is 31.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "59",
+          "question": "What is 18 + 7?",
+          "options": [
+            "41",
+            "25",
+            "29",
+            "22"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 18 and 7 is 25.",
+          "difficulty": "medium",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "65",
+          "question": "What is 11 + 4?",
+          "options": [
+            "15",
+            "17",
+            "6",
+            "32"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 11 and 4 is 15.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "67",
+          "question": "What is 15 + 10?",
+          "options": [
+            "18",
+            "36",
+            "25",
+            "28"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 15 and 10 is 25.",
+          "difficulty": "medium",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "69",
+          "question": "What is 19 + 3?",
+          "options": [
+            "25",
+            "14",
+            "22",
+            "38"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 19 and 3 is 22.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "74",
+          "question": "What is 3 + 8?",
+          "options": [
+            "19",
+            "7",
+            "11",
+            "24"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 3 and 8 is 11.",
+          "difficulty": "medium",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "78",
+          "question": "What is 15 + 20?",
+          "options": [
+            "36",
+            "35",
+            "50",
+            "33"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 15 and 20 is 35.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "84",
+          "question": "What is 4 + 16?",
+          "options": [
+            "11",
+            "29",
+            "39",
+            "20"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 4 and 16 is 20.",
+          "difficulty": "hard",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "95",
+          "question": "What is 13 + 19?",
+          "options": [
+            "32",
+            "51",
+            "38",
+            "25"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 13 and 19 is 32.",
+          "difficulty": "hard",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "100",
+          "question": "What is 7 + 12?",
+          "options": [
+            "19",
+            "21",
+            "9",
+            "32"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 7 and 12 is 19.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "115",
+          "question": "What is 13 + 20?",
+          "options": [
+            "35",
+            "45",
+            "26",
+            "33"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 13 and 20 is 33.",
+          "difficulty": "hard",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "127",
+          "question": "What is 12 + 8?",
+          "options": [
+            "11",
+            "31",
+            "20",
+            "28"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 12 and 8 is 20.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "132",
+          "question": "What is 20 + 20?",
+          "options": [
+            "40",
+            "58",
+            "48",
+            "37"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 20 and 20 is 40.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
+        },
+        {
+          "id": "141",
+          "question": "What is 17 + 16?",
+          "options": [
+            "33",
+            "37",
+            "44",
+            "27"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 17 and 16 is 33.",
+          "difficulty": "easy",
+          "topic": "Arithmetic"
         },
         {
           "id": "145",
@@ -2036,20 +1578,6 @@
           "explanation": "The sum of 5 and 2 is 7.",
           "difficulty": "medium",
           "topic": "Arithmetic"
-        },
-        {
-          "id": "146",
-          "question": "What is 7 + 14?",
-          "options": [
-            "21",
-            "25",
-            "16",
-            "41"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 7 and 14 is 21.",
-          "difficulty": "hard",
-          "topic": "Calculus"
         },
         {
           "id": "147",
@@ -2092,20 +1620,522 @@
           "explanation": "The sum of 11 and 17 is 28.",
           "difficulty": "medium",
           "topic": "Arithmetic"
+        }
+      ]
+    },
+    {
+      "id": "algebra",
+      "name": "Algebra",
+      "questions": [
+        {
+          "id": "8",
+          "question": "What is 17 + 2?",
+          "options": [
+            "37",
+            "26",
+            "11",
+            "19"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 17 and 2 is 19.",
+          "difficulty": "easy",
+          "topic": "Algebra"
         },
         {
-          "id": "150",
-          "question": "What is 18 + 9?",
+          "id": "15",
+          "question": "What is 13 + 5?",
           "options": [
-            "43",
-            "25",
-            "27",
-            "34"
+            "26",
+            "18",
+            "17",
+            "33"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 13 and 5 is 18.",
+          "difficulty": "easy",
+          "topic": "Algebra"
+        },
+        {
+          "id": "23",
+          "question": "What is 19 + 3?",
+          "options": [
+            "20",
+            "37",
+            "22",
+            "32"
           ],
           "correctAnswer": 3,
-          "explanation": "The sum of 18 and 9 is 27.",
+          "explanation": "The sum of 19 and 3 is 22.",
+          "difficulty": "easy",
+          "topic": "Algebra"
+        },
+        {
+          "id": "24",
+          "question": "What is 15 + 4?",
+          "options": [
+            "19",
+            "39",
+            "21",
+            "17"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 15 and 4 is 19.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "27",
+          "question": "What is 4 + 17?",
+          "options": [
+            "34",
+            "28",
+            "19",
+            "21"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 4 and 17 is 21.",
           "difficulty": "hard",
-          "topic": "Statistics"
+          "topic": "Algebra"
+        },
+        {
+          "id": "29",
+          "question": "What is 2 + 14?",
+          "options": [
+            "26",
+            "27",
+            "16",
+            "12"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 2 and 14 is 16.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "32",
+          "question": "What is 8 + 18?",
+          "options": [
+            "37",
+            "20",
+            "32",
+            "26"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 8 and 18 is 26.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "35",
+          "question": "What is 2 + 4?",
+          "options": [
+            "-3",
+            "12",
+            "26",
+            "6"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 2 and 4 is 6.",
+          "difficulty": "easy",
+          "topic": "Algebra"
+        },
+        {
+          "id": "37",
+          "question": "What is 4 + 19?",
+          "options": [
+            "31",
+            "23",
+            "39",
+            "22"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 4 and 19 is 23.",
+          "difficulty": "hard",
+          "topic": "Algebra"
+        },
+        {
+          "id": "45",
+          "question": "What is 19 + 3?",
+          "options": [
+            "19",
+            "25",
+            "22",
+            "38"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 19 and 3 is 22.",
+          "difficulty": "easy",
+          "topic": "Algebra"
+        },
+        {
+          "id": "49",
+          "question": "What is 15 + 15?",
+          "options": [
+            "30",
+            "39",
+            "47",
+            "25"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 15 and 15 is 30.",
+          "difficulty": "easy",
+          "topic": "Algebra"
+        },
+        {
+          "id": "58",
+          "question": "What is 20 + 13?",
+          "options": [
+            "50",
+            "29",
+            "42",
+            "33"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 20 and 13 is 33.",
+          "difficulty": "hard",
+          "topic": "Algebra"
+        },
+        {
+          "id": "62",
+          "question": "What is 20 + 16?",
+          "options": [
+            "53",
+            "36",
+            "35",
+            "39"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 20 and 16 is 36.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "68",
+          "question": "What is 12 + 16?",
+          "options": [
+            "43",
+            "22",
+            "29",
+            "28"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 12 and 16 is 28.",
+          "difficulty": "hard",
+          "topic": "Algebra"
+        },
+        {
+          "id": "70",
+          "question": "What is 13 + 14?",
+          "options": [
+            "34",
+            "47",
+            "27",
+            "24"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 13 and 14 is 27.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "77",
+          "question": "What is 19 + 17?",
+          "options": [
+            "42",
+            "35",
+            "36",
+            "53"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 19 and 17 is 36.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "79",
+          "question": "What is 8 + 14?",
+          "options": [
+            "17",
+            "22",
+            "26",
+            "37"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 8 and 14 is 22.",
+          "difficulty": "easy",
+          "topic": "Algebra"
+        },
+        {
+          "id": "90",
+          "question": "What is 14 + 5?",
+          "options": [
+            "17",
+            "19",
+            "38",
+            "23"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 14 and 5 is 19.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "105",
+          "question": "What is 7 + 15?",
+          "options": [
+            "22",
+            "28",
+            "14",
+            "42"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 7 and 15 is 22.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "131",
+          "question": "What is 18 + 18?",
+          "options": [
+            "56",
+            "38",
+            "36",
+            "30"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 18 and 18 is 36.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "136",
+          "question": "What is 4 + 7?",
+          "options": [
+            "30",
+            "11",
+            "7",
+            "15"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 4 and 7 is 11.",
+          "difficulty": "medium",
+          "topic": "Algebra"
+        },
+        {
+          "id": "140",
+          "question": "What is 17 + 8?",
+          "options": [
+            "43",
+            "15",
+            "32",
+            "25"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 17 and 8 is 25.",
+          "difficulty": "easy",
+          "topic": "Algebra"
+        }
+      ]
+    },
+    {
+      "id": "calculus",
+      "name": "Calculus",
+      "questions": [
+        {
+          "id": "9",
+          "question": "What is 4 + 8?",
+          "options": [
+            "12",
+            "18",
+            "23",
+            "11"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 4 and 8 is 12.",
+          "difficulty": "medium",
+          "topic": "Calculus"
+        },
+        {
+          "id": "10",
+          "question": "What is 8 + 11?",
+          "options": [
+            "30",
+            "15",
+            "27",
+            "19"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 8 and 11 is 19.",
+          "difficulty": "hard",
+          "topic": "Calculus"
+        },
+        {
+          "id": "11",
+          "question": "What is 10 + 10?",
+          "options": [
+            "35",
+            "22",
+            "20",
+            "16"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 10 and 10 is 20.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "16",
+          "question": "What is 6 + 17?",
+          "options": [
+            "24",
+            "22",
+            "23",
+            "35"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 6 and 17 is 23.",
+          "difficulty": "medium",
+          "topic": "Calculus"
+        },
+        {
+          "id": "19",
+          "question": "What is 20 + 13?",
+          "options": [
+            "33",
+            "49",
+            "23",
+            "39"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 20 and 13 is 33.",
+          "difficulty": "hard",
+          "topic": "Calculus"
+        },
+        {
+          "id": "25",
+          "question": "What is 5 + 14?",
+          "options": [
+            "23",
+            "19",
+            "36",
+            "18"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 5 and 14 is 19.",
+          "difficulty": "hard",
+          "topic": "Calculus"
+        },
+        {
+          "id": "41",
+          "question": "What is 6 + 12?",
+          "options": [
+            "17",
+            "33",
+            "25",
+            "18"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 6 and 12 is 18.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "42",
+          "question": "What is 14 + 14?",
+          "options": [
+            "28",
+            "40",
+            "35",
+            "20"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 14 and 14 is 28.",
+          "difficulty": "hard",
+          "topic": "Calculus"
+        },
+        {
+          "id": "63",
+          "question": "What is 6 + 13?",
+          "options": [
+            "29",
+            "30",
+            "19",
+            "18"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The sum of 6 and 13 is 19.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "88",
+          "question": "What is 2 + 2?",
+          "options": [
+            "16",
+            "4",
+            "8",
+            "-6"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The sum of 2 and 2 is 4.",
+          "difficulty": "hard",
+          "topic": "Calculus"
+        },
+        {
+          "id": "93",
+          "question": "What is 6 + 14?",
+          "options": [
+            "36",
+            "11",
+            "24",
+            "20"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 6 and 14 is 20.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "99",
+          "question": "What is 4 + 6?",
+          "options": [
+            "16",
+            "24",
+            "1",
+            "10"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 4 and 6 is 10.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "113",
+          "question": "What is 18 + 17?",
+          "options": [
+            "42",
+            "32",
+            "53",
+            "35"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The sum of 18 and 17 is 35.",
+          "difficulty": "hard",
+          "topic": "Calculus"
+        },
+        {
+          "id": "146",
+          "question": "What is 7 + 14?",
+          "options": [
+            "21",
+            "25",
+            "16",
+            "41"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The sum of 7 and 14 is 21.",
+          "difficulty": "hard",
+          "topic": "Calculus"
         }
       ]
     }
