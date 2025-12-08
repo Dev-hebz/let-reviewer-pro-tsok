@@ -910,7 +910,7 @@
             "Historical awareness",
             "Cultural preservation"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Colonial mentality is the preference for foreign cultures and products, viewing them as superior to local ones.",
           "difficulty": "medium",
           "topic": "Filipino Values and Culture"
@@ -1022,7 +1022,7 @@
             "Humility",
             "Sincerity"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Palabas refers to actions done for show or to impress others rather than genuine intent.",
           "difficulty": "medium",
           "topic": "Filipino Values and Culture"
@@ -1084,7 +1084,7 @@
             "Living in a place",
             "Voting in elections"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Citizenship involves legal status, rights, and duties within a political community.",
           "difficulty": "easy",
           "topic": "Social and Civic Values"
@@ -1098,7 +1098,7 @@
             "To avoid participation",
             "To only claim rights"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Responsible citizenship involves obeying laws, paying taxes, and contributing to community welfare.",
           "difficulty": "easy",
           "topic": "Social and Civic Values"
