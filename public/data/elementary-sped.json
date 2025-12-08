@@ -1334,7 +1334,7 @@
             "Sound system",
             "Grammar"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Semantics refers to the meaning of words and word relationships, including vocabulary development and concept understanding.",
           "difficulty": "medium",
           "topic": "Communication Disorders"
@@ -1348,7 +1348,7 @@
             "Sound production",
             "Conversation skills"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Syntax involves the rules for word order and sentence structure in language.",
           "difficulty": "medium",
           "topic": "Communication Disorders"
@@ -1508,7 +1508,7 @@
             "Exercise equipment",
             "Transportation"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Wheelchairs are mobility assistive technology devices that enable movement and independence for individuals with physical disabilities.",
           "difficulty": "easy",
           "topic": "Physical and Health Impairments"
@@ -1982,7 +1982,7 @@
             "Being critical",
             "Thinking hard"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Critical thinking involves analyzing information, evaluating evidence, and making reasoned judgments based on logical reasoning.",
           "difficulty": "easy",
           "topic": "Gifted and Talented Education"
