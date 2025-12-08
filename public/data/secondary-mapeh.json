@@ -1,1592 +1,1598 @@
 {
-  "subject": "Secondary - Mapeh",
+  "subject": "Secondary - MAPEH",
   "category": "secondary",
   "subcategory": "mapeh",
   "topics": [
     {
-  "id": "secondary-mapeh",
-  "name": "Secondary MAPEH",
-  "questions": [
-    {
-      "id": "mapeh-mu-001",
-      "question": "What do you call the speed of the beat in music?",
-      "options": [
-        "Dynamics",
-        "Tempo",
-        "Texture",
-        "Harmony"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Tempo refers to how fast or slow the beat of a musical piece is played.",
-      "difficulty": "easy",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-002",
-      "question": "Which musical symbol indicates to play the music softly?",
-      "options": [
-        "Forte",
-        "Piano",
-        "Crescendo",
-        "Staccato"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Piano (p) is the musical term that means to play softly.",
-      "difficulty": "easy",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-003",
-      "question": "Which group of instruments includes violin, viola, cello, and double bass?",
-      "options": [
-        "Woodwind instruments",
-        "Percussion instruments",
-        "String instruments",
-        "Brass instruments"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The violin family belongs to the string instrument section.",
-      "difficulty": "easy",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-004",
-      "question": "The solfege syllable for the 5th degree of the scale is:",
-      "options": [
-        "Mi",
-        "Fa",
-        "Sol",
-        "La"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Sol is the fifth note in the solfege scale: Do-Re-Mi-Fa-Sol.",
-      "difficulty": "easy",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-005",
-      "question": "Which Filipino composer is known as the "Father of Kundiman"?",
-      "options": [
-        "Lucio San Pedro",
-        "Nicanor Abelardo",
-        "Francisco Santiago",
-        "Ryan Cayabyab"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Nicanor Abelardo composed many kundiman works during the early 1900s.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-006",
-      "question": "What is the term for the structure or plan of a musical piece?",
-      "options": [
-        "Form",
-        "Harmony",
-        "Dynamics",
-        "Rhythm"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Musical form organizes the different sections of a composition.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-007",
-      "question": "Which tempo marking means "very fast"?",
-      "options": [
-        "Largo",
-        "Adagio",
-        "Presto",
-        "Moderato"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Presto is used to indicate a very fast tempo.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-008",
-      "question": "The time signature 3/4 means:",
-      "options": [
-        "Three quarter notes per beat",
-        "Three beats per measure",
-        "Four beats per measure",
-        "Beat is counted in fours"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The top number shows three beats per measure while the bottom number indicates the quarter note gets one beat.",
-      "difficulty": "easy",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-009",
-      "question": "What element of music refers to the vertical combination of tones?",
-      "options": [
-        "Rhythm",
-        "Texture",
-        "Melody",
-        "Harmony"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Harmony occurs when notes are played or sung together.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-010",
-      "question": "Which musical period is Ludwig van Beethoven associated with?",
-      "options": [
-        "Baroque",
-        "Classical",
-        "Romantic",
-        "Modern"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Beethoven bridged the Classical and Romantic periods but is more associated with the Romantic era.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-011",
-      "question": "What do you call the highness or lowness of sound?",
-      "options": [
-        "Pitch",
-        "Dynamics",
-        "Timbre",
-        "Beat"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Pitch refers to how high or low a sound is.",
-      "difficulty": "easy",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-012",
-      "question": "Which term means gradually getting louder?",
-      "options": [
-        "Decrescendo",
-        "Crescendo",
-        "Pianissimo",
-        "Forte"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Crescendo indicates a gradual increase in volume.",
-      "difficulty": "easy",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-013",
-      "question": "A cappella music is performed:",
-      "options": [
-        "With full orchestra",
-        "With percussion only",
-        "With string instruments",
-        "Without instrumental accompaniment"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A cappella refers to vocal music sung without instruments.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-014",
-      "question": "Which of the following is a traditional Cordillera musical instrument?",
-      "options": [
-        "Kulintang",
-        "Gangsa",
-        "Kudyapi",
-        "Bandurria"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Gangsa is a flat gong used by the Cordillera tribes.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-015",
-      "question": "What is the smallest interval in Western music?",
-      "options": [
-        "Whole step",
-        "Half step",
-        "Major third",
-        "Minor third"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A half step (semitone) is the smallest interval.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-016",
-      "question": "A musical composition for one instrument, usually piano, is called:",
-      "options": [
-        "Concerto",
-        "Sonata",
-        "Symphony",
-        "Opera"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A sonata is a work written for a solo instrument, often piano.",
-      "difficulty": "difficult",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-017",
-      "question": "Which musical texture features a single melody with accompaniment?",
-      "options": [
-        "Monophonic",
-        "Polyphonic",
-        "Homophonic",
-        "Heterophonic"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Homophonic texture includes melody with harmonic support.",
-      "difficulty": "difficult",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-018",
-      "question": "What do we call the unique quality or color of a sound?",
-      "options": [
-        "Pitch",
-        "Timbre",
-        "Tempo",
-        "Dynamics"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Timbre distinguishes different sound sources even if they have the same pitch.",
-      "difficulty": "easy",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-019",
-      "question": "Which of the following is an example of a liturgical music form?",
-      "options": [
-        "Mass",
-        "Harana",
-        "Kundiman",
-        "Polka"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Mass is a form of sacred or liturgical music used in church worship.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-020",
-      "question": "Which Southeast Asian musical ensemble uses bronze gongs and metallophones?",
-      "options": [
-        "Gamelan",
-        "Samulnori",
-        "Taiko",
-        "Mariachi"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Indonesian Gamelan is composed of bronze percussion instruments.",
-      "difficulty": "medium",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-021",
-      "question": "The technique of singing two notes rapidly in alternation is called:",
-      "options": [
-        "Trill",
-        "Vibrato",
-        "Glissando",
-        "Falsetto"
-      ],
-      "correctAnswer": 0,
-      "explanation": "A trill alternates quickly between adjacent notes.",
-      "difficulty": "difficult",
-      "topic": "Music"
-    },
-    {
-      "id": "mapeh-mu-022",
-      "question": "A musical piece written for a small ensemble of 2–8 performers is called:",
-      "options": [
-        "Chorale",
-        "Sonata",
-        "Chamber music",
-        "Concerto"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Chamber music is written for intimate groups like duets, trios, or quartets.",
-      "difficulty": "difficult",
-      "topic": "Music"
-    }
-    ,
-    {
-      "id": "mapeh-ar-023",
-      "question": "What element of art refers to the lightness or darkness of a color?",
-      "options": [
-        "Hue",
-        "Value",
-        "Intensity",
-        "Texture"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Value describes how light or dark a color appears.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-024",
-      "question": "Which principle of art refers to differences in elements to create visual interest?",
-      "options": [
-        "Harmony",
-        "Contrast",
-        "Balance",
-        "Unity"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Contrast involves combining opposite elements like light vs. dark.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-025",
-      "question": "A sculpture that is viewed from all sides is called:",
-      "options": [
-        "Relief",
-        "Bas-relief",
-        "Freestanding",
-        "Mosaic"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Freestanding sculptures are 3D artworks meant to be viewed from all angles.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-026",
-      "question": "Who painted the famous artwork "The Starry Night"?",
-      "options": [
-        "Leonardo da Vinci",
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Claude Monet"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Vincent van Gogh created The Starry Night in 1889.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-027",
-      "question": "The Batangas embroidery technique known for its openwork design is called:",
-      "options": [
-        "Piña weaving",
-        "Calado",
-        "T"nalak",
-        "Inabel"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Calado is a traditional Batangas embroidery known for openwork patterns.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-028",
-      "question": "Which artistic style is characterized by distorted figures and emotional exaggeration?",
-      "options": [
-        "Impressionism",
-        "Realism",
-        "Expressionism",
-        "Cubism"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Expressionism emphasizes emotional experience rather than physical reality.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-029",
-      "question": "T"nalak fabric is traditionally woven by the T"boli using what material?",
-      "options": [
-        "Abaca fibers",
-        "Cotton threads",
-        "Silk",
-        "Piña fibers"
-      ],
-      "correctAnswer": 0,
-      "explanation": "T"nalak is made from abaca fiber and produced by T"boli "dreamweavers".",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-030",
-      "question": "Which principle of art uses repetition of elements to create movement?",
-      "options": [
-        "Pattern",
-        "Emphasis",
-        "Proportion",
-        "Rhythm"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Rhythm creates a sense of movement by repeating elements.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-031",
-      "question": "The Baroque style of art is best described as:",
-      "options": [
-        "Simple and plain",
-        "Dramatic and ornate",
-        "Geometric and analytical",
-        "Flat and stylized"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Baroque art is known for dramatic lighting and elaborate decoration.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-032",
-      "question": "Which painting technique uses thin, transparent layers of watercolor?",
-      "options": [
-        "Wash",
-        "Impasto",
-        "Sgraffito",
-        "Stippling"
-      ],
-      "correctAnswer": 0,
-      "explanation": "A wash creates smooth, transparent color layers in watercolor painting.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-033",
-      "question": "The process of carving or cutting away from a solid material is called:",
-      "options": [
-        "Additive sculpture",
-        "Subtractive sculpture",
-        "Assemblage",
-        "Pottery"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Subtractive sculpture removes material to create forms.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-034",
-      "question": "The color combination of red and green is an example of:",
-      "options": [
-        "Analogous colors",
-        "Complementary colors",
-        "Triad colors",
-        "Monochromatic scheme"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Complementary colors are opposite each other on the color wheel.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-035",
-      "question": "Which Filipino National Artist is famous for his "spherical" abstract paintings?",
-      "options": [
-        "Napoleon Abueva",
-        "Victorio Edades",
-        "Jose Joya",
-        "Arturo Luz"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Jose Joya, a National Artist for Visual Arts, is known for his abstract work.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-036",
-      "question": "Which architectural structure is considered a classic example of Roman engineering?",
-      "options": [
-        "Stonehenge",
-        "Parthenon",
-        "Colosseum",
-        "Taj Mahal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Colosseum in Rome showcases Roman innovation in arches and concrete.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-037",
-      "question": "What do you call a printmaking technique that uses a carved wood block?",
-      "options": [
-        "Engraving",
-        "Lithography",
-        "Woodcut",
-        "Etching"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Woodcut is the oldest printmaking method using carved wooden blocks.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-038",
-      "question": "Which type of balance uses equal visual weight on both sides of an artwork?",
-      "options": [
-        "Asymmetrical",
-        "Radial",
-        "Symmetrical",
-        "Dynamic"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Symmetrical balance mirrors elements on both sides.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-039",
-      "question": "The giant lanterns of Pampanga displayed during Christmas are called:",
-      "options": [
-        "Parol",
-        "Puni",
-        "Giant Lanterns",
-        "Ligligan Parul"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Ligligan Parul refers to the Giant Lantern Festival in San Fernando, Pampanga.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-040",
-      "question": "Which Southeast Asian temple complex is known for its detailed stone carvings?",
-      "options": [
-        "Borobudur",
-        "Angkor Wat",
-        "Shwedagon Pagoda",
-        "Wat Pho"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Angkor Wat in Cambodia is famous for intricate carvings and bas-reliefs.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-041",
-      "question": "Which style uses geometric shapes to depict reality?",
-      "options": [
-        "Cubism",
-        "Surrealism",
-        "Fauvism",
-        "Neoclassicism"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Cubism breaks objects into geometric forms.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-042",
-      "question": "The method of creating images using small pieces of colored stone or glass is called:",
-      "options": [
-        "Mosaic",
-        "Stained glass",
-        "Collage",
-        "Pointillism"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Mosaic art uses small colored pieces to form patterns or images.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-043",
-      "question": "The Banaue Rice Terraces are considered an example of:",
-      "options": [
-        "Natural architecture",
-        "Environmental art",
-        "Landscape architecture",
-        "Cultural landscape"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The terraces represent cultural landscape shaped by the Ifugao people.",
-      "difficulty": "difficult",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-044",
-      "question": "What medium did Juan Luna use for his painting "Spoliarium"?",
-      "options": [
-        "Acrylic",
-        "Watercolor",
-        "Oil on canvas",
-        "Tempera"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Spoliarium is an oil-on-canvas masterpiece awarded in Madrid in 1884.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-045",
-      "question": "Which type of perspective uses a single vanishing point?",
-      "options": [
-        "Two-point perspective",
-        "One-point perspective",
-        "Three-point perspective",
-        "Linear-free perspective"
-      ],
-      "correctAnswer": 1,
-      "explanation": "One-point perspective uses one vanishing point for depth.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-046",
-      "question": "The art movement that emphasizes light and color over detail is:",
-      "options": [
-        "Realism",
-        "Impressionism",
-        "Baroque",
-        "Romanticism"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Impressionism focuses on capturing light and atmospheric effects.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-047",
-      "question": "Which pottery tradition in the Philippines is known for its burnay jars?",
-      "options": [
-        "Vigan",
-        "Bohol",
-        "Cebu",
-        "Iloilo"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Vigan is known for its sturdy burnay earthen jars.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-048",
-      "question": "What do you call art created with computer software or digital tools?",
-      "options": [
-        "Installation art",
-        "Digital art",
-        "Mixed media",
-        "Multimedia design"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Digital art uses computers and software in producing visual creations.",
-      "difficulty": "easy",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-049",
-      "question": "Which contemporary Filipino artist is known for hyperrealistic paintings of sardine cans?",
-      "options": [
-        "Benedicto Cabrera",
-        "Ronald Ventura",
-        "Elmer Borlongan",
-        "Leeroy New"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Ventura is known for hyperrealism and pop-surrealism themes.",
-      "difficulty": "difficult",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-050",
-      "question": "The carved wooden figures from the Cordillera, often called "bulul," represent:",
-      "options": [
-        "Rice guardians",
-        "Spiritual healers",
-        "Anito gods",
-        "Legendary warriors"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Bulul figurines are believed to guard rice granaries and bring good harvest.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-051",
-      "question": "Which color scheme uses three colors evenly spaced on the color wheel?",
-      "options": [
-        "Analogous",
-        "Triadic",
-        "Complementary",
-        "Monochromatic"
-      ],
-      "correctAnswer": 1,
-      "explanation": "A triadic color scheme uses three evenly spaced colors such as red, yellow, and blue.",
-      "difficulty": "medium",
-      "topic": "Arts"
-    },
-    {
-      "id": "mapeh-ar-052",
-      "question": "Which art form involves arranging objects and environments for viewer interaction?",
-      "options": [
-        "Collage",
-        "Installation art",
-        "Sculpture",
-        "Performance art"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Installation art fills a space and often allows viewers to move within the artwork.",
-      "difficulty": "difficult",
-      "topic": "Arts"
-    },
-    {
-  "id": "secondary-mapeh",
-  "name": "Secondary MAPEH",
-  "questions": [
-    {
-      "id": "mapeh-pe-061",
-      "question": "Which skill-related component refers to the ability to change direction quickly?",
-      "options": [
-        "Agility",
-        "Power",
-        "Balance",
-        "Coordination"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Agility is the ability to move and change direction quickly and effectively.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-062",
-      "question": "Which FITT principle refers to how often an activity is performed?",
-      "options": [
-        "Frequency",
-        "Intensity",
-        "Time",
-        "Type"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Frequency indicates how many times an activity is done per week.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-063",
-      "question": "What do you call the range of motion around a joint?",
-      "options": [
-        "Flexibility",
-        "Strength",
-        "Agility",
-        "Reaction Time"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Flexibility is the ability of joints to move through a full range of motion.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-064",
-      "question": "Which muscle group is primarily used during squats?",
-      "options": [
-        "Quadriceps",
-        "Biceps",
-        "Deltoids",
-        "Triceps"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Squats target the quadriceps, hamstrings, and glutes.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-065",
-      "question": "Which of the following is an example of aerobic exercise?",
-      "options": [
-        "Jogging",
-        "Push-ups",
-        "Weightlifting",
-        "Sprinting"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Jogging uses oxygen over a sustained period, making it an aerobic activity.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-066",
-      "question": "Which component of fitness refers to the ability of the heart and lungs to supply oxygen during exercise?",
-      "options": [
-        "Cardiovascular endurance",
-        "Muscular strength",
-        "Muscular endurance",
-        "Flexibility"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Cardiovascular endurance measures how well the heart and lungs work during prolonged activity.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-067",
-      "question": "The ability to exert force in a short burst is called:",
-      "options": [
-        "Power",
-        "Coordination",
-        "Speed",
-        "Strength"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Power is a combination of speed and strength.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-068",
-      "question": "Which term refers to the body’s ability to maintain equilibrium while stationary or in motion?",
-      "options": [
-        "Balance",
-        "Agility",
-        "Speed",
-        "Coordination"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Balance is the ability to maintain body position whether moving or still.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-069",
-      "question": "Which skill is MOST needed in catching a ball?",
-      "options": [
-        "Coordination",
-        "Agility",
-        "Speed",
-        "Balance"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Hand-eye coordination allows a person to time and aim movements when catching.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-070",
-      "question": "A fitness test used to measure cardiovascular endurance is:",
-      "options": [
-        "3-Minute Step Test",
-        "Sit-and-Reach Test",
-        "Curl-Up Test",
-        "Push-Up Test"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The 3-Minute Step Test measures aerobic capacity.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-071",
-      "question": "What is the correct sequence of a warm-up routine?",
-      "options": [
-        "Light activity → stretching → dynamic movement",
-        "Stretching → light activity → cool-down",
-        "Cool-down → stretching → warm-up",
-        "Dynamic movement → stretching → intense activity"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Warm-up begins with light activity, followed by stretching, then dynamic movements.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-072",
-      "question": "How many minutes of moderate exercise are recommended per week for teens?",
-      "options": [
-        "150 minutes",
-        "60 minutes",
-        "30 minutes",
-        "500 minutes"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Teens should engage in at least 60 minutes of physical activity daily.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-073",
-      "question": "Which dance originated from the Cordillera region?",
-      "options": [
-        "Tinikling",
-        "Banga",
-        "Maglalatik",
-        "Pandanggo sa Ilaw"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Banga is a Cordillera dance that uses clay pots balanced on the head.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-074",
-      "question": "Which is NOT a fundamental skill in basketball?",
-      "options": [
-        "Dribbling",
-        "Serving",
-        "Shooting",
-        "Passing"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Serving is a volleyball skill, not a basketball skill.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-075",
-      "question": "In volleyball, how many players are on the court per team?",
-      "options": [
-        "6",
-        "7",
-        "5",
-        "4"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Indoor volleyball is played with six players per team on the court.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-076",
-      "question": "Which part of the body is strengthened most by planking?",
-      "options": [
-        "Core",
-        "Arms",
-        "Legs",
-        "Shoulders"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Planking primarily strengthens the core muscles.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-077",
-      "question": "What is the basic social dance position where partners face each other?",
-      "options": [
-        "Closed position",
-        "Open position",
-        "Promenade position",
-        "Side-by-side position"
-      ],
-      "correctAnswer": 0,
-      "explanation": "In closed position, partners face each other with one partner’s hand on the other"s shoulder.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-078",
-      "question": "Which of the following is a locomotor movement?",
-      "options": [
-        "Jumping",
-        "Bending",
-        "Twisting",
-        "Stretching"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Locomotor movements move the body from one point to another such as jumping.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-079",
-      "question": "Which of the following is a non-locomotor movement?",
-      "options": [
-        "Swaying",
-        "Galloping",
-        "Hopping",
-        "Leaping"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Non-locomotor movements do not involve traveling from place to place.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-080",
-      "question": "A dance that reflects cultural traditions and heritage is called:",
-      "options": [
-        "Folk dance",
-        "Social dance",
-        "Ballroom dance",
-        "Creative dance"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Folk dance portrays cultural traditions of different communities.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-081",
-      "question": "Which Philippine folk dance uses bamboo poles?",
-      "options": [
-        "Tinikling",
-        "Kuratsa",
-        "Cariñosa",
-        "Itik-itik"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Tinikling dancers skillfully step between moving bamboo poles.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-082",
-      "question": "The ability to use senses with body parts to perform motor tasks is called:",
-      "options": [
-        "Coordination",
-        "Agility",
-        "Power",
-        "Reaction Time"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Coordination allows smooth and efficient body movements.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-083",
-      "question": "The place where volleyball is first served is called:",
-      "options": [
-        "Service area",
-        "Back zone",
-        "Attack line",
-        "Center line"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The service area is where the player serves behind the end line.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-084",
-      "question": "In badminton, what is the official term for the feathered projectile?",
-      "options": [
-        "Shuttlecock",
-        "Feather ball",
-        "Badminton bird",
-        "Racket ball"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The shuttlecock is hit back and forth over the net.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-085",
-      "question": "Which yoga position improves flexibility of the spine?",
-      "options": [
-        "Cobra pose",
-        "Mountain pose",
-        "Chair pose",
-        "Warrior pose"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Cobra pose stretches the spine and strengthens the back.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-086",
-      "question": "Which is a common injury caused by overstretching muscles?",
-      "options": [
-        "Strain",
-        "Sprain",
-        "Fracture",
-        "Dislocation"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Strain involves overstretched or torn muscles.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-087",
-      "question": "Which skill is required most in sprinting?",
-      "options": [
-        "Speed",
-        "Balance",
-        "Agility",
-        "Coordination"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Sprinting is a high-speed running event.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-088",
-      "question": "In table tennis, how many points are needed to win a set?",
-      "options": [
-        "11 points",
-        "15 points",
-        "21 points",
-        "25 points"
-      ],
-      "correctAnswer": 0,
-      "explanation": "A player must score 11 points to win a set with at least a 2-point lead.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-089",
-      "question": "What do you call the boundary line in basketball where the ball is out of play?",
-      "options": [
-        "Sideline",
-        "Free-throw line",
-        "Baseline",
-        "Midcourt line"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The sideline marks the outer boundary of the court.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-090",
-      "question": "Which principle of training means gradually increasing the workload?",
-      "options": [
-        "Progression",
-        "Specificity",
-        "Overload",
-        "Reversibility"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Progression involves gradually increasing exercise difficulty.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-  "id": "secondary-mapeh",
-  "name": "Secondary MAPEH",
-  "questions": [
-    {
-      "id": "mapeh-pe-091",
-      "question": "Which component of fitness is tested using the Sit-and-Reach Test?",
-      "options": [
-        "Flexibility",
-        "Muscular strength",
-        "Cardiovascular endurance",
-        "Speed"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Sit-and-Reach Test measures flexibility, particularly of the hamstrings and lower back.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-092",
-      "question": "Which of the following reduces the risk of injury during exercise?",
-      "options": [
-        "Warm-up",
-        "Skipping cool-down",
-        "Wearing heavy clothing",
-        "Starting with high intensity"
-      ],
-      "correctAnswer": 0,
-      "explanation": "A proper warm-up prepares the muscles and cardiovascular system for activity.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-093",
-      "question": "In swimming, which stroke is known as the fastest?",
-      "options": [
-        "Freestyle",
-        "Breaststroke",
-        "Backstroke",
-        "Butterfly"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The freestyle stroke is generally the fastest due to its efficient movement.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-094",
-      "question": "Which dance classification includes dances performed by couples for recreation?",
-      "options": [
-        "Social dance",
-        "Creative dance",
-        "Folk dance",
-        "Festival dance"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Social dances are performed for pleasure and interaction, usually by pairs.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-095",
-      "question": "What is the correct volleyball term for preventing the ball from touching the floor after an opponent"s attack?",
-      "options": [
-        "Dig",
-        "Block",
-        "Serve",
-        "Spike"
-      ],
-      "correctAnswer": 0,
-      "explanation": "A dig is a defensive move to prevent the ball from hitting the court.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-096",
-      "question": "Which of the following is an example of dual sports?",
-      "options": [
-        "Badminton",
-        "Gymnastics",
-        "Football",
-        "Track and Field"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Dual sports are played by two people against each other, such as badminton or tennis.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-097",
-      "question": "Which principle states that training should be focused on the specific sport or skill?",
-      "options": [
-        "Specificity",
-        "Overload",
-        "Reversibility",
-        "Progression"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Specificity means exercises should match the needs of the sport or activity.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-098",
-      "question": "What is the ideal resting heart rate for teenagers?",
-      "options": [
-        "60–100 bpm",
-        "30–50 bpm",
-        "120–150 bpm",
-        "100–150 bpm"
-      ],
-      "correctAnswer": 0,
-      "explanation": "A normal resting heart rate for teenagers is about 60 to 100 beats per minute.",
-      "difficulty": "medium",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-099",
-      "question": "Which basic first aid step is done first when treating a sprain?",
-      "options": [
-        "Rest the injured area",
-        "Apply heat",
-        "Massage the area",
-        "Do intense stretching"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Sprains should first be rested and protected using the RICE method.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-    {
-      "id": "mapeh-pe-100",
-      "question": "In basketball, what violation occurs when a player moves illegally without dribbling?",
-      "options": [
-        "Traveling",
-        "Double dribble",
-        "Foul",
-        "Backcourt violation"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Traveling occurs when a player takes too many steps without dribbling the ball.",
-      "difficulty": "easy",
-      "topic": "Physical Education"
-    },
-
-    /* HEALTH QUESTIONS START HERE */
-
-    {
-      "id": "mapeh-he-101",
-      "question": "Which nutrient is the body"s main source of energy?",
-      "options": [
-        "Carbohydrates",
-        "Proteins",
-        "Vitamins",
-        "Minerals"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Carbohydrates provide the primary fuel for daily activities.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-102",
-      "question": "What does HIV primarily attack in the human body?",
-      "options": [
-        "Immune system",
-        "Digestive system",
-        "Respiratory system",
-        "Nervous system"
-      ],
-      "correctAnswer": 0,
-      "explanation": "HIV attacks the immune system, weakening the body"s defense against infections.",
-      "difficulty": "medium",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-103",
-      "question": "Which vitamin helps strengthen the immune system and aids in iron absorption?",
-      "options": [
-        "Vitamin C",
-        "Vitamin A",
-        "Vitamin D",
-        "Vitamin K"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Vitamin C boosts immunity and helps the body absorb iron.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-104",
-      "question": "What do you call an unwanted, repeated aggressive behavior among students?",
-      "options": [
-        "Bullying",
-        "Teamwork",
-        "Cooperation",
-        "Competition"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Bullying involves repeated aggressive actions intended to harm others.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-105",
-      "question": "Which type of drug slows down brain activity?",
-      "options": [
-        "Depressants",
-        "Stimulants",
-        "Hallucinogens",
-        "Inhalants"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Depressants slow brain functions and body responses.",
-      "difficulty": "medium",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-106",
-      "question": "What do you call diseases that can be transferred from one person to another?",
-      "options": [
-        "Communicable diseases",
-        "Non-communicable diseases",
-        "Lifestyle diseases",
-        "Inborn diseases"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Communicable diseases spread through viruses, bacteria, or direct contact.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-107",
-      "question": "What is the first step in the DRSABC emergency action plan?",
-      "options": [
-        "Check for Danger",
-        "Check Response",
-        "Send for Help",
-        "Clear Airways"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The first step is to check for danger to ensure the safety of the rescuer and victim.",
-      "difficulty": "medium",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-108",
-      "question": "Which organ is primarily affected by hepatitis?",
-      "options": [
-        "Liver",
-        "Heart",
-        "Kidneys",
-        "Lungs"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Hepatitis is the inflammation of the liver.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-109",
-      "question": "Which of the following is a sign of stress?",
-      "options": [
-        "Irritability",
-        "Improved focus",
-        "More energy",
-        "Better sleep"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Irritability and mood changes often occur due to stress.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-110",
-      "question": "Which of the following prevents anemia?",
-      "options": [
-        "Iron-rich foods",
-        "Sugary foods",
-        "Fatty foods",
-        "Salty snacks"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Iron-rich foods like red meat and leafy greens help prevent anemia.",
-      "difficulty": "medium",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-111",
-      "question": "Which hormone is responsible for the "fight-or-flight" response?",
-      "options": [
-        "Adrenaline",
-        "Insulin",
-        "Estrogen",
-        "Melatonin"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Adrenaline prepares the body to react quickly to danger.",
-      "difficulty": "medium",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-112",
-      "question": "Which food group builds and repairs body tissues?",
-      "options": [
-        "Proteins",
-        "Fats",
-        "Carbohydrates",
-        "Vitamins"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Proteins are essential for tissue repair and growth.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-113",
-      "question": "Which of the following is an example of a non-communicable disease?",
-      "options": [
-        "Diabetes",
-        "Influenza",
-        "COVID-19",
-        "Chickenpox"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Diabetes is a long-term non-communicable condition.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-114",
-      "question": "What do you call substances in tobacco that cause cancer?",
-      "options": [
-        "Carcinogens",
-        "Vitamins",
-        "Pathogens",
-        "Antigens"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Carcinogens are cancer-causing chemicals found in cigarette smoke.",
-      "difficulty": "medium",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-115",
-      "question": "Which method of family planning uses natural observation of fertility signs?",
-      "options": [
-        "Natural method",
-        "Barrier method",
-        "Hormonal method",
-        "Surgical method"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Natural family planning involves monitoring menstrual cycles and fertility signs.",
-      "difficulty": "medium",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-116",
-      "question": "What is the healthiest way to manage stress?",
-      "options": [
-        "Exercise and relaxation",
-        "Overeating",
-        "Avoiding sleep",
-        "Ignoring problems"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Healthy coping includes exercise, rest, and relaxation techniques.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-117",
-      "question": "Which part of the reproductive system produces sperm cells?",
-      "options": [
-        "Testes",
-        "Ovaries",
-        "Uterus",
-        "Cervix"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The testes produce sperm and testosterone.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-118",
-      "question": "Which safety measure prevents food poisoning?",
-      "options": [
-        "Proper handwashing",
-        "Mixing raw and cooked meats",
-        "Leaving food outside for hours",
-        "Ignoring expiration dates"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Handwashing prevents the spread of bacteria that cause foodborne illness.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-119",
-      "question": "Which environmental issue is caused by excessive carbon dioxide?",
-      "options": [
-        "Global warming",
-        "Soil erosion",
-        "Flooding",
-        "Habitat loss"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Carbon dioxide traps heat, contributing to global warming.",
-      "difficulty": "medium",
-      "topic": "Health"
-    },
-    {
-      "id": "mapeh-he-120",
-      "question": "Which of the following reduces the risk of lifestyle diseases?",
-      "options": [
-        "Regular exercise",
-        "Smoking",
-        "Excessive alcohol consumption",
-        "High-sugar diet"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Active lifestyles reduce risks of diabetes, hypertension, and heart disease.",
-      "difficulty": "easy",
-      "topic": "Health"
-    },
+      "id": "music",
+      "name": "Music",
+      "questions": [
+        {
+          "id": "mapeh-mu-001",
+          "question": "What do you call the speed of the beat in music?",
+          "options": [
+            "Dynamics",
+            "Tempo",
+            "Texture",
+            "Harmony"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Tempo refers to how fast or slow the beat of a musical piece is played.",
+          "difficulty": "easy",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-002",
+          "question": "Which musical symbol indicates to play the music softly?",
+          "options": [
+            "Forte",
+            "Piano",
+            "Crescendo",
+            "Staccato"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Piano (p) is the musical term that means to play softly.",
+          "difficulty": "easy",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-003",
+          "question": "Which group of instruments includes violin, viola, cello, and double bass?",
+          "options": [
+            "Woodwind instruments",
+            "Percussion instruments",
+            "String instruments",
+            "Brass instruments"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The violin family belongs to the string instrument section.",
+          "difficulty": "easy",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-004",
+          "question": "The solfege syllable for the 5th degree of the scale is:",
+          "options": [
+            "Mi",
+            "Fa",
+            "Sol",
+            "La"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Sol is the fifth note in the solfege scale: Do-Re-Mi-Fa-Sol.",
+          "difficulty": "easy",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-005",
+          "question": "Which Filipino composer is known as the "Father of Kundiman"?",
+          "options": [
+            "Lucio San Pedro",
+            "Nicanor Abelardo",
+            "Francisco Santiago",
+            "Ryan Cayabyab"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Nicanor Abelardo composed many kundiman works during the early 1900s.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-006",
+          "question": "What is the term for the structure or plan of a musical piece?",
+          "options": [
+            "Form",
+            "Harmony",
+            "Dynamics",
+            "Rhythm"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Musical form organizes the different sections of a composition.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-007",
+          "question": "Which tempo marking means "very fast"?",
+          "options": [
+            "Largo",
+            "Adagio",
+            "Presto",
+            "Moderato"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Presto is used to indicate a very fast tempo.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-008",
+          "question": "The time signature 3/4 means:",
+          "options": [
+            "Three quarter notes per beat",
+            "Three beats per measure",
+            "Four beats per measure",
+            "Beat is counted in fours"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The top number shows three beats per measure while the bottom number indicates the quarter note gets one beat.",
+          "difficulty": "easy",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-009",
+          "question": "What element of music refers to the vertical combination of tones?",
+          "options": [
+            "Rhythm",
+            "Texture",
+            "Melody",
+            "Harmony"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Harmony occurs when notes are played or sung together.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-010",
+          "question": "Which musical period is Ludwig van Beethoven associated with?",
+          "options": [
+            "Baroque",
+            "Classical",
+            "Romantic",
+            "Modern"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Beethoven bridged the Classical and Romantic periods but is more associated with the Romantic era.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-011",
+          "question": "What do you call the highness or lowness of sound?",
+          "options": [
+            "Pitch",
+            "Dynamics",
+            "Timbre",
+            "Beat"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pitch refers to how high or low a sound is.",
+          "difficulty": "easy",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-012",
+          "question": "Which term means gradually getting louder?",
+          "options": [
+            "Decrescendo",
+            "Crescendo",
+            "Pianissimo",
+            "Forte"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Crescendo indicates a gradual increase in volume.",
+          "difficulty": "easy",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-013",
+          "question": "A cappella music is performed:",
+          "options": [
+            "With full orchestra",
+            "With percussion only",
+            "With string instruments",
+            "Without instrumental accompaniment"
+          ],
+          "correctAnswer": 3,
+          "explanation": "A cappella refers to vocal music sung without instruments.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-014",
+          "question": "Which of the following is a traditional Cordillera musical instrument?",
+          "options": [
+            "Kulintang",
+            "Gangsa",
+            "Kudyapi",
+            "Bandurria"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gangsa is a flat gong used by the Cordillera tribes.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-015",
+          "question": "What is the smallest interval in Western music?",
+          "options": [
+            "Whole step",
+            "Half step",
+            "Major third",
+            "Minor third"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A half step (semitone) is the smallest interval.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-016",
+          "question": "A musical composition for one instrument, usually piano, is called:",
+          "options": [
+            "Concerto",
+            "Sonata",
+            "Symphony",
+            "Opera"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A sonata is a work written for a solo instrument, often piano.",
+          "difficulty": "difficult",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-017",
+          "question": "Which musical texture features a single melody with accompaniment?",
+          "options": [
+            "Monophonic",
+            "Polyphonic",
+            "Homophonic",
+            "Heterophonic"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Homophonic texture includes melody with harmonic support.",
+          "difficulty": "difficult",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-018",
+          "question": "What do we call the unique quality or color of a sound?",
+          "options": [
+            "Pitch",
+            "Timbre",
+            "Tempo",
+            "Dynamics"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Timbre distinguishes different sound sources even if they have the same pitch.",
+          "difficulty": "easy",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-019",
+          "question": "Which of the following is an example of a liturgical music form?",
+          "options": [
+            "Mass",
+            "Harana",
+            "Kundiman",
+            "Polka"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Mass is a form of sacred or liturgical music used in church worship.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-020",
+          "question": "Which Southeast Asian musical ensemble uses bronze gongs and metallophones?",
+          "options": [
+            "Gamelan",
+            "Samulnori",
+            "Taiko",
+            "Mariachi"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Indonesian Gamelan is composed of bronze percussion instruments.",
+          "difficulty": "medium",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-021",
+          "question": "The technique of singing two notes rapidly in alternation is called:",
+          "options": [
+            "Trill",
+            "Vibrato",
+            "Glissando",
+            "Falsetto"
+          ],
+          "correctAnswer": 0,
+          "explanation": "A trill alternates quickly between adjacent notes.",
+          "difficulty": "difficult",
+          "topic": "Music"
+        },
+        {
+          "id": "mapeh-mu-022",
+          "question": "A musical piece written for a small ensemble of 2–8 performers is called:",
+          "options": [
+            "Chorale",
+            "Sonata",
+            "Chamber music",
+            "Concerto"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Chamber music is written for intimate groups like duets, trios, or quartets.",
+          "difficulty": "difficult",
+          "topic": "Music"
+        }
+      ]
+    },
+    {
+      "id": "arts",
+      "name": "Arts",
+      "questions": [
+        {
+          "id": "mapeh-ar-023",
+          "question": "What element of art refers to the lightness or darkness of a color?",
+          "options": [
+            "Hue",
+            "Value",
+            "Intensity",
+            "Texture"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Value describes how light or dark a color appears.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-024",
+          "question": "Which principle of art refers to differences in elements to create visual interest?",
+          "options": [
+            "Harmony",
+            "Contrast",
+            "Balance",
+            "Unity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Contrast involves combining opposite elements like light vs. dark.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-025",
+          "question": "A sculpture that is viewed from all sides is called:",
+          "options": [
+            "Relief",
+            "Bas-relief",
+            "Freestanding",
+            "Mosaic"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Freestanding sculptures are 3D artworks meant to be viewed from all angles.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-026",
+          "question": "Who painted the famous artwork "The Starry Night"?",
+          "options": [
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Claude Monet"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Vincent van Gogh created The Starry Night in 1889.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-027",
+          "question": "The Batangas embroidery technique known for its openwork design is called:",
+          "options": [
+            "Piña weaving",
+            "Calado",
+            "T'nalak",
+            "Inabel"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Calado is a traditional Batangas embroidery known for openwork patterns.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-028",
+          "question": "Which artistic style is characterized by distorted figures and emotional exaggeration?",
+          "options": [
+            "Impressionism",
+            "Realism",
+            "Expressionism",
+            "Cubism"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Expressionism emphasizes emotional experience rather than physical reality.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-029",
+          "question": "T'nalak fabric is traditionally woven by the T'boli using what material?",
+          "options": [
+            "Abaca fibers",
+            "Cotton threads",
+            "Silk",
+            "Piña fibers"
+          ],
+          "correctAnswer": 0,
+          "explanation": "T'nalak is made from abaca fiber and produced by T'boli "dreamweavers".",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-030",
+          "question": "Which principle of art uses repetition of elements to create movement?",
+          "options": [
+            "Pattern",
+            "Emphasis",
+            "Proportion",
+            "Rhythm"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Rhythm creates a sense of movement by repeating elements.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-031",
+          "question": "The Baroque style of art is best described as:",
+          "options": [
+            "Simple and plain",
+            "Dramatic and ornate",
+            "Geometric and analytical",
+            "Flat and stylized"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Baroque art is known for dramatic lighting and elaborate decoration.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-032",
+          "question": "Which painting technique uses thin, transparent layers of watercolor?",
+          "options": [
+            "Wash",
+            "Impasto",
+            "Sgraffito",
+            "Stippling"
+          ],
+          "correctAnswer": 0,
+          "explanation": "A wash creates smooth, transparent color layers in watercolor painting.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-033",
+          "question": "The process of carving or cutting away from a solid material is called:",
+          "options": [
+            "Additive sculpture",
+            "Subtractive sculpture",
+            "Assemblage",
+            "Pottery"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Subtractive sculpture removes material to create forms.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-034",
+          "question": "The color combination of red and green is an example of:",
+          "options": [
+            "Analogous colors",
+            "Complementary colors",
+            "Triad colors",
+            "Monochromatic scheme"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Complementary colors are opposite each other on the color wheel.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-035",
+          "question": "Which Filipino National Artist is famous for his "spherical" abstract paintings?",
+          "options": [
+            "Napoleon Abueva",
+            "Victorio Edades",
+            "Jose Joya",
+            "Arturo Luz"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Jose Joya, a National Artist for Visual Arts, is known for his abstract work.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-036",
+          "question": "Which architectural structure is considered a classic example of Roman engineering?",
+          "options": [
+            "Stonehenge",
+            "Parthenon",
+            "Colosseum",
+            "Taj Mahal"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The Colosseum in Rome showcases Roman innovation in arches and concrete.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-037",
+          "question": "What do you call a printmaking technique that uses a carved wood block?",
+          "options": [
+            "Engraving",
+            "Lithography",
+            "Woodcut",
+            "Etching"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Woodcut is the oldest printmaking method using carved wooden blocks.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-038",
+          "question": "Which type of balance uses equal visual weight on both sides of an artwork?",
+          "options": [
+            "Asymmetrical",
+            "Radial",
+            "Symmetrical",
+            "Dynamic"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Symmetrical balance mirrors elements on both sides.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-039",
+          "question": "The giant lanterns of Pampanga displayed during Christmas are called:",
+          "options": [
+            "Parol",
+            "Puni",
+            "Giant Lanterns",
+            "Ligligan Parul"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Ligligan Parul refers to the Giant Lantern Festival in San Fernando, Pampanga.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-040",
+          "question": "Which Southeast Asian temple complex is known for its detailed stone carvings?",
+          "options": [
+            "Borobudur",
+            "Angkor Wat",
+            "Shwedagon Pagoda",
+            "Wat Pho"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Angkor Wat in Cambodia is famous for intricate carvings and bas-reliefs.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-041",
+          "question": "Which style uses geometric shapes to depict reality?",
+          "options": [
+            "Cubism",
+            "Surrealism",
+            "Fauvism",
+            "Neoclassicism"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Cubism breaks objects into geometric forms.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-042",
+          "question": "The method of creating images using small pieces of colored stone or glass is called:",
+          "options": [
+            "Mosaic",
+            "Stained glass",
+            "Collage",
+            "Pointillism"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Mosaic art uses small colored pieces to form patterns or images.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-043",
+          "question": "The Banaue Rice Terraces are considered an example of:",
+          "options": [
+            "Natural architecture",
+            "Environmental art",
+            "Landscape architecture",
+            "Cultural landscape"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The terraces represent cultural landscape shaped by the Ifugao people.",
+          "difficulty": "difficult",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-044",
+          "question": "What medium did Juan Luna use for his painting "Spoliarium"?",
+          "options": [
+            "Acrylic",
+            "Watercolor",
+            "Oil on canvas",
+            "Tempera"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Spoliarium is an oil-on-canvas masterpiece awarded in Madrid in 1884.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-045",
+          "question": "Which type of perspective uses a single vanishing point?",
+          "options": [
+            "Two-point perspective",
+            "One-point perspective",
+            "Three-point perspective",
+            "Linear-free perspective"
+          ],
+          "correctAnswer": 1,
+          "explanation": "One-point perspective uses one vanishing point for depth.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-046",
+          "question": "The art movement that emphasizes light and color over detail is:",
+          "options": [
+            "Realism",
+            "Impressionism",
+            "Baroque",
+            "Romanticism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Impressionism focuses on capturing light and atmospheric effects.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-047",
+          "question": "Which pottery tradition in the Philippines is known for its burnay jars?",
+          "options": [
+            "Vigan",
+            "Bohol",
+            "Cebu",
+            "Iloilo"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Vigan is known for its sturdy burnay earthen jars.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-048",
+          "question": "What do you call art created with computer software or digital tools?",
+          "options": [
+            "Installation art",
+            "Digital art",
+            "Mixed media",
+            "Multimedia design"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Digital art uses computers and software in producing visual creations.",
+          "difficulty": "easy",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-049",
+          "question": "Which contemporary Filipino artist is known for hyperrealistic paintings of sardine cans?",
+          "options": [
+            "Benedicto Cabrera",
+            "Ronald Ventura",
+            "Elmer Borlongan",
+            "Leeroy New"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ventura is known for hyperrealism and pop-surrealism themes.",
+          "difficulty": "difficult",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-050",
+          "question": "The carved wooden figures from the Cordillera, often called "bulul," represent:",
+          "options": [
+            "Rice guardians",
+            "Spiritual healers",
+            "Anito gods",
+            "Legendary warriors"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Bulul figurines are believed to guard rice granaries and bring good harvest.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-051",
+          "question": "Which color scheme uses three colors evenly spaced on the color wheel?",
+          "options": [
+            "Analogous",
+            "Triadic",
+            "Complementary",
+            "Monochromatic"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A triadic color scheme uses three evenly spaced colors such as red, yellow, and blue.",
+          "difficulty": "medium",
+          "topic": "Arts"
+        },
+        {
+          "id": "mapeh-ar-052",
+          "question": "Which art form involves arranging objects and environments for viewer interaction?",
+          "options": [
+            "Collage",
+            "Installation art",
+            "Sculpture",
+            "Performance art"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Installation art fills a space and often allows viewers to move within the artwork.",
+          "difficulty": "difficult",
+          "topic": "Arts"
+        }
+      ]
+    },
+    {
+      "id": "physical-education",
+      "name": "Physical Education",
+      "questions": [
+        {
+          "id": "mapeh-pe-061",
+          "question": "Which skill-related component refers to the ability to change direction quickly?",
+          "options": [
+            "Agility",
+            "Power",
+            "Balance",
+            "Coordination"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Agility is the ability to move and change direction quickly and effectively.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-062",
+          "question": "Which FITT principle refers to how often an activity is performed?",
+          "options": [
+            "Frequency",
+            "Intensity",
+            "Time",
+            "Type"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Frequency indicates how many times an activity is done per week.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-063",
+          "question": "What do you call the range of motion around a joint?",
+          "options": [
+            "Flexibility",
+            "Strength",
+            "Agility",
+            "Reaction Time"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Flexibility is the ability of joints to move through a full range of motion.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-064",
+          "question": "Which muscle group is primarily used during squats?",
+          "options": [
+            "Quadriceps",
+            "Biceps",
+            "Deltoids",
+            "Triceps"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Squats target the quadriceps, hamstrings, and glutes.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-065",
+          "question": "Which of the following is an example of aerobic exercise?",
+          "options": [
+            "Jogging",
+            "Push-ups",
+            "Weightlifting",
+            "Sprinting"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Jogging uses oxygen over a sustained period, making it an aerobic activity.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-066",
+          "question": "Which component of fitness refers to the ability of the heart and lungs to supply oxygen during exercise?",
+          "options": [
+            "Cardiovascular endurance",
+            "Muscular strength",
+            "Muscular endurance",
+            "Flexibility"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Cardiovascular endurance measures how well the heart and lungs work during prolonged activity.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-067",
+          "question": "The ability to exert force in a short burst is called:",
+          "options": [
+            "Power",
+            "Coordination",
+            "Speed",
+            "Strength"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Power is a combination of speed and strength.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-068",
+          "question": "Which term refers to the body's ability to maintain equilibrium while stationary or in motion?",
+          "options": [
+            "Balance",
+            "Agility",
+            "Speed",
+            "Coordination"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Balance is the ability to maintain body position whether moving or still.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-069",
+          "question": "Which skill is MOST needed in catching a ball?",
+          "options": [
+            "Coordination",
+            "Agility",
+            "Speed",
+            "Balance"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Hand-eye coordination allows a person to time and aim movements when catching.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-070",
+          "question": "A fitness test used to measure cardiovascular endurance is:",
+          "options": [
+            "3-Minute Step Test",
+            "Sit-and-Reach Test",
+            "Curl-Up Test",
+            "Push-Up Test"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The 3-Minute Step Test measures aerobic capacity.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-071",
+          "question": "What is the correct sequence of a warm-up routine?",
+          "options": [
+            "Light activity → stretching → dynamic movement",
+            "Stretching → light activity → cool-down",
+            "Cool-down → stretching → warm-up",
+            "Dynamic movement → stretching → intense activity"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Warm-up begins with light activity, followed by stretching, then dynamic movements.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-072",
+          "question": "How many minutes of moderate exercise are recommended per week for teens?",
+          "options": [
+            "150 minutes",
+            "60 minutes",
+            "30 minutes",
+            "500 minutes"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teens should engage in at least 60 minutes of physical activity daily.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-073",
+          "question": "Which dance originated from the Cordillera region?",
+          "options": [
+            "Tinikling",
+            "Banga",
+            "Maglalatik",
+            "Pandanggo sa Ilaw"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Banga is a Cordillera dance that uses clay pots balanced on the head.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-074",
+          "question": "Which is NOT a fundamental skill in basketball?",
+          "options": [
+            "Dribbling",
+            "Serving",
+            "Shooting",
+            "Passing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Serving is a volleyball skill, not a basketball skill.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-075",
+          "question": "In volleyball, how many players are on the court per team?",
+          "options": [
+            "6",
+            "7",
+            "5",
+            "4"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Indoor volleyball is played with six players per team on the court.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-076",
+          "question": "Which part of the body is strengthened most by planking?",
+          "options": [
+            "Core",
+            "Arms",
+            "Legs",
+            "Shoulders"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Planking primarily strengthens the core muscles.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-077",
+          "question": "What is the basic social dance position where partners face each other?",
+          "options": [
+            "Closed position",
+            "Open position",
+            "Promenade position",
+            "Side-by-side position"
+          ],
+          "correctAnswer": 0,
+          "explanation": "In closed position, partners face each other with one partner's hand on the other's shoulder.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-078",
+          "question": "Which of the following is a locomotor movement?",
+          "options": [
+            "Jumping",
+            "Bending",
+            "Twisting",
+            "Stretching"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Locomotor movements move the body from one point to another such as jumping.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-079",
+          "question": "Which of the following is a non-locomotor movement?",
+          "options": [
+            "Swaying",
+            "Galloping",
+            "Hopping",
+            "Leaping"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Non-locomotor movements do not involve traveling from place to place.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-080",
+          "question": "A dance that reflects cultural traditions and heritage is called:",
+          "options": [
+            "Folk dance",
+            "Social dance",
+            "Ballroom dance",
+            "Creative dance"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Folk dance portrays cultural traditions of different communities.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-081",
+          "question": "Which Philippine folk dance uses bamboo poles?",
+          "options": [
+            "Tinikling",
+            "Kuratsa",
+            "Cariñosa",
+            "Itik-itik"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Tinikling dancers skillfully step between moving bamboo poles.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-082",
+          "question": "The ability to use senses with body parts to perform motor tasks is called:",
+          "options": [
+            "Coordination",
+            "Agility",
+            "Power",
+            "Reaction Time"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Coordination allows smooth and efficient body movements.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-083",
+          "question": "The place where volleyball is first served is called:",
+          "options": [
+            "Service area",
+            "Back zone",
+            "Attack line",
+            "Center line"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The service area is where the player serves behind the end line.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-084",
+          "question": "In badminton, what is the official term for the feathered projectile?",
+          "options": [
+            "Shuttlecock",
+            "Feather ball",
+            "Badminton bird",
+            "Racket ball"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The shuttlecock is hit back and forth over the net.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-085",
+          "question": "Which yoga position improves flexibility of the spine?",
+          "options": [
+            "Cobra pose",
+            "Mountain pose",
+            "Chair pose",
+            "Warrior pose"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Cobra pose stretches the spine and strengthens the back.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-086",
+          "question": "Which is a common injury caused by overstretching muscles?",
+          "options": [
+            "Strain",
+            "Sprain",
+            "Fracture",
+            "Dislocation"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Strain involves overstretched or torn muscles.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-087",
+          "question": "Which skill is required most in sprinting?",
+          "options": [
+            "Speed",
+            "Balance",
+            "Agility",
+            "Coordination"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Sprinting is a high-speed running event.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-088",
+          "question": "In table tennis, how many points are needed to win a set?",
+          "options": [
+            "11 points",
+            "15 points",
+            "21 points",
+            "25 points"
+          ],
+          "correctAnswer": 0,
+          "explanation": "A player must score 11 points to win a set with at least a 2-point lead.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-089",
+          "question": "What do you call the boundary line in basketball where the ball is out of play?",
+          "options": [
+            "Sideline",
+            "Free-throw line",
+            "Baseline",
+            "Midcourt line"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The sideline marks the outer boundary of the court.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-090",
+          "question": "Which principle of training means gradually increasing the workload?",
+          "options": [
+            "Progression",
+            "Specificity",
+            "Overload",
+            "Reversibility"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Progression involves gradually increasing exercise difficulty.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-091",
+          "question": "Which component of fitness is tested using the Sit-and-Reach Test?",
+          "options": [
+            "Flexibility",
+            "Muscular strength",
+            "Cardiovascular endurance",
+            "Speed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The Sit-and-Reach Test measures flexibility, particularly of the hamstrings and lower back.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-092",
+          "question": "Which of the following reduces the risk of injury during exercise?",
+          "options": [
+            "Warm-up",
+            "Skipping cool-down",
+            "Wearing heavy clothing",
+            "Starting with high intensity"
+          ],
+          "correctAnswer": 0,
+          "explanation": "A proper warm-up prepares the muscles and cardiovascular system for activity.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-093",
+          "question": "In swimming, which stroke is known as the fastest?",
+          "options": [
+            "Freestyle",
+            "Breaststroke",
+            "Backstroke",
+            "Butterfly"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The freestyle stroke is generally the fastest due to its efficient movement.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-094",
+          "question": "Which dance classification includes dances performed by couples for recreation?",
+          "options": [
+            "Social dance",
+            "Creative dance",
+            "Folk dance",
+            "Festival dance"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Social dances are performed for pleasure and interaction, usually by pairs.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-095",
+          "question": "What is the correct volleyball term for preventing the ball from touching the floor after an opponent's attack?",
+          "options": [
+            "Dig",
+            "Block",
+            "Serve",
+            "Spike"
+          ],
+          "correctAnswer": 0,
+          "explanation": "A dig is a defensive move to prevent the ball from hitting the court.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-096",
+          "question": "Which of the following is an example of dual sports?",
+          "options": [
+            "Badminton",
+            "Gymnastics",
+            "Football",
+            "Track and Field"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Dual sports are played by two people against each other, such as badminton or tennis.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-097",
+          "question": "Which principle states that training should be focused on the specific sport or skill?",
+          "options": [
+            "Specificity",
+            "Overload",
+            "Reversibility",
+            "Progression"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Specificity means exercises should match the needs of the sport or activity.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-098",
+          "question": "What is the ideal resting heart rate for teenagers?",
+          "options": [
+            "60–100 bpm",
+            "30–50 bpm",
+            "120–150 bpm",
+            "100–150 bpm"
+          ],
+          "correctAnswer": 0,
+          "explanation": "A normal resting heart rate for teenagers is about 60 to 100 beats per minute.",
+          "difficulty": "medium",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-099",
+          "question": "Which basic first aid step is done first when treating a sprain?",
+          "options": [
+            "Rest the injured area",
+            "Apply heat",
+            "Massage the area",
+            "Do intense stretching"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Sprains should first be rested and protected using the RICE method.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        },
+        {
+          "id": "mapeh-pe-100",
+          "question": "In basketball, what violation occurs when a player moves illegally without dribbling?",
+          "options": [
+            "Traveling",
+            "Double dribble",
+            "Foul",
+            "Backcourt violation"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Traveling occurs when a player takes too many steps without dribbling the ball.",
+          "difficulty": "easy",
+          "topic": "Physical Education"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "questions": [
+        {
+          "id": "mapeh-he-101",
+          "question": "Which nutrient is the body's main source of energy?",
+          "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Vitamins",
+            "Minerals"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Carbohydrates provide the primary fuel for daily activities.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-102",
+          "question": "What does HIV primarily attack in the human body?",
+          "options": [
+            "Immune system",
+            "Digestive system",
+            "Respiratory system",
+            "Nervous system"
+          ],
+          "correctAnswer": 0,
+          "explanation": "HIV attacks the immune system, weakening the body's defense against infections.",
+          "difficulty": "medium",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-103",
+          "question": "Which vitamin helps strengthen the immune system and aids in iron absorption?",
+          "options": [
+            "Vitamin C",
+            "Vitamin A",
+            "Vitamin D",
+            "Vitamin K"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Vitamin C boosts immunity and helps the body absorb iron.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-104",
+          "question": "What do you call an unwanted, repeated aggressive behavior among students?",
+          "options": [
+            "Bullying",
+            "Teamwork",
+            "Cooperation",
+            "Competition"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Bullying involves repeated aggressive actions intended to harm others.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-105",
+          "question": "Which type of drug slows down brain activity?",
+          "options": [
+            "Depressants",
+            "Stimulants",
+            "Hallucinogens",
+            "Inhalants"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Depressants slow brain functions and body responses.",
+          "difficulty": "medium",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-106",
+          "question": "What do you call diseases that can be transferred from one person to another?",
+          "options": [
+            "Communicable diseases",
+            "Non-communicable diseases",
+            "Lifestyle diseases",
+            "Inborn diseases"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Communicable diseases spread through viruses, bacteria, or direct contact.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-107",
+          "question": "What is the first step in the DRSABC emergency action plan?",
+          "options": [
+            "Check for Danger",
+            "Check Response",
+            "Send for Help",
+            "Clear Airways"
+          ],
+          "correctAnswer": 0,
+          "explanation": "The first step is to check for danger to ensure the safety of the rescuer and victim.",
+          "difficulty": "medium",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-108",
+          "question": "Which organ is primarily affected by hepatitis?",
+          "options": [
+            "Liver",
+            "Heart",
+            "Kidneys",
+            "Lungs"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Hepatitis is the inflammation of the liver.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-109",
+          "question": "Which of the following is a sign of stress?",
+          "options": [
+            "Irritability",
+            "Improved focus",
+            "More energy",
+            "Better sleep"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Irritability and mood changes often occur due to stress.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-110",
+          "question": "Which of the following prevents anemia?",
+          "options": [
+            "Iron-rich foods",
+            "Sugary foods",
+            "Fatty foods",
+            "Salty snacks"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Iron-rich foods like red meat and leafy greens help prevent anemia.",
+          "difficulty": "medium",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-111",
+          "question": "Which hormone is responsible for the "fight-or-flight" response?",
+          "options": [
+            "Adrenaline",
+            "Insulin",
+            "Estrogen",
+            "Melatonin"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Adrenaline prepares the body to react quickly to danger.",
+          "difficulty": "medium",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-112",
+          "question": "Which food group builds and repairs body tissues?",
+          "options": [
+            "Fats",
+            "Proteins",
+            "Carbohydrates",
+            "Vitamins"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Proteins are essential for tissue repair and growth.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-113",
+          "question": "Which of the following is an example of a non-communicable disease?",
+          "options": [
+            "Influenza",
+            "Diabetes",
+            "COVID-19",
+            "Chickenpox"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Diabetes is a long-term non-communicable condition.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-114",
+          "question": "What do you call substances in tobacco that cause cancer?",
+          "options": [
+            "Vitamins",
+            "Carcinogens",
+            "Pathogens",
+            "Antigens"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Carcinogens are cancer-causing chemicals found in cigarette smoke.",
+          "difficulty": "medium",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-115",
+          "question": "Which method of family planning uses natural observation of fertility signs?",
+          "options": [
+            "Barrier method",
+            "Natural method",
+            "Hormonal method",
+            "Surgical method"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Natural family planning involves monitoring menstrual cycles and fertility signs.",
+          "difficulty": "medium",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-116",
+          "question": "What is the healthiest way to manage stress?",
+          "options": [
+            "Overeating",
+            "Exercise and relaxation",
+            "Avoiding sleep",
+            "Ignoring problems"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Healthy coping includes exercise, rest, and relaxation techniques.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-117",
+          "question": "Which part of the reproductive system produces sperm cells?",
+          "options": [
+            "Ovaries",
+            "Testes",
+            "Uterus",
+            "Cervix"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The testes produce sperm and testosterone.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-118",
+          "question": "Which safety measure prevents food poisoning?",
+          "options": [
+            "Mixing raw and cooked meats",
+            "Proper handwashing",
+            "Leaving food outside for hours",
+            "Ignoring expiration dates"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Handwashing prevents the spread of bacteria that cause foodborne illness.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-119",
+          "question": "Which environmental issue is caused by excessive carbon dioxide?",
+          "options": [
+            "Soil erosion",
+            "Global warming",
+            "Flooding",
+            "Habitat loss"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Carbon dioxide traps heat, contributing to global warming.",
+          "difficulty": "medium",
+          "topic": "Health"
+        },
+        {
+          "id": "mapeh-he-120",
+          "question": "Which of the following reduces the risk of lifestyle diseases?",
+          "options": [
+            "Smoking",
+            "Regular exercise",
+            "Excessive alcohol consumption",
+            "High-sugar diet"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Active lifestyles reduce risks of diabetes, hypertension, and heart disease.",
+          "difficulty": "easy",
+          "topic": "Health"
+        },
         {
           "id": "mapeh-121",
           "question": "Ano ang pangunahing layunin ng warm-up exercises?",
@@ -1930,7 +1936,7 @@
             "Pagkakasunod ng tunog at pahinga",
             "Pinakamataas na nota",
             "Pinakamabilis na bahagi ng kanta",
-            "Paghalo-halo ng iba"t ibang instrumento"
+            "Paghalo-halo ng iba't ibang instrumento"
           ],
           "correctAnswer": 0,
           "explanation": "Ang rhythm ay pattern ng tunog at pahinga.",
@@ -2007,7 +2013,7 @@
           "difficulty": "medium",
           "topic": "Music"
         }
-]
-}
-]
+      ]
+    }
+  ]
 }
