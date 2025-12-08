@@ -1,29 +1,2118 @@
 {
-  "subject": "Secondary - Science",
+  "subject": "Secondary - Science - General Science",
   "category": "secondary",
-  "subcategory": "science",
+  "subcategory": "Science - General Science",
   "topics": [
     {
-      "id": "topic-1",
-      "name": "Topic 1",
+      "id": "science",
+      "name": "Science",
       "questions": [
         {
-          "id": "sec-science-001",
-          "question": "Sample question for science?",
+          "id": "1",
+          "question": "What is the chemical formula for water?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "H2O",
+            "CO2",
+            "O2",
+            "NaCl"
           ],
-          "correctAnswer": 0,
-          "explanation": "This is a sample question. Add 150 questions for this subject.",
+          "correctAnswer": 1,
+          "explanation": "Water consists of two hydrogen atoms and one oxygen atom, H2O.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "2",
+          "question": "Which planet is known as the Red Planet?",
+          "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Mercury"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mars is called the Red Planet due to its reddish surface.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "3",
+          "question": "What gas do plants release during photosynthesis?",
+          "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Plants release oxygen during photosynthesis.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "4",
+          "question": "Which part of the plant conducts water?",
+          "options": [
+            "Xylem",
+            "Phloem",
+            "Chloroplast",
+            "Stomata"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Xylem transports water from roots to leaves.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "5",
+          "question": "Which organ is responsible for pumping blood?",
+          "options": [
+            "Heart",
+            "Lung",
+            "Kidney",
+            "Brain"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The heart circulates blood throughout the body.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "6",
+          "question": "What is the boiling point of water at sea level in Celsius?",
+          "options": [
+            "100",
+            "0",
+            "50",
+            "212"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Water boils at 100°C at sea level.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "7",
+          "question": "Which organelle is responsible for photosynthesis?",
+          "options": [
+            "Chloroplast",
+            "Mitochondria",
+            "Ribosome",
+            "Nucleus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Chloroplasts contain chlorophyll and conduct photosynthesis.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "8",
+          "question": "Which gas is essential for respiration?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Oxygen is needed by cells to produce energy.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "9",
+          "question": "Which particle is found in the nucleus of an atom?",
+          "options": [
+            "Proton",
+            "Electron",
+            "Neutrino",
+            "Photon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Protons are positively charged particles in the nucleus.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "10",
+          "question": "Which process allows plants to make their own food?",
+          "options": [
+            "Photosynthesis",
+            "Respiration",
+            "Fermentation",
+            "Transpiration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Photosynthesis converts sunlight into chemical energy.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "11",
+          "question": "Which planet has the fastest orbit around the Sun?",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mercury is closest to the Sun and orbits fastest.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "12",
+          "question": "What is the main component of natural gas?",
+          "options": [
+            "Methane",
+            "Carbon Dioxide",
+            "Oxygen",
+            "Hydrogen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Natural gas is primarily methane (CH4).",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "13",
+          "question": "Which organ stores bile produced by the liver?",
+          "options": [
+            "Gallbladder",
+            "Pancreas",
+            "Stomach",
+            "Small Intestine"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The gallbladder stores and releases bile.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "14",
+          "question": "Which type of blood cells fight infections?",
+          "options": [
+            "White Blood Cells",
+            "Red Blood Cells",
+            "Platelets",
+            "Plasma"
+          ],
+          "correctAnswer": 1,
+          "explanation": "White blood cells are responsible for immunity.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "15",
+          "question": "What is the primary function of the large intestine?",
+          "options": [
+            "Absorb water",
+            "Absorb nutrients",
+            "Produce enzymes",
+            "Filter blood"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The large intestine absorbs water from waste.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "16",
+          "question": "Which organelle is known as the powerhouse of the cell?",
+          "options": [
+            "Mitochondria",
+            "Nucleus",
+            "Ribosome",
+            "Golgi apparatus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mitochondria produce energy through cellular respiration.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "17",
+          "question": "Which gas do humans exhale during respiration?",
+          "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Humans exhale carbon dioxide as a waste product.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "18",
+          "question": "Which process converts glucose into energy in cells?",
+          "options": [
+            "Cellular Respiration",
+            "Photosynthesis",
+            "Fermentation",
+            "Osmosis"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cellular respiration breaks down glucose to produce ATP.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "19",
+          "question": "Which planet is known for its rings?",
+          "options": [
+            "Saturn",
+            "Jupiter",
+            "Mars",
+            "Uranus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Saturn is famous for its prominent rings.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "20",
+          "question": "What type of bond involves sharing electrons?",
+          "options": [
+            "Covalent",
+            "Ionic",
+            "Metallic",
+            "Hydrogen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Covalent bonds share electrons between atoms.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "21",
+          "question": "Which particle has a positive charge?",
+          "options": [
+            "Proton",
+            "Electron",
+            "Neutron",
+            "Photon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Protons carry a positive charge.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "22",
+          "question": "Which layer of the Earth is liquid?",
+          "options": [
+            "Outer Core",
+            "Inner Core",
+            "Mantle",
+            "Crust"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The outer core is liquid, composed of molten iron and nickel.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "23",
+          "question": "Which organ filters blood to remove waste?",
+          "options": [
+            "Kidney",
+            "Liver",
+            "Heart",
+            "Lung"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kidneys filter blood and produce urine.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "24",
+          "question": "Which type of energy is stored in food?",
+          "options": [
+            "Chemical",
+            "Kinetic",
+            "Mechanical",
+            "Thermal"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Chemical energy is stored in molecular bonds of food.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "25",
+          "question": "Which organ system includes the brain and spinal cord?",
+          "options": [
+            "Nervous",
+            "Circulatory",
+            "Digestive",
+            "Respiratory"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The nervous system controls body functions via the brain and spinal cord.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "26",
+          "question": "Which gas causes the greenhouse effect?",
+          "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Carbon dioxide traps heat in the atmosphere.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "27",
+          "question": "Which acid is found in the stomach?",
+          "options": [
+            "Hydrochloric",
+            "Acetic",
+            "Sulfuric",
+            "Carbonic"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Hydrochloric acid aids digestion in the stomach.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "28",
+          "question": "Which particle has no charge?",
+          "options": [
+            "Neutron",
+            "Proton",
+            "Electron",
+            "Photon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Neutrons are neutral with no charge.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "29",
+          "question": "Which planet is the largest in the solar system?",
+          "options": [
+            "Jupiter",
+            "Saturn",
+            "Earth",
+            "Neptune"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jupiter is the largest planet in the solar system.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "30",
+          "question": "Which type of muscle is involuntary?",
+          "options": [
+            "Smooth",
+            "Skeletal",
+            "Cardiac",
+            "Striated"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Smooth muscle operates automatically without conscious control.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "31",
+          "question": "Which part of the plant contains chlorophyll?",
+          "options": [
+            "Chloroplast",
+            "Nucleus",
+            "Xylem",
+            "Phloem"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Chloroplasts contain chlorophyll for photosynthesis.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "32",
+          "question": "Which organ produces insulin?",
+          "options": [
+            "Pancreas",
+            "Liver",
+            "Stomach",
+            "Kidney"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The pancreas produces insulin to regulate blood sugar.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "33",
+          "question": "Which type of rock is formed from lava?",
+          "options": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Quartz"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Igneous rocks form from cooled lava or magma.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "34",
+          "question": "Which planet is closest to the Sun?",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mercury is the innermost planet in the solar system.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "35",
+          "question": "Which gas is required for combustion?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Oxygen supports combustion.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "36",
+          "question": "Which particle is found outside the nucleus?",
+          "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Photon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Electrons orbit the nucleus in energy levels.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "37",
+          "question": "Which organ converts food into energy?",
+          "options": [
+            "Stomach",
+            "Small Intestine",
+            "Liver",
+            "Heart"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The stomach and small intestine digest food, producing energy.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "38",
+          "question": "Which process allows water to move from roots to leaves?",
+          "options": [
+            "Transpiration",
+            "Photosynthesis",
+            "Respiration",
+            "Osmosis"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Transpiration helps pull water up through xylem vessels.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "39",
+          "question": "Which type of blood carries oxygen?",
+          "options": [
+            "Red Blood Cells",
+            "White Blood Cells",
+            "Plasma",
+            "Platelets"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Red blood cells transport oxygen via hemoglobin.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "40",
+          "question": "Which planet is known as the Morning Star?",
+          "options": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Venus is called the Morning Star when visible at dawn.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "41",
+          "question": "Which organ stores urine?",
+          "options": [
+            "Bladder",
+            "Kidney",
+            "Heart",
+            "Liver"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The bladder stores urine before excretion.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "42",
+          "question": "Which gas is essential for photosynthesis?",
+          "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Plants take in carbon dioxide for photosynthesis.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "43",
+          "question": "Which process breaks down food molecules for energy?",
+          "options": [
+            "Digestion",
+            "Photosynthesis",
+            "Transpiration",
+            "Osmosis"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Digestion breaks down food into usable nutrients.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "44",
+          "question": "Which organ controls hormones in the body?",
+          "options": [
+            "Endocrine System",
+            "Nervous System",
+            "Respiratory System",
+            "Digestive System"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The endocrine system regulates hormones.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "45",
+          "question": "Which type of rock is formed under heat and pressure?",
+          "options": [
+            "Metamorphic",
+            "Igneous",
+            "Sedimentary",
+            "Quartz"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Metamorphic rocks form from heat and pressure on existing rocks.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "46",
+          "question": "Which gas makes up about 21% of the atmosphere?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Argon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Oxygen constitutes about 21% of Earth's atmosphere.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "47",
+          "question": "Which planet has the most moons?",
+          "options": [
+            "Saturn",
+            "Jupiter",
+            "Mars",
+            "Earth"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Saturn currently has the highest known number of moons.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "48",
+          "question": "Which blood component helps in clotting?",
+          "options": [
+            "Platelets",
+            "Red Blood Cells",
+            "White Blood Cells",
+            "Plasma"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Platelets aid in blood clotting.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "49",
+          "question": "Which organ aids in digestion and detoxification?",
+          "options": [
+            "Liver",
+            "Heart",
+            "Stomach",
+            "Kidney"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The liver produces bile and detoxifies chemicals.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "50",
+          "question": "Which particle is involved in chemical bonding?",
+          "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Photon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Electrons form bonds between atoms.",
+          "difficulty": "medium",
+          "topic": "Science"
+        },
+        {
+          "id": "51",
+          "question": "What is the center of the Solar System?",
+          "options": [
+            "Sun",
+            "Moon",
+            "Earth",
+            "Mars"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Sun is the center of the Solar System.",
           "difficulty": "easy",
-          "topic": "Topic 1"
+          "topic": "Science"
+        },
+        {
+          "id": "52",
+          "question": "Which planet is known as the Blue Planet?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Venus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Earth is called the Blue Planet because of its oceans.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "53",
+          "question": "Which gas do humans breathe in?",
+          "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Humans inhale oxygen for respiration.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "54",
+          "question": "What is H2O commonly known as?",
+          "options": [
+            "Water",
+            "Hydrogen",
+            "Oxygen",
+            "Salt"
+          ],
+          "correctAnswer": 1,
+          "explanation": "H2O is the chemical formula for water.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "55",
+          "question": "Which organ pumps blood throughout the body?",
+          "options": [
+            "Heart",
+            "Lung",
+            "Kidney",
+            "Liver"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The heart circulates blood to all body parts.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "56",
+          "question": "Which planet is closest to the Sun?",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mercury is the closest planet to the Sun.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "57",
+          "question": "What do plants take in to make food?",
+          "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Plants absorb carbon dioxide during photosynthesis.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "58",
+          "question": "Which organ helps us breathe?",
+          "options": [
+            "Lungs",
+            "Heart",
+            "Stomach",
+            "Brain"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Lungs allow the exchange of oxygen and carbon dioxide.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "59",
+          "question": "Which gas is released by plants?",
+          "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Plants release oxygen during photosynthesis.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "60",
+          "question": "What do bees collect from flowers?",
+          "options": [
+            "Nectar",
+            "Water",
+            "Sap",
+            "Pollen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bees collect nectar to make honey.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "61",
+          "question": "Which planet has rings around it?",
+          "options": [
+            "Saturn",
+            "Mars",
+            "Jupiter",
+            "Earth"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Saturn is known for its visible rings.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "62",
+          "question": "Which is the largest planet in our solar system?",
+          "options": [
+            "Jupiter",
+            "Mars",
+            "Earth",
+            "Venus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jupiter is the largest planet in the solar system.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "63",
+          "question": "Which organ filters blood to remove waste?",
+          "options": [
+            "Kidney",
+            "Liver",
+            "Heart",
+            "Lung"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kidneys filter waste and produce urine.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "64",
+          "question": "Which gas do plants need to perform photosynthesis?",
+          "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Plants use carbon dioxide to make food.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "65",
+          "question": "Which planet is known as the Red Planet?",
+          "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mars has a reddish appearance due to iron oxide.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "66",
+          "question": "What is the outer layer of Earth called?",
+          "options": [
+            "Crust",
+            "Mantle",
+            "Core",
+            "Lithosphere"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The crust is the Earth's outermost solid 6ayer.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "67",
+          "question": "Which liquid do plants need to survive?",
+          "options": [
+            "Water",
+            "Oil",
+            "Milk",
+            "Alcohol"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Water is essential for plant survival.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "68",
+          "question": "Which organ helps us see?",
+          "options": [
+            "Eyes",
+            "Ears",
+            "Nose",
+            "Brain"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Eyes detect light and allow vision.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "69",
+          "question": "Which star is closest to Earth?",
+          "options": [
+            "Sun",
+            "Proxima Centauri",
+            "Sirius",
+            "Alpha Centauri"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The Sun is the closest star to Earth.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "70",
+          "question": "What type of energy comes from the Sun?",
+          "options": [
+            "Solar",
+            "Wind",
+            "Hydro",
+            "Nuclear"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Solar energy is produced by the Sun.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "71",
+          "question": "Which animal lays eggs?",
+          "options": [
+            "Chicken",
+            "Dog",
+            "Cow",
+            "Horse"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Chickens are oviparous and lay eggs.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "72",
+          "question": "Which planet is known for its extreme winds?",
+          "options": [
+            "Neptune",
+            "Mars",
+            "Earth",
+            "Venus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Neptune has the fastest winds in the solar system.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "73",
+          "question": "Which organ produces urine?",
+          "options": [
+            "Kidney",
+            "Heart",
+            "Liver",
+            "Lung"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The kidneys filter blood to produce urine.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "74",
+          "question": "Which force pulls objects toward Earth?",
+          "options": [
+            "Gravity",
+            "Magnetism",
+            "Friction",
+            "Inertia"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gravity attracts objects to the Earth's center.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "75",
+          "question": "Which gas do humans exhale?",
+          "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Humans release carbon dioxide as a waste gas.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "77",
+          "question": "Which part of the plant absorbs water?",
+          "options": [
+            "Roots",
+            "Leaves",
+            "Stem",
+            "Flower"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Roots take up water from the soil.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "78",
+          "question": "Which is the smallest unit of life?",
+          "options": [
+            "Cell",
+            "Tissue",
+            "Organ",
+            "System"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cells are the basic building blocks of life.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "79",
+          "question": "Which gas is essential for fire to burn?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Oxygen supports combustion.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "70",
+          "question": "Which body system controls movement?",
+          "options": [
+            "Muscular",
+            "Nervous",
+            "Digestive",
+            "Respiratory"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The nervous system sends signals to muscles for movement.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "71",
+          "question": "Which planet is the fourth from the Sun?",
+          "options": [
+            "Mars",
+            "Earth",
+            "Jupiter",
+            "Venus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mars is the fourth planet in order from the Sun.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "72",
+          "question": "Which organ helps digest food by producing enzymes?",
+          "options": [
+            "Pancreas",
+            "Liver",
+            "Heart",
+            "Brain"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The pancreas produces enzymes to digest food.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "73",
+          "question": "Which animal is a mammal?",
+          "options": [
+            "Dog",
+            "Chicken",
+            "Shark",
+            "Crocodile"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Dogs are mammals that give live birth and nurse their young.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "74",
+          "question": "Which planet is the sixth from the Sun?",
+          "options": [
+            "Saturn",
+            "Mars",
+            "Jupiter",
+            "Venus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Saturn is the sixth planet from the Sun.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "75",
+          "question": "Which gas do humans need to live?",
+          "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Oxygen is necessary for cellular respiration.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "76",
+          "question": "Which planet is known for its bright rings?",
+          "options": [
+            "Saturn",
+            "Jupiter",
+            "Mars",
+            "Earth"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Saturn is recognized for its rings.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "77",
+          "question": "Which organ allows us to hear?",
+          "options": [
+            "Ears",
+            "Eyes",
+            "Nose",
+            "Mouth"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ears detect sound waves and enable hearing.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "78",
+          "question": "Which planet has a tilt causing seasons?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Venus",
+            "Jupiter"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Earth's axial tilt creates seasons.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "79",
+          "question": "Which process do plants use to make food?",
+          "options": [
+            "Photosynthesis",
+            "Respiration",
+            "Fermentation",
+            "Osmosis"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Photosynthesis uses sunlight to produce food.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "80",
+          "question": "Which planet is closest to Earth when aligned?",
+          "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Venus is the nearest planet to Earth at closest approach.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "81",
+          "question": "Which organ is responsible for thinking?",
+          "options": [
+            "Brain",
+            "Heart",
+            "Lung",
+            "Liver"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The brain controls thought, memory, and decisions.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "82",
+          "question": "Which planet is the third from the Sun?",
+          "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Venus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Earth is the third planet from the Sun.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "83",
+          "question": "Which body part helps you smell?",
+          "options": [
+            "Nose",
+            "Eyes",
+            "Ears",
+            "Hands"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The nose contains receptors for detecting odors.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "84",
+          "question": "Which gas is needed for photosynthesis?",
+          "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Helium"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Plants use carbon dioxide to produce glucose.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "85",
+          "question": "Which planet is the largest in the Solar System?",
+          "options": [
+            "Jupiter",
+            "Earth",
+            "Mars",
+            "Venus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Jupiter is the largest planet.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "86",
+          "question": "Which organ helps pump blood?",
+          "options": [
+            "Heart",
+            "Lung",
+            "Kidney",
+            "Liver"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The heart pumps blood through the circulatory system.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "87",
+          "question": "Which planet is known as the Evening Star?",
+          "options": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Jupiter"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Venus appears brightly in the evening sky.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "88",
+          "question": "Which body system helps fight infections?",
+          "options": [
+            "Immune System",
+            "Digestive System",
+            "Nervous System",
+            "Muscular System"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The immune system protects the body from pathogens.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "89",
+          "question": "Which planet has ice at its poles?",
+          "options": [
+            "Mars",
+            "Earth",
+            "Venus",
+            "Jupiter"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mars has polar ice caps made of water and CO2 ice.",
+          "difficulty": "easy",
+          "topic": "Science"
+        },
+        {
+          "id": "90",
+          "question": "Which organ helps regulate sugar in the blood?",
+          "options": [
+            "Pancreas",
+            "Liver",
+            "Heart",
+            "Kidney"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The pancreas produces insulin to control blood sugar.",
+          "difficulty": "easy",
+          "topic": "Science"
         }
       ]
+    },
+    {
+      "id": "easy",
+      "name": "Easy",
+      "questions": [
+        {
+          "id": "91",
+          "question": "Which planet is famous for its giant storm",
+          "options": [
+            "the Great Red Spot?",
+            "Jupiter",
+            "Mars",
+            "Earth"
+          ],
+          "correctAnswer": 1,
+          "explanation": "jupiter has the great red spot, a giant storm.",
+          "difficulty": "Easy"
+          "topic": "Science"
+        },
+        {
+          "id": "92",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Endoplasmic Reticulum",
+            "Nucleus",
+            "Lysosome",
+            "Mitochondria"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "93",
+          "question": "What is the chemical symbol for gold?",
+          "options": [
+            "Au",
+            "Ag",
+            "Ga",
+            "Gd"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The chemical symbol for gold, derived from Latin 'aurum', is Au.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "94",
+          "question": "Which force keeps planets in orbit around the Sun?",
+          "options": [
+            "Magnetism",
+            "Friction",
+            "Electrostatic",
+            "Gravity"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Gravity is the force that governs planetary motion.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "95",
+          "question": "Which pH value is considered neutral?",
+          "options": [
+            "14",
+            "0",
+            "7",
+            "1"
+          ],
+          "correctAnswer": 3,
+          "explanation": "A pH of 7 is neutral; below is acidic, above is basic.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "96",
+          "question": "Which gas is most abundant in the Earth's atmosphere?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Argon",
+            "Carbon Dioxide"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "97",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Photon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Electrons carry a negative charge.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "98",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "Electron",
+            "Photon",
+            "Neutron",
+            "Proton"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Electrons carry a negative charge.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "99",
+          "question": "Which law states that for every action there is an equal and opposite reaction?",
+          "options": [
+            "Newton's Second Law",
+            "Newton's First Law",
+            "Law of Gravity",
+            "Newton's Third Law"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Newton's Third Law describes action and reaction forces.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "100",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Mitochondria",
+            "Endoplasmic Reticulum",
+            "Nucleus",
+            "Lysosome"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "101",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Lysosome",
+            "Endoplasmic Reticulum",
+            "Nucleus",
+            "Mitochondria"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "102",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "Neutron",
+            "Proton",
+            "Photon",
+            "Electron"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Electrons carry a negative charge.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "103",
+          "question": "Which organ filters blood to form urine?",
+          "options": [
+            "Liver",
+            "Heart",
+            "Lung",
+            "Kidney"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Kidneys remove waste and form urine.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "104",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Nucleus",
+            "Endoplasmic Reticulum",
+            "Mitochondria",
+            "Lysosome"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "105",
+          "question": "What is the powerhouse of the cell?",
+          "options": [
+            "Ribosome",
+            "Mitochondria",
+            "Nucleus",
+            "Golgi apparatus"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mitochondria produce energy through cellular respiration.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "106",
+          "question": "Which process converts glucose into energy in cells?",
+          "options": [
+            "Fermentation",
+            "Photosynthesis",
+            "Cellular Respiration",
+            "Osmosis"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Cellular respiration breaks down glucose to produce ATP energy.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "107",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Mitochondria",
+            "Lysosome",
+            "Nucleus",
+            "Endoplasmic Reticulum"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "108",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "Photon",
+            "Electron",
+            "Neutron",
+            "Proton"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Electrons carry a negative charge.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "109",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Endoplasmic Reticulum",
+            "Mitochondria",
+            "Nucleus",
+            "Lysosome"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "120",
+          "question": "Which process converts glucose into energy in cells?",
+          "options": [
+            "Photosynthesis",
+            "Cellular Respiration",
+            "Fermentation",
+            "Osmosis"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Cellular respiration breaks down glucose to produce ATP energy.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "121",
+          "question": "What is the chemical symbol for gold?",
+          "options": [
+            "Ag",
+            "Gd",
+            "Ga",
+            "Au"
+          ],
+          "correctAnswer": 4,
+          "explanation": "The chemical symbol for gold, derived from Latin 'aurum', is Au.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "122",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "Electron",
+            "Photon",
+            "Neutron",
+            "Proton"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Electrons carry a negative charge.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "123",
+          "question": "Which force keeps planets in orbit around the Sun?",
+          "options": [
+            "Friction",
+            "Electrostatic",
+            "Gravity",
+            "Magnetism"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Gravity is the force that governs planetary motion.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "124",
+          "question": "What is the chemical symbol for gold?",
+          "options": [
+            "Ag",
+            "Gd",
+            "Au",
+            "Ga"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The chemical symbol for gold, derived from Latin 'aurum', is Au.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "125",
+          "question": "What is the chemical symbol for gold?",
+          "options": [
+            "Ag",
+            "Au",
+            "Ga",
+            "Gd"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The chemical symbol for gold, derived from Latin 'aurum', is Au.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "126",
+          "question": "Which law states that for every action there is an equal and opposite reaction?",
+          "options": [
+            "Newton's Second Law",
+            "Newton's Third Law",
+            "Law of Gravity",
+            "Newton's First Law"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Newton's Third Law describes action and reaction forces.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "127",
+          "question": "Which law states that for every action there is an equal and opposite reaction?",
+          "options": [
+            "Newton's First Law",
+            "Newton's Third Law",
+            "Newton's Second Law",
+            "Law of Gravity"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Newton's Third Law describes action and reaction forces.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "128",
+          "question": "Which process converts glucose into energy in cells?",
+          "options": [
+            "Cellular Respiration",
+            "Osmosis",
+            "Photosynthesis",
+            "Fermentation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cellular respiration breaks down glucose to produce ATP energy.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "129",
+          "question": "Which law states that for every action there is an equal and opposite reaction?",
+          "options": [
+            "Law of Gravity",
+            "Newton's Second Law",
+            "Newton's First Law",
+            "Newton's Third Law"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Newton's Third Law describes action and reaction forces.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "130",
+          "question": "Which organ filters blood to form urine?",
+          "options": [
+            "Liver",
+            "Heart",
+            "Kidney",
+            "Lung"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Kidneys remove waste and form urine.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "131",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Mitochondria",
+            "Nucleus",
+            "Lysosome",
+            "Endoplasmic Reticulum"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "132",
+          "question": "What is the powerhouse of the cell?",
+          "options": [
+            "Mitochondria",
+            "Golgi apparatus",
+            "Nucleus",
+            "Ribosome"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mitochondria produce energy through cellular respiration.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "133",
+          "question": "Which pH value is considered neutral?",
+          "options": [
+            "14",
+            "7",
+            "1",
+            "0"
+          ],
+          "correctAnswer": 2,
+          "explanation": "A pH of 7 is neutral; below is acidic, above is basic.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "134",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Nucleus",
+            "Endoplasmic Reticulum",
+            "Lysosome",
+            "Mitochondria"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "135",
+          "question": "Which force keeps planets in orbit around the Sun?",
+          "options": [
+            "Electrostatic",
+            "Gravity",
+            "Friction",
+            "Magnetism"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Gravity is the force that governs planetary motion.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "136",
+          "question": "Which process converts glucose into energy in cells?",
+          "options": [
+            "Photosynthesis",
+            "Cellular Respiration",
+            "Osmosis",
+            "Fermentation"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Cellular respiration breaks down glucose to produce ATP energy.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "137",
+          "question": "Which force keeps planets in orbit around the Sun?",
+          "options": [
+            "Gravity",
+            "Magnetism",
+            "Electrostatic",
+            "Friction"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Gravity is the force that governs planetary motion.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "138",
+          "question": "What is the powerhouse of the cell?",
+          "options": [
+            "Ribosome",
+            "Mitochondria",
+            "Nucleus",
+            "Golgi apparatus"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mitochondria produce energy through cellular respiration.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "139",
+          "question": "Which pH value is considered neutral?",
+          "options": [
+            "0",
+            "14",
+            "7",
+            "1"
+          ],
+          "correctAnswer": 3,
+          "explanation": "A pH of 7 is neutral; below is acidic, above is basic.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "140",
+          "question": "Which force keeps planets in orbit around the Sun?",
+          "options": [
+            "Friction",
+            "Magnetism",
+            "Gravity",
+            "Electrostatic"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Gravity is the force that governs planetary motion.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "141",
+          "question": "Which process converts glucose into energy in cells?",
+          "options": [
+            "Cellular Respiration",
+            "Fermentation",
+            "Photosynthesis",
+            "Osmosis"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cellular respiration breaks down glucose to produce ATP energy.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "142",
+          "question": "Which organelle contains the cell's genetic material?",
+          "options": [
+            "Lysosome",
+            "Endoplasmic Reticulum",
+            "Nucleus",
+            "Mitochondria"
+          ],
+          "correctAnswer": 3,
+          "explanation": "The nucleus contains DNA that controls cell functions.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "143",
+          "question": "Which pH value is considered neutral?",
+          "options": [
+            "7",
+            "0",
+            "14",
+            "1"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A pH of 7 is neutral; below is acidic, above is basic.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "144",
+          "question": "What is the chemical symbol for gold?",
+          "options": [
+            "Au",
+            "Ga",
+            "Gd",
+            "Ag"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The chemical symbol for gold, derived from Latin 'aurum', is Au.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "145",
+          "question": "Which gas is most abundant in the Earth's atmosphere?",
+          "options": [
+            "Argon",
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "146",
+          "question": "Which organ filters blood to form urine?",
+          "options": [
+            "Lung",
+            "Liver",
+            "Heart",
+            "Kidney"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Kidneys remove waste and form urine.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "147",
+          "question": "What is the chemical symbol for gold?",
+          "options": [
+            "Ga",
+            "Au",
+            "Gd",
+            "Ag"
+          ],
+          "correctAnswer": 2,
+          "explanation": "The chemical symbol for gold, derived from Latin 'aurum', is Au.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "148",
+          "question": "Which gas is most abundant in the Earth's atmosphere?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Argon"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "149",
+          "question": "Which process converts glucose into energy in cells?",
+          "options": [
+            "Fermentation",
+            "Osmosis",
+            "Photosynthesis",
+            "Cellular Respiration"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Cellular respiration breaks down glucose to produce ATP energy.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "150",
+          "question": "What is the powerhouse of the cell?",
+          "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Golgi apparatus"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Mitochondria produce energy through cellular respiration.",
+          "difficulty": "hard",
+          "topic": "Science"
+        },
+        {
+          "id": "151",
+          "question": "Which law states that for every action there is an equal and opposite reaction?",
+          "options": [
+            "Newton's Second Law",
+            "Law of Gravity",
+            "Newton's First Law",
+            "Newton's Third Law"
+          ],
+          "correctAnswer": 4,
+          "explanation": "Newton's Third Law describes action and reaction forces.",
+          "difficulty": "hard",
+          "topic": "Science"
+      ]
     }
-  ],
-  "totalQuestions": 1,
-  "note": "Sample questions - Add 150 total for full implementation"
+  ]
 }
