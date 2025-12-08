@@ -1,29 +1,2143 @@
 {
-  "subject": "Secondary - Filipino",
+  "subject": "Filipino - LET Reviewer",
   "category": "secondary",
-  "subcategory": "filipino",
+  "subcategory": "filipino-language",
   "topics": [
     {
-      "id": "topic-1",
-      "name": "Topic 1",
+      "id": "gramatika-retorika",
+      "name": "Gramatika at Retorika",
       "questions": [
         {
-          "id": "sec-filipino-001",
-          "question": "Sample question for filipino?",
+          "id": "fil-gr-001",
+          "question": "Ano ang tawag sa salitang naglalarawan sa pangngalan?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Pandiwa",
+            "Pang-uri",
+            "Pang-abay",
+            "Panghalip"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang pang-uri ay bahagi ng pananalita na naglalarawan o gumagawad ng katangian sa pangngalan o panghalip.",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-002",
+          "question": "Alin ang tamang ayos ng pangungusap na Filipino?",
+          "options": [
+            "Verb-Subject-Object (VSO)",
+            "Panaguri-Simuno (PS) o Verb-Subject",
+            "Subject-Verb-Object (SVO)",
+            "Object-Subject-Verb (OSV)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang karaniwang ayos ng pangungusap sa Filipino ay Panaguri-Simuno, kung saan ang pandiwa (panaguri) ay nauuna sa paksa (simuno).",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-003",
+          "question": "Ano ang pokus ng pandiwang 'binili'?",
+          "options": [
+            "Pokus sa Tagaganap",
+            "Pokus sa Layon",
+            "Pokus sa Sanhi",
+            "Pokus sa Direksyon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang 'binili' ay pokus sa layon (object focus) dahil ang tumanggap ng kilos ang nagiging paksa. Panlaping -in.",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-004",
+          "question": "Ano ang aspekto ng pandiwang 'kumakain'?",
+          "options": [
+            "Kontemplatibo",
+            "Imperpektibo",
+            "Perpektibo",
+            "Katatapos"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang 'kumakain' ay nasa aspektong imperpektibo na nagsasaad ng kilos na kasalukuyang isinasagawa o paulit-ulit na ginagawa.",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-005",
+          "question": "Ano ang tawag sa salitang humahalili sa pangngalan?",
+          "options": [
+            "Pang-abay",
+            "Panghalip",
+            "Pang-uri",
+            "Pandiwa"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang panghalip ay salitang humahalili o pumapanumbas sa pangngalan upang iwasan ang paulit-ulit na paggamit nito.",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-006",
+          "question": "Anong uri ng pang-abay ang salitang 'mabilis' sa pangungusap: 'Tumakbo siya nang mabilis'?",
+          "options": [
+            "Pang-abay na pamaraan",
+            "Pang-abay na pamanahon",
+            "Pang-abay na panlunan",
+            "Pang-abay na pamalit"
           ],
           "correctAnswer": 0,
-          "explanation": "This is a sample question. Add 150 questions for this subject.",
+          "explanation": "Ang 'mabilis' ay pang-abay na pamaraan dahil nagsasaad ng kung paano isagawa ang kilos. Ginamitan ng 'nang'.",
           "difficulty": "easy",
-          "topic": "Topic 1"
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-007",
+          "question": "Ano ang tawag sa dalawa o higit pang salitang pinagsama upang makabuo ng isang kahulugan?",
+          "options": [
+            "Inuulit",
+            "Tambalan",
+            "Maylapi",
+            "Payak"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang tambalan ay salitang-ugat na binuo ng dalawa o higit pang salita upang lumikha ng bagong kahulugan (hal. bahay-kubo, Pilipinas).",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-008",
+          "question": "Alin ang halimbawa ng pang-angkop?",
+          "options": [
+            "at, o, ngunit",
+            "na, -ng",
+            "ay, raw, yata",
+            "sa, ng, para"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang 'na' at '-ng' ay pang-angkop na nag-uugnay ng pang-uri sa pangngalan o pandiwa (hal. magandang babae, kumain ng bigas).",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-009",
+          "question": "Ano ang unlapi ng salitang 'bumili'?",
+          "options": [
+            "-um-",
+            "-in-",
+            "mag-",
+            "ma-"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang -um- ay unlapi (infix) na nakapaloob sa pagitan ng mga tunog ng salitang-ugat 'bili'. Ito ay panlaping nagsasaad ng pokus sa tagaganap.",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-010",
+          "question": "Ano ang tawag sa mga salitang nag-uugnay ng mga sugnay o pangungusap?",
+          "options": [
+            "Pang-angkop",
+            "Pangatnig",
+            "Pang-abay",
+            "Pang-ukol"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang pangatnig ay bahagi ng pananalita na nag-uugnay ng mga salita, parirala, sugnay, o pangungusap (hal. at, ngunit, o, kaya).",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-011",
+          "question": "Ano ang kahulugan ng 'morpema'?",
+          "options": [
+            "Pinakamalaking yunit ng wika",
+            "Pinakamaliit na yunit ng kahulugan sa wika",
+            "Parirala",
+            "Pangungusap"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang morpema ay pinakamaliit na yunit ng kahulugan sa wika na hindi na maaaring hatiin pa nang hindi masisira ang kahulugan.",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-012",
+          "question": "Ano ang tawag sa pandiwa na walang tuwirang layon o kalaanman?",
+          "options": [
+            "Pandiwa na may kalaanman",
+            "Pandiwa na katawanin",
+            "Pandiwang transitibo",
+            "Pandiwang di-transitibo"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Ang pandiwang di-transitibo ay walang tuwirang layon o kalaanman. Hindi nangangailangan ng object (hal. 'tulog', 'iyak', 'tawa').",
+          "difficulty": "difficult",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-013",
+          "question": "Ano ang uri ng pangngalang 'kagandahan'?",
+          "options": [
+            "Pantangi",
+            "Basal",
+            "Lansakan",
+            "Di-lansakan o Abstrak"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Ang 'kagandahan' ay pangngalang di-lansakan o abstrak dahil hindi ito nakikita o nahihipo. Ito ay konsepto o kaisipan lamang.",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-014",
+          "question": "Alin ang halimbawa ng pangungusap na tambalan?",
+          "options": [
+            "Kumain si Juan.",
+            "Umuulan at kumikilat.",
+            "Nang dumating ako, umalis na siya.",
+            "Kumain, uminom, at natulog siya."
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang pangungusap na tambalan ay binubuo ng dalawa o higit pang sugnay na magkatimbang na pinagsama ng pangatnig na pananhi (at, o).",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-015",
+          "question": "Ano ang tawag sa salitang nagsasaad ng damdamin o emosyon?",
+          "options": [
+            "Pang-abay",
+            "Pang-uri",
+            "Pandamdam",
+            "Pandiwa"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ang pandamdam ay bahagi ng pananalita na nagpapahayag ng matinding damdamin o emosyon (hal. Ay!, Naku!, Sayang!).",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-016",
+          "question": "Ano ang pokus ng pandiwang 'kinain'?",
+          "options": [
+            "Pokus sa Layon",
+            "Pokus sa Tagaganap",
+            "Pokus sa Direksyon",
+            "Pokus sa Gamit"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang 'kinain' ay pokus sa layon dahil ang layon ng kilos (na kinain) ang nagiging simuno. Ginagamitan ng panlaping -in.",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-017",
+          "question": "Ano ang kahulugan ng 'sintaks'?",
+          "options": [
+            "Pag-aaral ng tunog",
+            "Pag-aaral ng ayos at ugnayan ng mga salita sa pangungusap",
+            "Pag-aaral ng kahulugan",
+            "Pag-aaral ng salita"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang sintaks ay sangay ng gramatika na nag-aaral ng pagkakaayos at ugnayan ng mga salita upang makabuo ng mga parirala at pangungusap.",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-018",
+          "question": "Alin ang pokus sa ganapan ng pandiwa?",
+          "options": [
+            "-um-, mag-",
+            "-an",
+            "-in",
+            "i-"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang panlaping -an ay ginagamit sa pokus sa ganapan (locative focus), kung saan ang lugar o panahon ng kilos ang nagiging simuno.",
+          "difficulty": "difficult",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-019",
+          "question": "Ano ang aspektong perpektibo?",
+          "options": [
+            "Kilos na tapos na",
+            "Kilos na ginagawa pa",
+            "Kilos na gagawin pa",
+            "Kilos na katatapusin lang"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang aspektong perpektibo ay nagsasaad ng kilos na natapos na o nagawa na (hal. kumain, bumili, nagluto).",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-020",
+          "question": "Ano ang tawag sa retorikang gumagamit ng mga salitang 'tulad ng' o 'parang'?",
+          "options": [
+            "Metapora",
+            "Simili",
+            "Personipikasyon",
+            "Hyperbole"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang simili ay paghahambing na gumagamit ng mga salitang 'tulad ng', 'parang', 'gaya ng' upang ihambing ang dalawang bagay.",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-021",
+          "question": "Ano ang metapora?",
+          "options": [
+            "Tuwirang paghahambing",
+            "Paghahambing na walang 'tulad ng' o 'parang'",
+            "Labis na pagmamalabis",
+            "Pagtutulad ng bagay sa tao"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang metapora ay di-tuwirang paghahambing ng dalawang bagay na may pagkakapareho nang hindi gumagamit ng 'tulad ng' o 'parang'.",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-022",
+          "question": "Ano ang personipikasyon?",
+          "options": [
+            "Pagbibigay ng katangiang tao sa bagay o hayop",
+            "Paghahambing",
+            "Pagmamalabis",
+            "Pagtawag"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang personipikasyon ay pagbibigay ng katangiang pantao (damdamin, kilos) sa mga bagay, hayop, o konsepto na walang buhay.",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-023",
+          "question": "Ano ang hyperbole?",
+          "options": [
+            "Paghahambing",
+            "Labis na pagmamalabis upang magbigay-diin",
+            "Pag-uulit ng tunog",
+            "Pagtawag"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang hyperbole o eksaherasyon ay labis na pagmamalabis sa paglalarawan upang magbigay ng diin at lakas ng damdamin.",
+          "difficulty": "easy",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-024",
+          "question": "Ano ang 'eufemismo'?",
+          "options": [
+            "Labis na pagmamalabis",
+            "Paggamit ng mas mahinahong salita para sa masyadong tuwiran",
+            "Paghahambing",
+            "Pagtawag"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang eufemismo ay paggamit ng mas mahinahon, mas magalang, o hindi tuwiran salita para sa bagay na masyadong tuwiran o bastos (hal. 'pumanaw' para sa 'namatay').",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
+        },
+        {
+          "id": "fil-gr-025",
+          "question": "Ano ang aliterasyon?",
+          "options": [
+            "Pag-uulit ng tunog ng patinig sa simula ng magkakasunod na salita",
+            "Pag-uulit ng katinig sa simula ng magkakasunod na salita",
+            "Pag-uulit ng hulihan",
+            "Paghahambing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang aliterasyon ay pag-uulit ng tunog ng katinig sa simula ng magkakasunod o magkalapit na salita (hal. 'banal na aba').",
+          "difficulty": "medium",
+          "topic": "Gramatika at Retorika"
         }
       ]
-    }
-  ],
-  "totalQuestions": 1,
-  "note": "Sample questions - Add 150 total for full implementation"
+    },
+    {
+      "id": "panitikan",
+      "name": "Panitikan",
+      "questions": [
+        {
+          "id": "fil-pan-026",
+          "question": "Sino ang tinatawag na 'Ama ng Wikang Pambansa'?",
+          "options": [
+            "Jose Rizal",
+            "Manuel L. Quezon",
+            "Andres Bonifacio",
+            "Francisco Balagtas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Manuel L. Quezon ay tinaguriang 'Ama ng Wikang Pambansa' dahil sa kanyang pagsisikap na magkaroon ng pambansang wika ang Pilipinas.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-027",
+          "question": "Sino ang sumulat ng 'Florante at Laura'?",
+          "options": [
+            "Jose Rizal",
+            "Francisco Balagtas",
+            "Andres Bonifacio",
+            "Marcelo H. del Pilar"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Francisco 'Balagtas' Baltazar ang sumulat ng 'Florante at Laura', isang epikong tula sa anyong awit na may 399 na saknong.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-028",
+          "question": "Anong uri ng panitikan ang 'alamat'?",
+          "options": [
+            "Maikling kuwento",
+            "Panitikang pasalaysay na nagpapaliwanag ng pinagmulan ng bagay",
+            "Tula",
+            "Sanaysay"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang alamat ay panitikang pasalaysay na nagpapaliwanag ng pinagmulan ng mga lugar, bagay, hayop, o kaugalian sa paraang may halong pantasya.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-029",
+          "question": "Ano ang 'epiko'?",
+          "options": [
+            "Maikling tula",
+            "Mahabang tuluyan",
+            "Mahabang tula tungkol sa kabayanihan",
+            "Maikling kuwento"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ang epiko ay mahabang tulang pasalaysay na tumatalakay sa pakikipagsapalaran at kabayanihan ng mga bayaning may di-pangkaraniwang katangian.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-030",
+          "question": "Sino ang pangunahing tauhan sa 'Florante at Laura'?",
+          "options": [
+            "Florante",
+            "Aladin",
+            "Adolfo",
+            "Menandro"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Si Florante ang pangunahing tauhan (protagonista) sa 'Florante at Laura', isang prinsipe ng Albanya na dumanas ng maraming pagsubok.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-031",
+          "question": "Ano ang 'korido'?",
+          "options": [
+            "Mahabang tula na may labindalawang pantig bawat taludtod",
+            "Maikling tula",
+            "Sanaysay",
+            "Dula"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang korido ay mahabang tulang pasalaysay na may labindalawang (12) pantig sa bawat taludtod, tungkol sa pakikipagsapalaran ng mga tauhan.",
+          "difficulty": "medium",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-032",
+          "question": "Ano ang 'awit'?",
+          "options": [
+            "Mahabang tula na may labindalawang pantig",
+            "Mahabang tula na may walóng pantig bawat taludtod",
+            "Maikling tula",
+            "Tuluyan"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang awit ay mahabang tulang pasalaysay na may labindalawang (12) pantig sa bawat taludtod, tulad ng 'Florante at Laura'.",
+          "difficulty": "medium",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-033",
+          "question": "Ano ang tanka?",
+          "options": [
+            "Tulang Pilipino",
+            "Tulang Hapones na may 5-7-5-7-7 na pantig",
+            "Tulang Espanyol",
+            "Tulang Amerikano"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang tanka ay tradisyonal na anyong tula ng mga Hapones na may limang taludtod na may 5-7-5-7-7 bilang ng pantig.",
+          "difficulty": "medium",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-034",
+          "question": "Ano ang haiku?",
+          "options": [
+            "Tulang may tatlong taludtod na 5-7-5 ang pantig",
+            "Tulang may apat na taludtod",
+            "Mahabang tula",
+            "Sanaysay"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang haiku ay maikling tulang Hapones na may tatlong taludtod na may 5-7-5 bilang ng pantig, karaniwang tungkol sa kalikasan.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-035",
+          "question": "Sino ang may-akda ng 'Noli Me Tangere' at 'El Filibusterismo'?",
+          "options": [
+            "Andres Bonifacio",
+            "Jose Rizal",
+            "Marcelo H. del Pilar",
+            "Emilio Jacinto"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Dr. Jose Rizal ang sumulat ng 'Noli Me Tangere' (1887) at 'El Filibusterismo' (1891), dalawang nobela na sumasalamin sa lipunang Pilipino.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-036",
+          "question": "Ano ang 'dalit'?",
+          "options": [
+            "Tulang panalangin o pamuhat na kanta",
+            "Kuwentong bayan",
+            "Sanaysay",
+            "Dula"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang dalit ay uri ng awit o tula na panalangin o pamuhat, karaniwang ginagamit sa mga ritwal o seremonya.",
+          "difficulty": "medium",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-037",
+          "question": "Ano ang 'bugtong'?",
+          "options": [
+            "Tulang may sukat at tugma",
+            "Palaisipang tanong na may nakatagong sagot",
+            "Maikling kuwento",
+            "Awit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang bugtong ay palaisipan o salawikain na may nakatagong sagot, na ginagamit upang subukin ang katalinuhan at likhang-isip.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-038",
+          "question": "Ano ang 'salawikain'?",
+          "options": [
+            "Bugtong",
+            "Kasabihang may aral o katotohanan",
+            "Tula",
+            "Kuwento"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang salawikain ay kasabihan o sinsay na naglalaman ng aral, karunungan, at katotohanan tungkol sa buhay.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-039",
+          "question": "Ano ang 'sawikain'?",
+          "options": [
+            "Kasabihang may malalim na kahulugan",
+            "Tula",
+            "Kuwento",
+            "Dula"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang sawikain ay mga pahayag na may malalim na kahulugan na naiiba sa literal na kahulugan ng mga salita (hal. 'ningas-kugon').",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-040",
+          "question": "Sino ang 'Ama ng Maikling Kuwentong Tagalog'?",
+          "options": [
+            "Deodato Arellano",
+            "Genoveva Edroza-Matute",
+            "Jose Rizal",
+            "Rogelio Sikat"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Deodato Arellano ay kilala bilang 'Ama ng Maikling Kuwentong Tagalog' dahil sa kanyang mga kontribusyon sa panitikan.",
+          "difficulty": "difficult",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-041",
+          "question": "Ano ang 'dula'?",
+          "options": [
+            "Tulang may sukat",
+            "Akdang pampanitikan na inilalahad sa entablado",
+            "Maikling kuwento",
+            "Sanaysay"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang dula ay akdang pampanitikan na inilalahad sa entablado o tanghalan sa pamamagitan ng pagganap ng mga tauhan.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-042",
+          "question": "Sino ang may-akda ng 'Mga Ibong Mandaragit'?",
+          "options": [
+            "Jose Rizal",
+            "Amado V. Hernandez",
+            "Francisco Balagtas",
+            "Nick Joaquin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Amado V. Hernandez ang sumulat ng 'Mga Ibong Mandaragit' (1969), isang nobelang sumasalamin sa kahirapan ng mga manggagawa.",
+          "difficulty": "medium",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-043",
+          "question": "Ano ang 'pasyon'?",
+          "options": [
+            "Awit tungkol sa pagdurusa ni Kristo",
+            "Maikling kuwento",
+            "Tula",
+            "Sanaysay"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang pasyon ay mahabang tuluyan o awit tungkol sa buhay at pagdurusa ni Hesukristo, karaniwang inawit tuwing Mahal na Araw.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-044",
+          "question": "Ano ang 'duplo'?",
+          "options": [
+            "Palaisipan",
+            "Patulang debate o pagtatalo",
+            "Kuwento",
+            "Awit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang duplo ay isang uri ng panitikan na patulang debate o pagtatalo sa pagitan ng dalawang pangkat, karaniwang ginagawa sa lamayan.",
+          "difficulty": "medium",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-045",
+          "question": "Ano ang 'karagatan'?",
+          "options": [
+            "Laro o sayaw na may pabugtungan",
+            "Kuwentong bayan",
+            "Tula",
+            "Dula"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang karagatan ay tradisyonal na laro o sayaw na may kasamang pabugtungan, karaniwang ginagawa sa mga piging o kasalan.",
+          "difficulty": "difficult",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-046",
+          "question": "Sino ang pangunahing tauhan sa 'Biag ni Lam-ang'?",
+          "options": [
+            "Baltog",
+            "Lam-ang",
+            "Aliguyon",
+            "Bantugan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Si Lam-ang ang pangunahing tauhan sa epikong Ilokano na 'Biag ni Lam-ang', isang bayani na may supernatural na kapangyarihan.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-047",
+          "question": "Ano ang 'sanaysay'?",
+          "options": [
+            "Tula",
+            "Maikling salaysay ng kaisipan o opinion tungkol sa isang paksa",
+            "Dula",
+            "Kuwento"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang sanaysay o essay ay salaysay ng kaisipan, opinion, o paninindigan tungkol sa isang paksa na may layuning magbigay-kaalaman o manghikayat.",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-048",
+          "question": "Ano ang 'montalban' o 'monologo'?",
+          "options": [
+            "Usapan ng dalawang tauhan",
+            "Pagsasalita ng isang tauhan sa sarili o sa madla",
+            "Awit",
+            "Tula"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang monologo ay pagsasalita ng isang tauhan sa sarili o sa madla, naglalahad ng kanyang iniisip at damdamin.",
+          "difficulty": "medium",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-049",
+          "question": "Ano ang 'tanaga'?",
+          "options": [
+            "Tulang may 4 na taludtod, 7 pantig bawat linya",
+            "Mahabang tula",
+            "Kuwento",
+            "Awit"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang tanaga ay katutubong anyong tula na may apat na taludtod, pitong pantig bawat linya, at may tugma (AAAA o AABB).",
+          "difficulty": "easy",
+          "topic": "Panitikan"
+        },
+        {
+          "id": "fil-pan-050",
+          "question": "Sino ang may-akda ng 'Luha ng Buwaya'?",
+          "options": [
+            "Amado V. Hernandez",
+            "Nick Joaquin",
+            "Lualhati Bautista",
+            "F. Sionil Jose"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Si Lualhati Bautista ang sumulat ng 'Luha ng Buwaya', isang nobela tungkol sa kahirapan at pagsasamantala sa lipunan.",
+          "difficulty": "medium",
+          "topic": "Panitikan"
+        }
+      ]
+    },
+    {
+      "id": "linggwistika",
+      "name": "Linggwistika at Wikang Filipino",
+      "questions": [
+        {
+          "id": "fil-ling-051",
+          "question": "Ano ang linggwistika?",
+          "options": [
+            "Pag-aaral ng wika at kaisipan",
+            "Siyentipikong pag-aaral ng wika",
+            "Pag-aaral ng panitikan",
+            "Pag-aaral ng kasaysayan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang linggwistika ay siyentipikong pag-aaral ng wika, kasama ang estruktura, kalikasan, at paggamit nito.",
+          "difficulty": "easy",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-052",
+          "question": "Ano ang 'ponolohiya'?",
+          "options": [
+            "Pag-aaral ng tunog ng wika",
+            "Pag-aaral ng kahulugan",
+            "Pag-aaral ng estruktura",
+            "Pag-aaral ng kasaysayan"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang ponolohiya ay sangay ng linggwistika na nag-aaral ng mga tunog ng wika, ang kanilang organisasyon at mga alituntunin.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-053",
+          "question": "Ano ang 'morpolohiya'?",
+          "options": [
+            "Pag-aaral ng tunog",
+            "Pag-aaral ng pagbuo ng salita at mga morpema",
+            "Pag-aaral ng kahulugan",
+            "Pag-aaral ng pangungusap"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang morpolohiya ay sangay ng linggwistika na nag-aaral ng pagbuo ng mga salita at estruktura ng mga morpema.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-054",
+          "question": "Ano ang 'semantika'?",
+          "options": [
+            "Pag-aaral ng kahulugan ng mga salita at pangungusap",
+            "Pag-aaral ng tunog",
+            "Pag-aaral ng estruktura",
+            "Pag-aaral ng kasaysayan"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang semantika ay sangay ng linggwistika na nag-aaral ng kahulugan ng mga salita, parirala, at pangungusap.",
+          "difficulty": "easy",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-055",
+          "question": "Ano ang 'pragmatika'?",
+          "options": [
+            "Pag-aaral ng paggamit ng wika sa konteksto",
+            "Pag-aaral ng tunog",
+            "Pag-aaral ng salita",
+            "Pag-aaral ng gramatika"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang pragmatika ay nag-aaral kung paano ginagamit ang wika sa aktwal na komunikasyon at konteksto, kasama ang layunin ng nagsasalita.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-056",
+          "question": "Ilang ponema ang mayroon sa wikang Filipino?",
+          "options": [
+            "16 katinig at 5 patinig",
+            "20 katinig at 5 patinig",
+            "18 katinig at 3 patinig",
+            "15 katinig at 6 patinig"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang wikang Filipino ay may 20 katinig at 5 patinig (a, e, i, o, u) ayon sa Alpabetong Filipino.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-057",
+          "question": "Ano ang 'dayalekto'?",
+          "options": [
+            "Ibang wika",
+            "Variant ng wika na may sariling katangian sa isang rehiyon",
+            "Maling wika",
+            "Lumang wika"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang dayalekto ay variant o baryasyon ng wika na may sariling katangian (tunog, bokabularyo, gramatika) sa isang partikular na rehiyon o grupo.",
+          "difficulty": "easy",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-058",
+          "question": "Ano ang 'bilingguwalismo'?",
+          "options": [
+            "Pagsasalita ng isang wika",
+            "Kakayahang gumamit ng dalawang wika",
+            "Pagtuturo ng wika",
+            "Pag-aaral ng wika"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang bilingguwalismo ay kakayahan ng isang tao na gumamit ng dalawang wika nang mabisa sa komunikasyon.",
+          "difficulty": "easy",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-059",
+          "question": "Ano ang 'code-switching'?",
+          "options": [
+            "Paglilipat-wika o pagsasanib ng dalawang wika sa isang usapan",
+            "Pagpapalit ng paksa",
+            "Pagbabago ng tono",
+            "Pagsasalita ng mabilis"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang code-switching ay paglilipat mula sa isang wika patungo sa isa pang wika sa loob ng isang usapan o pangungusap.",
+          "difficulty": "easy",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-060",
+          "question": "Ano ang 'sosyolinggwistika'?",
+          "options": [
+            "Pag-aaral ng ugnayan ng wika at lipunan",
+            "Pag-aaral ng tunog",
+            "Pag-aaral ng gramatika",
+            "Pag-aaral ng panitikan"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang sosyolinggwistika ay nag-aaral ng ugnayan ng wika at lipunan, kasama ang epekto ng kultura, edad, kasarian at iba pang salik sa paggamit ng wika.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-061",
+          "question": "Ano ang 'psikolinggwistika'?",
+          "options": [
+            "Pag-aaral ng ugnayan ng wika at isip",
+            "Pag-aaral ng sikolohiya",
+            "Pag-aaral ng wika at lipunan",
+            "Pag-aaral ng kalusugan"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang psikolinggwistika ay nag-aaral ng ugnayan ng wika at prosesong mental, kasama ang pag-unawa, produksyon, at pag-aral ng wika.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-062",
+          "question": "Ano ang 'register' sa linggwistika?",
+          "options": [
+            "Listahan ng salita",
+            "Variant ng wika na ginagamit sa partikular na sitwasyon",
+            "Tono ng boses",
+            "Sistema ng pagsulat"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang register ay variant ng wika na ginagamit sa partikular na sitwasyon o konteksto (pormal, impormal, teknikal, atbp.).",
+          "difficulty": "difficult",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-063",
+          "question": "Ano ang 'lingua franca'?",
+          "options": [
+            "Wikang French",
+            "Wikang tulay o pantawid na ginagamit ng magkaibang wika",
+            "Pangunahing wika",
+            "Katutubong wika"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang lingua franca ay wikang ginagamit bilang tulay o pantawid sa komunikasyon ng mga taong may magkaibang katutubong wika.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-064",
+          "question": "Ano ang 'pidgin'?",
+          "options": [
+            "Ibon",
+            "Pinasimpleng wika na resulta ng pagsasama ng dalawa o higit pang wika",
+            "Lumang wika",
+            "Maling wika"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang pidgin ay pinasimpleng wika na lumikha mula sa pagsasama ng dalawa o higit pang wika para sa kalakalan o komunikasyon.",
+          "difficulty": "difficult",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-065",
+          "question": "Ano ang 'creole'?",
+          "options": [
+            "Pagkain",
+            "Wikang naging katutubong wika mula sa pidgin",
+            "Lumang wika",
+            "Dayalekto"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang creole ay wika na umusbong mula sa pidgin at naging katutubong wika ng isang komunidad, may kumpletong gramatika at bokabularyo.",
+          "difficulty": "difficult",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-066",
+          "question": "Kailan ginawang opisyal na wika ng Pilipinas ang Filipino?",
+          "options": [
+            "1935",
+            "1987",
+            "1946",
+            "1973"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Filipino ay itinalaga bilang pambansang wika sa ilalim ng 1987 Constitution, kasama ng English bilang opisyal na wika.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-067",
+          "question": "Ano ang Komisyon sa Wikang Filipino (KWF)?",
+          "options": [
+            "Ahensya na nag-aaral ng kasaysayan",
+            "Ahensyang gumagabay sa pag-unlad ng Filipino",
+            "Paaralan",
+            "Aklatan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang KWF ay ahensyang gumagabay, nag-uutos, nagsasaayos at nagsasagawa ng mga patakaran ukol sa pag-unlad ng wikang Filipino.",
+          "difficulty": "easy",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-068",
+          "question": "Ano ang kahulugan ng 'intelektwalisasyon ng wika'?",
+          "options": [
+            "Paggamit ng wika sa mataas na antas",
+            "Pagpapayaman at pagpapalakas ng wika para gamitin sa lahat ng larangan",
+            "Pagtuturo ng wika",
+            "Pag-aaral ng wika"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang intelektwalisasyon ay proseso ng pagpapayaman ng wika upang magamit sa lahat ng larangan gaya ng agham, teknolohiya, at akademiko.",
+          "difficulty": "difficult",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-069",
+          "question": "Ano ang 'modernisasyon ng wika'?",
+          "options": [
+            "Paggamit ng bagong teknolohiya",
+            "Pagpapabago ng wika upang umangkop sa modernong pangangailangan",
+            "Pagbabago ng alpabeto",
+            "Pagsulat ng bago"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang modernisasyon ng wika ay proseso ng pagpapabago at pag-unlad ng wika upang umangkop sa mga pangangailangan ng modernong panahon.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-070",
+          "question": "Ilang wika ang ginagamit sa Pilipinas?",
+          "options": [
+            "50",
+            "120-187 wika at dayalekto",
+            "20",
+            "300"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Pilipinas ay may 120 hanggang 187 na wika at dayalekto, na nagpapakita ng mayamang linggwistikong pagkakaiba-iba.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-071",
+          "question": "Ano ang batayan ng wikang Filipino?",
+          "options": [
+            "Cebuano",
+            "Tagalog",
+            "Ilocano",
+            "Hiligaynon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang wikang Filipino ay pangunahing batay sa Tagalog, ngunit may mga salitang hiniram mula sa iba pang wika ng Pilipinas at dayuhang wika.",
+          "difficulty": "easy",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-072",
+          "question": "Ano ang 'neolohismo'?",
+          "options": [
+            "Lumang salita",
+            "Bagong salita o bagong kahulugan ng salita",
+            "Hiram na salita",
+            "Maling salita"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang neolohismo ay bagong salita o bagong kahulugan ng umiiral na salita na nilikha upang magpahayag ng bagong konsepto o ideya.",
+          "difficulty": "medium",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-073",
+          "question": "Ano ang 'borowing' o paghihiram sa wika?",
+          "options": [
+            "Pagkopya ng teksto",
+            "Paggamit ng salita mula sa ibang wika",
+            "Paghiram ng libro",
+            "Pagsasalin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang borrowing ay proseso ng paghihiram o pag-aangkin ng mga salita mula sa ibang wika at paggamit nito sa sariling wika.",
+          "difficulty": "easy",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-074",
+          "question": "Ano ang 'koiné' o 'koineisasyon'?",
+          "options": [
+            "Barya",
+            "Proseso ng pagsasama ng iba't ibang dayalekto upang makabuo ng pamantayang wika",
+            "Pagsasalin",
+            "Pagtuturo"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang koiné ay proseso kung saan ang iba't ibang dayalekto ay nagsasama upang makabuo ng isang pamantayan o wikang pandaigdig.",
+          "difficulty": "difficult",
+          "topic": "Linggwistika at Wikang Filipino"
+        },
+        {
+          "id": "fil-ling-075",
+          "question": "Ano ang 'language planning'?",
+          "options": [
+            "Pagpaplano ng pagtuturo",
+            "Deliberadong pagsisikap na impluwensyahan ang pagganap ng wika",
+            "Paggawa ng diksyunaryo",
+            "Pag-aaral ng wika"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang language planning ay deliberadong pagsisikap ng pamahalaan o institusyon na impluwensyahan ang estruktura at paggamit ng wika.",
+          "difficulty": "difficult",
+          "topic": "Linggwistika at Wikang Filipino"
+        }
+      ]
+    },
+    {
+      "id": "pagtuturo-pagtatasa",
+      "name": "Pagtuturo at Pagtatasa ng Filipino",
+      "questions": [
+        {
+          "id": "fil-pt-076",
+          "question": "Ano ang K-12 Curriculum para sa Filipino?",
+          "options": [
+            "Lumang kurikulum",
+            "Kurikulum na nakatuon sa komunikatibo at multimodal na pagkatuto",
+            "Amerikano kurikulum",
+            "Kolehiyo kurikulum"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang K-12 Curriculum para sa Filipino ay nakasentro sa komunikatibong kompetensya at multimodal na literacy, integrating 21st century skills.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-077",
+          "question": "Ano ang 'genre-based approach' sa pagtuturo ng Filipino?",
+          "options": [
+            "Pagtuturo batay sa gramatika",
+            "Pagtuturo batay sa uri ng teksto at layunin nito",
+            "Pagtuturo batay sa bokabularyo",
+            "Pagtuturo batay sa tula"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang genre-based approach ay nagtuturo sa mga mag-aaral ng iba't ibang uri ng teksto (naratibo, impormatibo, argumentatibo) at ang kanilang estruktura at layunin.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-078",
+          "question": "Ano ang 'communicative language teaching' sa Filipino?",
+          "options": [
+            "Pagtuturo ng gramatika",
+            "Pagtuturo na nakatuon sa paggamit ng wika para sa tunay na komunikasyon",
+            "Pagtuturo ng panitikan",
+            "Pagtuturo ng baybay"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang communicative language teaching ay diskarteng nakatuon sa paggamit ng wika para sa tunay na komunikasyon at interaksyon, hindi lamang sa gramatika.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-079",
+          "question": "Ano ang 'integrative approach' sa pagtuturo ng wika?",
+          "options": [
+            "Pagtuturo ng hiwalay na kasanayan",
+            "Pagsasama-sama ng apat na kasanayan: pakikinig, pagsasalita, pagbasa, pagsulat",
+            "Pagtuturo ng gramatika lang",
+            "Pagtuturo ng bokabularyo lang"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang integrative approach ay nagsasama ng apat na makro-kasanayan (pakikinig, pagsasalita, pagbasa, pagsulat) sa pagtuturo ng wika.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-080",
+          "question": "Ano ang 'formative assessment'?",
+          "options": [
+            "Huling pagsusulit",
+            "Patuloy na pagtatasa upang gabayan ang pagtuturo",
+            "Standardized test",
+            "Entrance exam"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang formative assessment ay patuloy na pagtatasa sa panahon ng pagtuturo upang masukat ang pag-unlad at gabayan ang susunod na hakbang sa pagtuturo.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-081",
+          "question": "Ano ang 'summative assessment'?",
+          "options": [
+            "Pang-araw-araw na pagsusulit",
+            "Pagtatasa sa dulo ng panahon upang sukatin ang natutuhan",
+            "Quiz",
+            "Takdang-aralin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang summative assessment ay ginagawa sa pagtatapos ng aralin o markahan upang sukatin ang kabuuang natutuhan ng mag-aaral.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-082",
+          "question": "Ano ang 'performance-based assessment'?",
+          "options": [
+            "Multiple choice test",
+            "Pagtatasa batay sa aktwal na pagganap o output",
+            "Pagsusulit lamang",
+            "Memorization test"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang performance-based assessment ay sumusukat sa kakayahan ng mag-aaral sa pamamagitan ng aktwal na pagganap o paggawa ng produkto (proyekto, talumpati, atbp.).",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-083",
+          "question": "Ano ang 'rubric'?",
+          "options": [
+            "Pamantayan o sukatan sa pagmamarka",
+            "Uri ng pagsusulit",
+            "Aklat",
+            "Silid-aralan"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang rubric ay pamantayan o sukatan na naglalaman ng criteria at antas ng kalidad na ginagamit sa pagtatasa ng gawain.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-084",
+          "question": "Ano ang 'scaffolding' sa pagtuturo?",
+          "options": [
+            "Gusali",
+            "Pansamantalang tulong upang makagawa ang mag-aaral ng gawain",
+            "Parusa",
+            "Gantimpala"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang scaffolding ay pansamantalang suporta o tulong na ibinibigay sa mag-aaral upang makagawa ng gawain, na unti-unting inalis habang lumalaki ang kakayahan.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-085",
+          "question": "Ano ang 'differentiated instruction'?",
+          "options": [
+            "Iisang paraan para sa lahat",
+            "Pag-aangkop ng pagtuturo sa iba't ibang pangangailangan ng mag-aaral",
+            "Pagtuturo sa mataas na antas",
+            "Pagtuturo sa mababa na antas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang differentiated instruction ay pag-aangkop ng content, proseso, at produkto batay sa kakayahan, interes, at estilo ng pagkatuto ng bawat mag-aaral.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-086",
+          "question": "Ano ang 'authentic assessment'?",
+          "options": [
+            "Papel at lapis na test",
+            "Pagtatasa gamit ang tunay na sitwasyon at gawain",
+            "Multiple choice",
+            "Memorization"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang authentic assessment ay gumagamit ng tunay na sitwasyon at gawain upang sukatin ang kakayahan ng mag-aaral na ilapat ang kanilang kaalaman.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-087",
+          "question": "Ano ang 'constructivist approach' sa pagtuturo?",
+          "options": [
+            "Pagtuturo kung saan guro lang ang nagsasalita",
+            "Pagtuturo na ang mag-aaral ay aktibong bumubuo ng sariling kaalaman",
+            "Pagkopya ng teksto",
+            "Passive learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang constructivist approach ay naniniwala na ang mag-aaral ay aktibong bumubuo ng sariling kaalaman sa pamamagitan ng karanasan at interaksyon.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-088",
+          "question": "Ano ang 'cooperative learning'?",
+          "options": [
+            "Mag-isang pag-aaral",
+            "Pagtuturo kung saan nagtutulungan ang mag-aaral sa pangkat",
+            "Kompetisyon",
+            "Lecture"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang cooperative learning ay estratehiya kung saan ang mga mag-aaral ay nagtutulungan sa maliliit na grupo upang makamit ang iisang layunin.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-089",
+          "question": "Ano ang 'reflective teaching'?",
+          "options": [
+            "Pagturo sa harap ng salamin",
+            "Pag-isip at pagsusuri ng guro sa sariling pagtuturo",
+            "Pagsunod sa libro",
+            "Walang pagbabago"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang reflective teaching ay proseso kung saan ang guro ay nag-iisip at nagsusuri ng sariling pagtuturo upang mapabuti ito.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-090",
+          "question": "Ano ang 'multimodal literacy'?",
+          "options": [
+            "Pagbasa lang",
+            "Kakayahang umunawa at lumikha gamit ang iba't ibang anyo (teksto, larawan, tunog)",
+            "Pagsulat lang",
+            "Pagsasalita lang"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang multimodal literacy ay kakayahang umunawa at lumikha ng kahulugan gamit ang iba't ibang mode o anyo tulad ng teksto, imahe, tunog, at kilos.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-091",
+          "question": "Ano ang 'portfolio assessment'?",
+          "options": [
+            "Isang pagsusulit",
+            "Koleksyon ng mga gawa ng mag-aaral na nagpapakita ng pag-unlad",
+            "Listahan ng mga marka",
+            "Takdang-aralin"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang portfolio assessment ay sistematikong koleksyon ng mga gawa ng mag-aaral na nagpapakita ng pag-unlad, pagsisikap, at tagumpay sa paglipas ng panahon.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-092",
+          "question": "Ano ang 'diagnostic assessment'?",
+          "options": [
+            "Huling pagsusulit",
+            "Pagtatasa bago magturo upang malaman ang nalalaman na",
+            "Quarterly exam",
+            "Final exam"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang diagnostic assessment ay ginagawa bago magturo upang matukoy ang nalalaman, kakayahan, at pangangailangan ng mag-aaral.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-093",
+          "question": "Ano ang layunin ng 'reading intervention program'?",
+          "options": [
+            "Gawing mabilis ang pagbabasa",
+            "Tulungan ang mga batang mahirap magbasa",
+            "Magbigay ng libro",
+            "Magturo ng pagsulat"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang reading intervention program ay naglalayong tulungan ang mga mag-aaral na may kahirapan sa pagbasa upang mapabuti ang kanilang kasanayan.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-094",
+          "question": "Ano ang 'process writing approach'?",
+          "options": [
+            "Isahang pagsulat",
+            "Pagtuturo ng pagsulat bilang proseso: prewriting, drafting, revising, editing, publishing",
+            "Pagkopya ng teksto",
+            "Memorisasyon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang process writing approach ay nagtuturo sa pagsulat bilang proseso na may mga yugto: prewriting, drafting, revising, editing, at publishing.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-095",
+          "question": "Ano ang 'contextualized learning'?",
+          "options": [
+            "Pag-aaral sa libro lang",
+            "Pag-uugnay ng aralin sa tunay na buhay at karanasan ng mag-aaral",
+            "Memorisasyon",
+            "Abstrak na konsepto"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang contextualized learning ay pag-uugnay ng mga aralin sa tunay na buhay, karanasan, at kultura ng mag-aaral upang mas maunawaan nila.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-096",
+          "question": "Ano ang 'inquiry-based learning'?",
+          "options": [
+            "Lecture method",
+            "Pagtuturo kung saan ang mag-aaral ay nagtatanung at nagsasaliksik",
+            "Pagkopya",
+            "Passive learning"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang inquiry-based learning ay diskarteng nakasentro sa mag-aaral kung saan sila ay nagtatanung, nagsasaliksik, at aktibong bumubuo ng kaalaman.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-097",
+          "question": "Ano ang 'mother tongue-based multilingual education' (MTB-MLE)?",
+          "options": [
+            "Pagtuturo sa English lang",
+            "Pagtuturo gamit ang unang wika ng bata bilang pundasyon",
+            "Pagtuturo sa Filipino lang",
+            "Pagtuturo sa maraming wika nang sabay"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang MTB-MLE ay paggamit ng unang wika (mother tongue) ng bata sa pagtuturo bilang pundasyon bago lumipat sa ibang wika.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-098",
+          "question": "Ano ang 'critical literacy'?",
+          "options": [
+            "Pagbasa ng mabilis",
+            "Kakayahang pag-isipan at suriin ang layunin, bias, at ideolohiya sa teksto",
+            "Pagbasa ng maraming libro",
+            "Pagsulat ng maikling kuwento"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang critical literacy ay kakayahang suriin, tanungin, at unawain ang layunin, kapangyarihan, at ideolohiya sa likod ng mga teksto.",
+          "difficulty": "difficult",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-099",
+          "question": "Ano ang 'literature circles' o 'literature-based approach'?",
+          "options": [
+            "Pagbabasa ng mag-isa",
+            "Diskusyon ng literatura sa maliliit na grupo",
+            "Memorisasyon ng tula",
+            "Pagsagot sa tanong"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang literature circles ay estratehiya kung saan ang maliliit na grupo ng mag-aaral ay nagbabasa at nagtatalo tungkol sa literatura.",
+          "difficulty": "medium",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        },
+        {
+          "id": "fil-pt-100",
+          "question": "Ano ang 'think-pair-share' strategy?",
+          "options": [
+            "Mag-isip, makipares, magbahagi",
+            "Lecture method",
+            "Independent study",
+            "Memorization"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ang think-pair-share ay estratehiya kung saan ang mag-aaral ay nag-iisip mag-isa, nakikipag-usap sa kapares, at nagbabahagi sa buong klase.",
+          "difficulty": "easy",
+          "topic": "Pagtuturo at Pagtatasa ng Filipino"
+        }
+      ]
+    },
+    {
+      "id": "kultura-lipunan",
+      "name": "Kultura at Lipunang Pilipino",
+      "questions": [
+        {
+          "id": "fil-kl-101",
+          "question": "Ano ang 'pakikipagkapwa-tao'?",
+          "options": [
+            "Pakikipag-away",
+            "Pakikitungo sa kapwa bilang kapantay na tao",
+            "Pakikipag-usap",
+            "Pakikipag-kaibigan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang pakikipagkapwa-tao ay pangunahing pagpapahalaga ng mga Pilipino na tumutukoy sa pagkilala at pagtrato sa kapwa bilang kapantay na tao.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-102",
+          "question": "Ano ang 'kapwa'?",
+          "options": [
+            "Kaibigan lang",
+            "Konsepto ng 'shared identity' o pagkakakilanlan kasama ang iba",
+            "Pamilya lang",
+            "Kapitbahay"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang kapwa ay konsepto ng 'shared identity' o pagkakakilanlang nakabahagi sa iba, hindi lamang 'iba' kundi bahagi ng sarili.",
+          "difficulty": "difficult",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-103",
+          "question": "Ano ang 'hiya' sa kultura ng Pilipino?",
+          "options": [
+            "Takot",
+            "Damdaming panloob na moral at sosyal na pagsunod sa inaasahan",
+            "Galit",
+            "Tuwa"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang hiya ay masamang pakiramdam dulot ng paglabag sa inaasahang pamantayan ng lipunan o pagkakaroon ng kahihiyan sa harap ng iba.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-104",
+          "question": "Ano ang 'utang na loob'?",
+          "options": [
+            "Utang sa bangko",
+            "Damdaming may obligasyon na gantihan ang kabutihang natanggap",
+            "Pangungutang",
+            "Pagbabayad"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang utang na loob ay damdaming may obligasyong gantihan ang kabutihang natanggap, isang mahalagang aspeto ng relasyon sa lipunang Pilipino.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-105",
+          "question": "Ano ang 'bahala na'?",
+          "options": [
+            "Tamad na saloobin",
+            "Pagtitiwala sa Diyos o tadhana; pagtanggap ng hindi maiiwasan",
+            "Walang pakialam",
+            "Pag-asa"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang 'bahala na' ay pagpapaubaya sa tadhana o Maykapal, pagtanggap na hindi lahat ay kontrolado ng tao, may positibo at negatibong aspeto.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-106",
+          "question": "Ano ang 'pakikisama'?",
+          "options": [
+            "Pakikipag-away",
+            "Makisama o makibagay sa grupo upang mapanatili ang harmonya",
+            "Pagiging masungit",
+            "Pagiging mag-isa"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang pakikisama ay pagmamalasakit na makibagay at makisama sa grupo upang mapanatili ang harmonya at maiwasan ang salungatan.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-107",
+          "question": "Ano ang 'ningas-kugon'?",
+          "options": [
+            "Pagkamasipag",
+            "Init ng ulo sa simula na mabilis kumalma; kulang sa pagpapatuloy",
+            "Pagka-matiyaga",
+            "Sipag"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang ningas-kugon ay negatibong katangian kung saan ang tao ay masigasig sa simula ngunit mabilis mawalan ng interes o energy.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-108",
+          "question": "Ano ang 'compadre/comadre system'?",
+          "options": [
+            "Sistema ng pamilya",
+            "Sistema ng ritual kinship sa pamamagitan ng binyag o kasal",
+            "Sistema ng pamahalaan",
+            "Sistema ng edukasyon"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang compadre/comadre system ay ritual kinship na nabuo sa pamamagitan ng pagiging ninong/ninang sa binyag o kasal, lumilikha ng espesyal na ugnayan.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-109",
+          "question": "Ano ang 'amor propio'?",
+          "options": [
+            "Pag-ibig sa sarili",
+            "Pagmamalaki at pagprotekta ng dignidad at karangalan",
+            "Kayabangan",
+            "Kababaang-loob"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang amor propio ay self-esteem o pagmamalaki at pagpoprotekta ng sariling dignidad at karangalan, maaaring positibo o negatibo.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-110",
+          "question": "Ano ang 'lakas ng loob'?",
+          "options": [
+            "Takot",
+            "Tapang o courage sa pagharap ng hamon",
+            "Kahinaan",
+            "Pag-atubili"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang lakas ng loob ay tapang, determinasyon, at kumpiyansa na harapin ang mga hamon at panganib.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-111",
+          "question": "Ano ang 'malasakit'?",
+          "options": [
+            "Walang pakialam",
+            "Malalim na pagmamalasakit at pag-aalaga sa kapwa",
+            "Galit",
+            "Inggit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang malasakit ay malalim na pagmamalasakit, pag-aalaga, at empatiya sa kapwa, isa sa mahahalagang pagpapahalaga ng Pilipino.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-112",
+          "question": "Ano ang kahalagahan ng 'pamilya' sa kultura ng Pilipino?",
+          "options": [
+            "Hindi mahalaga",
+            "Sentro ng lipunan; pinakamahalagang yunit",
+            "Pangalawa lang",
+            "Walang halaga"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang pamilya ay sentro ng lipunang Pilipino at pinakamahalagang yunit, kasama ang extended family na nagbibigay ng suporta at identidad.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-113",
+          "question": "Ano ang 'Filipino hospitality'?",
+          "options": [
+            "Hotel",
+            "Mainit na pagtanggap at pagkakawanggawa sa bisita",
+            "Negosyo",
+            "Pagsasara ng pinto"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang Filipino hospitality ay mainit na pagtanggap, pagbibigay ng pagkain, at pakikitungo nang may respeto at kagandahang-loob sa bisita.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-114",
+          "question": "Ano ang 'po' at 'opo' sa komunikasyong Pilipino?",
+          "options": [
+            "Walang kahulugan",
+            "Salitang nagpapakita ng paggalang sa nakatatanda o mas mataas na katayuan",
+            "Pangalan",
+            "Pang-abay"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang 'po' at 'opo' ay mga salitang nagpapakita ng paggalang sa nakatatanda o nasa mas mataas na katayuan, mahalagang bahagi ng Filipino values.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-115",
+          "question": "Ano ang 'Filipino time'?",
+          "options": [
+            "Oras sa Pilipinas",
+            "Kultura ng pagiging huli sa takdang oras",
+            "Standard time",
+            "Maagap"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang 'Filipino time' ay kultura ng pagiging huli sa takdang oras, negatibong aspeto ng kultura na dapat pagtuunan ng pansin.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-116",
+          "question": "Ano ang 'kanya-kanya syndrome'?",
+          "options": [
+            "Pagtutulungan",
+            "Pag-iisip lamang sa sariling interes; kakulangan ng collective action",
+            "Bayanihan",
+            "Pakikisama"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang 'kanya-kanya syndrome' ay negatibong katangian kung saan ang tao ay nag-iisip lamang sa sariling interes at walang collective concern.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-117",
+          "question": "Ano ang 'palabas' o 'pakitang-tao'?",
+          "options": [
+            "Tunay na damdamin",
+            "Pagpapakita ng di-tunay; pagmamalaki para sa iba",
+            "Katapatan",
+            "Katotohanan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang palabas o pakitang-tao ay pagpapakita ng hindi tunay, paggawa ng bagay para lang mapansin o maipakita sa iba.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-118",
+          "question": "Ano ang 'mañana habit'?",
+          "options": [
+            "Pagiging maagap",
+            "Ugaling ipagpaliban ang gawain; procrastination",
+            "Pagiging masipag",
+            "Pagiging masinop"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang mañana habit ay ugaling ipagpaliban ang dapat gawin ngayon, procrastination, negatibong katangian na dapat iwasan.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-119",
+          "question": "Ano ang 'colonial mentality'?",
+          "options": [
+            "Pagmamahal sa sariling kultura",
+            "Pagkiling sa dayuhang kultura; paniniwalang mas mataas ang ibang lahi",
+            "Nasyonalismo",
+            "Patriotism"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang colonial mentality ay pagkiling sa dayuhang kultura at paniniwalang mas mataas o mas maganda ang produkto, wika, o kultura ng ibang bansa.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-120",
+          "question": "Ano ang 'resilience' ng mga Pilipino?",
+          "options": [
+            "Kahinaan",
+            "Kakayahang bumangon at ngumiti sa kabila ng trahedya",
+            "Pagkabalisa",
+            "Pag-asa na lang"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang resilience ay kakayahan ng mga Pilipino na bumangon, mag-adjust, at ngumiti sa kabila ng matinding pagsubok at trahedya.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-121",
+          "question": "Ano ang 'padrino system'?",
+          "options": [
+            "Sistema ng ninong/ninang",
+            "Sistema ng patronage at proteksyon sa palakasan",
+            "Sistema ng edukasyon",
+            "Sistema ng batas"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang padrino system ay sistema ng patronage kung saan ang ugnayan sa makapangyarihan ay ginagamit para sa benepisyo, madalas negatibong aspeto.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-122",
+          "question": "Ano ang 'euphemism' sa wikang Filipino?",
+          "options": [
+            "Tuwiran na pagsasalita",
+            "Paggamit ng mas mahinahong salita; pagiiwas sa direktang pagsasalita",
+            "Pagmumura",
+            "Pagtataas ng tinig"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang euphemism ay paggamit ng mas mahinahon o hindi tuwiran salita upang hindi makasakit o maging bastos, bahagi ng Filipino communication.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-123",
+          "question": "Ano ang 'smooth interpersonal relations' (SIR)?",
+          "options": [
+            "Pakikipag-away",
+            "Pag-iwas sa salungatan; pagpapanatili ng maayos na relasyon",
+            "Direktang komunikasyon",
+            "Pakikipag-debate"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang SIR ay pagpapahalaga sa maayos na relasyon, pag-iwas sa direktang salungatan, at pagpapanatili ng harmonya sa pakikipag-ugnayan.",
+          "difficulty": "medium",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-124",
+          "question": "Ano ang kahalagahan ng 'relihiyon' sa buhay ng Pilipino?",
+          "options": [
+            "Walang kahalagahan",
+            "Malalim na impluwensya sa kultura, pagpapahalaga, at pang-araw-araw na buhay",
+            "Bahagya lang",
+            "Para sa Linggo lang"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang relihiyon ay may malalim na impluwensya sa kultura, pagpapahalaga, desisyon, at pang-araw-araw na buhay ng mga Pilipino.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        },
+        {
+          "id": "fil-kl-125",
+          "question": "Ano ang 'diskarte' sa kultura ng Pilipino?",
+          "options": [
+            "Plano lang",
+            "Resourcefulness; kakayahang makahanap ng paraan sa kabila ng kakulangan",
+            "Pandaraya",
+            "Katamaran"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang diskarte ay resourcefulness, kakayahan at kahusayan ng Pilipino na makahanap ng kreatibong solusyon sa kabila ng limitadong resources.",
+          "difficulty": "easy",
+          "topic": "Kultura at Lipunang Pilipino"
+        }
+      ]
+    },
+    {
+      "id": "kontekstuwalisadong-pagsusulat",
+      "name": "Kontekstuwalisadong Pagsusulat at Komunikasyon",
+      "questions": [
+        {
+          "id": "fil-kps-126",
+          "question": "Ano ang 'akademikong pagsulat'?",
+          "options": [
+            "Pagsulat ng liham",
+            "Pormal na pagsulat para sa paaralan o pananaliksik",
+            "Creative writing",
+            "Dyaryo"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang akademikong pagsulat ay pormal na uri ng pagsulat na ginagamit sa pag-aaral, pananaliksik, at edukasyon, may partikular na estruktura at pamantayan.",
+          "difficulty": "easy",
+          "topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+        },
+        {
+          "id": "fil-kps-127",
+          "question": "Ano ang 'layunin ng komunikasyon'?",
+          "options": [
+            "Walang layunin",
+            "Magpahayag ng ideya, impluwensya, magbigay-impormasyon, o makipag-ugnayan",
+            "Magsalita lang",
+            "Manood ng TV"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Ang komunikasyon ay may layuning magpahayag ng ideya,impluwensyahin, magbigay ng impormasyon, o makipag-ugnayan sa iba.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-128",
+"question": "Ano ang 'register' sa pagsulat?",
+"options": [
+"Listahan",
+"Antas ng pormalidad ng wika (pormal, impormal, teknikal)",
+"Pangalan",
+"Pirma"
+],
+"correctAnswer": 1,
+"explanation": "Ang register ay antas ng pormalidad at istilo ng wika na ginagamit batay sa konteksto, audience, at layunin ng komunikasyon.",
+"difficulty": "medium",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-129",
+"question": "Ano ang 'genre' sa pagsulat?",
+"options": [
+"Uri o kategorya ng teksto batay sa layunin at estruktura",
+"Paksa",
+"Tauhan",
+"Setting"
+],
+"correctAnswer": 0,
+"explanation": "Ang genre ay uri o kategorya ng teksto (naratibo, impormatibo, argumentatibo) batay sa layunin, nilalaman, at estruktura.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-130",
+"question": "Ano ang 'coherence' sa pagsulat?",
+"options": [
+"Haba ng teksto",
+"Lohikal na daloy at ugnayan ng mga ideya",
+"Gramatika",
+"Baybay"
+],
+"correctAnswer": 1,
+"explanation": "Ang coherence ay lohikal na daloy at malinaw na ugnayan ng mga ideya sa teksto upang madaling maunawaan.",
+"difficulty": "medium",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-131",
+"question": "Ano ang 'cohesion' sa pagsulat?",
+"options": [
+"Haba",
+"Gramatikang ugnayan ng mga pangungusap gamit ang transitional devices",
+"Laki ng letra",
+"Kulay"
+],
+"correctAnswer": 1,
+"explanation": "Ang cohesion ay gramatikang ugnayan ng mga pangungusap gamit ang transitional words, pronouns, at iba pang linguistic devices.",
+"difficulty": "medium",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-132",
+"question": "Ano ang 'thesis statement'?",
+"options": [
+"Simula ng sanaysay",
+"Pangunahing ideya o argumento ng buong akda",
+"Konklusyon",
+"Talata"
+],
+"correctAnswer": 1,
+"explanation": "Ang thesis statement ay pahayag ng pangunahing ideya o argumento ng buong akda, karaniwang nasa panimula.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-133",
+"question": "Ano ang 'topic sentence'?",
+"options": [
+"Huling pangungusap",
+"Pangungusap na naglalahad ng pangunahing ideya ng talata",
+"Kahit anong pangungusap",
+"Tanong"
+],
+"correctAnswer": 1,
+"explanation": "Ang topic sentence ay pangungusap na naglalahad ng pangunahing ideya o paksa ng isang talata, karaniwang nasa simula.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-134",
+"question": "Ano ang 'argumentative writing'?",
+"options": [
+"Pagkukuwento",
+"Pagsusulat na naglalayong manghikayat gamit ang ebidensya at lohika",
+"Paglalarawan",
+"Pagsasalaysay"
+],
+"correctAnswer": 1,
+"explanation": "Ang argumentative writing ay naglalayong manghikayat o magpatunay ng punto gamit ang ebidensya, lohika, at makatuwirang argumento.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-135",
+"question": "Ano ang 'descriptive writing'?",
+"options": [
+"Pagsulat na naglalarawan ng tao, lugar, o bagay",
+"Argumentative",
+"Persuasive",
+"Expository"
+],
+"correctAnswer": 0,
+"explanation": "Ang descriptive writing ay naglalarawan ng tao, lugar, bagay, o karanasan gamit ang masining na detalye at pandama.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-136",
+"question": "Ano ang 'narrative writing'?",
+"options": [
+"Pagsulat na nagkukuwento o nagsasalaysay ng pangyayari",
+"Paglalarawan",
+"Pangangatwiran",
+"Paliwanag"
+],
+"correctAnswer": 0,
+"explanation": "Ang narrative writing ay nagkukuwento o nagsasalaysay ng pangyayari, may simula, gitna, at wakas.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-137",
+"question": "Ano ang 'expository writing'?",
+"options": [
+"Pagsulat na nagpapaliwanag o nagbibigay ng impormasyon",
+"Pagkukuwento",
+"Paglalarawan",
+"Pangangatwiran"
+],
+"correctAnswer": 0,
+"explanation": "Ang expository writing ay nagpapaliwanag, naglalahad, o nagbibigay ng impormasyon tungkol sa paksa nang malinaw at organisado.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-138",
+"question": "Ano ang 'persuasive writing'?",
+"options": [
+"Pagsulat na naglalayong manghikayat",
+"Paglalarawan",
+"Pagkukuwento",
+"Pagsasalaysay"
+],
+"correctAnswer": 0,
+"explanation": "Ang persuasive writing ay naglalayong manghikayat o impluwensyahin ang mambabasa na sumang-ayon sa pananaw ng may-akda.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-139",
+"question": "Ano ang 'paraphrasing'?",
+"options": [
+"Pagkopya",
+"Pagsasalin ng ideya sa sariling pananalita",
+"Pag-quote",
+"Plagiarism"
+],
+"correctAnswer": 1,
+"explanation": "Ang paraphrasing ay pagsasalin o muling pagpapahayag ng ideya mula sa pinagkunan gamit ang sariling salita at estruktura.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-140",
+"question": "Ano ang 'summarizing'?",
+"options": [
+"Detalyadong paglalahad",
+"Maikling pagbubuod ng mahahalagang punto",
+"Pagkopya",
+"Paglalarawan"
+],
+"correctAnswer": 1,
+"explanation": "Ang summarizing ay maikling pagbubuod ng mahahalagang ideya o punto mula sa orihinal na teksto.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-141",
+"question": "Ano ang 'plagiarism'?",
+"options": [
+"Tama",
+"Pagkuha ng ideya o salita ng iba nang walang credit",
+"Paraphrasing",
+"Pag-cite"
+],
+"correctAnswer": 1,
+"explanation": "Ang plagiarism ay pagkuha ng ideya, salita, o gawa ng iba at paghahabol-habol na ito ay sariling gawa, mali at dishonest.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-142",
+"question": "Ano ang 'citation'?",
+"options": [
+"Pagbanggit ng pinagkunan ng impormasyon",
+"Konklusyon",
+"Simula",
+"Talata"
+],
+"correctAnswer": 0,
+"explanation": "Ang citation ay pagbanggit o pagtukoy sa pinagkunan ng impormasyon, ideya, o quote upang bigyan ng kredito ang orihinal na may-akda.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-143",
+"question": "Ano ang 'audience' sa komunikasyon?",
+"options": [
+"Manunulat",
+"Mga taong tatanggap ng mensahe",
+"Paksa",
+"Layunin"
+],
+"correctAnswer": 1,
+"explanation": "Ang audience ay mga taong tatanggap ng mensahe, mahalagang isaalang-alang sa pagpili ng wikang gagamitin at istilo.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-144",
+"question": "Ano ang 'tone' sa pagsulat?",
+"options": [
+"Tono ng boses",
+"Saloobin o damdaming ipinahahayag ng may-akda",
+"Tunog",
+"Sigaw"
+],
+"correctAnswer": 1,
+"explanation": "Ang tone ay saloobin, damdamin, o pananaw ng may-akda na makikita sa pagpili ng salita at istilo ng pagsulat.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-145",
+"question": "Ano ang 'formal register'?",
+"options": [
+"Impormal na wika",
+"Pormal na wika na ginagamit sa opisyal na okasyon",
+"Balbal",
+"Slang"
+],
+"correctAnswer": 1,
+"explanation": "Ang formal register ay pormal na antas ng wika na ginagamit sa akademiko, propesyonal, at opisyal na komunikasyon.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-146",
+"question": "Ano ang 'revising' sa proseso ng pagsulat?",
+"options": [
+"Pagwawasto ng spelling",
+"Pagbabago ng nilalaman, organisasyon, at ideya",
+"Paglilinis",
+"Pag-print"
+],
+"correctAnswer": 1,
+"explanation": "Ang revising ay pagbabago at pagpapabuti ng nilalaman, organisasyon, at ideya ng draft upang mas maging malinaw at mabisa.",
+"difficulty": "medium",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-147",
+"question": "Ano ang 'editing' sa proseso ng pagsulat?",
+"options": [
+"Pagbabago ng ideya",
+"Pagwawasto ng gramatika, bantas, at mekanika",
+"Pagbubuod",
+"Pagsulat ng draft"
+],
+"correctAnswer": 1,
+"explanation": "Ang editing ay pagwawasto ng gramatika, bantas, baybay, at iba pang mekanika ng wika sa draft.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-148",
+"question": "Ano ang 'prewriting'?",
+"options": [
+"Pagwawasto",
+"Pag-iisip at pagpaplano bago sumulat",
+"Paglilinis",
+"Pag-print"
+],
+"correctAnswer": 1,
+"explanation": "Ang prewriting ay unang yugto ng pagsulat kung saan nag-iisip, nag-brainstorm, at nagpaplano ang manunulat ng susulatin.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-149",
+"question": "Ano ang 'transitions' o 'transitional devices'?",
+"options": [
+"Wakas",
+"Salita o parirala na nag-uugnay ng mga ideya",
+"Simula",
+"Tauhan"
+],
+"correctAnswer": 1,
+"explanation": "Ang transitions ay mga salita o parirala (halimbawa, samantala, bukod dito) na nag-uugnay ng mga ideya at nagpapadaloy sa teksto.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+},
+{
+"id": "fil-kps-150",
+"question": "Ano ang 'publishing' sa proseso ng pagsulat?",
+"options": [
+"Pagsisimula",
+"Pagbabahagi ng pinal na gawa sa audience",
+"Pag-draft",
+"Pag-revise"
+],
+"correctAnswer": 1,
+"explanation": "Ang publishing ay huling yugto kung saan ang pinal na bersyon ng gawa ay ibinabahagi o inilalathala para sa intended audience.",
+"difficulty": "easy",
+"topic": "Kontekstuwalisadong Pagsusulat at Komunikasyon"
+}
+]
+}
+]
 }
