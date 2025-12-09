@@ -762,7 +762,7 @@
             "Looking at past curriculum",
             "Outdated curriculum"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Backward design starts with desired learning outcomes, then determines assessment, and finally plans learning activities.",
           "difficulty": "medium",
           "topic": "Curriculum Development"
