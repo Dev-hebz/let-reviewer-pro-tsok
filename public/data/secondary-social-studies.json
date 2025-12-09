@@ -72,7 +72,7 @@
             "Treaty of Biak-na-Bato",
             "Pact of Biak-na-Bato"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The Treaty of Paris (December 10, 1898) ended the Spanish-American War, with Spain ceding the Philippines to the U.S. for $20 million.",
           "difficulty": "easy",
           "topic": "Philippine History"
@@ -226,7 +226,7 @@
             "Wood-Forbes Mission",
             "Philippine Commission"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The Taft Commission (Second Philippine Commission), headed by William Howard Taft, established the first American civil government in 1901.",
           "difficulty": "medium",
           "topic": "Philippine History"
@@ -254,7 +254,7 @@
             "Revolutionary generals",
             "Propaganda Movement leaders"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "GOMBURZA refers to three Filipino priests (Mariano Gomez, Jose Burgos, Jacinto Zamora) executed in 1872 for alleged complicity in the Cavite Mutiny.",
           "difficulty": "easy",
           "topic": "Philippine History"
@@ -386,7 +386,7 @@
             "Religious conflicts",
             "Colonial disputes only"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "While underlying tensions existed, the immediate trigger of WWI was the assassination of Archduke Franz Ferdinand of Austria in Sarajevo on June 28, 1914.",
           "difficulty": "easy",
           "topic": "World History and Civilization"
@@ -540,7 +540,7 @@
             "Ending Cold War",
             "Creating League of Nations only"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The Treaty of Versailles officially ended WWI, imposed harsh terms on Germany, created the League of Nations, and redrew European borders.",
           "difficulty": "easy",
           "topic": "World History and Civilization"
@@ -672,7 +672,7 @@
             "Upper and Lower Courts",
             "Cabinet and Council"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The Philippine Congress is bicameral with the Senate (24 senators) and House of Representatives (maximum 316 members).",
           "difficulty": "easy",
           "topic": "Philippine Government and Citizenship"
@@ -944,7 +944,7 @@
             "5 major islands",
             "100 islands"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The Philippines is divided into three main island groups: Luzon (north), Visayas (central), and Mindanao (south), comprising 7,641 islands total.",
           "difficulty": "easy",
           "topic": "Geography and Environment"
@@ -1684,7 +1684,7 @@
             "Musical instrument",
             "Food"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "The terno (or Maria Clara gown) is the traditional formal dress for Filipino women, characterized by distinctive butterfly sleeves.",
           "difficulty": "easy",
           "topic": "Philippine Culture and Society"
