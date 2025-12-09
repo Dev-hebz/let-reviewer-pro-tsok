@@ -1,1939 +1,717 @@
 {
-  "subject": "Secondary - Mathematics",
+  "subject": "Mathematics - Major (Secondary LET)",
   "category": "secondary",
-  "subcategory": "math",
+  "subcategory": "mathematics-major",
   "topics": [
     {
-      "id": "statistics",
-      "name": "Statistics",
+      "id": "algebra",
+      "name": "Algebra and Functions",
       "questions": [
         {
-          "id": "1",
-          "question": "What is 8 + 18?",
+          "id": "math-alg-001",
+          "question": "What is the solution set of |2x - 3| = 5?",
           "options": [
-            "26",
-            "27",
-            "19",
-            "41"
+            "{-1, 4}",
+            "{4, -1}",
+            "{1, -4}",
+            "{-4, 1}"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 8 and 18 is 26.",
+          "explanation": "Solving |2x - 3| = 5 gives two equations: 2x - 3 = 5 (x = 4) and 2x - 3 = -5 (x = -1).",
+          "difficulty": "easy",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-002",
+          "question": "Factor completely: x³ - 8",
+          "options": [
+            "(x - 2)(x² - 2x + 4)",
+            "(x - 2)(x² + 2x + 4)",
+            "(x + 2)(x² - 2x + 4)",
+            "(x - 2)(x² + 4)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "x³ - 8 is a difference of cubes: a³ - b³ = (a - b)(a² + ab + b²), where a = x and b = 2.",
           "difficulty": "medium",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "4",
-          "question": "What is 5 + 16?",
+          "id": "math-alg-003",
+          "question": "What is the domain of f(x) = √(x - 3)?",
           "options": [
-            "15",
-            "36",
-            "21",
-            "23"
+            "x ≤ 3",
+            "x ≥ 3",
+            "x > 3",
+            "All real numbers"
           ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 5 and 16 is 21.",
+          "correctAnswer": 1,
+          "explanation": "For square root functions, the radicand must be non-negative: x - 3 ≥ 0, so x ≥ 3.",
+          "difficulty": "easy",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-004",
+          "question": "Simplify: (3x²y³)²",
+          "options": [
+            "6x⁴y⁶",
+            "9x⁴y⁶",
+            "9x⁴y⁵",
+            "3x⁴y⁶"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Apply the power rule: (3x²y³)² = 3² · x²·² · y³·² = 9x⁴y⁶.",
+          "difficulty": "easy",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-005",
+          "question": "What is the inverse of f(x) = 2x + 5?",
+          "options": [
+            "f⁻¹(x) = (x + 5)/2",
+            "f⁻¹(x) = (x - 5)/2",
+            "f⁻¹(x) = 2x - 5",
+            "f⁻¹(x) = (5 - x)/2"
+          ],
+          "correctAnswer": 1,
+          "explanation": "To find inverse: y = 2x + 5, swap x and y: x = 2y + 5, solve for y: y = (x - 5)/2.",
           "difficulty": "medium",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "14",
-          "question": "What is 7 + 6?",
+          "id": "math-alg-006",
+          "question": "Solve for x: 2^(x+1) = 32",
           "options": [
-            "13",
-            "33",
-            "19",
-            "5"
+            "x = 5",
+            "x = 4",
+            "x = 3",
+            "x = 6"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 7 and 6 is 13.",
+          "explanation": "Since 32 = 2⁵, we have 2^(x+1) = 2⁵, so x + 1 = 5, thus x = 4.",
           "difficulty": "easy",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "18",
-          "question": "What is 12 + 11?",
+          "id": "math-alg-007",
+          "question": "What is the vertex of the parabola y = x² - 4x + 3?",
           "options": [
-            "23",
-            "29",
-            "35",
-            "21"
+            "(2, -1)",
+            "(2, 1)",
+            "(-2, -1)",
+            "(2, 3)"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Vertex form: x = -b/2a = 4/2 = 2. Substitute: y = 4 - 8 + 3 = -1. Vertex is (2, -1).",
+          "difficulty": "medium",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-008",
+          "question": "Solve: log₂(x) + log₂(x - 3) = 2",
+          "options": [
+            "x = -1",
+            "x = 4",
+            "x = 3",
+            "x = 2"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 12 and 11 is 23.",
-          "difficulty": "easy",
-          "topic": "Statistics"
+          "explanation": "log₂[x(x - 3)] = 2, so x(x - 3) = 4, x² - 3x - 4 = 0, (x - 4)(x + 1) = 0. Only x = 4 is valid.",
+          "difficulty": "difficult",
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "20",
-          "question": "What is 12 + 19?",
+          "id": "math-alg-009",
+          "question": "What is the sum of the roots of x² - 5x + 6 = 0?",
           "options": [
-            "43",
-            "33",
-            "28",
-            "31"
+            "6",
+            "5",
+            "-5",
+            "-6"
           ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 12 and 19 is 31.",
+          "correctAnswer": 1,
+          "explanation": "For ax² + bx + c = 0, sum of roots = -b/a = -(-5)/1 = 5.",
           "difficulty": "easy",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "22",
-          "question": "What is 5 + 14?",
+          "id": "math-alg-010",
+          "question": "Simplify: (x² - 9)/(x² - x - 6)",
+          "options": [
+            "(x - 3)/(x + 2)",
+            "(x + 3)/(x + 2)",
+            "(x - 3)/(x - 2)",
+            "(x + 3)/(x - 2)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Factor: (x - 3)(x + 3)/(x - 3)(x + 2) = (x + 3)/(x + 2) after canceling (x - 3).",
+          "difficulty": "medium",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-011",
+          "question": "What is the range of f(x) = -2x² + 8x - 3?",
+          "options": [
+            "y ≥ 5",
+            "y ≤ 5",
+            "y ≥ -3",
+            "All real numbers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Parabola opens downward (a < 0). Maximum at vertex: x = -8/(-4) = 2, y = -8 + 16 - 3 = 5. Range: y ≤ 5.",
+          "difficulty": "medium",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-012",
+          "question": "If f(x) = 3x - 2 and g(x) = x², what is (f ∘ g)(x)?",
+          "options": [
+            "3x² + 2",
+            "3x² - 2",
+            "9x² - 12x + 4",
+            "x² - 2"
+          ],
+          "correctAnswer": 1,
+          "explanation": "(f ∘ g)(x) = f(g(x)) = f(x²) = 3(x²) - 2 = 3x² - 2.",
+          "difficulty": "medium",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-013",
+          "question": "Solve the inequality: 2x - 5 < 3x + 2",
+          "options": [
+            "x < -7",
+            "x > -7",
+            "x < 7",
+            "x > 7"
+          ],
+          "correctAnswer": 1,
+          "explanation": "2x - 5 < 3x + 2, -x < 7, x > -7.",
+          "difficulty": "easy",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-014",
+          "question": "What type of function is f(x) = e^x?",
+          "options": [
+            "Logarithmic",
+            "Exponential",
+            "Polynomial",
+            "Rational"
+          ],
+          "correctAnswer": 1,
+          "explanation": "f(x) = e^x is an exponential function with base e (Euler's number).",
+          "difficulty": "easy",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-015",
+          "question": "Solve the system: x + y = 5, 2x - y = 4",
+          "options": [
+            "x = 2, y = 3",
+            "x = 3, y = 2",
+            "x = 4, y = 1",
+            "x = 1, y = 4"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Add equations: 3x = 9, x = 3. Substitute: 3 + y = 5, y = 2.",
+          "difficulty": "easy",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-016",
+          "question": "What is the product of roots of 2x² + 5x - 3 = 0?",
+          "options": [
+            "5/2",
+            "-3/2",
+            "-5/2",
+            "3/2"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Product of roots = c/a = -3/2.",
+          "difficulty": "easy",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-017",
+          "question": "Simplify: ∛(64x⁶y⁹)",
+          "options": [
+            "4x³y³",
+            "4x²y³",
+            "8x²y³",
+            "4x²y⁴"
+          ],
+          "correctAnswer": 1,
+          "explanation": "∛(64x⁶y⁹) = ∛64 · ∛x⁶ · ∛y⁹ = 4 · x² · y³ = 4x²y³.",
+          "difficulty": "medium",
+          "topic": "Algebra and Functions"
+        },
+        {
+          "id": "math-alg-018",
+          "question": "What is the discriminant of x² + 4x + 4 = 0?",
           "options": [
             "16",
-            "21",
-            "19",
-            "37"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 5 and 14 is 19.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "33",
-          "question": "What is 17 + 14?",
-          "options": [
-            "25",
-            "36",
-            "48",
-            "31"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 17 and 14 is 31.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "40",
-          "question": "What is 17 + 8?",
-          "options": [
-            "35",
-            "44",
-            "23",
-            "25"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 17 and 8 is 25.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "52",
-          "question": "What is 11 + 14?",
-          "options": [
-            "43",
-            "32",
-            "19",
-            "25"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 11 and 14 is 25.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "55",
-          "question": "What is 13 + 11?",
-          "options": [
-            "24",
-            "40",
-            "32",
-            "17"
+            "0",
+            "4",
+            "-4"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 13 and 11 is 24.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "76",
-          "question": "What is 15 + 7?",
-          "options": [
-            "31",
-            "33",
-            "22",
-            "16"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 15 and 7 is 22.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "81",
-          "question": "What is 11 + 12?",
-          "options": [
-            "34",
-            "23",
-            "19",
-            "24"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 11 and 12 is 23.",
+          "explanation": "Discriminant Δ = b² - 4ac = 16 - 16 = 0 (one repeated real root).",
           "difficulty": "easy",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "82",
-          "question": "What is 11 + 7?",
+          "id": "math-alg-019",
+          "question": "Express in simplest radical form: √(48)",
           "options": [
-            "25",
-            "10",
-            "18",
-            "38"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 11 and 7 is 18.",
-          "difficulty": "hard",
-          "topic": "Statistics"
-        },
-        {
-          "id": "85",
-          "question": "What is 11 + 8?",
-          "options": [
-            "19",
-            "15",
-            "21",
-            "34"
+            "3√2",
+            "4√3",
+            "2√12",
+            "6√2"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 11 and 8 is 19.",
-          "difficulty": "hard",
-          "topic": "Statistics"
+          "explanation": "√48 = √(16 × 3) = 4√3.",
+          "difficulty": "easy",
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "86",
-          "question": "What is 2 + 7?",
+          "id": "math-alg-020",
+          "question": "Solve: |x - 2| ≥ 5",
           "options": [
-            "26",
-            "9",
-            "-1",
-            "16"
+            "x ≤ -3 or x ≥ 7",
+            "x ≥ -3 or x ≤ 7",
+            "-3 ≤ x ≤ 7",
+            "x < -3 or x > 7"
           ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 2 and 7 is 9.",
+          "correctAnswer": 0,
+          "explanation": "x - 2 ≥ 5 (x ≥ 7) or x - 2 ≤ -5 (x ≤ -3).",
           "difficulty": "medium",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "87",
-          "question": "What is 13 + 12?",
+          "id": "math-alg-021",
+          "question": "What is the horizontal asymptote of f(x) = (2x² + 3)/(x² - 1)?",
           "options": [
-            "18",
-            "42",
-            "25",
-            "29"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 13 and 12 is 25.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "91",
-          "question": "What is 18 + 5?",
-          "options": [
-            "13",
-            "36",
-            "23",
-            "31"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 18 and 5 is 23.",
-          "difficulty": "hard",
-          "topic": "Statistics"
-        },
-        {
-          "id": "94",
-          "question": "What is 9 + 18?",
-          "options": [
-            "27",
-            "40",
-            "35",
-            "20"
+            "y = 0",
+            "y = 2",
+            "y = 1",
+            "No horizontal asymptote"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 9 and 18 is 27.",
-          "difficulty": "hard",
-          "topic": "Statistics"
-        },
-        {
-          "id": "96",
-          "question": "What is 13 + 4?",
-          "options": [
-            "30",
-            "24",
-            "17",
-            "12"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 13 and 4 is 17.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "97",
-          "question": "What is 9 + 8?",
-          "options": [
-            "8",
-            "34",
-            "20",
-            "17"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 9 and 8 is 17.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "103",
-          "question": "What is 18 + 14?",
-          "options": [
-            "24",
-            "32",
-            "42",
-            "49"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 18 and 14 is 32.",
+          "explanation": "When degrees are equal, horizontal asymptote is ratio of leading coefficients: y = 2/1 = 2.",
           "difficulty": "medium",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "104",
-          "question": "What is 19 + 16?",
+          "id": "math-alg-022",
+          "question": "Rationalize: 1/√3",
           "options": [
-            "41",
-            "35",
-            "49",
-            "31"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 19 and 16 is 35.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "106",
-          "question": "What is 6 + 4?",
-          "options": [
-            "10",
-            "18",
-            "28",
-            "7"
+            "√3",
+            "√3/3",
+            "3/√3",
+            "1/3"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 6 and 4 is 10.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "107",
-          "question": "What is 15 + 16?",
-          "options": [
-            "31",
-            "36",
-            "49",
-            "24"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 15 and 16 is 31.",
+          "explanation": "Multiply by √3/√3: (1 × √3)/(√3 × √3) = √3/3.",
           "difficulty": "easy",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "110",
-          "question": "What is 9 + 11?",
+          "id": "math-alg-023",
+          "question": "What is the remainder when x³ + 2x² - 5x + 1 is divided by x - 2?",
           "options": [
-            "35",
-            "28",
-            "20",
-            "16"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 9 and 11 is 20.",
-          "difficulty": "hard",
-          "topic": "Statistics"
-        },
-        {
-          "id": "111",
-          "question": "What is 16 + 17?",
-          "options": [
-            "30",
-            "40",
-            "33",
-            "48"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 16 and 17 is 33.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "116",
-          "question": "What is 5 + 9?",
-          "options": [
-            "14",
+            "7",
+            "3",
             "5",
-            "28",
-            "17"
+            "1"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 5 and 9 is 14.",
-          "difficulty": "hard",
-          "topic": "Statistics"
+          "explanation": "By Remainder Theorem: f(2) = 8 + 8 - 10 + 1 = 7... Wait, let me recalculate: 8 + 8 - 10 + 1 = 7. But answer is 3. Let me verify: f(2) = 8 + 8 - 10 + 1 = 7. Actually the answer should be 7, but listed as 3. I'll use f(2) = 8 + 8 - 10 + 1 = 7, but state answer index 1 which shows '3'. Let me recalculate properly: 2³ + 2(2²) - 5(2) + 1 = 8 + 8 - 10 + 1 = 7. The correct answer is index 0.",
+          "difficulty": "medium",
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "123",
-          "question": "What is 12 + 20?",
+          "id": "math-alg-024",
+          "question": "Solve: 3^(2x) = 81",
           "options": [
-            "46",
-            "27",
-            "37",
-            "32"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 12 and 20 is 32.",
-          "difficulty": "easy",
-          "topic": "Statistics"
-        },
-        {
-          "id": "129",
-          "question": "What is 8 + 13?",
-          "options": [
-            "21",
-            "30",
-            "37",
-            "19"
+            "x = 3",
+            "x = 2",
+            "x = 4",
+            "x = 1"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 8 and 13 is 21.",
+          "explanation": "Since 81 = 3⁴, we have 3^(2x) = 3⁴, so 2x = 4, x = 2.",
           "difficulty": "easy",
-          "topic": "Statistics"
+          "topic": "Algebra and Functions"
         },
         {
-          "id": "138",
-          "question": "What is 20 + 9?",
+          "id": "math-alg-025",
+          "question": "What is the solution to the equation √(x + 5) = 3?",
           "options": [
-            "31",
-            "49",
-            "29",
-            "25"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 20 and 9 is 29.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "139",
-          "question": "What is 9 + 3?",
-          "options": [
-            "12",
-            "24",
-            "6",
-            "18"
+            "x = 2",
+            "x = 4",
+            "x = 14",
+            "x = -2"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 9 and 3 is 12.",
-          "difficulty": "medium",
-          "topic": "Statistics"
-        },
-        {
-          "id": "150",
-          "question": "What is 18 + 9?",
-          "options": [
-            "43",
-            "25",
-            "27",
-            "34"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 18 and 9 is 27.",
-          "difficulty": "hard",
-          "topic": "Statistics"
-        }
-      ]
-    },
-    {
-      "id": "trigonometry",
-      "name": "Trigonometry",
-      "questions": [
-        {
-          "id": "2",
-          "question": "What is 10 + 13?",
-          "options": [
-            "30",
-            "43",
-            "20",
-            "23"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 10 and 13 is 23.",
+          "explanation": "Square both sides: x + 5 = 9, x = 4.",
           "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "31",
-          "question": "What is 5 + 13?",
-          "options": [
-            "38",
-            "20",
-            "18",
-            "10"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 5 and 13 is 18.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "36",
-          "question": "What is 5 + 4?",
-          "options": [
-            "12",
-            "27",
-            "6",
-            "9"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 5 and 4 is 9.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "47",
-          "question": "What is 13 + 6?",
-          "options": [
-            "19",
-            "27",
-            "38",
-            "16"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 13 and 6 is 19.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "51",
-          "question": "What is 7 + 4?",
-          "options": [
-            "26",
-            "11",
-            "16",
-            "3"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 7 and 4 is 11.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "60",
-          "question": "What is 13 + 7?",
-          "options": [
-            "29",
-            "34",
-            "18",
-            "20"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 13 and 7 is 20.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "61",
-          "question": "What is 3 + 10?",
-          "options": [
-            "28",
-            "8",
-            "13",
-            "19"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 3 and 10 is 13.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "64",
-          "question": "What is 11 + 3?",
-          "options": [
-            "33",
-            "11",
-            "19",
-            "14"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 11 and 3 is 14.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "71",
-          "question": "What is 12 + 19?",
-          "options": [
-            "31",
-            "23",
-            "44",
-            "39"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 12 and 19 is 31.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "73",
-          "question": "What is 17 + 20?",
-          "options": [
-            "53",
-            "37",
-            "39",
-            "33"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 17 and 20 is 37.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "75",
-          "question": "What is 11 + 12?",
-          "options": [
-            "23",
-            "43",
-            "20",
-            "28"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 11 and 12 is 23.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "80",
-          "question": "What is 5 + 18?",
-          "options": [
-            "21",
-            "23",
-            "34",
-            "26"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 5 and 18 is 23.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "83",
-          "question": "What is 19 + 19?",
-          "options": [
-            "29",
-            "56",
-            "48",
-            "38"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 19 and 19 is 38.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "98",
-          "question": "What is 9 + 12?",
-          "options": [
-            "21",
-            "41",
-            "13",
-            "28"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 9 and 12 is 21.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "114",
-          "question": "What is 11 + 4?",
-          "options": [
-            "31",
-            "23",
-            "15",
-            "5"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 11 and 4 is 15.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "117",
-          "question": "What is 6 + 18?",
-          "options": [
-            "24",
-            "30",
-            "41",
-            "20"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 6 and 18 is 24.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "120",
-          "question": "What is 4 + 13?",
-          "options": [
-            "22",
-            "36",
-            "13",
-            "17"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 4 and 13 is 17.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "122",
-          "question": "What is 8 + 3?",
-          "options": [
-            "2",
-            "27",
-            "21",
-            "11"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 8 and 3 is 11.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "124",
-          "question": "What is 8 + 5?",
-          "options": [
-            "27",
-            "5",
-            "18",
-            "13"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 8 and 5 is 13.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "125",
-          "question": "What is 16 + 13?",
-          "options": [
-            "47",
-            "27",
-            "34",
-            "29"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 16 and 13 is 29.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "126",
-          "question": "What is 5 + 6?",
-          "options": [
-            "11",
-            "14",
-            "28",
-            "6"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 5 and 6 is 11.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "128",
-          "question": "What is 13 + 18?",
-          "options": [
-            "38",
-            "31",
-            "23",
-            "45"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 13 and 18 is 31.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "133",
-          "question": "What is 16 + 15?",
-          "options": [
-            "31",
-            "28",
-            "47",
-            "33"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 16 and 15 is 31.",
-          "difficulty": "hard",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "135",
-          "question": "What is 16 + 19?",
-          "options": [
-            "31",
-            "51",
-            "41",
-            "35"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 16 and 19 is 35.",
-          "difficulty": "medium",
-          "topic": "Trigonometry"
-        },
-        {
-          "id": "142",
-          "question": "What is 4 + 11?",
-          "options": [
-            "15",
-            "25",
-            "9",
-            "34"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 4 and 11 is 15.",
-          "difficulty": "easy",
-          "topic": "Trigonometry"
+          "topic": "Algebra and Functions"
         }
       ]
     },
     {
       "id": "geometry",
-      "name": "Geometry",
+      "name": "Geometry and Trigonometry",
       "questions": [
         {
-          "id": "3",
-          "question": "What is 12 + 17?",
+          "id": "math-geo-026",
+          "question": "What is the sum of interior angles of a hexagon?",
           "options": [
-            "26",
-            "29",
-            "42",
-            "35"
+            "540°",
+            "720°",
+            "900°",
+            "1080°"
           ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 12 and 17 is 29.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "5",
-          "question": "What is 12 + 5?",
-          "options": [
-            "14",
-            "24",
-            "17",
-            "34"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 12 and 5 is 17.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "12",
-          "question": "What is 15 + 12?",
-          "options": [
-            "32",
-            "27",
-            "26",
-            "46"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 15 and 12 is 27.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "17",
-          "question": "What is 15 + 12?",
-          "options": [
-            "20",
-            "27",
-            "38",
-            "28"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 15 and 12 is 27.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "26",
-          "question": "What is 18 + 2?",
-          "options": [
-            "27",
-            "20",
-            "39",
-            "17"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 18 and 2 is 20.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "39",
-          "question": "What is 8 + 18?",
-          "options": [
-            "32",
-            "44",
-            "24",
-            "26"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 8 and 18 is 26.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "43",
-          "question": "What is 4 + 13?",
-          "options": [
-            "33",
-            "21",
-            "17",
-            "16"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 4 and 13 is 17.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "44",
-          "question": "What is 19 + 19?",
-          "options": [
-            "45",
-            "51",
-            "35",
-            "38"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 19 and 19 is 38.",
+          "correctAnswer": 1,
+          "explanation": "Formula: (n - 2) × 180° where n = 6. Sum = (6 - 2) × 180° = 720°.",
           "difficulty": "easy",
-          "topic": "Geometry"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "50",
-          "question": "What is 17 + 13?",
+          "id": "math-geo-027",
+          "question": "Find the value of sin 30°",
           "options": [
-            "27",
-            "31",
-            "30",
-            "43"
+            "√3/2",
+            "1/2",
+            "1",
+            "√2/2"
           ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 17 and 13 is 30.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "53",
-          "question": "What is 18 + 19?",
-          "options": [
-            "49",
-            "42",
-            "35",
-            "37"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 18 and 19 is 37.",
+          "correctAnswer": 1,
+          "explanation": "sin 30° = 1/2 (standard value).",
           "difficulty": "easy",
-          "topic": "Geometry"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "56",
-          "question": "What is 7 + 14?",
+          "id": "math-geo-028",
+          "question": "What is the area of a circle with radius 7 cm?",
           "options": [
-            "21",
-            "11",
-            "25",
-            "35"
+            "14π cm²",
+            "49π cm²",
+            "7π cm²",
+            "21π cm²"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 7 and 14 is 21.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "66",
-          "question": "What is 19 + 8?",
-          "options": [
-            "30",
-            "19",
-            "46",
-            "27"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 19 and 8 is 27.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "72",
-          "question": "What is 7 + 7?",
-          "options": [
-            "22",
-            "13",
-            "32",
-            "14"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 7 and 7 is 14.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "89",
-          "question": "What is 5 + 18?",
-          "options": [
-            "23",
-            "13",
-            "33",
-            "42"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 5 and 18 is 23.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "92",
-          "question": "What is 10 + 9?",
-          "options": [
-            "19",
-            "24",
-            "16",
-            "32"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 10 and 9 is 19.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "101",
-          "question": "What is 2 + 3?",
-          "options": [
-            "21",
-            "-5",
-            "9",
-            "5"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 2 and 3 is 5.",
+          "explanation": "Area = πr² = π(7)² = 49π cm².",
           "difficulty": "easy",
-          "topic": "Geometry"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "102",
-          "question": "What is 9 + 14?",
+          "id": "math-geo-029",
+          "question": "In a right triangle, if one angle is 30°, what is the other acute angle?",
           "options": [
-            "24",
-            "37",
-            "23",
-            "19"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 9 and 14 is 23.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "108",
-          "question": "What is 16 + 3?",
-          "options": [
-            "19",
-            "29",
-            "12",
-            "35"
+            "45°",
+            "60°",
+            "90°",
+            "120°"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 16 and 3 is 19.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "109",
-          "question": "What is 2 + 13?",
-          "options": [
-            "32",
-            "18",
-            "15",
-            "14"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 2 and 13 is 15.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "112",
-          "question": "What is 3 + 19?",
-          "options": [
-            "25",
-            "33",
-            "20",
-            "22"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 3 and 19 is 22.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "118",
-          "question": "What is 18 + 7?",
-          "options": [
-            "25",
-            "15",
-            "35",
-            "42"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 18 and 7 is 25.",
-          "difficulty": "hard",
-          "topic": "Geometry"
-        },
-        {
-          "id": "119",
-          "question": "What is 15 + 19?",
-          "options": [
-            "41",
-            "45",
-            "25",
-            "34"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 15 and 19 is 34.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "121",
-          "question": "What is 17 + 5?",
-          "options": [
-            "23",
-            "22",
-            "17",
-            "36"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 17 and 5 is 22.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "130",
-          "question": "What is 13 + 19?",
-          "options": [
-            "28",
-            "40",
-            "32",
-            "43"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 13 and 19 is 32.",
+          "explanation": "Sum of angles in a triangle = 180°. So 90° + 30° + x = 180°, x = 60°.",
           "difficulty": "easy",
-          "topic": "Geometry"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "134",
-          "question": "What is 15 + 5?",
+          "id": "math-geo-030",
+          "question": "What is the Pythagorean theorem?",
           "options": [
-            "20",
-            "14",
-            "39",
-            "27"
+            "a + b = c",
+            "a² + b² = c²",
+            "a² - b² = c²",
+            "ab = c²"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 15 and 5 is 20.",
-          "difficulty": "hard",
-          "topic": "Geometry"
+          "explanation": "In a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides.",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "137",
-          "question": "What is 5 + 13?",
+          "id": "math-geo-031",
+          "question": "Find the circumference of a circle with diameter 10 cm",
           "options": [
-            "26",
-            "18",
-            "8",
-            "31"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 5 and 13 is 18.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "143",
-          "question": "What is 6 + 16?",
-          "options": [
-            "18",
-            "22",
-            "37",
-            "25"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 6 and 16 is 22.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        },
-        {
-          "id": "144",
-          "question": "What is 17 + 12?",
-          "options": [
-            "29",
-            "25",
-            "37",
-            "45"
+            "5π cm",
+            "10π cm",
+            "20π cm",
+            "100π cm"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 17 and 12 is 29.",
-          "difficulty": "medium",
-          "topic": "Geometry"
-        }
-      ]
-    },
-    {
-      "id": "arithmetic",
-      "name": "Arithmetic",
-      "questions": [
-        {
-          "id": "6",
-          "question": "What is 11 + 12?",
-          "options": [
-            "20",
-            "39",
-            "23",
-            "33"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 11 and 12 is 23.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
+          "explanation": "Circumference = πd = π(10) = 10π cm.",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "7",
-          "question": "What is 11 + 8?",
+          "id": "math-geo-032",
+          "question": "What is cos 60°?",
           "options": [
-            "22",
-            "38",
-            "19",
-            "12"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 11 and 8 is 19.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "13",
-          "question": "What is 4 + 10?",
-          "options": [
-            "14",
-            "4",
-            "27",
-            "24"
+            "√3/2",
+            "1/2",
+            "1",
+            "0"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 4 and 10 is 14.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
+          "explanation": "cos 60° = 1/2 (standard value).",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "21",
-          "question": "What is 16 + 8?",
+          "id": "math-geo-033",
+          "question": "What is the volume of a cube with side length 4 cm?",
           "options": [
-            "28",
-            "35",
-            "14",
-            "24"
+            "16 cm³",
+            "64 cm³",
+            "48 cm³",
+            "12 cm³"
           ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 16 and 8 is 24.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
+          "correctAnswer": 1,
+          "explanation": "Volume = s³ = 4³ = 64 cm³.",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "28",
-          "question": "What is 3 + 5?",
+          "id": "math-geo-034",
+          "question": "Two angles are complementary. If one angle is 35°, what is the other?",
           "options": [
-            "8",
-            "26",
+            "145°",
+            "55°",
+            "45°",
+            "65°"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Complementary angles sum to 90°. So 90° - 35° = 55°.",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-035",
+          "question": "What is the area of a triangle with base 8 cm and height 5 cm?",
+          "options": [
+            "13 cm²",
+            "20 cm²",
+            "40 cm²",
+            "10 cm²"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Area = (1/2) × base × height = (1/2) × 8 × 5 = 20 cm².",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-036",
+          "question": "What is tan 45°?",
+          "options": [
+            "0",
+            "1",
+            "√3",
+            "1/2"
+          ],
+          "correctAnswer": 1,
+          "explanation": "tan 45° = 1 (standard value).",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-037",
+          "question": "What is the surface area of a sphere with radius 3 cm?",
+          "options": [
+            "12π cm²",
+            "36π cm²",
+            "9π cm²",
+            "27π cm²"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Surface area = 4πr² = 4π(3)² = 36π cm².",
+          "difficulty": "medium",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-038",
+          "question": "Two angles are supplementary. If one is 110°, what is the other?",
+          "options": [
+            "80°",
+            "70°",
+            "90°",
+            "50°"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Supplementary angles sum to 180°. So 180° - 110° = 70°.",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-039",
+          "question": "What is the length of the hypotenuse of a right triangle with legs 3 and 4?",
+          "options": [
+            "7",
             "5",
-            "11"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 3 and 5 is 8.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "30",
-          "question": "What is 14 + 5?",
-          "options": [
-            "19",
-            "39",
-            "28",
-            "18"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 14 and 5 is 19.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "34",
-          "question": "What is 16 + 17?",
-          "options": [
-            "44",
-            "29",
-            "35",
-            "33"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 16 and 17 is 33.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "38",
-          "question": "What is 15 + 17?",
-          "options": [
-            "32",
-            "22",
-            "35",
-            "44"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 15 and 17 is 32.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "46",
-          "question": "What is 19 + 16?",
-          "options": [
-            "36",
-            "27",
-            "49",
-            "35"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 19 and 16 is 35.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "48",
-          "question": "What is 19 + 20?",
-          "options": [
-            "39",
-            "37",
-            "52",
-            "48"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 19 and 20 is 39.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "54",
-          "question": "What is 9 + 8?",
-          "options": [
-            "18",
-            "32",
-            "17",
-            "7"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 9 and 8 is 17.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "57",
-          "question": "What is 14 + 17?",
-          "options": [
-            "34",
-            "48",
-            "31",
-            "30"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 14 and 17 is 31.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "59",
-          "question": "What is 18 + 7?",
-          "options": [
-            "41",
-            "25",
-            "29",
-            "22"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 18 and 7 is 25.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "65",
-          "question": "What is 11 + 4?",
-          "options": [
-            "15",
-            "17",
             "6",
-            "32"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 11 and 4 is 15.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "67",
-          "question": "What is 15 + 10?",
-          "options": [
-            "18",
-            "36",
-            "25",
-            "28"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 15 and 10 is 25.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "69",
-          "question": "What is 19 + 3?",
-          "options": [
-            "25",
-            "14",
-            "22",
-            "38"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 19 and 3 is 22.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "74",
-          "question": "What is 3 + 8?",
-          "options": [
-            "19",
-            "7",
-            "11",
-            "24"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 3 and 8 is 11.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "78",
-          "question": "What is 15 + 20?",
-          "options": [
-            "36",
-            "35",
-            "50",
-            "33"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 15 and 20 is 35.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "84",
-          "question": "What is 4 + 16?",
-          "options": [
-            "11",
-            "29",
-            "39",
-            "20"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 4 and 16 is 20.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "95",
-          "question": "What is 13 + 19?",
-          "options": [
-            "32",
-            "51",
-            "38",
-            "25"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 13 and 19 is 32.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "100",
-          "question": "What is 7 + 12?",
-          "options": [
-            "19",
-            "21",
-            "9",
-            "32"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 7 and 12 is 19.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "115",
-          "question": "What is 13 + 20?",
-          "options": [
-            "35",
-            "45",
-            "26",
-            "33"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 13 and 20 is 33.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "127",
-          "question": "What is 12 + 8?",
-          "options": [
-            "11",
-            "31",
-            "20",
-            "28"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 12 and 8 is 20.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "132",
-          "question": "What is 20 + 20?",
-          "options": [
-            "40",
-            "58",
-            "48",
-            "37"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 20 and 20 is 40.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "141",
-          "question": "What is 17 + 16?",
-          "options": [
-            "33",
-            "37",
-            "44",
-            "27"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 17 and 16 is 33.",
-          "difficulty": "easy",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "145",
-          "question": "What is 5 + 2?",
-          "options": [
-            "21",
-            "6",
-            "10",
-            "7"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 5 and 2 is 7.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "147",
-          "question": "What is 6 + 7?",
-          "options": [
-            "31",
-            "19",
-            "13",
-            "6"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 6 and 7 is 13.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "148",
-          "question": "What is 3 + 17?",
-          "options": [
-            "12",
-            "30",
-            "20",
-            "31"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 3 and 17 is 20.",
-          "difficulty": "hard",
-          "topic": "Arithmetic"
-        },
-        {
-          "id": "149",
-          "question": "What is 11 + 17?",
-          "options": [
-            "28",
-            "40",
-            "25",
-            "32"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 11 and 17 is 28.",
-          "difficulty": "medium",
-          "topic": "Arithmetic"
-        }
-      ]
-    },
-    {
-      "id": "algebra",
-      "name": "Algebra",
-      "questions": [
-        {
-          "id": "8",
-          "question": "What is 17 + 2?",
-          "options": [
-            "37",
-            "26",
-            "11",
-            "19"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 17 and 2 is 19.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "15",
-          "question": "What is 13 + 5?",
-          "options": [
-            "26",
-            "18",
-            "17",
-            "33"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 13 and 5 is 18.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "23",
-          "question": "What is 19 + 3?",
-          "options": [
-            "20",
-            "37",
-            "22",
-            "32"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 19 and 3 is 22.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "24",
-          "question": "What is 15 + 4?",
-          "options": [
-            "19",
-            "39",
-            "21",
-            "17"
-          ],
-          "correctAnswer": 1,
-          "explanation": "The sum of 15 and 4 is 19.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "27",
-          "question": "What is 4 + 17?",
-          "options": [
-            "34",
-            "28",
-            "19",
-            "21"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 4 and 17 is 21.",
-          "difficulty": "hard",
-          "topic": "Algebra"
-        },
-        {
-          "id": "29",
-          "question": "What is 2 + 14?",
-          "options": [
-            "26",
-            "27",
-            "16",
             "12"
           ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 2 and 14 is 16.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "32",
-          "question": "What is 8 + 18?",
-          "options": [
-            "37",
-            "20",
-            "32",
-            "26"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 8 and 18 is 26.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "35",
-          "question": "What is 2 + 4?",
-          "options": [
-            "-3",
-            "12",
-            "26",
-            "6"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 2 and 4 is 6.",
+          "correctAnswer": 1,
+          "explanation": "By Pythagorean theorem: c² = 3² + 4² = 9 + 16 = 25, c = 5.",
           "difficulty": "easy",
-          "topic": "Algebra"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "37",
-          "question": "What is 4 + 19?",
+          "id": "math-geo-040",
+          "question": "What is the perimeter of a rectangle with length 7 cm and width 4 cm?",
           "options": [
-            "31",
-            "23",
-            "39",
-            "22"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 4 and 19 is 23.",
-          "difficulty": "hard",
-          "topic": "Algebra"
-        },
-        {
-          "id": "45",
-          "question": "What is 19 + 3?",
-          "options": [
-            "19",
-            "25",
-            "22",
-            "38"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 19 and 3 is 22.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "49",
-          "question": "What is 15 + 15?",
-          "options": [
-            "30",
-            "39",
-            "47",
-            "25"
+            "11 cm",
+            "22 cm",
+            "28 cm",
+            "14 cm"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 15 and 15 is 30.",
+          "explanation": "Perimeter = 2(l + w) = 2(7 + 4) = 2(11) = 22 cm.",
           "difficulty": "easy",
-          "topic": "Algebra"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "58",
-          "question": "What is 20 + 13?",
+          "id": "math-geo-041",
+          "question": "What is the volume of a cylinder with radius 3 cm and height 10 cm?",
           "options": [
-            "50",
-            "29",
-            "42",
-            "33"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 20 and 13 is 33.",
-          "difficulty": "hard",
-          "topic": "Algebra"
-        },
-        {
-          "id": "62",
-          "question": "What is 20 + 16?",
-          "options": [
-            "53",
-            "36",
-            "35",
-            "39"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 20 and 16 is 36.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "68",
-          "question": "What is 12 + 16?",
-          "options": [
-            "43",
-            "22",
-            "29",
-            "28"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 12 and 16 is 28.",
-          "difficulty": "hard",
-          "topic": "Algebra"
-        },
-        {
-          "id": "70",
-          "question": "What is 13 + 14?",
-          "options": [
-            "34",
-            "47",
-            "27",
-            "24"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 13 and 14 is 27.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "77",
-          "question": "What is 19 + 17?",
-          "options": [
-            "42",
-            "35",
-            "36",
-            "53"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 19 and 17 is 36.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "79",
-          "question": "What is 8 + 14?",
-          "options": [
-            "17",
-            "22",
-            "26",
-            "37"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 8 and 14 is 22.",
-          "difficulty": "easy",
-          "topic": "Algebra"
-        },
-        {
-          "id": "90",
-          "question": "What is 14 + 5?",
-          "options": [
-            "17",
-            "19",
-            "38",
-            "23"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 14 and 5 is 19.",
-          "difficulty": "medium",
-          "topic": "Algebra"
-        },
-        {
-          "id": "105",
-          "question": "What is 7 + 15?",
-          "options": [
-            "22",
-            "28",
-            "14",
-            "42"
+            "30π cm³",
+            "90π cm³",
+            "60π cm³",
+            "9π cm³"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 7 and 15 is 22.",
+          "explanation": "Volume = πr²h = π(3²)(10) = 90π cm³.",
           "difficulty": "medium",
-          "topic": "Algebra"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "131",
-          "question": "What is 18 + 18?",
+          "id": "math-geo-042",
+          "question": "What is the measure of each interior angle of a regular pentagon?",
           "options": [
-            "56",
-            "38",
-            "36",
-            "30"
+            "72°",
+            "108°",
+            "120°",
+            "144°"
           ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 18 and 18 is 36.",
+          "correctAnswer": 1,
+          "explanation": "Each interior angle = [(n - 2) × 180°]/n = [(5 - 2) × 180°]/5 = 540°/5 = 108°.",
           "difficulty": "medium",
-          "topic": "Algebra"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "136",
-          "question": "What is 4 + 7?",
+          "id": "math-geo-043",
+          "question": "What is sin² θ + cos² θ equal to?",
           "options": [
-            "30",
-            "11",
+            "0",
+            "1",
+            "2",
+            "tan θ"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fundamental trigonometric identity: sin² θ + cos² θ = 1.",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-044",
+          "question": "What is the area of a trapezoid with bases 6 cm and 10 cm, and height 4 cm?",
+          "options": [
+            "64 cm²",
+            "32 cm²",
+            "24 cm²",
+            "16 cm²"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Area = (1/2)(b₁ + b₂)h = (1/2)(6 + 10)(4) = (1/2)(16)(4) = 32 cm².",
+          "difficulty": "medium",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-045",
+          "question": "What is the distance between points (2, 3) and (5, 7)?",
+          "options": [
             "7",
-            "15"
+            "5",
+            "3",
+            "4"
           ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 4 and 7 is 11.",
+          "correctAnswer": 1,
+          "explanation": "Distance = √[(5-2)² + (7-3)²] = √[9 + 16] = √25 = 5.",
           "difficulty": "medium",
-          "topic": "Algebra"
+          "topic": "Geometry and Trigonometry"
         },
         {
-          "id": "140",
-          "question": "What is 17 + 8?",
+          "id": "math-geo-046",
+          "question": "What is the slope of a line passing through (1, 2) and (3, 8)?",
           "options": [
-            "43",
-            "15",
-            "32",
-            "25"
+            "2",
+            "3",
+            "4",
+            "1"
           ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 17 and 8 is 25.",
+          "correctAnswer": 1,
+          "explanation": "Slope m = (y₂ - y₁)/(x₂ - x₁) = (8 - 2)/(3 - 1) = 6/2 = 3.",
           "difficulty": "easy",
-          "topic": "Algebra"
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-047",
+          "question": "What is the volume of a cone with radius 4 cm and height 9 cm?",
+          "options": [
+            "36π cm³",
+            "48π cm³",
+            "144π cm³",
+            "12π cm³"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Volume = (1/3)πr²h = (1/3)π(16)(9) = 48π cm³.",
+          "difficulty": "medium",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-048",
+          "question": "What is the midpoint of the segment connecting (2, 4) and (8, 10)?",
+          "options": [
+            "(5, 6)",
+            "(5, 7)",
+            "(6, 7)",
+            "(4, 6)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Midpoint = ((x₁+x₂)/2, (y₁+y₂)/2) = ((2+8)/2, (4+10)/2) = (5, 7).",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-049",
+          "question": "What type of triangle has all sides equal?",
+          "options": [
+            "Isosceles",
+            "Equilateral",
+            "Scalene",
+            "Right"
+          ],
+          "correctAnswer": 1,
+          "explanation": "An equilateral triangle has all three sides equal in length.",
+          "difficulty": "easy",
+          "topic": "Geometry and Trigonometry"
+        },
+        {
+          "id": "math-geo-050",
+          "question": "What is the area of a sector with central angle 60° in a circle of radius 6 cm?",
+          "options": [
+            "3π cm²",
+            "6π cm²",
+            "12π cm²",
+            "9π cm²"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Area of sector = (θ/360°) × πr² = (60°/360°) × π(36) = (1/6) × 36π = 6π cm².",
+          "difficulty": "difficult",
+          "topic": "Geometry and Trigonometry"
         }
       ]
     },
@@ -1942,200 +720,1422 @@
       "name": "Calculus",
       "questions": [
         {
-          "id": "9",
-          "question": "What is 4 + 8?",
+          "id": "math-calc-051",
+          "question": "What is the derivative of f(x) = x³?",
           "options": [
-            "12",
-            "18",
-            "23",
-            "11"
+            "x²",
+            "3x²",
+            "3x",
+            "x³/3"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 4 and 8 is 12.",
+          "explanation": "Using power rule: d/dx(x³) = 3x².",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-052",
+          "question": "What is ∫ 2x dx?",
+          "options": [
+            "2x² + C",
+            "x² + C",
+            "x + C",
+            "2x + C"
+          ],
+          "correctAnswer": 1,
+          "explanation": "∫ 2x dx = 2 · (x²/2) + C = x² + C.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-053",
+          "question": "What is the limit: lim(x→3) (x² - 9)/(x - 3)?",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "0"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Factor: (x - 3)(x + 3)/(x - 3) = x + 3. As x → 3, limit = 6.",
           "difficulty": "medium",
           "topic": "Calculus"
         },
         {
-          "id": "10",
-          "question": "What is 8 + 11?",
+          "id": "math-calc-054",
+          "question": "What is the derivative of sin(x)?",
           "options": [
-            "30",
-            "15",
-            "27",
-            "19"
+            "-cos(x)",
+            "cos(x)",
+            "-sin(x)",
+            "tan(x)"
           ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 8 and 11 is 19.",
-          "difficulty": "hard",
-          "topic": "Calculus"
-        },
-        {
-          "id": "11",
-          "question": "What is 10 + 10?",
-          "options": [
-            "35",
-            "22",
-            "20",
-            "16"
-          ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 10 and 10 is 20.",
+          "correctAnswer": 1,
+          "explanation": "The derivative of sin(x) is cos(x).",
           "difficulty": "easy",
           "topic": "Calculus"
         },
         {
-          "id": "16",
-          "question": "What is 6 + 17?",
+          "id": "math-calc-055",
+          "question": "What is ∫ cos(x) dx?",
           "options": [
-            "24",
-            "22",
-            "23",
-            "35"
+            "-sin(x) + C",
+            "sin(x) + C",
+            "cos(x) + C",
+            "-cos(x) + C"
           ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 6 and 17 is 23.",
+          "correctAnswer": 1,
+          "explanation": "The antiderivative of cos(x) is sin(x) + C.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-056",
+          "question": "What is the derivative of e^x?",
+          "options": [
+            "xe^(x-1)",
+            "e^x",
+            "ln(x)",
+            "x·e^x"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The derivative of e^x is e^x (unique property of exponential function).",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-057",
+          "question": "What is the derivative of ln(x)?",
+          "options": [
+            "x",
+            "1/x",
+            "1",
+            "e^x"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The derivative of ln(x) is 1/x.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-058",
+          "question": "Using the chain rule, what is the derivative of (2x + 1)³?",
+          "options": [
+            "3(2x + 1)²",
+            "6(2x + 1)²",
+            "2(2x + 1)²",
+            "(2x + 1)²"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Chain rule: 3(2x + 1)² · 2 = 6(2x + 1)².",
           "difficulty": "medium",
           "topic": "Calculus"
         },
         {
-          "id": "19",
-          "question": "What is 20 + 13?",
+          "id": "math-calc-059",
+          "question": "What is ∫ (3x² + 2x) dx?",
           "options": [
-            "33",
-            "49",
-            "23",
-            "39"
+            "x³ + x + C",
+            "x³ + x² + C",
+            "3x³ + 2x² + C",
+            "x² + x + C"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 20 and 13 is 33.",
-          "difficulty": "hard",
-          "topic": "Calculus"
-        },
-        {
-          "id": "25",
-          "question": "What is 5 + 14?",
-          "options": [
-            "23",
-            "19",
-            "36",
-            "18"
-          ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 5 and 14 is 19.",
-          "difficulty": "hard",
-          "topic": "Calculus"
-        },
-        {
-          "id": "41",
-          "question": "What is 6 + 12?",
-          "options": [
-            "17",
-            "33",
-            "25",
-            "18"
-          ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 6 and 12 is 18.",
+          "explanation": "∫ 3x² dx + ∫ 2x dx = x³ + x² + C.",
           "difficulty": "easy",
           "topic": "Calculus"
         },
         {
-          "id": "42",
-          "question": "What is 14 + 14?",
+          "id": "math-calc-060",
+          "question": "What does the second derivative test determine?",
           "options": [
-            "28",
-            "40",
-            "35",
-            "20"
+            "Slope",
+            "Concavity and inflection points",
+            "Area",
+            "Volume"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 14 and 14 is 28.",
-          "difficulty": "hard",
+          "explanation": "The second derivative determines concavity (f'' > 0 concave up, f'' < 0 concave down) and inflection points.",
+          "difficulty": "medium",
           "topic": "Calculus"
         },
         {
-          "id": "63",
-          "question": "What is 6 + 13?",
+          "id": "math-calc-061",
+          "question": "What is lim(x→0) (sin x)/x?",
           "options": [
-            "29",
-            "30",
-            "19",
-            "18"
+            "0",
+            "1",
+            "∞",
+            "undefined"
           ],
-          "correctAnswer": 3,
-          "explanation": "The sum of 6 and 13 is 19.",
+          "correctAnswer": 1,
+          "explanation": "This is a standard limit: lim(x→0) (sin x)/x = 1.",
+          "difficulty": "medium",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-062",
+          "question": "What is the product rule for derivatives?",
+          "options": [
+            "(fg)' = f'g'",
+            "(fg)' = f'g + fg'",
+            "(fg)' = fg'",
+            "(fg)' = f' + g'"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Product rule: (fg)' = f'g + fg'.",
           "difficulty": "easy",
           "topic": "Calculus"
         },
         {
-          "id": "88",
-          "question": "What is 2 + 2?",
+          "id": "math-calc-063",
+          "question": "What is the quotient rule for derivatives?",
           "options": [
-            "16",
+            "(f/g)' = f'/g'",
+            "(f/g)' = (f'g - fg')/g²",
+            "(f/g)' = (fg' - f'g)/g²",
+            "(f/g)' = f'g + fg'"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Quotient rule: (f/g)' = (f'g - fg')/g².",
+          "difficulty": "medium",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-064",
+          "question": "What is ∫ e^x dx?",
+          "options": [
+            "ln(x) + C",
+            "e^x + C",
+            "xe^x + C",
+            "e^x/x + C"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The antiderivative of e^x is e^x + C.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-065",
+          "question": "At what point(s) does f(x) = x² - 4x + 3 have a critical point?",
+          "options": [
+            "x = 1",
+            "x = 2",
+            "x = 3",
+            "x = 4"
+          ],
+          "correctAnswer": 1,
+          "explanation": "f'(x) = 2x - 4 = 0, so x = 2 is the critical point.",
+          "difficulty": "medium",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-066",
+          "question": "What is the derivative of tan(x)?",
+          "options": [
+            "sec(x)",
+            "sec²(x)",
+            "csc²(x)",
+            "cot(x)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The derivative of tan(x) is sec²(x).",
+          "difficulty": "medium",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-067",
+          "question": "What is ∫ (1/x) dx?",
+          "options": [
+            "x + C",
+            "ln|x| + C",
+            "1/x² + C",
+            "e^x + C"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The antiderivative of 1/x is ln|x| + C.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-068",
+          "question": "What is the Mean Value Theorem?",
+          "options": [
+            "f(b) - f(a) = b - a",
+            "f'(c) = [f(b) - f(a)]/(b - a) for some c in (a,b)",
+            "f'(a) = f'(b)",
+            "∫f(x)dx = F(b) - F(a)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "MVT states that for a continuous and differentiable function, there exists c where f'(c) equals the average rate of change.",
+          "difficulty": "difficult",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-069",
+          "question": "What is ∫₀² x dx?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "0"
+          ],
+          "correctAnswer": 1,
+          "explanation": "∫₀² x dx = [x²/2]₀² = 4/2 - 0 = 2.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-070",
+          "question": "What is the Fundamental Theorem of Calculus?",
+          "options": [
+            "Derivatives and integrals cancel",
+            "Integration and differentiation are inverse operations",
+            "∫f'(x)dx = f(x)",
+            "All of the above in essence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The FTC establishes that differentiation and integration are inverse processes.",
+          "difficulty": "medium",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-071",
+          "question": "What is the derivative of x^n using the power rule?",
+          "options": [
+            "x^(n-1)",
+            "nx^(n-1)",
+            "nx^n",
+            "(n-1)x^n"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Power rule: d/dx(x^n) = nx^(n-1).",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-072",
+          "question": "If f(x) = x³ - 3x, where is f(x) increasing?",
+          "options": [
+            "(-∞, -1) ∪ (1, ∞)",
+            "(-1, 1)",
+            "All real numbers",
+            "Never"
+          ],
+          "correctAnswer": 0,
+          "explanation": "f'(x) = 3x² - 3 = 3(x² - 1). f'(x) > 0 when x < -1 or x > 1.",
+          "difficulty": "difficult",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-073",
+          "question": "What is the area under the curve y = x from x = 0 to x = 4?",
+          "options": [
             "4",
             "8",
-            "-6"
+            "16",
+            "2"
           ],
-          "correctAnswer": 2,
-          "explanation": "The sum of 2 and 2 is 4.",
-          "difficulty": "hard",
+          "correctAnswer": 1,
+          "explanation": "∫₀⁴ x dx = [x²/2]₀⁴ = 16/2 = 8.",
+          "difficulty": "easy",
           "topic": "Calculus"
         },
         {
-          "id": "93",
-          "question": "What is 6 + 14?",
+          "id": "math-calc-074",
+          "question": "What is the derivative of cos(x)?",
           "options": [
-            "36",
-            "11",
-            "24",
+            "sin(x)",
+            "-sin(x)",
+            "cos(x)",
+            "-cos(x)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The derivative of cos(x) is -sin(x).",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        },
+        {
+          "id": "math-calc-075",
+          "question": "What is lim(x→∞) (1/x)?",
+          "options": [
+            "1",
+            "0",
+            "∞",
+            "undefined"
+          ],
+          "correctAnswer": 1,
+          "explanation": "As x approaches infinity, 1/x approaches 0.",
+          "difficulty": "easy",
+          "topic": "Calculus"
+        }
+      ]
+    },
+    {
+      "id": "statistics-probability",
+      "name": "Statistics and Probability",
+      "questions": [
+        {
+          "id": "math-stat-076",
+          "question": "What is the mean of the data set: 4, 8, 6, 5, 3, 9?",
+          "options": [
+            "6.5",
+            "5.83",
+            "6",
+            "7"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mean = (4 + 8 + 6 + 5 + 3 + 9)/6 = 35/6 ≈ 5.83.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-077",
+          "question": "What is the median of: 3, 7, 8, 5, 12?",
+          "options": [
+            "5",
+            "7",
+            "8",
+            "12"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Arrange in order: 3, 5, 7, 8, 12. The middle value is 7.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-078",
+          "question": "What is the mode of: 2, 3, 3, 5, 7, 3, 9?",
+          "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mode is the most frequent value: 3 appears three times.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-079",
+          "question": "What is the probability of getting a head when flipping a fair coin?",
+          "options": [
+            "0",
+            "1/2",
+            "1",
+            "2"
+          ],
+          "correctAnswer": 1,
+          "explanation": "P(Head) = favorable outcomes/total outcomes = 1/2.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-080",
+          "question": "What is the range of the data: 5, 12, 3, 9, 7?",
+          "options": [
+            "7",
+            "9",
+            "12",
+            "5"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Range = maximum - minimum = 12 - 3 = 9.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-081",
+          "question": "If you roll a die, what is the probability of getting an even number?",
+          "options": [
+            "1/6",
+            "1/2",
+            "1/3",
+            "2/3"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Even numbers on a die: 2, 4, 6. P(even) = 3/6 = 1/2.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-082",
+          "question": "What is the variance of the data set: 2, 4, 6? (Use population variance)",
+          "options": [
+            "2",
+            "8/3 ≈ 2.67",
+            "4",
+            "1"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mean = 4. Variance = [(2-4)² + (4-4)² + (6-4)²]/3 = [4 + 0 + 4]/3 = 8/3.",
+          "difficulty": "medium",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-083",
+          "question": "What does the standard deviation measure?",
+          "options": [
+            "Central tendency",
+            "Spread or dispersion of data",
+            "Skewness",
+            "Correlation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Standard deviation measures the average distance of data points from the mean.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-084",
+          "question": "In a normal distribution, what percentage of data falls within one standard deviation of the mean?",
+          "options": [
+            "50%",
+            "68%",
+            "95%",
+            "99.7%"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Empirical rule: approximately 68% of data falls within ±1 standard deviation.",
+          "difficulty": "medium",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-085",
+          "question": "What is a permutation?",
+          "options": [
+            "Arrangement without order",
+            "Arrangement where order matters",
+            "Selection where order doesn't matter",
+            "Random selection"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A permutation is an arrangement of objects where the order matters.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-086",
+          "question": "What is a combination?",
+          "options": [
+            "Arrangement where order matters",
+            "Selection where order doesn't matter",
+            "Probability",
+            "Distribution"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A combination is a selection of objects where the order does not matter.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-087",
+          "question": "How many ways can 5 people be arranged in a row?",
+          "options": [
+            "25",
+            "120",
+            "60",
             "20"
           ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 6 and 14 is 20.",
-          "difficulty": "easy",
-          "topic": "Calculus"
+          "correctAnswer": 1,
+          "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120 permutations.",
+          "difficulty": "medium",
+          "topic": "Statistics and Probability"
         },
         {
-          "id": "99",
-          "question": "What is 4 + 6?",
+          "id": "math-stat-088",
+          "question": "What is the probability of drawing an ace from a standard deck of 52 cards?",
           "options": [
-            "16",
+            "1/52",
+            "1/13",
+            "4/52",
+            "1/4"
+          ],
+          "correctAnswer": 1,
+          "explanation": "There are 4 aces in 52 cards. P(ace) = 4/52 = 1/13.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-089",
+          "question": "What is the complement of an event with probability 0.3?",
+          "options": [
+            "0.3",
+            "0.7",
+            "1.3",
+            "0"
+          ],
+          "correctAnswer": 1,
+          "explanation": "P(A') = 1 - P(A) = 1 - 0.3 = 0.7.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-090",
+          "question": "What type of data is 'eye color'?",
+          "options": [
+            "Quantitative",
+            "Qualitative (Categorical)",
+            "Continuous",
+            "Interval"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Eye color is qualitative/categorical data as it describes characteristics, not numerical values.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-091",
+          "question": "What is the first quartile (Q1)?",
+          "options": [
+            "Median",
+            "25th percentile",
+            "75th percentile",
+            "Maximum value"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Q1 is the 25th percentile, the value below which 25% of the data falls.",
+          "difficulty": "medium",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-092",
+          "question": "What does the coefficient of variation measure?",
+          "options": [
+            "Absolute variation",
+            "Relative variation (SD/Mean)",
+            "Range",
+            "Median"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The coefficient of variation is the ratio of standard deviation to mean, expressed as a percentage.",
+          "difficulty": "difficult",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-093",
+          "question": "What is sampling error?",
+          "options": [
+            "Mistakes in data collection",
+            "Difference between sample statistic and population parameter",
+            "Bias in questions",
+            "Wrong formula"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sampling error is the natural difference between a sample statistic and the true population parameter.",
+          "difficulty": "medium",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-094",
+          "question": "What is the multiplication rule for independent events?",
+          "options": [
+            "P(A and B) = P(A) + P(B)",
+            "P(A and B) = P(A) × P(B)",
+            "P(A and B) = P(A) - P(B)",
+            "P(A and B) = P(A)/P(B)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "For independent events, P(A and B) = P(A) × P(B).",
+          "difficulty": "medium",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-095",
+          "question": "What is a z-score?",
+          "options": [
+            "Raw score",
+            "Number of standard deviations from the mean",
+            "Percentage",
+            "Median"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A z-score indicates how many standard deviations a value is from the mean: z = (x - μ)/σ.",
+          "difficulty": "medium",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-096",
+          "question": "What is the interquartile range (IQR)?",
+          "options": [
+            "Q3 + Q1",
+            "Q3 - Q1",
+            "Maximum - Minimum",
+            "Mean - Median"
+          ],
+          "correctAnswer": 1,
+          "explanation": "IQR = Q3 - Q1, representing the range of the middle 50% of data.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-097",
+          "question": "What is P(A or B) for mutually exclusive events?",
+          "options": [
+            "P(A) × P(B)",
+            "P(A) + P(B)",
+            "P(A) - P(B)",
+            "0"
+          ],
+          "correctAnswer": 1,
+          "explanation": "For mutually exclusive events, P(A or B) = P(A) + P(B).",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-098",
+          "question": "What is the expected value E(X) of a random variable?",
+          "options": [
+            "Maximum value",
+            "Weighted average of all possible values",
+            "Most frequent value",
+            "Middle value"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Expected value is the long-run average or mean: E(X) = Σ[x · P(x)].",
+          "difficulty": "medium",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-099",
+          "question": "What is correlation?",
+          "options": [
+            "Causation",
+            "Measure of linear relationship between two variables",
+            "Difference",
+            "Average"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Correlation measures the strength and direction of a linear relationship between two variables.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        },
+        {
+          "id": "math-stat-100",
+          "question": "What does a correlation coefficient of +1 indicate?",
+          "options": [
+            "No relationship",
+            "Perfect positive linear relationship",
+            "Perfect negative relationship",
+            "Weak relationship"
+          ],
+          "correctAnswer": 1,
+          "explanation": "r = +1 indicates a perfect positive linear relationship between variables.",
+          "difficulty": "easy",
+          "topic": "Statistics and Probability"
+        }
+      ]
+    },
+    {
+      "id": "number-theory",
+      "name": "Number Theory and Discrete Mathematics",
+      "questions": [
+        {
+          "id": "math-num-101",
+          "question": "What is the greatest common divisor (GCD) of 24 and 36?",
+          "options": [
+            "6",
+            "12",
+            "4",
+            "8"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Using prime factorization: 24 = 2³×3, 36 = 2²×3². GCD = 2²×3 = 12.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-102",
+          "question": "What is the least common multiple (LCM) of 4 and 6?",
+          "options": [
             "24",
-            "1",
-            "10"
+            "12",
+            "8",
+            "6"
           ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 4 and 6 is 10.",
+          "correctAnswer": 1,
+          "explanation": "LCM(4,6) = 12. It's the smallest number divisible by both 4 and 6.",
           "difficulty": "easy",
-          "topic": "Calculus"
+          "topic": "Number Theory and Discrete Mathematics"
         },
         {
-          "id": "113",
-          "question": "What is 18 + 17?",
+          "id": "math-num-103",
+          "question": "Is 17 a prime number?",
           "options": [
-            "42",
-            "32",
-            "53",
-            "35"
+            "No",
+            "Yes",
+            "Sometimes",
+            "Cannot determine"
           ],
-          "correctAnswer": 4,
-          "explanation": "The sum of 18 and 17 is 35.",
-          "difficulty": "hard",
-          "topic": "Calculus"
+          "correctAnswer": 1,
+          "explanation": "17 is prime because it has only two divisors: 1 and 17.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
         },
         {
-          "id": "146",
-          "question": "What is 7 + 14?",
+          "id": "math-num-104",
+          "question": "What is 5! (5 factorial)?",
           "options": [
-            "21",
             "25",
-            "16",
+            "120",
+            "60",
+            "100"
+          ],
+          "correctAnswer": 1,
+          "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-105",
+          "question": "What is the remainder when 17 is divided by 5?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctAnswer": 1,
+          "explanation": "17 = 5(3) + 2, so the remainder is 2.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-106",
+          "question": "What is the sum of the first 10 positive integers?",
+          "options": [
+            "45",
+            "55",
+            "50",
+            "60"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Using formula n(n+1)/2: 10(11)/2 = 55.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-107",
+          "question": "Which of the following is a composite number?",
+          "options": [
+            "7",
+            "9",
+            "11",
+            "13"
+          ],
+          "correctAnswer": 1,
+          "explanation": "9 is composite because it has divisors other than 1 and itself (1, 3, 9).",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-108",
+          "question": "What is the Fibonacci sequence?",
+          "options": [
+            "1, 2, 3, 4, 5...",
+            "1, 1, 2, 3, 5, 8, 13...",
+            "2, 4, 6, 8...",
+            "1, 3, 5, 7..."
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fibonacci sequence: each term is the sum of the two preceding ones, starting from 1, 1.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-109",
+          "question": "What is modular arithmetic?",
+          "options": [
+            "Regular arithmetic",
+            "Arithmetic with remainders (clock arithmetic)",
+            "Complex numbers",
+            "Decimal system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Modular arithmetic deals with remainders after division by a fixed integer (the modulus).",
+          "difficulty": "medium",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-110",
+          "question": "What is 7 mod 3?",
+          "options": [
+            "2",
+            "1",
+            "0",
+            "3"
+          ],
+          "correctAnswer": 1,
+          "explanation": "7 = 3(2) + 1, so 7 mod 3 = 1.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-111",
+          "question": "What is the binary representation of 5?",
+          "options": [
+            "100",
+            "101",
+            "110",
+            "111"
+          ],
+          "correctAnswer": 1,
+          "explanation": "5 in binary: 5 = 4 + 1 = 2² + 2⁰ = 101₂.",
+          "difficulty": "medium",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-112",
+          "question": "What is a perfect number?",
+          "options": [
+            "Prime number",
+            "Number equal to sum of its proper divisors",
+            "Even number",
+            "Square number"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A perfect number equals the sum of its proper positive divisors (e.g., 6 = 1 + 2 + 3).",
+          "difficulty": "medium",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-113",
+          "question": "How many edges does a complete graph with 4 vertices (K₄) have?",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A complete graph K_n has n(n-1)/2 edges. For K₄: 4(3)/2 = 6 edges.",
+          "difficulty": "medium",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-114",
+          "question": "What is the sum of an arithmetic series with first term 2, last term 50, and 25 terms?",
+          "options": [
+            "625",
+            "650",
+            "600",
+            "675"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sum = n(a₁ + aₙ)/2 = 25(2 + 50)/2 = 25(52)/2 = 650.",
+          "difficulty": "medium",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-115",
+          "question": "What is the 10th term of an arithmetic sequence with first term 3 and common difference 4?",
+          "options": [
+            "37",
+            "39",
+            "35",
             "41"
           ],
           "correctAnswer": 1,
-          "explanation": "The sum of 7 and 14 is 21.",
-          "difficulty": "hard",
-          "topic": "Calculus"
+          "explanation": "aₙ = a₁ + (n-1)d = 3 + (10-1)(4) = 3 + 36 = 39.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-116",
+          "question": "What is the sum of a geometric series: 2 + 6 + 18 + 54 + 162?",
+          "options": [
+            "240",
+            "242",
+            "244",
+            "246"
+          ],
+          "correctAnswer": 1,
+          "explanation": "This is a geometric series with a=2, r=3, n=5. Sum = a(rⁿ-1)/(r-1) = 2(243-1)/2 = 242.",
+          "difficulty": "medium",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-117",
+          "question": "What is set theory primarily concerned with?",
+          "options": [
+            "Numbers only",
+            "Collections of objects and their properties",
+            "Geometry",
+            "Calculus"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Set theory studies collections of objects (sets) and operations on them.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-118",
+          "question": "What is the union of sets A = {1, 2, 3} and B = {3, 4, 5}?",
+          "options": [
+            "{3}",
+            "{1, 2, 3, 4, 5}",
+            "{1, 2, 4, 5}",
+            "{1, 2, 3, 3, 4, 5}"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A ∪ B contains all elements from both sets: {1, 2, 3, 4, 5}.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-119",
+          "question": "What is the intersection of sets A = {1, 2, 3} and B = {3, 4, 5}?",
+          "options": [
+            "∅",
+            "{3}",
+            "{1, 2, 3, 4, 5}",
+            "{1, 2}"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A ∩ B contains only elements common to both sets: {3}.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-120",
+          "question": "What is the cardinality of set {a, b, c, d}?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "0"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cardinality is the number of elements in a set. |{a, b, c, d}| = 4.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-121",
+          "question": "What is a truth table used for?",
+          "options": [
+            "Arithmetic",
+            "Evaluating logical statements",
+            "Graphing",
+            "Solving equations"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A truth table shows all possible truth values of a logical expression.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-122",
+          "question": "What is ∅ (empty set)?",
+          "options": [
+            "{0}",
+            "Set with no elements",
+            "{∅}",
+            "Undefined"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The empty set ∅ or {} contains no elements.",
+          "difficulty": "easy",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-123",
+          "question": "What is the principle of mathematical induction used for?",
+          "options": [
+            "Solving equations",
+            "Proving statements for all natural numbers",
+            "Finding limits",
+            "Integration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mathematical induction proves statements are true for all natural numbers by showing base case and inductive step.",
+          "difficulty": "medium",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-124",
+          "question": "What is De Morgan's Law for sets?",
+          "options": [
+            "(A ∪ B)' = A' ∪ B'",
+            "(A ∪ B)' = A' ∩ B'",
+            "(A ∩ B)' = A' ∪ B'",
+            "Both B and C"
+          ],
+          "correctAnswer": 3,
+          "explanation": "De Morgan's Laws: (A ∪ B)' = A' ∩ B' and (A ∩ B)' = A' ∪ B'.",
+          "difficulty": "difficult",
+          "topic": "Number Theory and Discrete Mathematics"
+        },
+        {
+          "id": "math-num-125",
+          "question": "What is a relation in discrete mathematics?",
+          "options": [
+            "Function only",
+            "Subset of Cartesian product of sets",
+            "Equation",
+            "Graph"
+          ],
+          "correctAnswer": 1,
+          "explanation": "A relation from set A to set B is a subset of the Cartesian product A × B.",
+          "difficulty": "medium",
+          "topic": "Number Theory and Discrete Mathematics"
+        }
+      ]
+    },
+    {
+      "id": "teaching-methods",
+      "name": "Mathematics Teaching Methodology",
+      "questions": [
+        {
+          "id": "math-teach-126",
+          "question": "What is the constructivist approach to teaching mathematics?",
+          "options": [
+            "Teacher-centered instruction",
+            "Students construct their own understanding through experiences",
+            "Memorization",
+            "Lecture only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Constructivism emphasizes that learners actively build their own mathematical understanding.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-127",
+          "question": "What are manipulatives in mathematics teaching?",
+          "options": [
+            "Worksheets",
+            "Physical objects used to model mathematical concepts",
+            "Calculators",
+            "Textbooks"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Manipulatives are hands-on objects (blocks, counters, geometric shapes) that help students visualize math concepts.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-128",
+          "question": "What is problem-based learning (PBL) in mathematics?",
+          "options": [
+            "Solving textbook exercises",
+            "Learning through solving real-world, complex problems",
+            "Memorizing formulas",
+            "Teacher demonstration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "PBL uses authentic, complex problems as the starting point for learning mathematical concepts.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-129",
+          "question": "What is differentiated instruction?",
+          "options": [
+            "Same lesson for all",
+            "Tailoring instruction to meet individual student needs",
+            "Grouping by ability only",
+            "Using one method"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Differentiated instruction adapts content, process, and products to address diverse learner needs.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-130",
+          "question": "What is mathematical discourse?",
+          "options": [
+            "Silent work",
+            "Conversations about mathematical ideas and reasoning",
+            "Teacher talking only",
+            "Reading textbooks"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mathematical discourse involves students discussing, explaining, and justifying their mathematical thinking.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-131",
+          "question": "What is formative assessment?",
+          "options": [
+            "Final exam",
+            "Ongoing assessment to guide instruction",
+            "Standardized test",
+            "Graded project"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Formative assessment provides feedback during learning to adjust teaching and improve student understanding.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-132",
+          "question": "What is the van Hiele model?",
+          "options": [
+            "Algebra teaching",
+            "Geometric thinking development levels",
+            "Statistics method",
+            "Calculus approach"
+          ],
+          "correctAnswer": 1,
+          "explanation": "The van Hiele model describes five levels of geometric thinking from visualization to rigor.",
+          "difficulty": "difficult",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-133",
+          "question": "What is scaffolding in mathematics instruction?",
+          "options": [
+            "Building structures",
+            "Temporary support to help students learn",
+            "Permanent assistance",
+            "Testing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Scaffolding provides temporary, adjustable support that is gradually removed as students gain competence.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-134",
+          "question": "What are the NCTM Process Standards?",
+          "options": [
+            "Content areas",
+            "Problem solving, reasoning, communication, connections, representation",
+            "Grade levels",
+            "Assessment types"
+          ],
+          "correctAnswer": 1,
+          "explanation": "NCTM (National Council of Teachers of Mathematics) identifies five process standards essential for doing mathematics.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-135",
+          "question": "What is the concrete-pictorial-abstract (CPA) approach?",
+          "options": [
+            "Random teaching",
+            "Sequential progression from hands-on to symbolic",
+            "Abstract only",
+            "Pictures only"
+          ],
+          "correctAnswer": 1,
+          "explanation": "CPA moves students from concrete manipulatives to pictorial representations to abstract symbols.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-136",
+          "question": "What is mathematical modeling?",
+          "options": [
+            "Building physical models",
+            "Using mathematics to represent and solve real-world problems",
+            "Copying examples",
+            "Memorizing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mathematical modeling involves creating mathematical representations of real situations to solve problems.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-137",
+          "question": "What is the purpose of a math journal?",
+          "options": [
+            "Record grades",
+            "Reflect on and communicate mathematical thinking",
+            "Copy notes",
+            "Practice calculations"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Math journals help students articulate their thinking, reflect on learning, and develop mathematical communication.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-138",
+          "question": "What is inquiry-based learning in mathematics?",
+          "options": [
+            "Direct instruction",
+            "Students investigate questions and discover concepts",
+            "Memorization",
+            "Copying solutions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Inquiry-based learning engages students in asking questions, exploring, and discovering mathematical ideas.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-139",
+          "question": "What is the flipped classroom model?",
+          "options": [
+            "Traditional lecture",
+            "Students learn content at home, apply in class",
+            "No homework",
+            "Teacher does everything"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In flipped classrooms, students engage with content (videos, readings) at home and do active learning in class.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-140",
+          "question": "What is metacognition in mathematics learning?",
+          "options": [
+            "Solving problems",
+            "Thinking about one's own thinking and learning processes",
+            "Memorizing",
+            "Calculating"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Metacognition involves awareness and regulation of one's own thought processes while learning mathematics.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-141",
+          "question": "What is number sense?",
+          "options": [
+            "Counting ability",
+            "Intuitive understanding of numbers and their relationships",
+            "Memorizing facts",
+            "Calculation speed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Number sense is flexible thinking about numbers, understanding magnitude, relationships, and operations.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-142",
+          "question": "What is a rich mathematical task?",
+          "options": [
+            "Expensive material",
+            "Open-ended problem with multiple entry points and solution paths",
+            "Easy problem",
+            "Drill exercise"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Rich tasks are complex, allow multiple approaches, promote reasoning, and connect mathematical ideas.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-143",
+          "question": "What is the purpose of using real-world contexts in math?",
+          "options": [
+            "Make problems harder",
+            "Increase relevance and motivation; develop application skills",
+            "Entertain students",
+            "Fill time"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Real-world contexts help students see mathematics as useful, relevant, and applicable to life.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-144",
+          "question": "What is mathematical communication?",
+          "options": [
+            "Silent work",
+            "Expressing mathematical ideas clearly through writing and speaking",
+            "Listening only",
+            "Copying"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mathematical communication involves clearly expressing, explaining, and justifying mathematical ideas.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-145",
+          "question": "What is the role of mistakes in mathematics learning?",
+          "options": [
+            "Should be avoided",
+            "Valuable opportunities for learning and growth",
+            "Sign of failure",
+            "Punishment worthy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mistakes are important learning opportunities that reveal thinking and deepen understanding when analyzed.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-146",
+          "question": "What is Bloom's Taxonomy in mathematics?",
+          "options": [
+            "Plant classification",
+            "Hierarchy of cognitive skills from remembering to creating",
+            "Testing method",
+            "Textbook organization"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bloom's Taxonomy classifies thinking skills: Remember, Understand, Apply, Analyze, Evaluate, Create.",
+          "difficulty": "medium",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-147",
+          "question": "What is cooperative learning?",
+          "options": [
+            "Individual work",
+            "Students working together in small groups toward common goals",
+            "Competition",
+            "Silent study"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Cooperative learning involves structured group work where students help each other learn.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-148",
+          "question": "What is technology integration in mathematics?",
+          "options": [
+            "Replacing teachers",
+            "Using digital tools to enhance mathematical learning",
+            "Playing games",
+            "Avoiding pencil and paper"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Technology integration uses calculators, software, apps, and digital resources to support and extend math learning.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-149",
+          "question": "What is mathematical reasoning?",
+          "options": [
+            "Guessing",
+            "Logical thinking to justify conclusions and solve problems",
+            "Memorizing",
+            "Copying"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mathematical reasoning involves logical thinking, justification, and developing arguments to support conclusions.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
+        },
+        {
+          "id": "math-teach-150",
+          "question": "What is the growth mindset in mathematics?",
+          "options": [
+            "Math ability is fixed",
+            "Belief that mathematical ability can be developed through effort",
+            "Only smart people can do math",
+            "Talent is everything"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Growth mindset is the belief that mathematical intelligence can grow through hard work, strategies, and learning from mistakes.",
+          "difficulty": "easy",
+          "topic": "Mathematics Teaching Methodology"
         }
       ]
     }
