@@ -282,7 +282,7 @@
             "My brother John is a doctor.",
             "We visited Paris, France in 2020."
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Introductory phrases require a comma. 'After eating' is an introductory participial phrase.",
           "difficulty": "medium",
           "topic": "Language Structure and Grammar"
