@@ -770,7 +770,7 @@
             "Debt of gratitude",
             "Getting along"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Delicadeza refers to sensitivity to what is proper, decent, and morally upright.",
           "difficulty": "medium",
           "topic": "Filipino Values and Culture"
@@ -798,7 +798,7 @@
             "Love for family",
             "Romantic love"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Amor propio is the Filipino sense of self-esteem and personal dignity.",
           "difficulty": "medium",
           "topic": "Filipino Values and Culture"
@@ -826,7 +826,7 @@
             "Self-reliance",
             "Authority"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Pakikipagkapwa-tao is the core Filipino value of treating others with dignity as fellow humans.",
           "difficulty": "medium",
           "topic": "Filipino Values and Culture"
@@ -840,7 +840,7 @@
             "Patience",
             "Determination"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Ningas-kugon refers to the tendency to start projects enthusiastically but fail to sustain effort.",
           "difficulty": "easy",
           "topic": "Filipino Values and Culture"
@@ -882,7 +882,7 @@
             "Personal goals",
             "Competition"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Pakikisama emphasizes group harmony, camaraderie, and going along with others.",
           "difficulty": "easy",
           "topic": "Filipino Values and Culture"
@@ -896,7 +896,7 @@
             "Stubbornness",
             "Aggressiveness"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Lakas ng loob refers to courage, fortitude, and inner strength to face challenges.",
           "difficulty": "easy",
           "topic": "Filipino Values and Culture"
