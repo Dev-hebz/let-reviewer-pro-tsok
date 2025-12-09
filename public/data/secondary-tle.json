@@ -86,7 +86,7 @@
             "Seam ripper",
             "Thimble"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Pinking shears cut fabric edges and prevent fraying.",
           "difficulty": "medium",
           "topic": "Home Economics"
@@ -100,7 +100,7 @@
             "Slip stitch",
             "Overcast stitch"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Running stitch is used for temporary basting.",
           "difficulty": "easy",
           "topic": "Home Economics"
@@ -114,7 +114,7 @@
             "Grill",
             "Microwave"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "An oven provides controlled heat suitable for baking.",
           "difficulty": "easy",
           "topic": "Home Economics"
@@ -162,7 +162,7 @@
             "Control Power Unit",
             "Central Performance Utility"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "CPU is the brain of the computer.",
           "difficulty": "easy",
           "topic": "ICT"
@@ -190,7 +190,7 @@
             ".docx",
             ".mp3"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": ".jpg is a standard image format.",
           "difficulty": "easy",
           "topic": "ICT"
@@ -218,7 +218,7 @@
             "Scanner",
             "USB Hub"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Routers manage and distribute network traffic.",
           "difficulty": "easy",
           "topic": "ICT"
@@ -232,7 +232,7 @@
             "Firmware",
             "Shareware"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Malware refers to malicious software.",
           "difficulty": "medium",
           "topic": "ICT"
@@ -260,7 +260,7 @@
             "MS Paint",
             "MS PowerPoint"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "MS Word is used for writing documents.",
           "difficulty": "easy",
           "topic": "ICT"
@@ -308,7 +308,7 @@
             "Chisel",
             "Wrench"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "A hammer is used for pounding nails.",
           "difficulty": "easy",
           "topic": "Industrial Arts"
@@ -392,7 +392,7 @@
             "Painting",
             "Sanding"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Finishing includes painting, coating, and varnishing.",
           "difficulty": "easy",
           "topic": "Industrial Arts"
@@ -420,7 +420,7 @@
             "Rubber",
             "Ceramic"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Copper is an excellent conductor of electricity.",
           "difficulty": "easy",
           "topic": "Industrial Arts"
@@ -468,7 +468,7 @@
             "Strong wind",
             "Dry soil"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Seeds need moisture, air, and suitable temperature to sprout.",
           "difficulty": "medium",
           "topic": "Agri-Fishery Arts"
@@ -538,7 +538,7 @@
             "Spade",
             "Bolo"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "A hoe is commonly used to loosen soil and remove weeds.",
           "difficulty": "easy",
           "topic": "Agri-Fishery Arts"
@@ -580,7 +580,7 @@
             "Irrigating",
             "Pruning"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Drying removes moisture, preventing spoilage.",
           "difficulty": "easy",
           "topic": "Agri-Fishery Arts"
@@ -614,7 +614,7 @@
             "Liability",
             "Profit"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Capital is the initial investment.",
           "difficulty": "easy",
           "topic": "Entrepreneurship"
@@ -628,7 +628,7 @@
             "Competitor",
             "Manufacturer"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Market refers to the group of buyers.",
           "difficulty": "easy",
           "topic": "Entrepreneurship"
@@ -698,7 +698,7 @@
             "Capital",
             "Expense"
           ],
-          "correctAnswer": 0,
+          "correctAnswer": 1,
           "explanation": "Products are goods a business offers.",
           "difficulty": "easy",
           "topic": "Entrepreneurship"
@@ -771,7 +771,7 @@
     "id": "sec-tle-055",
     "question": "Which food preservation method removes moisture to prevent spoilage?",
     "options": ["Drying", "Freezing", "Smoking", "Pickling"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Drying is the process of removing moisture from food.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -843,7 +843,7 @@
     "id": "sec-tle-063",
     "question": "What do you call a plan for meal preparation?",
     "options": ["Menu", "Recipe", "Blueprint", "Inventory"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A menu lists food items planned for serving.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -861,7 +861,7 @@
     "id": "sec-tle-065",
     "question": "Which household circuit is commonly used for lighting?",
     "options": ["Parallel circuit", "Series circuit", "Direct circuit", "Cross circuit"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Parallel circuits allow lights to function independently.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -942,7 +942,7 @@
     "id": "sec-tle-074",
     "question": "What is the main purpose of marinating meat?",
     "options": ["To soften and add flavor", "To remove fat", "To cook it faster", "To preserve it"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Marination tenderizes meat and adds flavor.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -951,7 +951,7 @@
     "id": "sec-tle-075",
     "question": "Which type of wiring connection joins two wires together?",
     "options": ["Splice joint", "Looping", "T-connection", "Series joint"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Splice joints are used to connect two wires.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -960,7 +960,7 @@
     "id": "sec-tle-076",
     "question": "Which cutting tool is used mainly in woodwork?",
     "options": ["Hand saw", "Pipe cutter", "Metal snip", "Chisel blade"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Hand saws are used for cutting wood.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -969,7 +969,7 @@
     "id": "sec-tle-077",
     "question": "Which kitchen tool is best for mixing batter?",
     "options": ["Whisk", "Knife", "Skillet", "Tong"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A whisk is ideal for mixing batter.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1060,7 +1060,7 @@
     "id": "sec-tle-087",
     "question": "What is used to smooth metal surfaces?",
     "options": ["File", "Plane", "Rasp", "Sandpaper"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A file is used to smooth or shape metal.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1123,7 +1123,7 @@
     "id": "sec-tle-094",
     "question": "Which sewing technique finishes raw fabric edges?",
     "options": ["Hemming", "Basting", "Gathering", "Darting"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Hemming prevents fraying and creates a clean edge.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1141,7 +1141,7 @@
     "id": "sec-tle-096",
     "question": "Which cleaning agent is used to remove grease?",
     "options": ["Detergent", "Bleach", "Alcohol", "Vinegar"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Detergent breaks down grease effectively.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1159,7 +1159,7 @@
     "id": "sec-tle-098",
     "question": "Which tool is used for shaping soft metals like copper?",
     "options": ["Ball peen hammer", "Claw hammer", "Mallet", "Sledgehammer"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Ball peen hammers are designed for metalworking.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1222,7 +1222,7 @@
     "id": "sec-tle-105",
     "question": "A refrigerant leak in a refrigerator results in:",
     "options": ["Overheating of compressor", "Rapid cooling", "Stronger airflow", "Lower electricity consumption"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Refrigerant leaks cause the compressor to overwork and overheat.",
     "difficulty": "medium",
     "topic": "Topic 1"
@@ -1241,7 +1241,7 @@
     "id": "sec-tle-107",
     "question": "The process of keeping workplace free from dirt is called:",
     "options": ["Sanitation", "Disinfection", "Sterilization", "Oxidation"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Sanitation maintains cleanliness in the workplace.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1268,7 +1268,7 @@
     "id": "sec-tle-110",
     "question": "Which drawing instrument is used to draw circles?",
     "options": ["Compass", "T-square", "Protractor", "Triangle"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A compass is used for drawing arcs and circles.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1304,7 +1304,7 @@
     "id": "sec-tle-114",
     "question": "Which material is commonly used for insulating electrical wires?",
     "options": ["Plastic", "Copper", "Steel", "Iron"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Plastic prevents conduction of electricity.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1449,7 +1449,7 @@
     "id": "sec-tle-130",
     "question": "Which business document records sales?",
     "options": ["Invoice", "Resume", "Blueprint", "Memo"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Invoices record sales transactions.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1458,7 +1458,7 @@
     "id": "sec-tle-131",
     "question": "A caliper is used for:",
     "options": ["Measuring thickness", "Cutting wood", "Mixing ingredients", "Drawing circles"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Calipers measure thickness or diameter accurately.",
     "difficulty": "medium",
     "topic": "Topic 1"
@@ -1566,7 +1566,7 @@
     "id": "sec-tle-143",
     "question": "Which sewing task involves pressing fabric edges?",
     "options": ["Hemming", "Gathering", "Topstitching", "Pleating"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Hemming folds and presses fabric edges.",
     "difficulty": "easy",
     "topic": "Topic 1"
@@ -1620,7 +1620,7 @@
     "id": "sec-tle-149",
     "question": "Which electrical symbol represents a lamp?",
     "options": ["Circle with X", "Zigzag line", "Triangle", "Square"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A circle with an X is the standard symbol for a lamp.",
     "difficulty": "medium",
     "topic": "Topic 1"
